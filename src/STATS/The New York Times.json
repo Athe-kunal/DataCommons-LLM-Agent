@@ -1,0 +1,62 @@
+[
+    {
+        "node_name": "Cumulative Count of COVID-19 Cases",
+        "node_dcid": "CumulativeCount_MedicalConditionIncident_COVID_19_ConfirmedOrProbableCase",
+        "node_link": "https://datacommons.org/browser/CumulativeCount_MedicalConditionIncident_COVID_19_ConfirmedOrProbableCase"
+    },
+    {
+        "node_name": "Cumulative Count of COVID-19 Deaths",
+        "node_dcid": "CumulativeCount_MedicalConditionIncident_COVID_19_PatientDeceased",
+        "node_link": "https://datacommons.org/browser/CumulativeCount_MedicalConditionIncident_COVID_19_PatientDeceased"
+    },
+    {
+        "node_name": "Incremental Count of Medical Condition Incident: COVID-19, Confirmed or Probable Case",
+        "node_dcid": "IncrementalCount_MedicalConditionIncident_COVID_19_ConfirmedOrProbableCase",
+        "node_link": "https://datacommons.org/browser/IncrementalCount_MedicalConditionIncident_COVID_19_ConfirmedOrProbableCase"
+    },
+    {
+        "node_name": "Incremental Count of Medical Condition Incident: COVID-19, Patient Deceased",
+        "node_dcid": "IncrementalCount_MedicalConditionIncident_COVID_19_PatientDeceased",
+        "node_link": "https://datacommons.org/browser/IncrementalCount_MedicalConditionIncident_COVID_19_PatientDeceased"
+    },
+    {
+        "node_name": "Cumulative Count of COVID-19 Cases",
+        "node_dcid": "CumulativeCount_MedicalConditionIncident_COVID_19_ConfirmedOrProbableCase",
+        "node_link": "https://datacommons.org/browser/CumulativeCount_MedicalConditionIncident_COVID_19_ConfirmedOrProbableCase"
+    },
+    {
+        "node_name": "Incremental Count of Medical Condition Incident: COVID-19, Confirmed or Probable Case",
+        "node_dcid": "IncrementalCount_MedicalConditionIncident_COVID_19_ConfirmedOrProbableCase",
+        "node_link": "https://datacommons.org/browser/IncrementalCount_MedicalConditionIncident_COVID_19_ConfirmedOrProbableCase"
+    },
+    {
+        "node_name": "Cumulative Count of COVID-19 Deaths",
+        "node_dcid": "CumulativeCount_MedicalConditionIncident_COVID_19_PatientDeceased",
+        "node_link": "https://datacommons.org/browser/CumulativeCount_MedicalConditionIncident_COVID_19_PatientDeceased"
+    },
+    {
+        "node_name": "Incremental Count of Medical Condition Incident: COVID-19, Patient Deceased",
+        "node_dcid": "IncrementalCount_MedicalConditionIncident_COVID_19_PatientDeceased",
+        "node_link": "https://datacommons.org/browser/IncrementalCount_MedicalConditionIncident_COVID_19_PatientDeceased"
+    },
+    {
+        "node_name": "Cumulative Count of COVID-19 Cases",
+        "node_dcid": "CumulativeCount_MedicalConditionIncident_COVID_19_ConfirmedOrProbableCase",
+        "node_link": "https://datacommons.org/browser/CumulativeCount_MedicalConditionIncident_COVID_19_ConfirmedOrProbableCase"
+    },
+    {
+        "node_name": "Incremental Count of Medical Condition Incident: COVID-19, Confirmed or Probable Case",
+        "node_dcid": "IncrementalCount_MedicalConditionIncident_COVID_19_ConfirmedOrProbableCase",
+        "node_link": "https://datacommons.org/browser/IncrementalCount_MedicalConditionIncident_COVID_19_ConfirmedOrProbableCase"
+    },
+    {
+        "node_name": "Cumulative Count of COVID-19 Deaths",
+        "node_dcid": "CumulativeCount_MedicalConditionIncident_COVID_19_PatientDeceased",
+        "node_link": "https://datacommons.org/browser/CumulativeCount_MedicalConditionIncident_COVID_19_PatientDeceased"
+    },
+    {
+        "node_name": "Incremental Count of Medical Condition Incident: COVID-19, Patient Deceased",
+        "node_dcid": "IncrementalCount_MedicalConditionIncident_COVID_19_PatientDeceased",
+        "node_link": "https://datacommons.org/browser/IncrementalCount_MedicalConditionIncident_COVID_19_PatientDeceased"
+    }
+]

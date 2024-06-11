@@ -1,0 +1,452 @@
+[
+    {
+        "node_name": "\u2026 extractive families",
+        "node_dcid": "Amount_Food_ExtractiveFamily",
+        "node_link": "https://datacommons.org/browser/Amount_Food_ExtractiveFamily"
+    },
+    {
+        "node_name": "\u2026 families collecting recyclable material",
+        "node_dcid": "Amount_Food_RecyclableMaterialCollectorsFamily",
+        "node_link": "https://datacommons.org/browser/Amount_Food_RecyclableMaterialCollectorsFamily"
+    },
+    {
+        "node_name": "\u2026 families in emergency care",
+        "node_dcid": "Amount_Food_InEmergencyCare",
+        "node_link": "https://datacommons.org/browser/Amount_Food_InEmergencyCare"
+    },
+    {
+        "node_name": "\u2026 fishing families",
+        "node_dcid": "Amount_Food_FishingFamily",
+        "node_link": "https://datacommons.org/browser/Amount_Food_FishingFamily"
+    },
+    {
+        "node_name": "\u2026 gypsy families",
+        "node_dcid": "Amount_Food_GypsyFamily",
+        "node_link": "https://datacommons.org/browser/Amount_Food_GypsyFamily"
+    },
+    {
+        "node_name": "\u2026 indigenous families",
+        "node_dcid": "Amount_Food_IndigenousFamily",
+        "node_link": "https://datacommons.org/browser/Amount_Food_IndigenousFamily"
+    },
+    {
+        "node_name": "\u2026 quilombola families",
+        "node_dcid": "Amount_Food_QuilombolaFamily",
+        "node_link": "https://datacommons.org/browser/Amount_Food_QuilombolaFamily"
+    },
+    {
+        "node_name": "\u2026 settled/camped families",
+        "node_dcid": "Amount_Food_SettledInCamps",
+        "node_link": "https://datacommons.org/browser/Amount_Food_SettledInCamps"
+    },
+    {
+        "node_name": "\u2026 Agro Fraterno/ Organization of Cooperatives of Brazil",
+        "node_dcid": "CumulativeCount_FoodBasket_OrganizationOfCooperativesOfBrazil",
+        "node_link": "https://datacommons.org/browser/CumulativeCount_FoodBasket_OrganizationOfCooperativesOfBrazil"
+    },
+    {
+        "node_name": "\u2026 Agro Fraterno/National Confederation of Agriculture/SENAR",
+        "node_dcid": "CumulativeCount_FoodBasket_NationalConfederationOfAgricultureSENAR",
+        "node_link": "https://datacommons.org/browser/CumulativeCount_FoodBasket_NationalConfederationOfAgricultureSENAR"
+    },
+    {
+        "node_name": "\u2026 Banco do Brasil Foundation",
+        "node_dcid": "CumulativeCount_FoodBasket_BancoDoBrasilFoundation",
+        "node_link": "https://datacommons.org/browser/CumulativeCount_FoodBasket_BancoDoBrasilFoundation"
+    },
+    {
+        "node_name": "\u2026 Corteva Agriscience",
+        "node_dcid": "CumulativeCount_FoodBasket_CortevaAgriscience",
+        "node_link": "https://datacommons.org/browser/CumulativeCount_FoodBasket_CortevaAgriscience"
+    },
+    {
+        "node_name": "\u2026 Divine Caldo Brazil",
+        "node_dcid": "CumulativeCount_FoodBasket_DivineCaldoBrazil",
+        "node_link": "https://datacommons.org/browser/CumulativeCount_FoodBasket_DivineCaldoBrazil"
+    },
+    {
+        "node_name": "\u2026 National Association of Garlic Producers/ National Association of Onion Producers",
+        "node_dcid": "CumulativeCount_FoodBasket_NationalAssociationOfGarlicOrOnionProducers",
+        "node_link": "https://datacommons.org/browser/CumulativeCount_FoodBasket_NationalAssociationOfGarlicOrOnionProducers"
+    },
+    {
+        "node_name": "\u2026 National Confederation of Commerce/SESC/Regional Commerce Federations",
+        "node_dcid": "CumulativeCount_FoodBasket_NationalConfederationOfCommerceSESC",
+        "node_link": "https://datacommons.org/browser/CumulativeCount_FoodBasket_NationalConfederationOfCommerceSESC"
+    },
+    {
+        "node_name": "\u2026 National Confederation of Industry/SESI/Regional Industry Federations",
+        "node_dcid": "CumulativeCount_FoodBasket_NationalConfederationOfIndustrySESI",
+        "node_link": "https://datacommons.org/browser/CumulativeCount_FoodBasket_NationalConfederationOfIndustrySESI"
+    },
+    {
+        "node_name": "\u2026 Nutrelli Alimentos e Congelattos",
+        "node_dcid": "CumulativeCount_FoodBasket_NutrelliAlimentosECongelattos",
+        "node_link": "https://datacommons.org/browser/CumulativeCount_FoodBasket_NutrelliAlimentosECongelattos"
+    },
+    {
+        "node_name": "\u2026 S\u00e3o Paulo Warehouse and Warehouse Company -CEAGESP",
+        "node_dcid": "CumulativeCount_FoodBasket_SaoPauloWarehouseAndWarehouseCompanyCEAGESP",
+        "node_link": "https://datacommons.org/browser/CumulativeCount_FoodBasket_SaoPauloWarehouseAndWarehouseCompanyCEAGESP"
+    },
+    {
+        "node_name": "Number of food baskets delivered to extractive families",
+        "node_dcid": "Count_FoodBasket_DeliveredFoodBasket_ExtractiveFamily",
+        "node_link": "https://datacommons.org/browser/Count_FoodBasket_DeliveredFoodBasket_ExtractiveFamily"
+    },
+    {
+        "node_name": "Percentage of Basic Food Baskets delivered to extractive families",
+        "node_dcid": "Count_FoodBasket_DeliveredFoodBasket_ExtractiveFamily_AsAFractionOf_Count_FoodBasket_DestinedFoodBasket_ExtractiveFamily",
+        "node_link": "https://datacommons.org/browser/Count_FoodBasket_DeliveredFoodBasket_ExtractiveFamily_AsAFractionOf_Count_FoodBasket_DestinedFoodBasket_ExtractiveFamily"
+    },
+    {
+        "node_name": "Number of food baskets delivered to fishing families",
+        "node_dcid": "Count_FoodBasket_DeliveredFoodBasket_FishingFamily",
+        "node_link": "https://datacommons.org/browser/Count_FoodBasket_DeliveredFoodBasket_FishingFamily"
+    },
+    {
+        "node_name": "Percentage of Basic Food Baskets delivered to fishing families",
+        "node_dcid": "Count_FoodBasket_DeliveredFoodBasket_FishingFamily_AsAFractionOf_Count_FoodBasket_DestinedFoodBasket_FishingFamily",
+        "node_link": "https://datacommons.org/browser/Count_FoodBasket_DeliveredFoodBasket_FishingFamily_AsAFractionOf_Count_FoodBasket_DestinedFoodBasket_FishingFamily"
+    },
+    {
+        "node_name": "Number of food baskets delivered to gypsy families",
+        "node_dcid": "Count_FoodBasket_DeliveredFoodBasket_GypsyFamily",
+        "node_link": "https://datacommons.org/browser/Count_FoodBasket_DeliveredFoodBasket_GypsyFamily"
+    },
+    {
+        "node_name": "Percentage of Basic Food Baskets delivered to gypsy families",
+        "node_dcid": "Count_FoodBasket_DeliveredFoodBasket_GypsyFamily_AsAFractionOf_Count_FoodBasket_DestinedFoodBasket_GypsyFamily",
+        "node_link": "https://datacommons.org/browser/Count_FoodBasket_DeliveredFoodBasket_GypsyFamily_AsAFractionOf_Count_FoodBasket_DestinedFoodBasket_GypsyFamily"
+    },
+    {
+        "node_name": "Number of food baskets delivered to families in emergency care",
+        "node_dcid": "Count_FoodBasket_DeliveredFoodBasket_InEmergencyCare",
+        "node_link": "https://datacommons.org/browser/Count_FoodBasket_DeliveredFoodBasket_InEmergencyCare"
+    },
+    {
+        "node_name": "Percentage of Basic Food Baskets delivered to Families in emergency care",
+        "node_dcid": "Count_FoodBasket_DeliveredFoodBasket_InEmergencyCare_AsAFractionOf_Count_FoodBasket_DestinedFoodBasket_InEmergencyCare",
+        "node_link": "https://datacommons.org/browser/Count_FoodBasket_DeliveredFoodBasket_InEmergencyCare_AsAFractionOf_Count_FoodBasket_DestinedFoodBasket_InEmergencyCare"
+    },
+    {
+        "node_name": "Number of food baskets delivered to indigenous families",
+        "node_dcid": "Count_FoodBasket_DeliveredFoodBasket_IndigenousFamily",
+        "node_link": "https://datacommons.org/browser/Count_FoodBasket_DeliveredFoodBasket_IndigenousFamily"
+    },
+    {
+        "node_name": "Percentage of Basic Food Baskets delivered to Indigenous Families",
+        "node_dcid": "Count_FoodBasket_DeliveredFoodBasket_IndigenousFamily_AsAFractionOf_Count_FoodBasket_DestinedFoodBasket_IndigenousFamily",
+        "node_link": "https://datacommons.org/browser/Count_FoodBasket_DeliveredFoodBasket_IndigenousFamily_AsAFractionOf_Count_FoodBasket_DestinedFoodBasket_IndigenousFamily"
+    },
+    {
+        "node_name": "Number of food baskets delivered to quilombola families",
+        "node_dcid": "Count_FoodBasket_DeliveredFoodBasket_QuilombolaFamily",
+        "node_link": "https://datacommons.org/browser/Count_FoodBasket_DeliveredFoodBasket_QuilombolaFamily"
+    },
+    {
+        "node_name": "Percentage of Basic Food Baskets delivered to quilombola families",
+        "node_dcid": "Count_FoodBasket_DeliveredFoodBasket_QuilombolaFamily_AsAFractionOf_Count_FoodBasket_DestinedFoodBasket_QuilombolaFamily",
+        "node_link": "https://datacommons.org/browser/Count_FoodBasket_DeliveredFoodBasket_QuilombolaFamily_AsAFractionOf_Count_FoodBasket_DestinedFoodBasket_QuilombolaFamily"
+    },
+    {
+        "node_name": "Number of food baskets delivered to families collecting recyclable material",
+        "node_dcid": "Count_FoodBasket_DeliveredFoodBasket_RecyclableMaterialCollectorsFamily",
+        "node_link": "https://datacommons.org/browser/Count_FoodBasket_DeliveredFoodBasket_RecyclableMaterialCollectorsFamily"
+    },
+    {
+        "node_name": "Percentage of Basic Food Baskets delivered to families who collect recyclable material",
+        "node_dcid": "Count_FoodBasket_DeliveredFoodBasket_RecyclableMaterialCollectorsFamily_AsAFractionOf_Count_FoodBasket_DestinedFoodBasket_RecyclableMaterialCollectorsFamily",
+        "node_link": "https://datacommons.org/browser/Count_FoodBasket_DeliveredFoodBasket_RecyclableMaterialCollectorsFamily_AsAFractionOf_Count_FoodBasket_DestinedFoodBasket_RecyclableMaterialCollectorsFamily"
+    },
+    {
+        "node_name": "Number of food baskets delivered to settled/camped families",
+        "node_dcid": "Count_FoodBasket_DeliveredFoodBasket_SettledInCamps",
+        "node_link": "https://datacommons.org/browser/Count_FoodBasket_DeliveredFoodBasket_SettledInCamps"
+    },
+    {
+        "node_name": "Percentage of Basic Food Baskets delivered to settled/camped families",
+        "node_dcid": "Count_FoodBasket_DeliveredFoodBasket_SettledInCamps_AsAFractionOf_Count_FoodBasket_DestinedFoodBasket_SettledInCamps",
+        "node_link": "https://datacommons.org/browser/Count_FoodBasket_DeliveredFoodBasket_SettledInCamps_AsAFractionOf_Count_FoodBasket_DestinedFoodBasket_SettledInCamps"
+    },
+    {
+        "node_name": "\u2026 destined for extractive families",
+        "node_dcid": "Count_FoodBasket_DestinedFoodBasket_ExtractiveFamily",
+        "node_link": "https://datacommons.org/browser/Count_FoodBasket_DestinedFoodBasket_ExtractiveFamily"
+    },
+    {
+        "node_name": "\u2026 destined for families of recyclable material collectors",
+        "node_dcid": "Count_FoodBasket_DestinedFoodBasket_RecyclableMaterialCollectorsFamily",
+        "node_link": "https://datacommons.org/browser/Count_FoodBasket_DestinedFoodBasket_RecyclableMaterialCollectorsFamily"
+    },
+    {
+        "node_name": "\u2026 destined for fishing families",
+        "node_dcid": "Count_FoodBasket_DestinedFoodBasket_FishingFamily",
+        "node_link": "https://datacommons.org/browser/Count_FoodBasket_DestinedFoodBasket_FishingFamily"
+    },
+    {
+        "node_name": "\u2026 destined for gypsy families",
+        "node_dcid": "Count_FoodBasket_DestinedFoodBasket_GypsyFamily",
+        "node_link": "https://datacommons.org/browser/Count_FoodBasket_DestinedFoodBasket_GypsyFamily"
+    },
+    {
+        "node_name": "\u2026 destined for indigenous families",
+        "node_dcid": "Count_FoodBasket_DestinedFoodBasket_IndigenousFamily",
+        "node_link": "https://datacommons.org/browser/Count_FoodBasket_DestinedFoodBasket_IndigenousFamily"
+    },
+    {
+        "node_name": "\u2026 destined for quilombola families",
+        "node_dcid": "Count_FoodBasket_DestinedFoodBasket_QuilombolaFamily",
+        "node_link": "https://datacommons.org/browser/Count_FoodBasket_DestinedFoodBasket_QuilombolaFamily"
+    },
+    {
+        "node_name": "\u2026 destined for settled/camped families",
+        "node_dcid": "Count_FoodBasket_DestinedFoodBasket_SettledInCamps",
+        "node_link": "https://datacommons.org/browser/Count_FoodBasket_DestinedFoodBasket_SettledInCamps"
+    },
+    {
+        "node_name": "\u2026 intended for families in emergency care",
+        "node_dcid": "Count_FoodBasket_DestinedFoodBasket_InEmergencyCare",
+        "node_link": "https://datacommons.org/browser/Count_FoodBasket_DestinedFoodBasket_InEmergencyCare"
+    },
+    {
+        "node_name": "Number of food baskets destined for extractive families",
+        "node_dcid": "Count_FoodBasket_DestinedFoodBasket_ExtractiveFamily",
+        "node_link": "https://datacommons.org/browser/Count_FoodBasket_DestinedFoodBasket_ExtractiveFamily"
+    },
+    {
+        "node_name": "Number of food baskets delivered to extractive families",
+        "node_dcid": "Count_FoodBasket_DeliveredFoodBasket_ExtractiveFamily",
+        "node_link": "https://datacommons.org/browser/Count_FoodBasket_DeliveredFoodBasket_ExtractiveFamily"
+    },
+    {
+        "node_name": "Percentage of Basic Food Baskets delivered to extractive families",
+        "node_dcid": "Count_FoodBasket_DeliveredFoodBasket_ExtractiveFamily_AsAFractionOf_Count_FoodBasket_DestinedFoodBasket_ExtractiveFamily",
+        "node_link": "https://datacommons.org/browser/Count_FoodBasket_DeliveredFoodBasket_ExtractiveFamily_AsAFractionOf_Count_FoodBasket_DestinedFoodBasket_ExtractiveFamily"
+    },
+    {
+        "node_name": "Number of food baskets destined for fishing families",
+        "node_dcid": "Count_FoodBasket_DestinedFoodBasket_FishingFamily",
+        "node_link": "https://datacommons.org/browser/Count_FoodBasket_DestinedFoodBasket_FishingFamily"
+    },
+    {
+        "node_name": "Number of food baskets delivered to fishing families",
+        "node_dcid": "Count_FoodBasket_DeliveredFoodBasket_FishingFamily",
+        "node_link": "https://datacommons.org/browser/Count_FoodBasket_DeliveredFoodBasket_FishingFamily"
+    },
+    {
+        "node_name": "Percentage of Basic Food Baskets delivered to fishing families",
+        "node_dcid": "Count_FoodBasket_DeliveredFoodBasket_FishingFamily_AsAFractionOf_Count_FoodBasket_DestinedFoodBasket_FishingFamily",
+        "node_link": "https://datacommons.org/browser/Count_FoodBasket_DeliveredFoodBasket_FishingFamily_AsAFractionOf_Count_FoodBasket_DestinedFoodBasket_FishingFamily"
+    },
+    {
+        "node_name": "Number of food baskets destined for gypsy families",
+        "node_dcid": "Count_FoodBasket_DestinedFoodBasket_GypsyFamily",
+        "node_link": "https://datacommons.org/browser/Count_FoodBasket_DestinedFoodBasket_GypsyFamily"
+    },
+    {
+        "node_name": "Number of food baskets delivered to gypsy families",
+        "node_dcid": "Count_FoodBasket_DeliveredFoodBasket_GypsyFamily",
+        "node_link": "https://datacommons.org/browser/Count_FoodBasket_DeliveredFoodBasket_GypsyFamily"
+    },
+    {
+        "node_name": "Percentage of Basic Food Baskets delivered to gypsy families",
+        "node_dcid": "Count_FoodBasket_DeliveredFoodBasket_GypsyFamily_AsAFractionOf_Count_FoodBasket_DestinedFoodBasket_GypsyFamily",
+        "node_link": "https://datacommons.org/browser/Count_FoodBasket_DeliveredFoodBasket_GypsyFamily_AsAFractionOf_Count_FoodBasket_DestinedFoodBasket_GypsyFamily"
+    },
+    {
+        "node_name": "Number of food baskets intended for families in emergency care",
+        "node_dcid": "Count_FoodBasket_DestinedFoodBasket_InEmergencyCare",
+        "node_link": "https://datacommons.org/browser/Count_FoodBasket_DestinedFoodBasket_InEmergencyCare"
+    },
+    {
+        "node_name": "Number of food baskets delivered to families in emergency care",
+        "node_dcid": "Count_FoodBasket_DeliveredFoodBasket_InEmergencyCare",
+        "node_link": "https://datacommons.org/browser/Count_FoodBasket_DeliveredFoodBasket_InEmergencyCare"
+    },
+    {
+        "node_name": "Percentage of Basic Food Baskets delivered to Families in emergency care",
+        "node_dcid": "Count_FoodBasket_DeliveredFoodBasket_InEmergencyCare_AsAFractionOf_Count_FoodBasket_DestinedFoodBasket_InEmergencyCare",
+        "node_link": "https://datacommons.org/browser/Count_FoodBasket_DeliveredFoodBasket_InEmergencyCare_AsAFractionOf_Count_FoodBasket_DestinedFoodBasket_InEmergencyCare"
+    },
+    {
+        "node_name": "Number of food baskets destined for indigenous families",
+        "node_dcid": "Count_FoodBasket_DestinedFoodBasket_IndigenousFamily",
+        "node_link": "https://datacommons.org/browser/Count_FoodBasket_DestinedFoodBasket_IndigenousFamily"
+    },
+    {
+        "node_name": "Number of food baskets delivered to indigenous families",
+        "node_dcid": "Count_FoodBasket_DeliveredFoodBasket_IndigenousFamily",
+        "node_link": "https://datacommons.org/browser/Count_FoodBasket_DeliveredFoodBasket_IndigenousFamily"
+    },
+    {
+        "node_name": "Percentage of Basic Food Baskets delivered to Indigenous Families",
+        "node_dcid": "Count_FoodBasket_DeliveredFoodBasket_IndigenousFamily_AsAFractionOf_Count_FoodBasket_DestinedFoodBasket_IndigenousFamily",
+        "node_link": "https://datacommons.org/browser/Count_FoodBasket_DeliveredFoodBasket_IndigenousFamily_AsAFractionOf_Count_FoodBasket_DestinedFoodBasket_IndigenousFamily"
+    },
+    {
+        "node_name": "Number of food baskets destined for quilombola families",
+        "node_dcid": "Count_FoodBasket_DestinedFoodBasket_QuilombolaFamily",
+        "node_link": "https://datacommons.org/browser/Count_FoodBasket_DestinedFoodBasket_QuilombolaFamily"
+    },
+    {
+        "node_name": "Number of food baskets delivered to quilombola families",
+        "node_dcid": "Count_FoodBasket_DeliveredFoodBasket_QuilombolaFamily",
+        "node_link": "https://datacommons.org/browser/Count_FoodBasket_DeliveredFoodBasket_QuilombolaFamily"
+    },
+    {
+        "node_name": "Percentage of Basic Food Baskets delivered to quilombola families",
+        "node_dcid": "Count_FoodBasket_DeliveredFoodBasket_QuilombolaFamily_AsAFractionOf_Count_FoodBasket_DestinedFoodBasket_QuilombolaFamily",
+        "node_link": "https://datacommons.org/browser/Count_FoodBasket_DeliveredFoodBasket_QuilombolaFamily_AsAFractionOf_Count_FoodBasket_DestinedFoodBasket_QuilombolaFamily"
+    },
+    {
+        "node_name": "Number of food baskets destined for families of recyclable material collectors",
+        "node_dcid": "Count_FoodBasket_DestinedFoodBasket_RecyclableMaterialCollectorsFamily",
+        "node_link": "https://datacommons.org/browser/Count_FoodBasket_DestinedFoodBasket_RecyclableMaterialCollectorsFamily"
+    },
+    {
+        "node_name": "Number of food baskets delivered to families collecting recyclable material",
+        "node_dcid": "Count_FoodBasket_DeliveredFoodBasket_RecyclableMaterialCollectorsFamily",
+        "node_link": "https://datacommons.org/browser/Count_FoodBasket_DeliveredFoodBasket_RecyclableMaterialCollectorsFamily"
+    },
+    {
+        "node_name": "Percentage of Basic Food Baskets delivered to families who collect recyclable material",
+        "node_dcid": "Count_FoodBasket_DeliveredFoodBasket_RecyclableMaterialCollectorsFamily_AsAFractionOf_Count_FoodBasket_DestinedFoodBasket_RecyclableMaterialCollectorsFamily",
+        "node_link": "https://datacommons.org/browser/Count_FoodBasket_DeliveredFoodBasket_RecyclableMaterialCollectorsFamily_AsAFractionOf_Count_FoodBasket_DestinedFoodBasket_RecyclableMaterialCollectorsFamily"
+    },
+    {
+        "node_name": "Number of food baskets destined for settled/camped families",
+        "node_dcid": "Count_FoodBasket_DestinedFoodBasket_SettledInCamps",
+        "node_link": "https://datacommons.org/browser/Count_FoodBasket_DestinedFoodBasket_SettledInCamps"
+    },
+    {
+        "node_name": "Number of food baskets delivered to settled/camped families",
+        "node_dcid": "Count_FoodBasket_DeliveredFoodBasket_SettledInCamps",
+        "node_link": "https://datacommons.org/browser/Count_FoodBasket_DeliveredFoodBasket_SettledInCamps"
+    },
+    {
+        "node_name": "Percentage of Basic Food Baskets delivered to settled/camped families",
+        "node_dcid": "Count_FoodBasket_DeliveredFoodBasket_SettledInCamps_AsAFractionOf_Count_FoodBasket_DestinedFoodBasket_SettledInCamps",
+        "node_link": "https://datacommons.org/browser/Count_FoodBasket_DeliveredFoodBasket_SettledInCamps_AsAFractionOf_Count_FoodBasket_DestinedFoodBasket_SettledInCamps"
+    },
+    {
+        "node_name": "\u2026 extractive families that received food baskets",
+        "node_dcid": "Count_Household_ReceivedFoodBasket_ExtractiveFamily",
+        "node_link": "https://datacommons.org/browser/Count_Household_ReceivedFoodBasket_ExtractiveFamily"
+    },
+    {
+        "node_name": "\u2026 families in emergency care that received food baskets",
+        "node_dcid": "Count_Household_ReceivedFoodBasket_InEmergencyCare",
+        "node_link": "https://datacommons.org/browser/Count_Household_ReceivedFoodBasket_InEmergencyCare"
+    },
+    {
+        "node_name": "\u2026 families of recyclable material collectors who received food baskets",
+        "node_dcid": "Count_Household_ReceivedFoodBasket_RecyclableMaterialCollectorsFamily",
+        "node_link": "https://datacommons.org/browser/Count_Household_ReceivedFoodBasket_RecyclableMaterialCollectorsFamily"
+    },
+    {
+        "node_name": "\u2026 families settled/camped that received food baskets",
+        "node_dcid": "Count_Household_ReceivedFoodBasket_SettledInCamps",
+        "node_link": "https://datacommons.org/browser/Count_Household_ReceivedFoodBasket_SettledInCamps"
+    },
+    {
+        "node_name": "\u2026 fishing families that received food baskets",
+        "node_dcid": "Count_Household_ReceivedFoodBasket_FishingFamily",
+        "node_link": "https://datacommons.org/browser/Count_Household_ReceivedFoodBasket_FishingFamily"
+    },
+    {
+        "node_name": "\u2026 gypsy families who received food baskets",
+        "node_dcid": "Count_Household_ReceivedFoodBasket_GypsyFamily",
+        "node_link": "https://datacommons.org/browser/Count_Household_ReceivedFoodBasket_GypsyFamily"
+    },
+    {
+        "node_name": "\u2026 indigenous families that received food baskets",
+        "node_dcid": "Count_Household_ReceivedFoodBasket_IndigenousFamily",
+        "node_link": "https://datacommons.org/browser/Count_Household_ReceivedFoodBasket_IndigenousFamily"
+    },
+    {
+        "node_name": "\u2026 quilombola families that received food baskets",
+        "node_dcid": "Count_Household_ReceivedFoodBasket_QuilombolaFamily",
+        "node_link": "https://datacommons.org/browser/Count_Household_ReceivedFoodBasket_QuilombolaFamily"
+    },
+    {
+        "node_name": "\u2026 extractive families that received food baskets",
+        "node_dcid": "Count_Household_ReceivedFoodBasket_ExtractiveFamily",
+        "node_link": "https://datacommons.org/browser/Count_Household_ReceivedFoodBasket_ExtractiveFamily"
+    },
+    {
+        "node_name": "\u2026 families in emergency care that received food baskets",
+        "node_dcid": "Count_Household_ReceivedFoodBasket_InEmergencyCare",
+        "node_link": "https://datacommons.org/browser/Count_Household_ReceivedFoodBasket_InEmergencyCare"
+    },
+    {
+        "node_name": "\u2026 families of recyclable material collectors who received food baskets",
+        "node_dcid": "Count_Household_ReceivedFoodBasket_RecyclableMaterialCollectorsFamily",
+        "node_link": "https://datacommons.org/browser/Count_Household_ReceivedFoodBasket_RecyclableMaterialCollectorsFamily"
+    },
+    {
+        "node_name": "\u2026 families settled/camped that received food baskets",
+        "node_dcid": "Count_Household_ReceivedFoodBasket_SettledInCamps",
+        "node_link": "https://datacommons.org/browser/Count_Household_ReceivedFoodBasket_SettledInCamps"
+    },
+    {
+        "node_name": "\u2026 fishing families that received food baskets",
+        "node_dcid": "Count_Household_ReceivedFoodBasket_FishingFamily",
+        "node_link": "https://datacommons.org/browser/Count_Household_ReceivedFoodBasket_FishingFamily"
+    },
+    {
+        "node_name": "\u2026 gypsy families who received food baskets",
+        "node_dcid": "Count_Household_ReceivedFoodBasket_GypsyFamily",
+        "node_link": "https://datacommons.org/browser/Count_Household_ReceivedFoodBasket_GypsyFamily"
+    },
+    {
+        "node_name": "\u2026 indigenous families that received food baskets",
+        "node_dcid": "Count_Household_ReceivedFoodBasket_IndigenousFamily",
+        "node_link": "https://datacommons.org/browser/Count_Household_ReceivedFoodBasket_IndigenousFamily"
+    },
+    {
+        "node_name": "\u2026 quilombola families that received food baskets",
+        "node_dcid": "Count_Household_ReceivedFoodBasket_QuilombolaFamily",
+        "node_link": "https://datacommons.org/browser/Count_Household_ReceivedFoodBasket_QuilombolaFamily"
+    },
+    {
+        "node_name": "\u2026 extractive families that received food baskets",
+        "node_dcid": "Count_Household_ReceivedFoodBasket_ExtractiveFamily",
+        "node_link": "https://datacommons.org/browser/Count_Household_ReceivedFoodBasket_ExtractiveFamily"
+    },
+    {
+        "node_name": "\u2026 families in emergency care that received food baskets",
+        "node_dcid": "Count_Household_ReceivedFoodBasket_InEmergencyCare",
+        "node_link": "https://datacommons.org/browser/Count_Household_ReceivedFoodBasket_InEmergencyCare"
+    },
+    {
+        "node_name": "\u2026 families of recyclable material collectors who received food baskets",
+        "node_dcid": "Count_Household_ReceivedFoodBasket_RecyclableMaterialCollectorsFamily",
+        "node_link": "https://datacommons.org/browser/Count_Household_ReceivedFoodBasket_RecyclableMaterialCollectorsFamily"
+    },
+    {
+        "node_name": "\u2026 families settled/camped that received food baskets",
+        "node_dcid": "Count_Household_ReceivedFoodBasket_SettledInCamps",
+        "node_link": "https://datacommons.org/browser/Count_Household_ReceivedFoodBasket_SettledInCamps"
+    },
+    {
+        "node_name": "\u2026 fishing families that received food baskets",
+        "node_dcid": "Count_Household_ReceivedFoodBasket_FishingFamily",
+        "node_link": "https://datacommons.org/browser/Count_Household_ReceivedFoodBasket_FishingFamily"
+    },
+    {
+        "node_name": "\u2026 gypsy families who received food baskets",
+        "node_dcid": "Count_Household_ReceivedFoodBasket_GypsyFamily",
+        "node_link": "https://datacommons.org/browser/Count_Household_ReceivedFoodBasket_GypsyFamily"
+    },
+    {
+        "node_name": "\u2026 indigenous families that received food baskets",
+        "node_dcid": "Count_Household_ReceivedFoodBasket_IndigenousFamily",
+        "node_link": "https://datacommons.org/browser/Count_Household_ReceivedFoodBasket_IndigenousFamily"
+    },
+    {
+        "node_name": "\u2026 quilombola families that received food baskets",
+        "node_dcid": "Count_Household_ReceivedFoodBasket_QuilombolaFamily",
+        "node_link": "https://datacommons.org/browser/Count_Household_ReceivedFoodBasket_QuilombolaFamily"
+    }
+]

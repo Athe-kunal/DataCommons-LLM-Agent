@@ -1,0 +1,32 @@
+[
+    {
+        "node_name": "\u2026 Grocery Store & Pharmacy",
+        "node_dcid": "Covid19MobilityTrend_GroceryStoreAndPharmacy",
+        "node_link": "https://datacommons.org/browser/Covid19MobilityTrend_GroceryStoreAndPharmacy"
+    },
+    {
+        "node_name": "\u2026 Local Business",
+        "node_dcid": "Covid19MobilityTrend_LocalBusiness",
+        "node_link": "https://datacommons.org/browser/Covid19MobilityTrend_LocalBusiness"
+    },
+    {
+        "node_name": "\u2026 Park",
+        "node_dcid": "Covid19MobilityTrend_Park",
+        "node_link": "https://datacommons.org/browser/Covid19MobilityTrend_Park"
+    },
+    {
+        "node_name": "\u2026 Residence",
+        "node_dcid": "Covid19MobilityTrend_Residence",
+        "node_link": "https://datacommons.org/browser/Covid19MobilityTrend_Residence"
+    },
+    {
+        "node_name": "\u2026 Transport Hub",
+        "node_dcid": "Covid19MobilityTrend_TransportHub",
+        "node_link": "https://datacommons.org/browser/Covid19MobilityTrend_TransportHub"
+    },
+    {
+        "node_name": "\u2026 Workplace",
+        "node_dcid": "Covid19MobilityTrend_Workplace",
+        "node_link": "https://datacommons.org/browser/Covid19MobilityTrend_Workplace"
+    }
+]
