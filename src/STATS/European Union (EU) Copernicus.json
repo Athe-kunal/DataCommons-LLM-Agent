@@ -1,0 +1,62 @@
+[
+    {
+        "node_name": "\u2026 Bare Sparse Vegetation Covered Area",
+        "node_dcid": "LandCoverFraction_BareSparseVegetation",
+        "node_link": "https://datacommons.org/browser/LandCoverFraction_BareSparseVegetation"
+    },
+    {
+        "node_name": "\u2026 Built-up Area",
+        "node_dcid": "LandCoverFraction_BuiltUp",
+        "node_link": "https://datacommons.org/browser/LandCoverFraction_BuiltUp"
+    },
+    {
+        "node_name": "\u2026 Grass Covered Area",
+        "node_dcid": "LandCoverFraction_HerbaceousVegetation",
+        "node_link": "https://datacommons.org/browser/LandCoverFraction_HerbaceousVegetation"
+    },
+    {
+        "node_name": "\u2026 Permanent Water Covered Area",
+        "node_dcid": "LandCoverFraction_PermanentWater",
+        "node_link": "https://datacommons.org/browser/LandCoverFraction_PermanentWater"
+    },
+    {
+        "node_name": "\u2026 Seasonal Water Covered Area",
+        "node_dcid": "LandCoverFraction_SeasonalWater",
+        "node_link": "https://datacommons.org/browser/LandCoverFraction_SeasonalWater"
+    },
+    {
+        "node_name": "\u2026 Shrub Covered Area",
+        "node_dcid": "LandCoverFraction_Shrubland",
+        "node_link": "https://datacommons.org/browser/LandCoverFraction_Shrubland"
+    },
+    {
+        "node_name": "\u2026 Snow Covered Area",
+        "node_dcid": "LandCoverFraction_SnowIce",
+        "node_link": "https://datacommons.org/browser/LandCoverFraction_SnowIce"
+    },
+    {
+        "node_name": "Percent of Crop Covered Area",
+        "node_dcid": "LandCoverFraction_Cropland",
+        "node_link": "https://datacommons.org/browser/LandCoverFraction_Cropland"
+    },
+    {
+        "node_name": "Percent of Forest Covered Area",
+        "node_dcid": "LandCoverFraction_Forest",
+        "node_link": "https://datacommons.org/browser/LandCoverFraction_Forest"
+    },
+    {
+        "node_name": "Maximum Temperature",
+        "node_dcid": "Max_Temperature",
+        "node_link": "https://datacommons.org/browser/Max_Temperature"
+    },
+    {
+        "node_name": "Mean Temperature",
+        "node_dcid": "Mean_Temperature",
+        "node_link": "https://datacommons.org/browser/Mean_Temperature"
+    },
+    {
+        "node_name": "Min Temperature",
+        "node_dcid": "Min_Temperature",
+        "node_link": "https://datacommons.org/browser/Min_Temperature"
+    }
+]

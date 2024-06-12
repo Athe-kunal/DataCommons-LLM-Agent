@@ -101,5 +101,5 @@ def selenium_get_data(ds:str):
     print(f"Done for {ds}")
 
 if __name__ == '__main__':
-    with concurrent.futures.ThreadPoolExecutor(max_workers=3) as executor:
+    with concurrent.futures.ThreadPoolExecutor(max_workers=5) as executor:
         executor.map(selenium_get_data,req_data_sources)

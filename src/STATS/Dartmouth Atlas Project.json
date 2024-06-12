@@ -1,0 +1,82 @@
+[
+    {
+        "node_name": "Count of Medicare Enrollee",
+        "node_dcid": "Count_MedicareEnrollee",
+        "node_link": "https://datacommons.org/browser/Count_MedicareEnrollee"
+    },
+    {
+        "node_name": "Mean Price of Medicare Enrollee",
+        "node_dcid": "",
+        "node_link": "https://datacommons.org/browser/"
+    },
+    {
+        "node_name": "\u2026 Black",
+        "node_dcid": "Count_MedicareEnrollee_ConditionDiabetic_Black",
+        "node_link": "https://datacommons.org/browser/Count_MedicareEnrollee_ConditionDiabetic_Black"
+    },
+    {
+        "node_name": "\u2026 Non Black",
+        "node_dcid": "Count_MedicareEnrollee_ConditionDiabetic_NonBlack",
+        "node_link": "https://datacommons.org/browser/Count_MedicareEnrollee_ConditionDiabetic_NonBlack"
+    },
+    {
+        "node_name": "Count of Medicare Enrollee: Medicare A",
+        "node_dcid": "Count_MedicareEnrollee_MedicareA",
+        "node_link": "https://datacommons.org/browser/Count_MedicareEnrollee_MedicareA"
+    },
+    {
+        "node_name": "\u2026 Black",
+        "node_dcid": "Count_MedicareEnrollee_MedicareA_Black",
+        "node_link": "https://datacommons.org/browser/Count_MedicareEnrollee_MedicareA_Black"
+    },
+    {
+        "node_name": "\u2026 Non Black",
+        "node_dcid": "Count_MedicareEnrollee_MedicareA_NonBlack",
+        "node_link": "https://datacommons.org/browser/Count_MedicareEnrollee_MedicareA_NonBlack"
+    },
+    {
+        "node_name": "Count of Medicare Enrollee: Medicare B",
+        "node_dcid": "Count_MedicareEnrollee_MedicareB",
+        "node_link": "https://datacommons.org/browser/Count_MedicareEnrollee_MedicareB"
+    },
+    {
+        "node_name": "\u2026 Black",
+        "node_dcid": "Count_MedicareEnrollee_MedicareB_Black",
+        "node_link": "https://datacommons.org/browser/Count_MedicareEnrollee_MedicareB_Black"
+    },
+    {
+        "node_name": "\u2026 Non Black",
+        "node_dcid": "Count_MedicareEnrollee_MedicareB_NonBlack",
+        "node_link": "https://datacommons.org/browser/Count_MedicareEnrollee_MedicareB_NonBlack"
+    },
+    {
+        "node_name": "Count of Medicare Enrollee: Diabetic, Black",
+        "node_dcid": "Count_MedicareEnrollee_ConditionDiabetic_Black",
+        "node_link": "https://datacommons.org/browser/Count_MedicareEnrollee_ConditionDiabetic_Black"
+    },
+    {
+        "node_name": "\u2026 A, Black",
+        "node_dcid": "Count_MedicareEnrollee_MedicareA_Black",
+        "node_link": "https://datacommons.org/browser/Count_MedicareEnrollee_MedicareA_Black"
+    },
+    {
+        "node_name": "\u2026 B, Black",
+        "node_dcid": "Count_MedicareEnrollee_MedicareB_Black",
+        "node_link": "https://datacommons.org/browser/Count_MedicareEnrollee_MedicareB_Black"
+    },
+    {
+        "node_name": "Count of Medicare Enrollee: Diabetic, Non Black",
+        "node_dcid": "Count_MedicareEnrollee_ConditionDiabetic_NonBlack",
+        "node_link": "https://datacommons.org/browser/Count_MedicareEnrollee_ConditionDiabetic_NonBlack"
+    },
+    {
+        "node_name": "\u2026 A, Non Black",
+        "node_dcid": "Count_MedicareEnrollee_MedicareA_NonBlack",
+        "node_link": "https://datacommons.org/browser/Count_MedicareEnrollee_MedicareA_NonBlack"
+    },
+    {
+        "node_name": "\u2026 B, Non Black",
+        "node_dcid": "Count_MedicareEnrollee_MedicareB_NonBlack",
+        "node_link": "https://datacommons.org/browser/Count_MedicareEnrollee_MedicareB_NonBlack"
+    }
+]

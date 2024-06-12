@@ -1,0 +1,2557 @@
+[
+    {
+        "node_name": "Total Population",
+        "node_dcid": "Count_Person",
+        "node_link": "https://datacommons.org/browser/Count_Person"
+    },
+    {
+        "node_name": "Population: 0 - 14 Years",
+        "node_dcid": "Count_Person_0To14Years",
+        "node_link": "https://datacommons.org/browser/Count_Person_0To14Years"
+    },
+    {
+        "node_name": "\u2026 Female",
+        "node_dcid": "Count_Person_0To14Years_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_0To14Years_Female"
+    },
+    {
+        "node_name": "\u2026 Male",
+        "node_dcid": "Count_Person_0To14Years_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_0To14Years_Male"
+    },
+    {
+        "node_name": "Population: 15 - 24 Years",
+        "node_dcid": "Count_Person_15To24Years",
+        "node_link": "https://datacommons.org/browser/Count_Person_15To24Years"
+    },
+    {
+        "node_name": "Population: 15 - 24 Years, Female",
+        "node_dcid": "Count_Person_15To24Years_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_15To24Years_Female"
+    },
+    {
+        "node_name": "Population: 15 - 24 Years, Male",
+        "node_dcid": "Count_Person_15To24Years_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_15To24Years_Male"
+    },
+    {
+        "node_name": "Population Aged 15 Years or Older",
+        "node_dcid": "Count_Person_15OrMoreYears",
+        "node_link": "https://datacommons.org/browser/Count_Person_15OrMoreYears"
+    },
+    {
+        "node_name": "\u2026 Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "Population: 15 Years or More, With Experience, Unemployed",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed"
+    },
+    {
+        "node_name": "\u2026 Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "\u2026 Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "Population: 15 Years or More, Without Regular Job Experience, Unemployed",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed"
+    },
+    {
+        "node_name": "\u2026 Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "Population: 15 Years or More, Female",
+        "node_dcid": "Count_Person_15OrMoreYears_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_15OrMoreYears_Female"
+    },
+    {
+        "node_name": "\u2026 With Experience, Unemployed, Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 Without Regular Job Experience, Unemployed, Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "Population: 15 Years or More, Employed, Female",
+        "node_dcid": "Count_Person_Years15Onwards_Employed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_Employed_Female"
+    },
+    {
+        "node_name": "\u2026 With Experience, Unemployed, Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 Without Regular Job Experience, Unemployed, Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "Population: 15 Years or More, Male",
+        "node_dcid": "Count_Person_15OrMoreYears_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_15OrMoreYears_Male"
+    },
+    {
+        "node_name": "\u2026 With Experience, Unemployed, Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "\u2026 Without Regular Job Experience, Unemployed, Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "Population: 15 Years or More, Employed, Male",
+        "node_dcid": "Count_Person_Years15Onwards_Employed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_Employed_Male"
+    },
+    {
+        "node_name": "\u2026 With Experience, Unemployed, Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "\u2026 Without Regular Job Experience, Unemployed, Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "Population: 15 Years or More, Employed",
+        "node_dcid": "Count_Person_Years15Onwards_Employed",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_Employed"
+    },
+    {
+        "node_name": "\u2026 Female",
+        "node_dcid": "Count_Person_Years15Onwards_Employed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_Employed_Female"
+    },
+    {
+        "node_name": "\u2026 Male",
+        "node_dcid": "Count_Person_Years15Onwards_Employed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_Employed_Male"
+    },
+    {
+        "node_name": "Population: 15 Years or More, With Experience, Unemployed",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed"
+    },
+    {
+        "node_name": "\u2026 Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "Population: 15 Years or More, Without Regular Job Experience, Unemployed",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed"
+    },
+    {
+        "node_name": "\u2026 Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "\u2026 With Experience, Unemployed, Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 Without Regular Job Experience, Unemployed, Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 With Experience, Unemployed, Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "\u2026 Without Regular Job Experience, Unemployed, Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "Population: 25 - 44 Years",
+        "node_dcid": "Count_Person_25To44Years",
+        "node_link": "https://datacommons.org/browser/Count_Person_25To44Years"
+    },
+    {
+        "node_name": "\u2026 Female",
+        "node_dcid": "Count_Person_25To44Years_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_25To44Years_Female"
+    },
+    {
+        "node_name": "\u2026 Male",
+        "node_dcid": "Count_Person_25To44Years_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_25To44Years_Male"
+    },
+    {
+        "node_name": "Population: 45 - 64 Years",
+        "node_dcid": "Count_Person_45To64Years",
+        "node_link": "https://datacommons.org/browser/Count_Person_45To64Years"
+    },
+    {
+        "node_name": "Population: 45 - 64 Years, Female",
+        "node_dcid": "Count_Person_45To64Years_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_45To64Years_Female"
+    },
+    {
+        "node_name": "Population: 45 - 64 Years, Male",
+        "node_dcid": "Count_Person_45To64Years_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_45To64Years_Male"
+    },
+    {
+        "node_name": "Population: 65 Years or More",
+        "node_dcid": "Count_Person_65OrMoreYears",
+        "node_link": "https://datacommons.org/browser/Count_Person_65OrMoreYears"
+    },
+    {
+        "node_name": "Population: 65 Years or More, Female",
+        "node_dcid": "Count_Person_65OrMoreYears_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_65OrMoreYears_Female"
+    },
+    {
+        "node_name": "Population: 65 Years or More, Male",
+        "node_dcid": "Count_Person_65OrMoreYears_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_65OrMoreYears_Male"
+    },
+    {
+        "node_name": "Life Expectancy: Years 10, Female",
+        "node_dcid": "LifeExpectancy_Person_10Years_Female",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_10Years_Female"
+    },
+    {
+        "node_name": "Life Expectancy: Years 10, Male",
+        "node_dcid": "LifeExpectancy_Person_10Years_Male",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_10Years_Male"
+    },
+    {
+        "node_name": "Life Expectancy: Years 15, Female",
+        "node_dcid": "LifeExpectancy_Person_15Years_Female",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_15Years_Female"
+    },
+    {
+        "node_name": "Life Expectancy: Years 15, Male",
+        "node_dcid": "LifeExpectancy_Person_15Years_Male",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_15Years_Male"
+    },
+    {
+        "node_name": "Life Expectancy: Years 20, Female",
+        "node_dcid": "LifeExpectancy_Person_20Years_Female",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_20Years_Female"
+    },
+    {
+        "node_name": "Life Expectancy: Years 20, Male",
+        "node_dcid": "LifeExpectancy_Person_20Years_Male",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_20Years_Male"
+    },
+    {
+        "node_name": "Life Expectancy: Years 25, Female",
+        "node_dcid": "LifeExpectancy_Person_25Years_Female",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_25Years_Female"
+    },
+    {
+        "node_name": "Life Expectancy: Years 25, Male",
+        "node_dcid": "LifeExpectancy_Person_25Years_Male",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_25Years_Male"
+    },
+    {
+        "node_name": "Life Expectancy: Years 35, Female",
+        "node_dcid": "LifeExpectancy_Person_35Years_Female",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_35Years_Female"
+    },
+    {
+        "node_name": "Life Expectancy: Years 35, Male",
+        "node_dcid": "LifeExpectancy_Person_35Years_Male",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_35Years_Male"
+    },
+    {
+        "node_name": "Life Expectancy: Years 45, Female",
+        "node_dcid": "LifeExpectancy_Person_45Years_Female",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_45Years_Female"
+    },
+    {
+        "node_name": "Life Expectancy: Years 45, Male",
+        "node_dcid": "LifeExpectancy_Person_45Years_Male",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_45Years_Male"
+    },
+    {
+        "node_name": "Life Expectancy: Years 5, Female",
+        "node_dcid": "LifeExpectancy_Person_5Years_Female",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_5Years_Female"
+    },
+    {
+        "node_name": "Life Expectancy: Years 5, Male",
+        "node_dcid": "LifeExpectancy_Person_5Years_Male",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_5Years_Male"
+    },
+    {
+        "node_name": "Life Expectancy: Years 55, Female",
+        "node_dcid": "LifeExpectancy_Person_55Years_Female",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_55Years_Female"
+    },
+    {
+        "node_name": "Life Expectancy: Years 55, Male",
+        "node_dcid": "LifeExpectancy_Person_55Years_Male",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_55Years_Male"
+    },
+    {
+        "node_name": "Life Expectancy: Years 65, Female",
+        "node_dcid": "LifeExpectancy_Person_65Years_Female",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_65Years_Female"
+    },
+    {
+        "node_name": "Life Expectancy: Years 65, Male",
+        "node_dcid": "LifeExpectancy_Person_65Years_Male",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_65Years_Male"
+    },
+    {
+        "node_name": "Life Expectancy: Years 75, Female",
+        "node_dcid": "LifeExpectancy_Person_75Years_Female",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_75Years_Female"
+    },
+    {
+        "node_name": "Life Expectancy: Years 75, Male",
+        "node_dcid": "LifeExpectancy_Person_75Years_Male",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_75Years_Male"
+    },
+    {
+        "node_name": "\u2026 Life Expectancy",
+        "node_dcid": "LifeExpectancy_Person_Female",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_Female"
+    },
+    {
+        "node_name": "\u2026 Population",
+        "node_dcid": "Count_Person_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Female"
+    },
+    {
+        "node_name": "\u2026 0 - 14 Years, Female",
+        "node_dcid": "Count_Person_0To14Years_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_0To14Years_Female"
+    },
+    {
+        "node_name": "\u2026 25 - 44 Years, Female",
+        "node_dcid": "Count_Person_25To44Years_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_25To44Years_Female"
+    },
+    {
+        "node_name": "Population: 15 - 24 Years, Female",
+        "node_dcid": "Count_Person_15To24Years_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_15To24Years_Female"
+    },
+    {
+        "node_name": "Population: 15 Years or More, Female",
+        "node_dcid": "Count_Person_15OrMoreYears_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_15OrMoreYears_Female"
+    },
+    {
+        "node_name": "\u2026 With Experience, Unemployed, Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 Without Regular Job Experience, Unemployed, Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "Population: 15 Years or More, Employed, Female",
+        "node_dcid": "Count_Person_Years15Onwards_Employed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_Employed_Female"
+    },
+    {
+        "node_name": "\u2026 With Experience, Unemployed, Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 Without Regular Job Experience, Unemployed, Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "Population: 45 - 64 Years, Female",
+        "node_dcid": "Count_Person_45To64Years_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_45To64Years_Female"
+    },
+    {
+        "node_name": "Population: 65 Years or More, Female",
+        "node_dcid": "Count_Person_65OrMoreYears_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_65OrMoreYears_Female"
+    },
+    {
+        "node_name": "Life Expectancy: Years 10, Female",
+        "node_dcid": "LifeExpectancy_Person_10Years_Female",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_10Years_Female"
+    },
+    {
+        "node_name": "Life Expectancy: Years 15, Female",
+        "node_dcid": "LifeExpectancy_Person_15Years_Female",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_15Years_Female"
+    },
+    {
+        "node_name": "Life Expectancy: Years 20, Female",
+        "node_dcid": "LifeExpectancy_Person_20Years_Female",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_20Years_Female"
+    },
+    {
+        "node_name": "Life Expectancy: Years 25, Female",
+        "node_dcid": "LifeExpectancy_Person_25Years_Female",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_25Years_Female"
+    },
+    {
+        "node_name": "Life Expectancy: Years 35, Female",
+        "node_dcid": "LifeExpectancy_Person_35Years_Female",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_35Years_Female"
+    },
+    {
+        "node_name": "Life Expectancy: Years 45, Female",
+        "node_dcid": "LifeExpectancy_Person_45Years_Female",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_45Years_Female"
+    },
+    {
+        "node_name": "Life Expectancy: Years 5, Female",
+        "node_dcid": "LifeExpectancy_Person_5Years_Female",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_5Years_Female"
+    },
+    {
+        "node_name": "Life Expectancy: Years 55, Female",
+        "node_dcid": "LifeExpectancy_Person_55Years_Female",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_55Years_Female"
+    },
+    {
+        "node_name": "Life Expectancy: Years 65, Female",
+        "node_dcid": "LifeExpectancy_Person_65Years_Female",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_65Years_Female"
+    },
+    {
+        "node_name": "Life Expectancy: Years 75, Female",
+        "node_dcid": "LifeExpectancy_Person_75Years_Female",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_75Years_Female"
+    },
+    {
+        "node_name": "\u2026 With Experience, Unemployed, Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 Without Regular Job Experience, Unemployed, Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "Population: 15 Years or More, Employed, Female",
+        "node_dcid": "Count_Person_Years15Onwards_Employed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_Employed_Female"
+    },
+    {
+        "node_name": "\u2026 With Experience, Unemployed, Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 Without Regular Job Experience, Unemployed, Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 With Experience, Unemployed, Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 Without Regular Job Experience, Unemployed, Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 Life Expectancy",
+        "node_dcid": "LifeExpectancy_Person_Male",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_Male"
+    },
+    {
+        "node_name": "\u2026 Population",
+        "node_dcid": "Count_Person_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Male"
+    },
+    {
+        "node_name": "\u2026 0 - 14 Years, Male",
+        "node_dcid": "Count_Person_0To14Years_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_0To14Years_Male"
+    },
+    {
+        "node_name": "\u2026 25 - 44 Years, Male",
+        "node_dcid": "Count_Person_25To44Years_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_25To44Years_Male"
+    },
+    {
+        "node_name": "Population: 15 - 24 Years, Male",
+        "node_dcid": "Count_Person_15To24Years_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_15To24Years_Male"
+    },
+    {
+        "node_name": "Population: 15 Years or More, Male",
+        "node_dcid": "Count_Person_15OrMoreYears_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_15OrMoreYears_Male"
+    },
+    {
+        "node_name": "\u2026 With Experience, Unemployed, Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "\u2026 Without Regular Job Experience, Unemployed, Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "Population: 15 Years or More, Employed, Male",
+        "node_dcid": "Count_Person_Years15Onwards_Employed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_Employed_Male"
+    },
+    {
+        "node_name": "\u2026 With Experience, Unemployed, Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "\u2026 Without Regular Job Experience, Unemployed, Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "Population: 45 - 64 Years, Male",
+        "node_dcid": "Count_Person_45To64Years_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_45To64Years_Male"
+    },
+    {
+        "node_name": "Population: 65 Years or More, Male",
+        "node_dcid": "Count_Person_65OrMoreYears_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_65OrMoreYears_Male"
+    },
+    {
+        "node_name": "Life Expectancy: Years 10, Male",
+        "node_dcid": "LifeExpectancy_Person_10Years_Male",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_10Years_Male"
+    },
+    {
+        "node_name": "Life Expectancy: Years 15, Male",
+        "node_dcid": "LifeExpectancy_Person_15Years_Male",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_15Years_Male"
+    },
+    {
+        "node_name": "Life Expectancy: Years 20, Male",
+        "node_dcid": "LifeExpectancy_Person_20Years_Male",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_20Years_Male"
+    },
+    {
+        "node_name": "Life Expectancy: Years 25, Male",
+        "node_dcid": "LifeExpectancy_Person_25Years_Male",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_25Years_Male"
+    },
+    {
+        "node_name": "Life Expectancy: Years 35, Male",
+        "node_dcid": "LifeExpectancy_Person_35Years_Male",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_35Years_Male"
+    },
+    {
+        "node_name": "Life Expectancy: Years 45, Male",
+        "node_dcid": "LifeExpectancy_Person_45Years_Male",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_45Years_Male"
+    },
+    {
+        "node_name": "Life Expectancy: Years 5, Male",
+        "node_dcid": "LifeExpectancy_Person_5Years_Male",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_5Years_Male"
+    },
+    {
+        "node_name": "Life Expectancy: Years 55, Male",
+        "node_dcid": "LifeExpectancy_Person_55Years_Male",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_55Years_Male"
+    },
+    {
+        "node_name": "Life Expectancy: Years 65, Male",
+        "node_dcid": "LifeExpectancy_Person_65Years_Male",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_65Years_Male"
+    },
+    {
+        "node_name": "Life Expectancy: Years 75, Male",
+        "node_dcid": "LifeExpectancy_Person_75Years_Male",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_75Years_Male"
+    },
+    {
+        "node_name": "\u2026 With Experience, Unemployed, Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "\u2026 Without Regular Job Experience, Unemployed, Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "Population: 15 Years or More, Employed, Male",
+        "node_dcid": "Count_Person_Years15Onwards_Employed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_Employed_Male"
+    },
+    {
+        "node_name": "\u2026 With Experience, Unemployed, Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "\u2026 Without Regular Job Experience, Unemployed, Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "\u2026 With Experience, Unemployed, Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "\u2026 Without Regular Job Experience, Unemployed, Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "Population: 15 Years or More, Employed",
+        "node_dcid": "Count_Person_Years15Onwards_Employed",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_Employed"
+    },
+    {
+        "node_name": "\u2026 Female",
+        "node_dcid": "Count_Person_Years15Onwards_Employed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_Employed_Female"
+    },
+    {
+        "node_name": "\u2026 Male",
+        "node_dcid": "Count_Person_Years15Onwards_Employed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_Employed_Male"
+    },
+    {
+        "node_name": "Population: 15 Years or More, Employed, Female",
+        "node_dcid": "Count_Person_Years15Onwards_Employed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_Employed_Female"
+    },
+    {
+        "node_name": "Population: 15 Years or More, Employed, Male",
+        "node_dcid": "Count_Person_Years15Onwards_Employed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_Employed_Male"
+    },
+    {
+        "node_name": "Population: 15 Years or More, With Experience, Unemployed",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed"
+    },
+    {
+        "node_name": "\u2026 Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "Population: 15 Years or More, Without Regular Job Experience, Unemployed",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed"
+    },
+    {
+        "node_name": "\u2026 Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "\u2026 With Experience, Unemployed, Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 Without Regular Job Experience, Unemployed, Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 With Experience, Unemployed, Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "\u2026 Without Regular Job Experience, Unemployed, Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "Population: 15 Years or More, With Experience, Unemployed",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed"
+    },
+    {
+        "node_name": "\u2026 Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "\u2026 Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "Population: 15 Years or More, Without Regular Job Experience, Unemployed",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed"
+    },
+    {
+        "node_name": "\u2026 Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "\u2026 Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "\u2026 With Experience, Unemployed, Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 Without Regular Job Experience, Unemployed, Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 With Experience, Unemployed, Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 Without Regular Job Experience, Unemployed, Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 With Experience, Unemployed, Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "\u2026 Without Regular Job Experience, Unemployed, Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "\u2026 With Experience, Unemployed, Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "\u2026 Without Regular Job Experience, Unemployed, Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "\u2026 Church of Ireland Including Protestant",
+        "node_dcid": "Count_Person_ChurchOfIrelandIncludingProtestant",
+        "node_link": "https://datacommons.org/browser/Count_Person_ChurchOfIrelandIncludingProtestant"
+    },
+    {
+        "node_name": "\u2026 Ireland_Other Stated Religion",
+        "node_dcid": "Count_Person_IrelandOtherStatedReligion",
+        "node_link": "https://datacommons.org/browser/Count_Person_IrelandOtherStatedReligion"
+    },
+    {
+        "node_name": "\u2026 Presbyterian",
+        "node_dcid": "Count_Person_Presbyterian",
+        "node_link": "https://datacommons.org/browser/Count_Person_Presbyterian"
+    },
+    {
+        "node_name": "\u2026 Roman Catholicism",
+        "node_dcid": "Count_Person_RomanCatholicism",
+        "node_link": "https://datacommons.org/browser/Count_Person_RomanCatholicism"
+    },
+    {
+        "node_name": "\u2026 Wesleyan Methodist",
+        "node_dcid": "Count_Person_WesleyanMethodist",
+        "node_link": "https://datacommons.org/browser/Count_Person_WesleyanMethodist"
+    },
+    {
+        "node_name": "Population: Irreligion",
+        "node_dcid": "Count_Person_Irreligion",
+        "node_link": "https://datacommons.org/browser/Count_Person_Irreligion"
+    },
+    {
+        "node_name": "Population: Judaism",
+        "node_dcid": "Count_Person_Judaism",
+        "node_link": "https://datacommons.org/browser/Count_Person_Judaism"
+    },
+    {
+        "node_name": "Population: Religion Not Stated",
+        "node_dcid": "indianCens",
+        "node_link": "https://datacommons.org/browser/indianCens"
+    },
+    {
+        "node_name": "\u2026 Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "Population: 15 Years or More, With Experience, Unemployed",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed"
+    },
+    {
+        "node_name": "\u2026 Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "\u2026 Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "Population: 15 Years or More, With Experience, Unemployed",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed"
+    },
+    {
+        "node_name": "\u2026 Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "\u2026 Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "\u2026 Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "Population: 15 Years or More, Without Regular Job Experience, Unemployed",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed"
+    },
+    {
+        "node_name": "\u2026 Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "\u2026 Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "Population: 15 Years or More, Without Regular Job Experience, Unemployed",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed"
+    },
+    {
+        "node_name": "\u2026 Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "\u2026 Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "\u2026 Life Expectancy",
+        "node_dcid": "LifeExpectancy_Person_Female",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_Female"
+    },
+    {
+        "node_name": "\u2026 Population",
+        "node_dcid": "Count_Person_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Female"
+    },
+    {
+        "node_name": "\u2026 0 - 14 Years, Female",
+        "node_dcid": "Count_Person_0To14Years_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_0To14Years_Female"
+    },
+    {
+        "node_name": "\u2026 25 - 44 Years, Female",
+        "node_dcid": "Count_Person_25To44Years_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_25To44Years_Female"
+    },
+    {
+        "node_name": "Population: 15 - 24 Years, Female",
+        "node_dcid": "Count_Person_15To24Years_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_15To24Years_Female"
+    },
+    {
+        "node_name": "Population: 15 Years or More, Female",
+        "node_dcid": "Count_Person_15OrMoreYears_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_15OrMoreYears_Female"
+    },
+    {
+        "node_name": "\u2026 With Experience, Unemployed, Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 Without Regular Job Experience, Unemployed, Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "Population: 15 Years or More, Employed, Female",
+        "node_dcid": "Count_Person_Years15Onwards_Employed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_Employed_Female"
+    },
+    {
+        "node_name": "\u2026 With Experience, Unemployed, Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 Without Regular Job Experience, Unemployed, Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "Population: 45 - 64 Years, Female",
+        "node_dcid": "Count_Person_45To64Years_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_45To64Years_Female"
+    },
+    {
+        "node_name": "Population: 65 Years or More, Female",
+        "node_dcid": "Count_Person_65OrMoreYears_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_65OrMoreYears_Female"
+    },
+    {
+        "node_name": "Life Expectancy: Years 10, Female",
+        "node_dcid": "LifeExpectancy_Person_10Years_Female",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_10Years_Female"
+    },
+    {
+        "node_name": "Life Expectancy: Years 15, Female",
+        "node_dcid": "LifeExpectancy_Person_15Years_Female",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_15Years_Female"
+    },
+    {
+        "node_name": "Life Expectancy: Years 20, Female",
+        "node_dcid": "LifeExpectancy_Person_20Years_Female",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_20Years_Female"
+    },
+    {
+        "node_name": "Life Expectancy: Years 25, Female",
+        "node_dcid": "LifeExpectancy_Person_25Years_Female",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_25Years_Female"
+    },
+    {
+        "node_name": "Life Expectancy: Years 35, Female",
+        "node_dcid": "LifeExpectancy_Person_35Years_Female",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_35Years_Female"
+    },
+    {
+        "node_name": "Life Expectancy: Years 45, Female",
+        "node_dcid": "LifeExpectancy_Person_45Years_Female",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_45Years_Female"
+    },
+    {
+        "node_name": "Life Expectancy: Years 5, Female",
+        "node_dcid": "LifeExpectancy_Person_5Years_Female",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_5Years_Female"
+    },
+    {
+        "node_name": "Life Expectancy: Years 55, Female",
+        "node_dcid": "LifeExpectancy_Person_55Years_Female",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_55Years_Female"
+    },
+    {
+        "node_name": "Life Expectancy: Years 65, Female",
+        "node_dcid": "LifeExpectancy_Person_65Years_Female",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_65Years_Female"
+    },
+    {
+        "node_name": "Life Expectancy: Years 75, Female",
+        "node_dcid": "LifeExpectancy_Person_75Years_Female",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_75Years_Female"
+    },
+    {
+        "node_name": "\u2026 With Experience, Unemployed, Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 Without Regular Job Experience, Unemployed, Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "Population: 15 Years or More, Employed, Female",
+        "node_dcid": "Count_Person_Years15Onwards_Employed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_Employed_Female"
+    },
+    {
+        "node_name": "\u2026 With Experience, Unemployed, Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 Without Regular Job Experience, Unemployed, Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 With Experience, Unemployed, Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 Without Regular Job Experience, Unemployed, Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 Life Expectancy",
+        "node_dcid": "LifeExpectancy_Person_Male",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_Male"
+    },
+    {
+        "node_name": "\u2026 Population",
+        "node_dcid": "Count_Person_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Male"
+    },
+    {
+        "node_name": "\u2026 0 - 14 Years, Male",
+        "node_dcid": "Count_Person_0To14Years_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_0To14Years_Male"
+    },
+    {
+        "node_name": "\u2026 25 - 44 Years, Male",
+        "node_dcid": "Count_Person_25To44Years_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_25To44Years_Male"
+    },
+    {
+        "node_name": "Population: 15 - 24 Years, Male",
+        "node_dcid": "Count_Person_15To24Years_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_15To24Years_Male"
+    },
+    {
+        "node_name": "Population: 15 Years or More, Male",
+        "node_dcid": "Count_Person_15OrMoreYears_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_15OrMoreYears_Male"
+    },
+    {
+        "node_name": "\u2026 With Experience, Unemployed, Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "\u2026 Without Regular Job Experience, Unemployed, Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "Population: 15 Years or More, Employed, Male",
+        "node_dcid": "Count_Person_Years15Onwards_Employed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_Employed_Male"
+    },
+    {
+        "node_name": "\u2026 With Experience, Unemployed, Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "\u2026 Without Regular Job Experience, Unemployed, Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "Population: 45 - 64 Years, Male",
+        "node_dcid": "Count_Person_45To64Years_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_45To64Years_Male"
+    },
+    {
+        "node_name": "Population: 65 Years or More, Male",
+        "node_dcid": "Count_Person_65OrMoreYears_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_65OrMoreYears_Male"
+    },
+    {
+        "node_name": "Life Expectancy: Years 10, Male",
+        "node_dcid": "LifeExpectancy_Person_10Years_Male",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_10Years_Male"
+    },
+    {
+        "node_name": "Life Expectancy: Years 15, Male",
+        "node_dcid": "LifeExpectancy_Person_15Years_Male",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_15Years_Male"
+    },
+    {
+        "node_name": "Life Expectancy: Years 20, Male",
+        "node_dcid": "LifeExpectancy_Person_20Years_Male",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_20Years_Male"
+    },
+    {
+        "node_name": "Life Expectancy: Years 25, Male",
+        "node_dcid": "LifeExpectancy_Person_25Years_Male",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_25Years_Male"
+    },
+    {
+        "node_name": "Life Expectancy: Years 35, Male",
+        "node_dcid": "LifeExpectancy_Person_35Years_Male",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_35Years_Male"
+    },
+    {
+        "node_name": "Life Expectancy: Years 45, Male",
+        "node_dcid": "LifeExpectancy_Person_45Years_Male",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_45Years_Male"
+    },
+    {
+        "node_name": "Life Expectancy: Years 5, Male",
+        "node_dcid": "LifeExpectancy_Person_5Years_Male",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_5Years_Male"
+    },
+    {
+        "node_name": "Life Expectancy: Years 55, Male",
+        "node_dcid": "LifeExpectancy_Person_55Years_Male",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_55Years_Male"
+    },
+    {
+        "node_name": "Life Expectancy: Years 65, Male",
+        "node_dcid": "LifeExpectancy_Person_65Years_Male",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_65Years_Male"
+    },
+    {
+        "node_name": "Life Expectancy: Years 75, Male",
+        "node_dcid": "LifeExpectancy_Person_75Years_Male",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_75Years_Male"
+    },
+    {
+        "node_name": "\u2026 With Experience, Unemployed, Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "\u2026 Without Regular Job Experience, Unemployed, Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "Population: 15 Years or More, Employed, Male",
+        "node_dcid": "Count_Person_Years15Onwards_Employed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_Employed_Male"
+    },
+    {
+        "node_name": "\u2026 With Experience, Unemployed, Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "\u2026 Without Regular Job Experience, Unemployed, Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "\u2026 With Experience, Unemployed, Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "\u2026 Without Regular Job Experience, Unemployed, Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "Population: 15 Years or More, Employed",
+        "node_dcid": "Count_Person_Years15Onwards_Employed",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_Employed"
+    },
+    {
+        "node_name": "\u2026 Female",
+        "node_dcid": "Count_Person_Years15Onwards_Employed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_Employed_Female"
+    },
+    {
+        "node_name": "\u2026 Male",
+        "node_dcid": "Count_Person_Years15Onwards_Employed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_Employed_Male"
+    },
+    {
+        "node_name": "Population: 15 Years or More, Employed, Female",
+        "node_dcid": "Count_Person_Years15Onwards_Employed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_Employed_Female"
+    },
+    {
+        "node_name": "Population: 15 Years or More, Employed, Male",
+        "node_dcid": "Count_Person_Years15Onwards_Employed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_Employed_Male"
+    },
+    {
+        "node_name": "Population: 15 Years or More, With Experience, Unemployed",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed"
+    },
+    {
+        "node_name": "\u2026 Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "Population: 15 Years or More, Without Regular Job Experience, Unemployed",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed"
+    },
+    {
+        "node_name": "\u2026 Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "\u2026 With Experience, Unemployed, Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 Without Regular Job Experience, Unemployed, Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 With Experience, Unemployed, Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "\u2026 Without Regular Job Experience, Unemployed, Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "Population: 15 Years or More, With Experience, Unemployed",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed"
+    },
+    {
+        "node_name": "\u2026 Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "\u2026 Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "Population: 15 Years or More, Without Regular Job Experience, Unemployed",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed"
+    },
+    {
+        "node_name": "\u2026 Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "\u2026 Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "\u2026 With Experience, Unemployed, Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 Without Regular Job Experience, Unemployed, Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 With Experience, Unemployed, Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 Without Regular Job Experience, Unemployed, Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 With Experience, Unemployed, Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "\u2026 Without Regular Job Experience, Unemployed, Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "\u2026 With Experience, Unemployed, Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "\u2026 Without Regular Job Experience, Unemployed, Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "\u2026 Church of Ireland Including Protestant",
+        "node_dcid": "Count_Person_ChurchOfIrelandIncludingProtestant",
+        "node_link": "https://datacommons.org/browser/Count_Person_ChurchOfIrelandIncludingProtestant"
+    },
+    {
+        "node_name": "\u2026 Ireland_Other Stated Religion",
+        "node_dcid": "Count_Person_IrelandOtherStatedReligion",
+        "node_link": "https://datacommons.org/browser/Count_Person_IrelandOtherStatedReligion"
+    },
+    {
+        "node_name": "\u2026 Presbyterian",
+        "node_dcid": "Count_Person_Presbyterian",
+        "node_link": "https://datacommons.org/browser/Count_Person_Presbyterian"
+    },
+    {
+        "node_name": "\u2026 Roman Catholicism",
+        "node_dcid": "Count_Person_RomanCatholicism",
+        "node_link": "https://datacommons.org/browser/Count_Person_RomanCatholicism"
+    },
+    {
+        "node_name": "\u2026 Wesleyan Methodist",
+        "node_dcid": "Count_Person_WesleyanMethodist",
+        "node_link": "https://datacommons.org/browser/Count_Person_WesleyanMethodist"
+    },
+    {
+        "node_name": "Population: Irreligion",
+        "node_dcid": "Count_Person_Irreligion",
+        "node_link": "https://datacommons.org/browser/Count_Person_Irreligion"
+    },
+    {
+        "node_name": "Population: Judaism",
+        "node_dcid": "Count_Person_Judaism",
+        "node_link": "https://datacommons.org/browser/Count_Person_Judaism"
+    },
+    {
+        "node_name": "Population: Religion Not Stated",
+        "node_dcid": "indianCens",
+        "node_link": "https://datacommons.org/browser/indianCens"
+    },
+    {
+        "node_name": "Population: 0 - 14 Years",
+        "node_dcid": "Count_Person_0To14Years",
+        "node_link": "https://datacommons.org/browser/Count_Person_0To14Years"
+    },
+    {
+        "node_name": "\u2026 Female",
+        "node_dcid": "Count_Person_0To14Years_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_0To14Years_Female"
+    },
+    {
+        "node_name": "\u2026 Male",
+        "node_dcid": "Count_Person_0To14Years_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_0To14Years_Male"
+    },
+    {
+        "node_name": "Population: 15 - 24 Years",
+        "node_dcid": "Count_Person_15To24Years",
+        "node_link": "https://datacommons.org/browser/Count_Person_15To24Years"
+    },
+    {
+        "node_name": "Population: 15 - 24 Years, Female",
+        "node_dcid": "Count_Person_15To24Years_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_15To24Years_Female"
+    },
+    {
+        "node_name": "Population: 15 - 24 Years, Male",
+        "node_dcid": "Count_Person_15To24Years_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_15To24Years_Male"
+    },
+    {
+        "node_name": "Population Aged 15 Years or Older",
+        "node_dcid": "Count_Person_15OrMoreYears",
+        "node_link": "https://datacommons.org/browser/Count_Person_15OrMoreYears"
+    },
+    {
+        "node_name": "\u2026 Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "Population: 15 Years or More, With Experience, Unemployed",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed"
+    },
+    {
+        "node_name": "\u2026 Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "\u2026 Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "Population: 15 Years or More, Without Regular Job Experience, Unemployed",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed"
+    },
+    {
+        "node_name": "\u2026 Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "Population: 15 Years or More, Female",
+        "node_dcid": "Count_Person_15OrMoreYears_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_15OrMoreYears_Female"
+    },
+    {
+        "node_name": "\u2026 With Experience, Unemployed, Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 Without Regular Job Experience, Unemployed, Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "Population: 15 Years or More, Employed, Female",
+        "node_dcid": "Count_Person_Years15Onwards_Employed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_Employed_Female"
+    },
+    {
+        "node_name": "\u2026 With Experience, Unemployed, Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 Without Regular Job Experience, Unemployed, Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "Population: 15 Years or More, Male",
+        "node_dcid": "Count_Person_15OrMoreYears_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_15OrMoreYears_Male"
+    },
+    {
+        "node_name": "\u2026 With Experience, Unemployed, Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "\u2026 Without Regular Job Experience, Unemployed, Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "Population: 15 Years or More, Employed, Male",
+        "node_dcid": "Count_Person_Years15Onwards_Employed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_Employed_Male"
+    },
+    {
+        "node_name": "\u2026 With Experience, Unemployed, Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "\u2026 Without Regular Job Experience, Unemployed, Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "Population: 15 Years or More, Employed",
+        "node_dcid": "Count_Person_Years15Onwards_Employed",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_Employed"
+    },
+    {
+        "node_name": "\u2026 Female",
+        "node_dcid": "Count_Person_Years15Onwards_Employed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_Employed_Female"
+    },
+    {
+        "node_name": "\u2026 Male",
+        "node_dcid": "Count_Person_Years15Onwards_Employed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_Employed_Male"
+    },
+    {
+        "node_name": "Population: 15 Years or More, With Experience, Unemployed",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed"
+    },
+    {
+        "node_name": "\u2026 Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "Population: 15 Years or More, Without Regular Job Experience, Unemployed",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed"
+    },
+    {
+        "node_name": "\u2026 Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "\u2026 With Experience, Unemployed, Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 Without Regular Job Experience, Unemployed, Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 With Experience, Unemployed, Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "\u2026 Without Regular Job Experience, Unemployed, Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "Population: 25 - 44 Years",
+        "node_dcid": "Count_Person_25To44Years",
+        "node_link": "https://datacommons.org/browser/Count_Person_25To44Years"
+    },
+    {
+        "node_name": "\u2026 Female",
+        "node_dcid": "Count_Person_25To44Years_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_25To44Years_Female"
+    },
+    {
+        "node_name": "\u2026 Male",
+        "node_dcid": "Count_Person_25To44Years_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_25To44Years_Male"
+    },
+    {
+        "node_name": "Population: 45 - 64 Years",
+        "node_dcid": "Count_Person_45To64Years",
+        "node_link": "https://datacommons.org/browser/Count_Person_45To64Years"
+    },
+    {
+        "node_name": "Population: 45 - 64 Years, Female",
+        "node_dcid": "Count_Person_45To64Years_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_45To64Years_Female"
+    },
+    {
+        "node_name": "Population: 45 - 64 Years, Male",
+        "node_dcid": "Count_Person_45To64Years_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_45To64Years_Male"
+    },
+    {
+        "node_name": "Population: 65 Years or More",
+        "node_dcid": "Count_Person_65OrMoreYears",
+        "node_link": "https://datacommons.org/browser/Count_Person_65OrMoreYears"
+    },
+    {
+        "node_name": "Population: 65 Years or More, Female",
+        "node_dcid": "Count_Person_65OrMoreYears_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_65OrMoreYears_Female"
+    },
+    {
+        "node_name": "Population: 65 Years or More, Male",
+        "node_dcid": "Count_Person_65OrMoreYears_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_65OrMoreYears_Male"
+    },
+    {
+        "node_name": "Life Expectancy: Years 10, Female",
+        "node_dcid": "LifeExpectancy_Person_10Years_Female",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_10Years_Female"
+    },
+    {
+        "node_name": "Life Expectancy: Years 10, Male",
+        "node_dcid": "LifeExpectancy_Person_10Years_Male",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_10Years_Male"
+    },
+    {
+        "node_name": "Life Expectancy: Years 15, Female",
+        "node_dcid": "LifeExpectancy_Person_15Years_Female",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_15Years_Female"
+    },
+    {
+        "node_name": "Life Expectancy: Years 15, Male",
+        "node_dcid": "LifeExpectancy_Person_15Years_Male",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_15Years_Male"
+    },
+    {
+        "node_name": "Life Expectancy: Years 20, Female",
+        "node_dcid": "LifeExpectancy_Person_20Years_Female",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_20Years_Female"
+    },
+    {
+        "node_name": "Life Expectancy: Years 20, Male",
+        "node_dcid": "LifeExpectancy_Person_20Years_Male",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_20Years_Male"
+    },
+    {
+        "node_name": "Life Expectancy: Years 25, Female",
+        "node_dcid": "LifeExpectancy_Person_25Years_Female",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_25Years_Female"
+    },
+    {
+        "node_name": "Life Expectancy: Years 25, Male",
+        "node_dcid": "LifeExpectancy_Person_25Years_Male",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_25Years_Male"
+    },
+    {
+        "node_name": "Life Expectancy: Years 35, Female",
+        "node_dcid": "LifeExpectancy_Person_35Years_Female",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_35Years_Female"
+    },
+    {
+        "node_name": "Life Expectancy: Years 35, Male",
+        "node_dcid": "LifeExpectancy_Person_35Years_Male",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_35Years_Male"
+    },
+    {
+        "node_name": "Life Expectancy: Years 45, Female",
+        "node_dcid": "LifeExpectancy_Person_45Years_Female",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_45Years_Female"
+    },
+    {
+        "node_name": "Life Expectancy: Years 45, Male",
+        "node_dcid": "LifeExpectancy_Person_45Years_Male",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_45Years_Male"
+    },
+    {
+        "node_name": "Life Expectancy: Years 5, Female",
+        "node_dcid": "LifeExpectancy_Person_5Years_Female",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_5Years_Female"
+    },
+    {
+        "node_name": "Life Expectancy: Years 5, Male",
+        "node_dcid": "LifeExpectancy_Person_5Years_Male",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_5Years_Male"
+    },
+    {
+        "node_name": "Life Expectancy: Years 55, Female",
+        "node_dcid": "LifeExpectancy_Person_55Years_Female",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_55Years_Female"
+    },
+    {
+        "node_name": "Life Expectancy: Years 55, Male",
+        "node_dcid": "LifeExpectancy_Person_55Years_Male",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_55Years_Male"
+    },
+    {
+        "node_name": "Life Expectancy: Years 65, Female",
+        "node_dcid": "LifeExpectancy_Person_65Years_Female",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_65Years_Female"
+    },
+    {
+        "node_name": "Life Expectancy: Years 65, Male",
+        "node_dcid": "LifeExpectancy_Person_65Years_Male",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_65Years_Male"
+    },
+    {
+        "node_name": "Life Expectancy: Years 75, Female",
+        "node_dcid": "LifeExpectancy_Person_75Years_Female",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_75Years_Female"
+    },
+    {
+        "node_name": "Life Expectancy: Years 75, Male",
+        "node_dcid": "LifeExpectancy_Person_75Years_Male",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_75Years_Male"
+    },
+    {
+        "node_name": "Population: 15 Years or More, Employed",
+        "node_dcid": "Count_Person_Years15Onwards_Employed",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_Employed"
+    },
+    {
+        "node_name": "\u2026 Female",
+        "node_dcid": "Count_Person_Years15Onwards_Employed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_Employed_Female"
+    },
+    {
+        "node_name": "\u2026 Male",
+        "node_dcid": "Count_Person_Years15Onwards_Employed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_Employed_Male"
+    },
+    {
+        "node_name": "Population: 15 Years or More, Employed, Female",
+        "node_dcid": "Count_Person_Years15Onwards_Employed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_Employed_Female"
+    },
+    {
+        "node_name": "Population: 15 Years or More, Employed, Male",
+        "node_dcid": "Count_Person_Years15Onwards_Employed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_Employed_Male"
+    },
+    {
+        "node_name": "Population: 15 Years or More, With Experience, Unemployed",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed"
+    },
+    {
+        "node_name": "\u2026 Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "Population: 15 Years or More, Without Regular Job Experience, Unemployed",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed"
+    },
+    {
+        "node_name": "\u2026 Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "\u2026 With Experience, Unemployed, Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 Without Regular Job Experience, Unemployed, Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 With Experience, Unemployed, Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "\u2026 Without Regular Job Experience, Unemployed, Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "Population: 15 Years or More, With Experience, Unemployed",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed"
+    },
+    {
+        "node_name": "\u2026 Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "\u2026 Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "Population: 15 Years or More, Without Regular Job Experience, Unemployed",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed"
+    },
+    {
+        "node_name": "\u2026 Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "\u2026 Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "\u2026 With Experience, Unemployed, Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 Without Regular Job Experience, Unemployed, Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 With Experience, Unemployed, Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 Without Regular Job Experience, Unemployed, Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 With Experience, Unemployed, Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "\u2026 Without Regular Job Experience, Unemployed, Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "\u2026 With Experience, Unemployed, Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "\u2026 Without Regular Job Experience, Unemployed, Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "Population: 15 Years or More, Employed",
+        "node_dcid": "Count_Person_Years15Onwards_Employed",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_Employed"
+    },
+    {
+        "node_name": "\u2026 Female",
+        "node_dcid": "Count_Person_Years15Onwards_Employed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_Employed_Female"
+    },
+    {
+        "node_name": "\u2026 Male",
+        "node_dcid": "Count_Person_Years15Onwards_Employed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_Employed_Male"
+    },
+    {
+        "node_name": "Population: 15 Years or More, Employed, Female",
+        "node_dcid": "Count_Person_Years15Onwards_Employed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_Employed_Female"
+    },
+    {
+        "node_name": "Population: 15 Years or More, Employed, Male",
+        "node_dcid": "Count_Person_Years15Onwards_Employed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_Employed_Male"
+    },
+    {
+        "node_name": "Population: 15 Years or More, With Experience, Unemployed",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed"
+    },
+    {
+        "node_name": "\u2026 Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "Population: 15 Years or More, Without Regular Job Experience, Unemployed",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed"
+    },
+    {
+        "node_name": "\u2026 Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "\u2026 With Experience, Unemployed, Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 Without Regular Job Experience, Unemployed, Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 With Experience, Unemployed, Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "\u2026 Without Regular Job Experience, Unemployed, Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "Population: 15 Years or More, With Experience, Unemployed",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed"
+    },
+    {
+        "node_name": "\u2026 Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "\u2026 Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "Population: 15 Years or More, Without Regular Job Experience, Unemployed",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed"
+    },
+    {
+        "node_name": "\u2026 Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "\u2026 Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "\u2026 With Experience, Unemployed, Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 Without Regular Job Experience, Unemployed, Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 With Experience, Unemployed, Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 Without Regular Job Experience, Unemployed, Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 With Experience, Unemployed, Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "\u2026 Without Regular Job Experience, Unemployed, Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "\u2026 With Experience, Unemployed, Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "\u2026 Without Regular Job Experience, Unemployed, Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "Count of Birth Event",
+        "node_dcid": "Count_BirthEvent",
+        "node_link": "https://datacommons.org/browser/Count_BirthEvent"
+    },
+    {
+        "node_name": "Count of Birth Event",
+        "node_dcid": "Count_BirthEvent",
+        "node_link": "https://datacommons.org/browser/Count_BirthEvent"
+    },
+    {
+        "node_name": "\u2026 Life Expectancy",
+        "node_dcid": "LifeExpectancy_Person_Female",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_Female"
+    },
+    {
+        "node_name": "\u2026 Population",
+        "node_dcid": "Count_Person_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Female"
+    },
+    {
+        "node_name": "\u2026 0 - 14 Years, Female",
+        "node_dcid": "Count_Person_0To14Years_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_0To14Years_Female"
+    },
+    {
+        "node_name": "\u2026 25 - 44 Years, Female",
+        "node_dcid": "Count_Person_25To44Years_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_25To44Years_Female"
+    },
+    {
+        "node_name": "Population: 15 - 24 Years, Female",
+        "node_dcid": "Count_Person_15To24Years_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_15To24Years_Female"
+    },
+    {
+        "node_name": "Population: 15 Years or More, Female",
+        "node_dcid": "Count_Person_15OrMoreYears_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_15OrMoreYears_Female"
+    },
+    {
+        "node_name": "\u2026 With Experience, Unemployed, Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 Without Regular Job Experience, Unemployed, Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "Population: 15 Years or More, Employed, Female",
+        "node_dcid": "Count_Person_Years15Onwards_Employed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_Employed_Female"
+    },
+    {
+        "node_name": "\u2026 With Experience, Unemployed, Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 Without Regular Job Experience, Unemployed, Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "Population: 45 - 64 Years, Female",
+        "node_dcid": "Count_Person_45To64Years_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_45To64Years_Female"
+    },
+    {
+        "node_name": "Population: 65 Years or More, Female",
+        "node_dcid": "Count_Person_65OrMoreYears_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_65OrMoreYears_Female"
+    },
+    {
+        "node_name": "Life Expectancy: Years 10, Female",
+        "node_dcid": "LifeExpectancy_Person_10Years_Female",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_10Years_Female"
+    },
+    {
+        "node_name": "Life Expectancy: Years 15, Female",
+        "node_dcid": "LifeExpectancy_Person_15Years_Female",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_15Years_Female"
+    },
+    {
+        "node_name": "Life Expectancy: Years 20, Female",
+        "node_dcid": "LifeExpectancy_Person_20Years_Female",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_20Years_Female"
+    },
+    {
+        "node_name": "Life Expectancy: Years 25, Female",
+        "node_dcid": "LifeExpectancy_Person_25Years_Female",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_25Years_Female"
+    },
+    {
+        "node_name": "Life Expectancy: Years 35, Female",
+        "node_dcid": "LifeExpectancy_Person_35Years_Female",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_35Years_Female"
+    },
+    {
+        "node_name": "Life Expectancy: Years 45, Female",
+        "node_dcid": "LifeExpectancy_Person_45Years_Female",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_45Years_Female"
+    },
+    {
+        "node_name": "Life Expectancy: Years 5, Female",
+        "node_dcid": "LifeExpectancy_Person_5Years_Female",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_5Years_Female"
+    },
+    {
+        "node_name": "Life Expectancy: Years 55, Female",
+        "node_dcid": "LifeExpectancy_Person_55Years_Female",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_55Years_Female"
+    },
+    {
+        "node_name": "Life Expectancy: Years 65, Female",
+        "node_dcid": "LifeExpectancy_Person_65Years_Female",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_65Years_Female"
+    },
+    {
+        "node_name": "Life Expectancy: Years 75, Female",
+        "node_dcid": "LifeExpectancy_Person_75Years_Female",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_75Years_Female"
+    },
+    {
+        "node_name": "\u2026 With Experience, Unemployed, Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 Without Regular Job Experience, Unemployed, Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "Population: 15 Years or More, Employed, Female",
+        "node_dcid": "Count_Person_Years15Onwards_Employed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_Employed_Female"
+    },
+    {
+        "node_name": "\u2026 With Experience, Unemployed, Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 Without Regular Job Experience, Unemployed, Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 With Experience, Unemployed, Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 Without Regular Job Experience, Unemployed, Female",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Female"
+    },
+    {
+        "node_name": "\u2026 Life Expectancy",
+        "node_dcid": "LifeExpectancy_Person_Male",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_Male"
+    },
+    {
+        "node_name": "\u2026 Population",
+        "node_dcid": "Count_Person_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Male"
+    },
+    {
+        "node_name": "\u2026 0 - 14 Years, Male",
+        "node_dcid": "Count_Person_0To14Years_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_0To14Years_Male"
+    },
+    {
+        "node_name": "\u2026 25 - 44 Years, Male",
+        "node_dcid": "Count_Person_25To44Years_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_25To44Years_Male"
+    },
+    {
+        "node_name": "Population: 15 - 24 Years, Male",
+        "node_dcid": "Count_Person_15To24Years_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_15To24Years_Male"
+    },
+    {
+        "node_name": "Population: 15 Years or More, Male",
+        "node_dcid": "Count_Person_15OrMoreYears_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_15OrMoreYears_Male"
+    },
+    {
+        "node_name": "\u2026 With Experience, Unemployed, Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "\u2026 Without Regular Job Experience, Unemployed, Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "Population: 15 Years or More, Employed, Male",
+        "node_dcid": "Count_Person_Years15Onwards_Employed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_Employed_Male"
+    },
+    {
+        "node_name": "\u2026 With Experience, Unemployed, Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "\u2026 Without Regular Job Experience, Unemployed, Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "Population: 45 - 64 Years, Male",
+        "node_dcid": "Count_Person_45To64Years_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_45To64Years_Male"
+    },
+    {
+        "node_name": "Population: 65 Years or More, Male",
+        "node_dcid": "Count_Person_65OrMoreYears_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_65OrMoreYears_Male"
+    },
+    {
+        "node_name": "Life Expectancy: Years 10, Male",
+        "node_dcid": "LifeExpectancy_Person_10Years_Male",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_10Years_Male"
+    },
+    {
+        "node_name": "Life Expectancy: Years 15, Male",
+        "node_dcid": "LifeExpectancy_Person_15Years_Male",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_15Years_Male"
+    },
+    {
+        "node_name": "Life Expectancy: Years 20, Male",
+        "node_dcid": "LifeExpectancy_Person_20Years_Male",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_20Years_Male"
+    },
+    {
+        "node_name": "Life Expectancy: Years 25, Male",
+        "node_dcid": "LifeExpectancy_Person_25Years_Male",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_25Years_Male"
+    },
+    {
+        "node_name": "Life Expectancy: Years 35, Male",
+        "node_dcid": "LifeExpectancy_Person_35Years_Male",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_35Years_Male"
+    },
+    {
+        "node_name": "Life Expectancy: Years 45, Male",
+        "node_dcid": "LifeExpectancy_Person_45Years_Male",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_45Years_Male"
+    },
+    {
+        "node_name": "Life Expectancy: Years 5, Male",
+        "node_dcid": "LifeExpectancy_Person_5Years_Male",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_5Years_Male"
+    },
+    {
+        "node_name": "Life Expectancy: Years 55, Male",
+        "node_dcid": "LifeExpectancy_Person_55Years_Male",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_55Years_Male"
+    },
+    {
+        "node_name": "Life Expectancy: Years 65, Male",
+        "node_dcid": "LifeExpectancy_Person_65Years_Male",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_65Years_Male"
+    },
+    {
+        "node_name": "Life Expectancy: Years 75, Male",
+        "node_dcid": "LifeExpectancy_Person_75Years_Male",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_75Years_Male"
+    },
+    {
+        "node_name": "\u2026 With Experience, Unemployed, Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "\u2026 Without Regular Job Experience, Unemployed, Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "Population: 15 Years or More, Employed, Male",
+        "node_dcid": "Count_Person_Years15Onwards_Employed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_Employed_Male"
+    },
+    {
+        "node_name": "\u2026 With Experience, Unemployed, Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "\u2026 Without Regular Job Experience, Unemployed, Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "\u2026 With Experience, Unemployed, Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "\u2026 Without Regular Job Experience, Unemployed, Male",
+        "node_dcid": "Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_WithoutRegularJobExperience_Unemployed_Male"
+    },
+    {
+        "node_name": "Number of Deaths",
+        "node_dcid": "Count_Death",
+        "node_link": "https://datacommons.org/browser/Count_Death"
+    },
+    {
+        "node_name": "\u2026 External Causes of Death",
+        "node_dcid": "Count_MortalityEvent_ExternalCausesOfDeath",
+        "node_link": "https://datacommons.org/browser/Count_MortalityEvent_ExternalCausesOfDeath"
+    },
+    {
+        "node_name": "\u2026 Other External Causes of Death",
+        "node_dcid": "Count_MortalityEvent_OtherExternalCausesOfDeath",
+        "node_link": "https://datacommons.org/browser/Count_MortalityEvent_OtherExternalCausesOfDeath"
+    },
+    {
+        "node_name": "Count of Mortality Event: Accidents(Unintentional Injuries)",
+        "node_dcid": "Count_MortalityEvent_Accidents(UnintentionalInjuries)",
+        "node_link": "https://datacommons.org/browser/Count_MortalityEvent_Accidents(UnintentionalInjuries)"
+    },
+    {
+        "node_name": "Count of Mortality Event: Assault(Homicide)",
+        "node_dcid": "Count_MortalityEvent_Assault(Homicide)",
+        "node_link": "https://datacommons.org/browser/Count_MortalityEvent_Assault(Homicide)"
+    },
+    {
+        "node_name": "Count of Mortality Event: Events of Undetermined Intent",
+        "node_dcid": "Count_MortalityEvent_EventsOfUndeterminedIntent",
+        "node_link": "https://datacommons.org/browser/Count_MortalityEvent_EventsOfUndeterminedIntent"
+    },
+    {
+        "node_name": "Count of Mortality Event: Intentional Self-Harm(Suicide)",
+        "node_dcid": "Count_MortalityEvent_IntentionalSelf-Harm(Suicide)",
+        "node_link": "https://datacommons.org/browser/Count_MortalityEvent_IntentionalSelf-Harm(Suicide)"
+    },
+    {
+        "node_name": "Count of Mortality Event: Suicide",
+        "node_dcid": "Count_MortalityEvent_Suicide",
+        "node_link": "https://datacommons.org/browser/Count_MortalityEvent_Suicide"
+    },
+    {
+        "node_name": "Count of Mortality Event: Suicide, Female",
+        "node_dcid": "Count_MortalityEvent_Suicide_Female",
+        "node_link": "https://datacommons.org/browser/Count_MortalityEvent_Suicide_Female"
+    },
+    {
+        "node_name": "Count of Mortality Event: Suicide, Male",
+        "node_dcid": "Count_MortalityEvent_Suicide_Male",
+        "node_link": "https://datacommons.org/browser/Count_MortalityEvent_Suicide_Male"
+    },
+    {
+        "node_name": "Count of Mortality Event: Female",
+        "node_dcid": "Count_Death_Female",
+        "node_link": "https://datacommons.org/browser/Count_Death_Female"
+    },
+    {
+        "node_name": "Count of Mortality Event: Suicide, Female",
+        "node_dcid": "Count_MortalityEvent_Suicide_Female",
+        "node_link": "https://datacommons.org/browser/Count_MortalityEvent_Suicide_Female"
+    },
+    {
+        "node_name": "Count of Mortality Event: Male",
+        "node_dcid": "Count_Death_Male",
+        "node_link": "https://datacommons.org/browser/Count_Death_Male"
+    },
+    {
+        "node_name": "Count of Mortality Event: Suicide, Male",
+        "node_dcid": "Count_MortalityEvent_Suicide_Male",
+        "node_link": "https://datacommons.org/browser/Count_MortalityEvent_Suicide_Male"
+    }
+]

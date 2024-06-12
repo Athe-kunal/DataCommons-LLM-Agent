@@ -1,0 +1,1622 @@
+[
+    {
+        "node_name": "\u2026 Electricity Generation From Thermal Power Plant, Greenhouse Gas",
+        "node_dcid": "Annual_Emissions_GreenhouseGas_ElectricityGenerationFromThermalPowerPlant",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_GreenhouseGas_ElectricityGenerationFromThermalPowerPlant"
+    },
+    {
+        "node_name": "\u2026 Fuel Combustion for Aviation, Greenhouse Gas",
+        "node_dcid": "Annual_Emissions_GreenhouseGas_FuelCombustionForAviation",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_GreenhouseGas_FuelCombustionForAviation"
+    },
+    {
+        "node_name": "\u2026 Fuel Combustion for Cooking, Greenhouse Gas",
+        "node_dcid": "Annual_Emissions_GreenhouseGas_FuelCombustionForCooking",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_GreenhouseGas_FuelCombustionForCooking"
+    },
+    {
+        "node_name": "\u2026 Fuel Combustion for Refrigeration Air Conditioning, Greenhouse Gas",
+        "node_dcid": "Annual_Emissions_GreenhouseGas_FuelCombustionForRefrigerationAirConditioning",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_GreenhouseGas_FuelCombustionForRefrigerationAirConditioning"
+    },
+    {
+        "node_name": "\u2026 Managed Soils, Greenhouse Gas",
+        "node_dcid": "Annual_Emissions_GreenhouseGas_ManagedSoils",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_GreenhouseGas_ManagedSoils"
+    },
+    {
+        "node_name": "\u2026 Maritime Transport, Greenhouse Gas",
+        "node_dcid": "Annual_Emissions_GreenhouseGas_MaritimeTransport",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_GreenhouseGas_MaritimeTransport"
+    },
+    {
+        "node_name": "\u2026 Oil And Gas, Greenhouse Gas",
+        "node_dcid": "Annual_Emissions_GreenhouseGas_OilAndGas",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_GreenhouseGas_OilAndGas"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide",
+        "node_dcid": "Annual_Emissions_CarbonDioxide_Agriculture",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxide_Agriculture"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_Agriculture",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_Agriculture"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide Equivalent 20 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_Agriculture",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_Agriculture"
+    },
+    {
+        "node_name": "\u2026 Greenhouse Gas",
+        "node_dcid": "Annual_Emissions_GreenhouseGas_Agriculture",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_GreenhouseGas_Agriculture"
+    },
+    {
+        "node_name": "\u2026 Nitrous Oxide",
+        "node_dcid": "Annual_Emissions_NitrousOxide_Agriculture",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_NitrousOxide_Agriculture"
+    },
+    {
+        "node_name": "Annual Amount of Emissions: Agriculture, Methane",
+        "node_dcid": "Annual_Emissions_Methane_Agriculture",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_Methane_Agriculture"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide",
+        "node_dcid": "Annual_Emissions_CarbonDioxide_AluminumProduction",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxide_AluminumProduction"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_AluminumProduction",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_AluminumProduction"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide Equivalent 20 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_AluminumProduction",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_AluminumProduction"
+    },
+    {
+        "node_name": "\u2026 Greenhouse Gas",
+        "node_dcid": "Annual_Emissions_GreenhouseGas_AluminumProduction",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_GreenhouseGas_AluminumProduction"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide",
+        "node_dcid": "Annual_Emissions_CarbonDioxide_BauxiteMining",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxide_BauxiteMining"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_BauxiteMining",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_BauxiteMining"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide Equivalent 20 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_BauxiteMining",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_BauxiteMining"
+    },
+    {
+        "node_name": "\u2026 Greenhouse Gas",
+        "node_dcid": "Annual_Emissions_GreenhouseGas_BauxiteMining",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_GreenhouseGas_BauxiteMining"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_BiologicalTreatmentOfSolidWasteAndBiogenic",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_BiologicalTreatmentOfSolidWasteAndBiogenic"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide Equivalent 20 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_BiologicalTreatmentOfSolidWasteAndBiogenic",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_BiologicalTreatmentOfSolidWasteAndBiogenic"
+    },
+    {
+        "node_name": "\u2026 Greenhouse Gas",
+        "node_dcid": "Annual_Emissions_GreenhouseGas_BiologicalTreatmentOfSolidWasteAndBiogenic",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_GreenhouseGas_BiologicalTreatmentOfSolidWasteAndBiogenic"
+    },
+    {
+        "node_name": "\u2026 Methane",
+        "node_dcid": "Annual_Emissions_Methane_BiologicalTreatmentOfSolidWasteAndBiogenic",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_Methane_BiologicalTreatmentOfSolidWasteAndBiogenic"
+    },
+    {
+        "node_name": "\u2026 Nitrous Oxide",
+        "node_dcid": "Annual_Emissions_NitrousOxide_BiologicalTreatmentOfSolidWasteAndBiogenic",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_NitrousOxide_BiologicalTreatmentOfSolidWasteAndBiogenic"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide",
+        "node_dcid": "Annual_Emissions_CarbonDioxide_CementProduction",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxide_CementProduction"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_CementProduction",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_CementProduction"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide Equivalent 20 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_CementProduction",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_CementProduction"
+    },
+    {
+        "node_name": "\u2026 Greenhouse Gas",
+        "node_dcid": "Annual_Emissions_GreenhouseGas_CementProduction",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_GreenhouseGas_CementProduction"
+    },
+    {
+        "node_name": "\u2026 Dioxide",
+        "node_dcid": "Annual_Emissions_CarbonDioxide_ChemicalPetrochemicalIndustry",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxide_ChemicalPetrochemicalIndustry"
+    },
+    {
+        "node_name": "\u2026 Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_ChemicalPetrochemicalIndustry",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_ChemicalPetrochemicalIndustry"
+    },
+    {
+        "node_name": "\u2026 Dioxide Equivalent 20 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_ChemicalPetrochemicalIndustry",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_ChemicalPetrochemicalIndustry"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide",
+        "node_dcid": "Annual_Emissions_CarbonDioxide_CoalMining",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxide_CoalMining"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_CoalMining",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_CoalMining"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide Equivalent 20 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_CoalMining",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_CoalMining"
+    },
+    {
+        "node_name": "\u2026 Methane",
+        "node_dcid": "Annual_Emissions_Methane_CoalMining",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_Methane_CoalMining"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide",
+        "node_dcid": "Annual_Emissions_CarbonDioxide_CopperMining",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxide_CopperMining"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_CopperMining",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_CopperMining"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide Equivalent 20 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_CopperMining",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_CopperMining"
+    },
+    {
+        "node_name": "\u2026 Greenhouse Gas",
+        "node_dcid": "Annual_Emissions_GreenhouseGas_CopperMining",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_GreenhouseGas_CopperMining"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide",
+        "node_dcid": "Annual_Emissions_CarbonDioxide_CroplandFire",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxide_CroplandFire"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_CroplandFire",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_CroplandFire"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide Equivalent 20 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_CroplandFire",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_CroplandFire"
+    },
+    {
+        "node_name": "\u2026 Greenhouse Gas",
+        "node_dcid": "Annual_Emissions_GreenhouseGas_CroplandFire",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_GreenhouseGas_CroplandFire"
+    },
+    {
+        "node_name": "\u2026 Methane",
+        "node_dcid": "Annual_Emissions_Methane_CroplandFire",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_Methane_CroplandFire"
+    },
+    {
+        "node_name": "\u2026 Nitrous Oxide",
+        "node_dcid": "Annual_Emissions_NitrousOxide_CroplandFire",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_NitrousOxide_CroplandFire"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide",
+        "node_dcid": "Annual_Emissions_CarbonDioxide_ElectricityGeneration",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxide_ElectricityGeneration"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_ElectricityGeneration",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_ElectricityGeneration"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide Equivalent 20 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_ElectricityGeneration",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_ElectricityGeneration"
+    },
+    {
+        "node_name": "\u2026 Greenhouse Gas",
+        "node_dcid": "Annual_Emissions_GreenhouseGas_ElectricityGeneration",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_GreenhouseGas_ElectricityGeneration"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_EntericFermentation",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_EntericFermentation"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide Equivalent 20 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_EntericFermentation",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_EntericFermentation"
+    },
+    {
+        "node_name": "\u2026 Greenhouse Gas",
+        "node_dcid": "Annual_Emissions_GreenhouseGas_EntericFermentation",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_GreenhouseGas_EntericFermentation"
+    },
+    {
+        "node_name": "\u2026 Methane",
+        "node_dcid": "Annual_Emissions_Methane_EntericFermentation",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_Methane_EntericFermentation"
+    },
+    {
+        "node_name": "\u2026 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_FluorinatedGases",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_FluorinatedGases"
+    },
+    {
+        "node_name": "\u2026 20 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_FluorinatedGases",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_FluorinatedGases"
+    },
+    {
+        "node_name": "Annual Amount of Emissions: Forest Clearing, Greenhouse Gas",
+        "node_dcid": "Annual_Emissions_GreenhouseGas_ForestClearing",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_GreenhouseGas_ForestClearing"
+    },
+    {
+        "node_name": "Annual Amount of Emissions: Forest Fire, Greenhouse Gas",
+        "node_dcid": "Annual_Emissions_GreenhouseGas_ForestFire",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_GreenhouseGas_ForestFire"
+    },
+    {
+        "node_name": "Annual Amount of Emissions: Forestry And Land Use, Greenhouse Gas",
+        "node_dcid": "Annual_Emissions_GreenhouseGas_ForestryAndLandUse",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_GreenhouseGas_ForestryAndLandUse"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide",
+        "node_dcid": "Annual_Emissions_CarbonDioxide_FossilFuelOperations",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxide_FossilFuelOperations"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_FossilFuelOperations",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_FossilFuelOperations"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide Equivalent 20 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_FossilFuelOperations",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_FossilFuelOperations"
+    },
+    {
+        "node_name": "\u2026 Methane",
+        "node_dcid": "Annual_Emissions_Methane_FossilFuelOperations",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_Methane_FossilFuelOperations"
+    },
+    {
+        "node_name": "\u2026 Nitrous Oxide",
+        "node_dcid": "Annual_Emissions_NitrousOxide_FossilFuelOperations",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_NitrousOxide_FossilFuelOperations"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide",
+        "node_dcid": "Annual_Emissions_CarbonDioxide_FuelCombustionForDomesticAviation",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxide_FuelCombustionForDomesticAviation"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_FuelCombustionForDomesticAviation",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_FuelCombustionForDomesticAviation"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide Equivalent 20 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_FuelCombustionForDomesticAviation",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_FuelCombustionForDomesticAviation"
+    },
+    {
+        "node_name": "\u2026 Methane",
+        "node_dcid": "Annual_Emissions_Methane_FuelCombustionForDomesticAviation",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_Methane_FuelCombustionForDomesticAviation"
+    },
+    {
+        "node_name": "\u2026 Nitrous Oxide",
+        "node_dcid": "Annual_Emissions_NitrousOxide_FuelCombustionForDomesticAviation",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_NitrousOxide_FuelCombustionForDomesticAviation"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide",
+        "node_dcid": "Annual_Emissions_CarbonDioxide_FuelCombustionForInternationalAviation",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxide_FuelCombustionForInternationalAviation"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_FuelCombustionForInternationalAviation",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_FuelCombustionForInternationalAviation"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide Equivalent 20 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_FuelCombustionForInternationalAviation",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_FuelCombustionForInternationalAviation"
+    },
+    {
+        "node_name": "\u2026 Methane",
+        "node_dcid": "Annual_Emissions_Methane_FuelCombustionForInternationalAviation",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_Methane_FuelCombustionForInternationalAviation"
+    },
+    {
+        "node_name": "\u2026 Nitrous Oxide",
+        "node_dcid": "Annual_Emissions_NitrousOxide_FuelCombustionForInternationalAviation",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_NitrousOxide_FuelCombustionForInternationalAviation"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide",
+        "node_dcid": "Annual_Emissions_CarbonDioxide_FuelCombustionForRailways",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxide_FuelCombustionForRailways"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_FuelCombustionForRailways",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_FuelCombustionForRailways"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide Equivalent 20 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_FuelCombustionForRailways",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_FuelCombustionForRailways"
+    },
+    {
+        "node_name": "\u2026 Greenhouse Gas",
+        "node_dcid": "Annual_Emissions_GreenhouseGas_FuelCombustionForRailways",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_GreenhouseGas_FuelCombustionForRailways"
+    },
+    {
+        "node_name": "\u2026 Methane",
+        "node_dcid": "Annual_Emissions_Methane_FuelCombustionForRailways",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_Methane_FuelCombustionForRailways"
+    },
+    {
+        "node_name": "\u2026 Nitrous Oxide",
+        "node_dcid": "Annual_Emissions_NitrousOxide_FuelCombustionForRailways",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_NitrousOxide_FuelCombustionForRailways"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide",
+        "node_dcid": "Annual_Emissions_CarbonDioxide_FuelCombustionForResidentialCommercialOnsiteHeating",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxide_FuelCombustionForResidentialCommercialOnsiteHeating"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_FuelCombustionForResidentialCommercialOnsiteHeating",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_FuelCombustionForResidentialCommercialOnsiteHeating"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide Equivalent 20 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_FuelCombustionForResidentialCommercialOnsiteHeating",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_FuelCombustionForResidentialCommercialOnsiteHeating"
+    },
+    {
+        "node_name": "\u2026 Greenhouse Gas",
+        "node_dcid": "Annual_Emissions_GreenhouseGas_FuelCombustionForResidentialCommercialOnsiteHeating",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_GreenhouseGas_FuelCombustionForResidentialCommercialOnsiteHeating"
+    },
+    {
+        "node_name": "\u2026 Methane",
+        "node_dcid": "Annual_Emissions_Methane_FuelCombustionForResidentialCommercialOnsiteHeating",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_Methane_FuelCombustionForResidentialCommercialOnsiteHeating"
+    },
+    {
+        "node_name": "\u2026 Nitrous Oxide",
+        "node_dcid": "Annual_Emissions_NitrousOxide_FuelCombustionForResidentialCommercialOnsiteHeating",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_NitrousOxide_FuelCombustionForResidentialCommercialOnsiteHeating"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide",
+        "node_dcid": "Annual_Emissions_CarbonDioxide_FuelCombustionForRoadVehicles",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxide_FuelCombustionForRoadVehicles"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_FuelCombustionForRoadVehicles",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_FuelCombustionForRoadVehicles"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide Equivalent 20 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_FuelCombustionForRoadVehicles",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_FuelCombustionForRoadVehicles"
+    },
+    {
+        "node_name": "\u2026 Greenhouse Gas",
+        "node_dcid": "Annual_Emissions_GreenhouseGas_FuelCombustionForRoadVehicles",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_GreenhouseGas_FuelCombustionForRoadVehicles"
+    },
+    {
+        "node_name": "\u2026 Methane",
+        "node_dcid": "Annual_Emissions_Methane_FuelCombustionForRoadVehicles",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_Methane_FuelCombustionForRoadVehicles"
+    },
+    {
+        "node_name": "\u2026 Nitrous Oxide",
+        "node_dcid": "Annual_Emissions_NitrousOxide_FuelCombustionForRoadVehicles",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_NitrousOxide_FuelCombustionForRoadVehicles"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide",
+        "node_dcid": "Annual_Emissions_CarbonDioxide_FuelCombustionInBuildings",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxide_FuelCombustionInBuildings"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_FuelCombustionInBuildings",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_FuelCombustionInBuildings"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide Equivalent 20 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_FuelCombustionInBuildings",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_FuelCombustionInBuildings"
+    },
+    {
+        "node_name": "\u2026 Greenhouse Gas",
+        "node_dcid": "Annual_Emissions_GreenhouseGas_FuelCombustionInBuildings",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_GreenhouseGas_FuelCombustionInBuildings"
+    },
+    {
+        "node_name": "\u2026 Methane",
+        "node_dcid": "Annual_Emissions_Methane_FuelCombustionInBuildings",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_Methane_FuelCombustionInBuildings"
+    },
+    {
+        "node_name": "\u2026 Nitrous Oxide",
+        "node_dcid": "Annual_Emissions_NitrousOxide_FuelCombustionInBuildings",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_NitrousOxide_FuelCombustionInBuildings"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide",
+        "node_dcid": "Annual_Emissions_CarbonDioxide_IronMining",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxide_IronMining"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_IronMining",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_IronMining"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide Equivalent 20 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_IronMining",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_IronMining"
+    },
+    {
+        "node_name": "\u2026 Greenhouse Gas",
+        "node_dcid": "Annual_Emissions_GreenhouseGas_IronMining",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_GreenhouseGas_IronMining"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide",
+        "node_dcid": "Annual_Emissions_CarbonDioxide_Manufacturing",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxide_Manufacturing"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_Manufacturing",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_Manufacturing"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide Equivalent 20 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_Manufacturing",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_Manufacturing"
+    },
+    {
+        "node_name": "\u2026 Greenhouse Gas",
+        "node_dcid": "Annual_Emissions_GreenhouseGas_Manufacturing",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_GreenhouseGas_Manufacturing"
+    },
+    {
+        "node_name": "\u2026 Methane",
+        "node_dcid": "Annual_Emissions_Methane_Manufacturing",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_Methane_Manufacturing"
+    },
+    {
+        "node_name": "\u2026 Nitrous Oxide",
+        "node_dcid": "Annual_Emissions_NitrousOxide_Manufacturing",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_NitrousOxide_Manufacturing"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_ManureManagement",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_ManureManagement"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide Equivalent 20 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_ManureManagement",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_ManureManagement"
+    },
+    {
+        "node_name": "\u2026 Greenhouse Gas",
+        "node_dcid": "Annual_Emissions_GreenhouseGas_ManureManagement",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_GreenhouseGas_ManureManagement"
+    },
+    {
+        "node_name": "\u2026 Methane",
+        "node_dcid": "Annual_Emissions_Methane_ManureManagement",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_Methane_ManureManagement"
+    },
+    {
+        "node_name": "\u2026 Nitrous Oxide",
+        "node_dcid": "Annual_Emissions_NitrousOxide_ManureManagement",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_NitrousOxide_ManureManagement"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide",
+        "node_dcid": "Annual_Emissions_CarbonDioxide_MaritimeShipping",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxide_MaritimeShipping"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_MaritimeShipping",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_MaritimeShipping"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide Equivalent 20 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_MaritimeShipping",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_MaritimeShipping"
+    },
+    {
+        "node_name": "\u2026 Greenhouse Gas",
+        "node_dcid": "Annual_Emissions_GreenhouseGas_MaritimeShipping",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_GreenhouseGas_MaritimeShipping"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide",
+        "node_dcid": "Annual_Emissions_CarbonDioxide_MineralExtraction",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxide_MineralExtraction"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_MineralExtraction",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_MineralExtraction"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide Equivalent 20 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_MineralExtraction",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_MineralExtraction"
+    },
+    {
+        "node_name": "\u2026 Greenhouse Gas",
+        "node_dcid": "Annual_Emissions_GreenhouseGas_MineralExtraction",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_GreenhouseGas_MineralExtraction"
+    },
+    {
+        "node_name": "\u2026 Dioxide",
+        "node_dcid": "Annual_Emissions_CarbonDioxide_NetForestEmissions",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxide_NetForestEmissions"
+    },
+    {
+        "node_name": "\u2026 Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_NetForestEmissions",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_NetForestEmissions"
+    },
+    {
+        "node_name": "\u2026 Dioxide Equivalent 20 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_NetForestEmissions",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_NetForestEmissions"
+    },
+    {
+        "node_name": "\u2026 Dioxide",
+        "node_dcid": "Annual_Emissions_CarbonDioxide_NetGrasslandEmissions",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxide_NetGrasslandEmissions"
+    },
+    {
+        "node_name": "\u2026 Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_NetGrasslandEmissions",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_NetGrasslandEmissions"
+    },
+    {
+        "node_name": "\u2026 Dioxide Equivalent 20 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_NetGrasslandEmissions",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_NetGrasslandEmissions"
+    },
+    {
+        "node_name": "\u2026 Dioxide",
+        "node_dcid": "Annual_Emissions_CarbonDioxide_NetWetlandEmissions",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxide_NetWetlandEmissions"
+    },
+    {
+        "node_name": "\u2026 Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_NetWetlandEmissions",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_NetWetlandEmissions"
+    },
+    {
+        "node_name": "\u2026 Dioxide Equivalent 20 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_NetWetlandEmissions",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_NetWetlandEmissions"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide",
+        "node_dcid": "Annual_Emissions_CarbonDioxide_OilAndGasProduction",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxide_OilAndGasProduction"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_OilAndGasProduction",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_OilAndGasProduction"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide Equivalent 20 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_OilAndGasProduction",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_OilAndGasProduction"
+    },
+    {
+        "node_name": "\u2026 Greenhouse Gas",
+        "node_dcid": "Annual_Emissions_GreenhouseGas_OilAndGasProduction",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_GreenhouseGas_OilAndGasProduction"
+    },
+    {
+        "node_name": "\u2026 Methane",
+        "node_dcid": "Annual_Emissions_Methane_OilAndGasProduction",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_Methane_OilAndGasProduction"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide",
+        "node_dcid": "Annual_Emissions_CarbonDioxide_OilAndGasRefining",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxide_OilAndGasRefining"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_OilAndGasRefining",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_OilAndGasRefining"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide Equivalent 20 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_OilAndGasRefining",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_OilAndGasRefining"
+    },
+    {
+        "node_name": "\u2026 Methane",
+        "node_dcid": "Annual_Emissions_Methane_OilAndGasRefining",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_Methane_OilAndGasRefining"
+    },
+    {
+        "node_name": "\u2026 Nitrous Oxide",
+        "node_dcid": "Annual_Emissions_NitrousOxide_OilAndGasRefining",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_NitrousOxide_OilAndGasRefining"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide",
+        "node_dcid": "Annual_Emissions_CarbonDioxide_OpenBurningWaste",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxide_OpenBurningWaste"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_OpenBurningWaste",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_OpenBurningWaste"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide Equivalent 20 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_OpenBurningWaste",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_OpenBurningWaste"
+    },
+    {
+        "node_name": "\u2026 Greenhouse Gas",
+        "node_dcid": "Annual_Emissions_GreenhouseGas_OpenBurningWaste",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_GreenhouseGas_OpenBurningWaste"
+    },
+    {
+        "node_name": "\u2026 Methane",
+        "node_dcid": "Annual_Emissions_Methane_OpenBurningWaste",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_Methane_OpenBurningWaste"
+    },
+    {
+        "node_name": "\u2026 Nitrous Oxide",
+        "node_dcid": "Annual_Emissions_NitrousOxide_OpenBurningWaste",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_NitrousOxide_OpenBurningWaste"
+    },
+    {
+        "node_name": "\u2026 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_ClimateTrace_OtherAgriculturalSoilEmissions",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_ClimateTrace_OtherAgriculturalSoilEmissions"
+    },
+    {
+        "node_name": "\u2026 20 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_ClimateTrace_OtherAgriculturalSoilEmissions",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_ClimateTrace_OtherAgriculturalSoilEmissions"
+    },
+    {
+        "node_name": "Annual Amount of Emissions: Other Agricultural Soil Emissions, Nitrous Oxide",
+        "node_dcid": "Annual_Emissions_NitrousOxide_ClimateTrace_OtherAgriculturalSoilEmissions",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_NitrousOxide_ClimateTrace_OtherAgriculturalSoilEmissions"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide",
+        "node_dcid": "Annual_Emissions_CarbonDioxide_ClimateTrace_OtherEnergyUse",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxide_ClimateTrace_OtherEnergyUse"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_ClimateTrace_OtherEnergyUse",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_ClimateTrace_OtherEnergyUse"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide Equivalent 20 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_ClimateTrace_OtherEnergyUse",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_ClimateTrace_OtherEnergyUse"
+    },
+    {
+        "node_name": "\u2026 Greenhouse Gas",
+        "node_dcid": "Annual_Emissions_GreenhouseGas_ClimateTrace_OtherEnergyUse",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_GreenhouseGas_ClimateTrace_OtherEnergyUse"
+    },
+    {
+        "node_name": "\u2026 Methane",
+        "node_dcid": "Annual_Emissions_Methane_ClimateTrace_OtherEnergyUse",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_Methane_ClimateTrace_OtherEnergyUse"
+    },
+    {
+        "node_name": "\u2026 Nitrous Oxide",
+        "node_dcid": "Annual_Emissions_NitrousOxide_ClimateTrace_OtherEnergyUse",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_NitrousOxide_ClimateTrace_OtherEnergyUse"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide",
+        "node_dcid": "Annual_Emissions_CarbonDioxide_ClimateTrace_OtherFossilFuelOperations",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxide_ClimateTrace_OtherFossilFuelOperations"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_ClimateTrace_OtherFossilFuelOperations",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_ClimateTrace_OtherFossilFuelOperations"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide Equivalent 20 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_ClimateTrace_OtherFossilFuelOperations",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_ClimateTrace_OtherFossilFuelOperations"
+    },
+    {
+        "node_name": "\u2026 Methane",
+        "node_dcid": "Annual_Emissions_Methane_ClimateTrace_OtherFossilFuelOperations",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_Methane_ClimateTrace_OtherFossilFuelOperations"
+    },
+    {
+        "node_name": "\u2026 Nitrous Oxide",
+        "node_dcid": "Annual_Emissions_NitrousOxide_ClimateTrace_OtherFossilFuelOperations",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_NitrousOxide_ClimateTrace_OtherFossilFuelOperations"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide",
+        "node_dcid": "Annual_Emissions_CarbonDioxide_ClimateTrace_OtherManufacturing",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxide_ClimateTrace_OtherManufacturing"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_ClimateTrace_OtherManufacturing",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_ClimateTrace_OtherManufacturing"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide Equivalent 20 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_ClimateTrace_OtherManufacturing",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_ClimateTrace_OtherManufacturing"
+    },
+    {
+        "node_name": "\u2026 Greenhouse Gas",
+        "node_dcid": "Annual_Emissions_GreenhouseGas_ClimateTrace_OtherManufacturing",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_GreenhouseGas_ClimateTrace_OtherManufacturing"
+    },
+    {
+        "node_name": "\u2026 Methane",
+        "node_dcid": "Annual_Emissions_Methane_ClimateTrace_OtherManufacturing",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_Methane_ClimateTrace_OtherManufacturing"
+    },
+    {
+        "node_name": "\u2026 Nitrous Oxide",
+        "node_dcid": "Annual_Emissions_NitrousOxide_ClimateTrace_OtherManufacturing",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_NitrousOxide_ClimateTrace_OtherManufacturing"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide",
+        "node_dcid": "Annual_Emissions_CarbonDioxide_ClimateTrace_OtherOnsiteFuelUsage",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxide_ClimateTrace_OtherOnsiteFuelUsage"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_ClimateTrace_OtherOnsiteFuelUsage",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_ClimateTrace_OtherOnsiteFuelUsage"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide Equivalent 20 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_ClimateTrace_OtherOnsiteFuelUsage",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_ClimateTrace_OtherOnsiteFuelUsage"
+    },
+    {
+        "node_name": "\u2026 Methane",
+        "node_dcid": "Annual_Emissions_Methane_ClimateTrace_OtherOnsiteFuelUsage",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_Methane_ClimateTrace_OtherOnsiteFuelUsage"
+    },
+    {
+        "node_name": "\u2026 Nitrous Oxide",
+        "node_dcid": "Annual_Emissions_NitrousOxide_ClimateTrace_OtherOnsiteFuelUsage",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_NitrousOxide_ClimateTrace_OtherOnsiteFuelUsage"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide",
+        "node_dcid": "Annual_Emissions_CarbonDioxide_ClimateTrace_OtherTransportation",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxide_ClimateTrace_OtherTransportation"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_ClimateTrace_OtherTransportation",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_ClimateTrace_OtherTransportation"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide Equivalent 20 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_ClimateTrace_OtherTransportation",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_ClimateTrace_OtherTransportation"
+    },
+    {
+        "node_name": "\u2026 Greenhouse Gas",
+        "node_dcid": "Annual_Emissions_GreenhouseGas_ClimateTrace_OtherTransportation",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_GreenhouseGas_ClimateTrace_OtherTransportation"
+    },
+    {
+        "node_name": "\u2026 Methane",
+        "node_dcid": "Annual_Emissions_Methane_ClimateTrace_OtherTransportation",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_Methane_ClimateTrace_OtherTransportation"
+    },
+    {
+        "node_name": "\u2026 Nitrous Oxide",
+        "node_dcid": "Annual_Emissions_NitrousOxide_ClimateTrace_OtherTransportation",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_NitrousOxide_ClimateTrace_OtherTransportation"
+    },
+    {
+        "node_name": "Annual Amount of Emissions: Petrochemical Production, Greenhouse Gas",
+        "node_dcid": "Annual_Emissions_GreenhouseGas_PetrochemicalProduction",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_GreenhouseGas_PetrochemicalProduction"
+    },
+    {
+        "node_name": "Annual Amount of Emissions: Petroleum Refining, Greenhouse Gas",
+        "node_dcid": "Annual_Emissions_GreenhouseGas_PetroleumRefining",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_GreenhouseGas_PetroleumRefining"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide",
+        "node_dcid": "Annual_Emissions_CarbonDioxide_Power",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxide_Power"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_Power",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_Power"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide Equivalent 20 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_Power",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_Power"
+    },
+    {
+        "node_name": "\u2026 Methane",
+        "node_dcid": "Annual_Emissions_Methane_Power",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_Methane_Power"
+    },
+    {
+        "node_name": "\u2026 Nitrous Oxide",
+        "node_dcid": "Annual_Emissions_NitrousOxide_Power",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_NitrousOxide_Power"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide",
+        "node_dcid": "Annual_Emissions_CarbonDioxide_PulpAndPaperManufacturing",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxide_PulpAndPaperManufacturing"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_PulpAndPaperManufacturing",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_PulpAndPaperManufacturing"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide Equivalent 20 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_PulpAndPaperManufacturing",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_PulpAndPaperManufacturing"
+    },
+    {
+        "node_name": "\u2026 Greenhouse Gas",
+        "node_dcid": "Annual_Emissions_GreenhouseGas_PulpAndPaperManufacturing",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_GreenhouseGas_PulpAndPaperManufacturing"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_RiceCultivation",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_RiceCultivation"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide Equivalent 20 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_RiceCultivation",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_RiceCultivation"
+    },
+    {
+        "node_name": "\u2026 Greenhouse Gas",
+        "node_dcid": "Annual_Emissions_GreenhouseGas_RiceCultivation",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_GreenhouseGas_RiceCultivation"
+    },
+    {
+        "node_name": "\u2026 Methane",
+        "node_dcid": "Annual_Emissions_Methane_RiceCultivation",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_Methane_RiceCultivation"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide",
+        "node_dcid": "Annual_Emissions_CarbonDioxide_RockQuarry",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxide_RockQuarry"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_RockQuarry",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_RockQuarry"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide Equivalent 20 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_RockQuarry",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_RockQuarry"
+    },
+    {
+        "node_name": "\u2026 Greenhouse Gas",
+        "node_dcid": "Annual_Emissions_GreenhouseGas_RockQuarry",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_GreenhouseGas_RockQuarry"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide",
+        "node_dcid": "Annual_Emissions_CarbonDioxide_SandQuarry",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxide_SandQuarry"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_SandQuarry",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_SandQuarry"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide Equivalent 20 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_SandQuarry",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_SandQuarry"
+    },
+    {
+        "node_name": "\u2026 Greenhouse Gas",
+        "node_dcid": "Annual_Emissions_GreenhouseGas_SandQuarry",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_GreenhouseGas_SandQuarry"
+    },
+    {
+        "node_name": "Annual Amount of Emissions: Savanna Fire, Greenhouse Gas",
+        "node_dcid": "Annual_Emissions_GreenhouseGas_SavannaFire",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_GreenhouseGas_SavannaFire"
+    },
+    {
+        "node_name": "Annual Amount of Emissions: Shrubland Fire, Greenhouse Gas",
+        "node_dcid": "Annual_Emissions_GreenhouseGas_ShrublandFire",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_GreenhouseGas_ShrublandFire"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide",
+        "node_dcid": "Annual_Emissions_CarbonDioxide_SolidFuelTransformation",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxide_SolidFuelTransformation"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_SolidFuelTransformation",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_SolidFuelTransformation"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide Equivalent 20 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_SolidFuelTransformation",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_SolidFuelTransformation"
+    },
+    {
+        "node_name": "\u2026 Greenhouse Gas",
+        "node_dcid": "Annual_Emissions_GreenhouseGas_SolidFuelTransformation",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_GreenhouseGas_SolidFuelTransformation"
+    },
+    {
+        "node_name": "\u2026 Methane",
+        "node_dcid": "Annual_Emissions_Methane_SolidFuelTransformation",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_Methane_SolidFuelTransformation"
+    },
+    {
+        "node_name": "\u2026 Nitrous Oxide",
+        "node_dcid": "Annual_Emissions_NitrousOxide_SolidFuelTransformation",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_NitrousOxide_SolidFuelTransformation"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_SolidWasteDisposal",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_SolidWasteDisposal"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide Equivalent 20 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_SolidWasteDisposal",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_SolidWasteDisposal"
+    },
+    {
+        "node_name": "\u2026 Greenhouse Gas",
+        "node_dcid": "Annual_Emissions_GreenhouseGas_SolidWasteDisposal",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_GreenhouseGas_SolidWasteDisposal"
+    },
+    {
+        "node_name": "\u2026 Methane",
+        "node_dcid": "Annual_Emissions_Methane_SolidWasteDisposal",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_Methane_SolidWasteDisposal"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide",
+        "node_dcid": "Annual_Emissions_CarbonDioxide_SteelManufacturing",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxide_SteelManufacturing"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_SteelManufacturing",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_SteelManufacturing"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide Equivalent 20 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_SteelManufacturing",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_SteelManufacturing"
+    },
+    {
+        "node_name": "\u2026 Greenhouse Gas",
+        "node_dcid": "Annual_Emissions_GreenhouseGas_SteelManufacturing",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_GreenhouseGas_SteelManufacturing"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_SyntheticFertilizerApplication",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_SyntheticFertilizerApplication"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide Equivalent 20 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_SyntheticFertilizerApplication",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_SyntheticFertilizerApplication"
+    },
+    {
+        "node_name": "\u2026 Nitrous Oxide",
+        "node_dcid": "Annual_Emissions_NitrousOxide_SyntheticFertilizerApplication",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_NitrousOxide_SyntheticFertilizerApplication"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide",
+        "node_dcid": "Annual_Emissions_CarbonDioxide_Transportation",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxide_Transportation"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_Transportation",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_Transportation"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide Equivalent 20 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_Transportation",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_Transportation"
+    },
+    {
+        "node_name": "\u2026 Greenhouse Gas",
+        "node_dcid": "Annual_Emissions_GreenhouseGas_Transportation",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_GreenhouseGas_Transportation"
+    },
+    {
+        "node_name": "\u2026 Methane",
+        "node_dcid": "Annual_Emissions_Methane_Transportation",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_Methane_Transportation"
+    },
+    {
+        "node_name": "\u2026 Nitrous Oxide",
+        "node_dcid": "Annual_Emissions_NitrousOxide_Transportation",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_NitrousOxide_Transportation"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide",
+        "node_dcid": "Annual_Emissions_CarbonDioxide_WasteManagement",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxide_WasteManagement"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_WasteManagement",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_WasteManagement"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide Equivalent 20 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_WasteManagement",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_WasteManagement"
+    },
+    {
+        "node_name": "\u2026 Greenhouse Gas",
+        "node_dcid": "Annual_Emissions_GreenhouseGas_WasteManagement",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_GreenhouseGas_WasteManagement"
+    },
+    {
+        "node_name": "\u2026 Methane",
+        "node_dcid": "Annual_Emissions_Methane_WasteManagement",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_Methane_WasteManagement"
+    },
+    {
+        "node_name": "\u2026 Nitrous Oxide",
+        "node_dcid": "Annual_Emissions_NitrousOxide_WasteManagement",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_NitrousOxide_WasteManagement"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_WastewaterTreatmentAndDischarge",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_WastewaterTreatmentAndDischarge"
+    },
+    {
+        "node_name": "\u2026 Carbon Dioxide Equivalent 20 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_WastewaterTreatmentAndDischarge",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent20YearGlobalWarmingPotential_WastewaterTreatmentAndDischarge"
+    },
+    {
+        "node_name": "\u2026 Greenhouse Gas",
+        "node_dcid": "Annual_Emissions_GreenhouseGas_WastewaterTreatmentAndDischarge",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_GreenhouseGas_WastewaterTreatmentAndDischarge"
+    },
+    {
+        "node_name": "\u2026 Methane",
+        "node_dcid": "Annual_Emissions_Methane_WastewaterTreatmentAndDischarge",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_Methane_WastewaterTreatmentAndDischarge"
+    },
+    {
+        "node_name": "\u2026 Nitrous Oxide",
+        "node_dcid": "Annual_Emissions_NitrousOxide_WastewaterTreatmentAndDischarge",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_NitrousOxide_WastewaterTreatmentAndDischarge"
+    },
+    {
+        "node_name": "\u2026 Agriculture, Carbon Dioxide",
+        "node_dcid": "Annual_Emissions_CarbonDioxide_Agriculture",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxide_Agriculture"
+    },
+    {
+        "node_name": "\u2026 Aluminum Production, Carbon Dioxide",
+        "node_dcid": "Annual_Emissions_CarbonDioxide_AluminumProduction",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxide_AluminumProduction"
+    },
+    {
+        "node_name": "\u2026 Bauxite Mining, Carbon Dioxide",
+        "node_dcid": "Annual_Emissions_CarbonDioxide_BauxiteMining",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxide_BauxiteMining"
+    },
+    {
+        "node_name": "\u2026 Cement Production, Carbon Dioxide",
+        "node_dcid": "Annual_Emissions_CarbonDioxide_CementProduction",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxide_CementProduction"
+    },
+    {
+        "node_name": "\u2026 Chemical Petrochemical Industry, Carbon Dioxide",
+        "node_dcid": "Annual_Emissions_CarbonDioxide_ChemicalPetrochemicalIndustry",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxide_ChemicalPetrochemicalIndustry"
+    },
+    {
+        "node_name": "\u2026 Coal Mining, Carbon Dioxide",
+        "node_dcid": "Annual_Emissions_CarbonDioxide_CoalMining",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxide_CoalMining"
+    },
+    {
+        "node_name": "\u2026 Copper Mining, Carbon Dioxide",
+        "node_dcid": "Annual_Emissions_CarbonDioxide_CopperMining",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxide_CopperMining"
+    },
+    {
+        "node_name": "\u2026 Cropland Fire, Carbon Dioxide",
+        "node_dcid": "Annual_Emissions_CarbonDioxide_CroplandFire",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxide_CroplandFire"
+    },
+    {
+        "node_name": "\u2026 Electricity Generation, Carbon Dioxide",
+        "node_dcid": "Annual_Emissions_CarbonDioxide_ElectricityGeneration",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxide_ElectricityGeneration"
+    },
+    {
+        "node_name": "\u2026 Fossil Fuel Operations, Carbon Dioxide",
+        "node_dcid": "Annual_Emissions_CarbonDioxide_FossilFuelOperations",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxide_FossilFuelOperations"
+    },
+    {
+        "node_name": "\u2026 Fuel Combustion for Domestic Aviation, Carbon Dioxide",
+        "node_dcid": "Annual_Emissions_CarbonDioxide_FuelCombustionForDomesticAviation",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxide_FuelCombustionForDomesticAviation"
+    },
+    {
+        "node_name": "\u2026 Fuel Combustion for International Aviation, Carbon Dioxide",
+        "node_dcid": "Annual_Emissions_CarbonDioxide_FuelCombustionForInternationalAviation",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxide_FuelCombustionForInternationalAviation"
+    },
+    {
+        "node_name": "\u2026 Fuel Combustion for Railways, Carbon Dioxide",
+        "node_dcid": "Annual_Emissions_CarbonDioxide_FuelCombustionForRailways",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxide_FuelCombustionForRailways"
+    },
+    {
+        "node_name": "\u2026 Fuel Combustion for Residential Commercial Onsite Heating, Carbon Dioxide",
+        "node_dcid": "Annual_Emissions_CarbonDioxide_FuelCombustionForResidentialCommercialOnsiteHeating",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxide_FuelCombustionForResidentialCommercialOnsiteHeating"
+    },
+    {
+        "node_name": "\u2026 Fuel Combustion for Road Vehicles, Carbon Dioxide",
+        "node_dcid": "Annual_Emissions_CarbonDioxide_FuelCombustionForRoadVehicles",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxide_FuelCombustionForRoadVehicles"
+    },
+    {
+        "node_name": "\u2026 Fuel Combustion in Buildings, Carbon Dioxide",
+        "node_dcid": "Annual_Emissions_CarbonDioxide_FuelCombustionInBuildings",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxide_FuelCombustionInBuildings"
+    },
+    {
+        "node_name": "\u2026 Iron Mining, Carbon Dioxide",
+        "node_dcid": "Annual_Emissions_CarbonDioxide_IronMining",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxide_IronMining"
+    },
+    {
+        "node_name": "\u2026 Manufacturing, Carbon Dioxide",
+        "node_dcid": "Annual_Emissions_CarbonDioxide_Manufacturing",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxide_Manufacturing"
+    },
+    {
+        "node_name": "\u2026 Maritime Shipping, Carbon Dioxide",
+        "node_dcid": "Annual_Emissions_CarbonDioxide_MaritimeShipping",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxide_MaritimeShipping"
+    },
+    {
+        "node_name": "\u2026 Mineral Extraction, Carbon Dioxide",
+        "node_dcid": "Annual_Emissions_CarbonDioxide_MineralExtraction",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxide_MineralExtraction"
+    },
+    {
+        "node_name": "\u2026 Net Forest Emissions, Carbon Dioxide",
+        "node_dcid": "Annual_Emissions_CarbonDioxide_NetForestEmissions",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxide_NetForestEmissions"
+    },
+    {
+        "node_name": "\u2026 Net Grassland Emissions, Carbon Dioxide",
+        "node_dcid": "Annual_Emissions_CarbonDioxide_NetGrasslandEmissions",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxide_NetGrasslandEmissions"
+    },
+    {
+        "node_name": "\u2026 Net Wetland Emissions, Carbon Dioxide",
+        "node_dcid": "Annual_Emissions_CarbonDioxide_NetWetlandEmissions",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxide_NetWetlandEmissions"
+    },
+    {
+        "node_name": "\u2026 Oil And Gas Production, Carbon Dioxide",
+        "node_dcid": "Annual_Emissions_CarbonDioxide_OilAndGasProduction",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxide_OilAndGasProduction"
+    },
+    {
+        "node_name": "\u2026 Oil And Gas Refining, Carbon Dioxide",
+        "node_dcid": "Annual_Emissions_CarbonDioxide_OilAndGasRefining",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxide_OilAndGasRefining"
+    },
+    {
+        "node_name": "\u2026 Open Burning Waste, Carbon Dioxide",
+        "node_dcid": "Annual_Emissions_CarbonDioxide_OpenBurningWaste",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxide_OpenBurningWaste"
+    },
+    {
+        "node_name": "\u2026 Other Energy Use, Carbon Dioxide",
+        "node_dcid": "Annual_Emissions_CarbonDioxide_ClimateTrace_OtherEnergyUse",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxide_ClimateTrace_OtherEnergyUse"
+    },
+    {
+        "node_name": "\u2026 Other Fossil Fuel Operations, Carbon Dioxide",
+        "node_dcid": "Annual_Emissions_CarbonDioxide_ClimateTrace_OtherFossilFuelOperations",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxide_ClimateTrace_OtherFossilFuelOperations"
+    },
+    {
+        "node_name": "\u2026 Other Manufacturing, Carbon Dioxide",
+        "node_dcid": "Annual_Emissions_CarbonDioxide_ClimateTrace_OtherManufacturing",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxide_ClimateTrace_OtherManufacturing"
+    },
+    {
+        "node_name": "\u2026 Other Onsite Fuel Usage, Carbon Dioxide",
+        "node_dcid": "Annual_Emissions_CarbonDioxide_ClimateTrace_OtherOnsiteFuelUsage",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxide_ClimateTrace_OtherOnsiteFuelUsage"
+    },
+    {
+        "node_name": "\u2026 Other Transportation, Carbon Dioxide",
+        "node_dcid": "Annual_Emissions_CarbonDioxide_ClimateTrace_OtherTransportation",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxide_ClimateTrace_OtherTransportation"
+    },
+    {
+        "node_name": "\u2026 Power, Carbon Dioxide",
+        "node_dcid": "Annual_Emissions_CarbonDioxide_Power",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxide_Power"
+    },
+    {
+        "node_name": "\u2026 Pulp And Paper Manufacturing, Carbon Dioxide",
+        "node_dcid": "Annual_Emissions_CarbonDioxide_PulpAndPaperManufacturing",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxide_PulpAndPaperManufacturing"
+    },
+    {
+        "node_name": "\u2026 Rock Quarry, Carbon Dioxide",
+        "node_dcid": "Annual_Emissions_CarbonDioxide_RockQuarry",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxide_RockQuarry"
+    },
+    {
+        "node_name": "\u2026 Sand Quarry, Carbon Dioxide",
+        "node_dcid": "Annual_Emissions_CarbonDioxide_SandQuarry",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxide_SandQuarry"
+    },
+    {
+        "node_name": "\u2026 Solid Fuel Transformation, Carbon Dioxide",
+        "node_dcid": "Annual_Emissions_CarbonDioxide_SolidFuelTransformation",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxide_SolidFuelTransformation"
+    },
+    {
+        "node_name": "\u2026 Steel Manufacturing, Carbon Dioxide",
+        "node_dcid": "Annual_Emissions_CarbonDioxide_SteelManufacturing",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxide_SteelManufacturing"
+    },
+    {
+        "node_name": "\u2026 Transportation, Carbon Dioxide",
+        "node_dcid": "Annual_Emissions_CarbonDioxide_Transportation",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxide_Transportation"
+    },
+    {
+        "node_name": "\u2026 Waste Management, Carbon Dioxide",
+        "node_dcid": "Annual_Emissions_CarbonDioxide_WasteManagement",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxide_WasteManagement"
+    },
+    {
+        "node_name": "\u2026 Agriculture, Carbon Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_Agriculture",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_Agriculture"
+    },
+    {
+        "node_name": "\u2026 Aluminum Production, Carbon Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_AluminumProduction",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_AluminumProduction"
+    },
+    {
+        "node_name": "\u2026 Bauxite Mining, Carbon Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_BauxiteMining",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_BauxiteMining"
+    },
+    {
+        "node_name": "\u2026 Biological Treatment of Solid Waste And Biogenic, Carbon Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_BiologicalTreatmentOfSolidWasteAndBiogenic",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_BiologicalTreatmentOfSolidWasteAndBiogenic"
+    },
+    {
+        "node_name": "\u2026 Cement Production, Carbon Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_CementProduction",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_CementProduction"
+    },
+    {
+        "node_name": "\u2026 Chemical Petrochemical Industry, Carbon Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_ChemicalPetrochemicalIndustry",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_ChemicalPetrochemicalIndustry"
+    },
+    {
+        "node_name": "\u2026 Coal Mining, Carbon Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_CoalMining",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_CoalMining"
+    },
+    {
+        "node_name": "\u2026 Copper Mining, Carbon Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_CopperMining",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_CopperMining"
+    },
+    {
+        "node_name": "\u2026 Cropland Fire, Carbon Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_CroplandFire",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_CroplandFire"
+    },
+    {
+        "node_name": "\u2026 Electricity Generation, Carbon Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_ElectricityGeneration",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_ElectricityGeneration"
+    },
+    {
+        "node_name": "\u2026 Enteric Fermentation, Carbon Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_EntericFermentation",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_EntericFermentation"
+    },
+    {
+        "node_name": "\u2026 Fluorinated Gases, Carbon Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_FluorinatedGases",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_FluorinatedGases"
+    },
+    {
+        "node_name": "\u2026 Fossil Fuel Operations, Carbon Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_FossilFuelOperations",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_FossilFuelOperations"
+    },
+    {
+        "node_name": "\u2026 Fuel Combustion for Domestic Aviation, Carbon Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_FuelCombustionForDomesticAviation",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_FuelCombustionForDomesticAviation"
+    },
+    {
+        "node_name": "\u2026 Fuel Combustion for International Aviation, Carbon Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_FuelCombustionForInternationalAviation",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_FuelCombustionForInternationalAviation"
+    },
+    {
+        "node_name": "\u2026 Fuel Combustion for Railways, Carbon Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_FuelCombustionForRailways",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_FuelCombustionForRailways"
+    },
+    {
+        "node_name": "\u2026 Fuel Combustion for Residential Commercial Onsite Heating, Carbon Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_FuelCombustionForResidentialCommercialOnsiteHeating",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_FuelCombustionForResidentialCommercialOnsiteHeating"
+    },
+    {
+        "node_name": "\u2026 Fuel Combustion for Road Vehicles, Carbon Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_FuelCombustionForRoadVehicles",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_FuelCombustionForRoadVehicles"
+    },
+    {
+        "node_name": "\u2026 Fuel Combustion in Buildings, Carbon Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_FuelCombustionInBuildings",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_FuelCombustionInBuildings"
+    },
+    {
+        "node_name": "\u2026 Iron Mining, Carbon Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_IronMining",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_IronMining"
+    },
+    {
+        "node_name": "\u2026 Manufacturing, Carbon Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_Manufacturing",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_Manufacturing"
+    },
+    {
+        "node_name": "\u2026 Manure Management, Carbon Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_ManureManagement",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_ManureManagement"
+    },
+    {
+        "node_name": "\u2026 Maritime Shipping, Carbon Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_MaritimeShipping",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_MaritimeShipping"
+    },
+    {
+        "node_name": "\u2026 Mineral Extraction, Carbon Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_MineralExtraction",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_MineralExtraction"
+    },
+    {
+        "node_name": "\u2026 Net Forest Emissions, Carbon Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_NetForestEmissions",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_NetForestEmissions"
+    },
+    {
+        "node_name": "\u2026 Net Grassland Emissions, Carbon Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_NetGrasslandEmissions",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_NetGrasslandEmissions"
+    },
+    {
+        "node_name": "\u2026 Net Wetland Emissions, Carbon Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_NetWetlandEmissions",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_NetWetlandEmissions"
+    },
+    {
+        "node_name": "\u2026 Oil And Gas Production, Carbon Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_OilAndGasProduction",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_OilAndGasProduction"
+    },
+    {
+        "node_name": "\u2026 Oil And Gas Refining, Carbon Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_OilAndGasRefining",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_OilAndGasRefining"
+    },
+    {
+        "node_name": "\u2026 Open Burning Waste, Carbon Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_OpenBurningWaste",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_OpenBurningWaste"
+    },
+    {
+        "node_name": "\u2026 Other Agricultural Soil Emissions, Carbon Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_ClimateTrace_OtherAgriculturalSoilEmissions",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_ClimateTrace_OtherAgriculturalSoilEmissions"
+    },
+    {
+        "node_name": "\u2026 Other Energy Use, Carbon Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_ClimateTrace_OtherEnergyUse",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_ClimateTrace_OtherEnergyUse"
+    },
+    {
+        "node_name": "\u2026 Other Fossil Fuel Operations, Carbon Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_ClimateTrace_OtherFossilFuelOperations",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_ClimateTrace_OtherFossilFuelOperations"
+    },
+    {
+        "node_name": "\u2026 Other Manufacturing, Carbon Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_ClimateTrace_OtherManufacturing",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_ClimateTrace_OtherManufacturing"
+    },
+    {
+        "node_name": "\u2026 Other Onsite Fuel Usage, Carbon Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_ClimateTrace_OtherOnsiteFuelUsage",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_ClimateTrace_OtherOnsiteFuelUsage"
+    },
+    {
+        "node_name": "\u2026 Other Transportation, Carbon Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_ClimateTrace_OtherTransportation",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_ClimateTrace_OtherTransportation"
+    },
+    {
+        "node_name": "\u2026 Power, Carbon Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_Power",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_Power"
+    },
+    {
+        "node_name": "\u2026 Pulp And Paper Manufacturing, Carbon Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_PulpAndPaperManufacturing",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_PulpAndPaperManufacturing"
+    },
+    {
+        "node_name": "\u2026 Rice Cultivation, Carbon Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_RiceCultivation",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_RiceCultivation"
+    },
+    {
+        "node_name": "\u2026 Rock Quarry, Carbon Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_RockQuarry",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_RockQuarry"
+    },
+    {
+        "node_name": "\u2026 Sand Quarry, Carbon Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_SandQuarry",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_SandQuarry"
+    },
+    {
+        "node_name": "\u2026 Solid Fuel Transformation, Carbon Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_SolidFuelTransformation",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_SolidFuelTransformation"
+    },
+    {
+        "node_name": "\u2026 Solid Waste Disposal, Carbon Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_SolidWasteDisposal",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_SolidWasteDisposal"
+    },
+    {
+        "node_name": "\u2026 Steel Manufacturing, Carbon Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_SteelManufacturing",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_SteelManufacturing"
+    },
+    {
+        "node_name": "\u2026 Synthetic Fertilizer Application, Carbon Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_SyntheticFertilizerApplication",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_SyntheticFertilizerApplication"
+    },
+    {
+        "node_name": "\u2026 Transportation, Carbon Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_Transportation",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_Transportation"
+    },
+    {
+        "node_name": "\u2026 Waste Management, Carbon Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_WasteManagement",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_WasteManagement"
+    },
+    {
+        "node_name": "\u2026 Wastewater Treatment And Discharge, Carbon Dioxide Equivalent 100 Year Global Warming Potential",
+        "node_dcid": "Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_WastewaterTreatmentAndDischarge",
+        "node_link": "https://datacommons.org/browser/Annual_Emissions_CarbonDioxideEquivalent100YearGlobalWarmingPotential_WastewaterTreatmentAndDischarge"
+    }
+]

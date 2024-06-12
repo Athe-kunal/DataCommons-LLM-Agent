@@ -1,0 +1,12 @@
+[
+    {
+        "node_name": "Area of Flood Event",
+        "node_dcid": "Area_FloodEvent",
+        "node_link": "https://datacommons.org/browser/Area_FloodEvent"
+    },
+    {
+        "node_name": "Floods",
+        "node_dcid": "Count_FloodEvent",
+        "node_link": "https://datacommons.org/browser/Count_FloodEvent"
+    }
+]

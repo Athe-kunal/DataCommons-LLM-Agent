@@ -1,0 +1,47 @@
+[
+    {
+        "node_name": "\u2026 COVID-19 Deaths",
+        "node_dcid": "CumulativeCount_MedicalConditionIncident_COVID_19_PatientDeceased",
+        "node_link": "https://datacommons.org/browser/CumulativeCount_MedicalConditionIncident_COVID_19_PatientDeceased"
+    },
+    {
+        "node_name": "\u2026 Medical Condition Incident: COVID-19, Patient Recovered",
+        "node_dcid": "CumulativeCount_MedicalConditionIncident_COVID_19_PatientRecovered",
+        "node_link": "https://datacommons.org/browser/CumulativeCount_MedicalConditionIncident_COVID_19_PatientRecovered"
+    },
+    {
+        "node_name": "Cumulative Count of Medical Test: COVID-19, Positive",
+        "node_dcid": "CumulativeCount_MedicalTest_ConditionCOVID_19_Positive",
+        "node_link": "https://datacommons.org/browser/CumulativeCount_MedicalTest_ConditionCOVID_19_Positive"
+    },
+    {
+        "node_name": "Cumulative Count of Medical Condition Incident: COVID-19, Patient Recovered",
+        "node_dcid": "CumulativeCount_MedicalConditionIncident_COVID_19_PatientRecovered",
+        "node_link": "https://datacommons.org/browser/CumulativeCount_MedicalConditionIncident_COVID_19_PatientRecovered"
+    },
+    {
+        "node_name": "Cumulative Count of COVID-19 Deaths",
+        "node_dcid": "CumulativeCount_MedicalConditionIncident_COVID_19_PatientDeceased",
+        "node_link": "https://datacommons.org/browser/CumulativeCount_MedicalConditionIncident_COVID_19_PatientDeceased"
+    },
+    {
+        "node_name": "Cumulative Count of Medical Condition Incident: COVID-19, Patient Recovered",
+        "node_dcid": "CumulativeCount_MedicalConditionIncident_COVID_19_PatientRecovered",
+        "node_link": "https://datacommons.org/browser/CumulativeCount_MedicalConditionIncident_COVID_19_PatientRecovered"
+    },
+    {
+        "node_name": "Cumulative Count of COVID-19 Deaths",
+        "node_dcid": "CumulativeCount_MedicalConditionIncident_COVID_19_PatientDeceased",
+        "node_link": "https://datacommons.org/browser/CumulativeCount_MedicalConditionIncident_COVID_19_PatientDeceased"
+    },
+    {
+        "node_name": "Cumulative Count of Medical Test: COVID-19, Positive",
+        "node_dcid": "CumulativeCount_MedicalTest_ConditionCOVID_19_Positive",
+        "node_link": "https://datacommons.org/browser/CumulativeCount_MedicalTest_ConditionCOVID_19_Positive"
+    },
+    {
+        "node_name": "Cumulative Count of Medical Test: COVID-19, Positive",
+        "node_dcid": "CumulativeCount_MedicalTest_ConditionCOVID_19_Positive",
+        "node_link": "https://datacommons.org/browser/CumulativeCount_MedicalTest_ConditionCOVID_19_Positive"
+    }
+]
