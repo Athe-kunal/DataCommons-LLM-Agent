@@ -30,11 +30,12 @@ data_sources_list = list(data_sources_dict.keys())
 
 curr_stats_files = []
 for stats_files in os.listdir("STATS"):
-    curr_stats_files.append(stats_files.split(".")[0])
+    stats_file_name = ".".join(stats_files.split(".")[0].split("_"))
+    curr_stats_files.append(stats_file_name)
 
 # req_data_sources = [i for i in data_sources_list if i not in curr_stats_files]
 req_data_sources = ["Wildland Fire Interagency Geospatial Services",'Wikimedia Foundation','U.S. National Wildfire Coordinating Group'
-                    'U.S National Renewable Energy Laboratory (NREL)',
+                    'U.S. National Renewable Energy Laboratory (NREL)',
                     'U.S. National Oceanic and Atmospheric Administration (NOAA)',
                     'U.S. National Highway Traffic Safety Administration (NHTSA)',
                     'U.S. National Aeronautics and Space Administration (NASA)',
@@ -60,7 +61,7 @@ req_data_sources = ["Wildland Fire Interagency Geospatial Services",'Wikimedia F
                     'India Central Pollution Control Board (CPCB)',
                     'GeoSadak PMGSY National GIS, India',
                     'General Statistics Office (GSO), Vietnam',
-                     'Food and Agriculture Organization of the United Nations',
+                    'Food and Agriculture Organization of the United Nations',
                     'Feeding America',
                     'Federal Emergency Management Agency',
                     ]
