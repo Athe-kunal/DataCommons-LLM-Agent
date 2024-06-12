@@ -1,0 +1,1012 @@
+[
+    {
+        "node_name": "Farms",
+        "node_dcid": "Count_Farm",
+        "node_link": "https://datacommons.org/browser/Count_Farm"
+    },
+    {
+        "node_name": "Mean Area of Farm",
+        "node_dcid": "Mean_Area_Farm",
+        "node_link": "https://datacommons.org/browser/Mean_Area_Farm"
+    },
+    {
+        "node_name": "Mean Expenses of Farm",
+        "node_dcid": "Mean_Expenses_Farm",
+        "node_link": "https://datacommons.org/browser/Mean_Expenses_Farm"
+    },
+    {
+        "node_name": "Mean Income of Farm",
+        "node_dcid": "Mean_NetMeasure_Income_Farm",
+        "node_link": "https://datacommons.org/browser/Mean_NetMeasure_Income_Farm"
+    },
+    {
+        "node_name": "Median Area of Farm",
+        "node_dcid": "Median_Area_Farm",
+        "node_link": "https://datacommons.org/browser/Median_Area_Farm"
+    },
+    {
+        "node_name": "Total Farm Area",
+        "node_dcid": "Area_Farm",
+        "node_link": "https://datacommons.org/browser/Area_Farm"
+    },
+    {
+        "node_name": "Total Farm Expenses",
+        "node_dcid": "Expenses_Farm",
+        "node_link": "https://datacommons.org/browser/Expenses_Farm"
+    },
+    {
+        "node_name": "Total Farm Income",
+        "node_dcid": "Income_Farm",
+        "node_link": "https://datacommons.org/browser/Income_Farm"
+    },
+    {
+        "node_name": "Total Farm Income Net Measure",
+        "node_dcid": "NetMeasure_Income_Farm",
+        "node_link": "https://datacommons.org/browser/NetMeasure_Income_Farm"
+    },
+    {
+        "node_name": "\u2026 Sell Cattle and Calves",
+        "node_dcid": "Count_Farm_InventorySold_CattleAndCalves",
+        "node_link": "https://datacommons.org/browser/Count_Farm_InventorySold_CattleAndCalves"
+    },
+    {
+        "node_name": "\u2026 Sold Hogs and Pigs",
+        "node_dcid": "Count_Farm_InventorySold_HogsAndPigs",
+        "node_link": "https://datacommons.org/browser/Count_Farm_InventorySold_HogsAndPigs"
+    },
+    {
+        "node_name": "Average Market Value of Land and Buildings on a Farm",
+        "node_dcid": "Mean_MarketValue_Farm_LandAndBuildings",
+        "node_link": "https://datacommons.org/browser/Mean_MarketValue_Farm_LandAndBuildings"
+    },
+    {
+        "node_name": "Farms With Beef Cows",
+        "node_dcid": "Count_Farm_BeefCows",
+        "node_link": "https://datacommons.org/browser/Count_Farm_BeefCows"
+    },
+    {
+        "node_name": "Farms With Broilers (Young Chickens)",
+        "node_dcid": "Count_Farm_Broilers",
+        "node_link": "https://datacommons.org/browser/Count_Farm_Broilers"
+    },
+    {
+        "node_name": "Farms With Layers (Chickens Used for Egg Production)",
+        "node_dcid": "Count_Farm_Layers",
+        "node_link": "https://datacommons.org/browser/Count_Farm_Layers"
+    },
+    {
+        "node_name": "Farms With Milk Cows",
+        "node_dcid": "Count_Farm_MilkCows",
+        "node_link": "https://datacommons.org/browser/Count_Farm_MilkCows"
+    },
+    {
+        "node_name": "Farms With Sheep and Lambs",
+        "node_dcid": "Count_Farm_SheepAndLambs",
+        "node_link": "https://datacommons.org/browser/Count_Farm_SheepAndLambs"
+    },
+    {
+        "node_name": "Market Value of Farms Growing Crops",
+        "node_dcid": "MarketValue_Farm_Crops",
+        "node_link": "https://datacommons.org/browser/MarketValue_Farm_Crops"
+    },
+    {
+        "node_name": "Market Value of Livestock and Poultry on a Farm",
+        "node_dcid": "MarketValue_Farm_LivestockAndPoultry",
+        "node_link": "https://datacommons.org/browser/MarketValue_Farm_LivestockAndPoultry"
+    },
+    {
+        "node_name": "Mean Market Value of Agricultural Farms",
+        "node_dcid": "Mean_MarketValue_Farm_AgriculturalProducts",
+        "node_link": "https://datacommons.org/browser/Mean_MarketValue_Farm_AgriculturalProducts"
+    },
+    {
+        "node_name": "Total Market Value of Agricultural Farms",
+        "node_dcid": "MarketValue_Farm_AgriculturalProducts",
+        "node_link": "https://datacommons.org/browser/MarketValue_Farm_AgriculturalProducts"
+    },
+    {
+        "node_name": "Barley Farms",
+        "node_dcid": "Count_Farm_BarleyForGrain",
+        "node_link": "https://datacommons.org/browser/Count_Farm_BarleyForGrain"
+    },
+    {
+        "node_name": "Total Area of Barley Farms",
+        "node_dcid": "Area_Farm_BarleyForGrain",
+        "node_link": "https://datacommons.org/browser/Area_Farm_BarleyForGrain"
+    },
+    {
+        "node_name": "Cattle Farms",
+        "node_dcid": "Count_Farm_CattleAndCalves",
+        "node_link": "https://datacommons.org/browser/Count_Farm_CattleAndCalves"
+    },
+    {
+        "node_name": "Farms That Sell Cattle and Calves",
+        "node_dcid": "Count_Farm_InventorySold_CattleAndCalves",
+        "node_link": "https://datacommons.org/browser/Count_Farm_InventorySold_CattleAndCalves"
+    },
+    {
+        "node_name": "Farms Growing Corn",
+        "node_dcid": "Count_Farm_CornForGrain",
+        "node_link": "https://datacommons.org/browser/Count_Farm_CornForGrain"
+    },
+    {
+        "node_name": "Total Area of Farms Growing Corn",
+        "node_dcid": "Area_Farm_CornForGrain",
+        "node_link": "https://datacommons.org/browser/Area_Farm_CornForGrain"
+    },
+    {
+        "node_name": "Farms for Silage",
+        "node_dcid": "Count_Farm_CornForSilageOrGreenchop",
+        "node_link": "https://datacommons.org/browser/Count_Farm_CornForSilageOrGreenchop"
+    },
+    {
+        "node_name": "Total Area of Farms for Silage",
+        "node_dcid": "Area_Farm_CornForSilageOrGreenchop",
+        "node_link": "https://datacommons.org/browser/Area_Farm_CornForSilageOrGreenchop"
+    },
+    {
+        "node_name": "Area of Farms Growing Cotton",
+        "node_dcid": "Area_Farm_Cotton",
+        "node_link": "https://datacommons.org/browser/Area_Farm_Cotton"
+    },
+    {
+        "node_name": "Farms Growing Cotton",
+        "node_dcid": "Count_Farm_Cotton",
+        "node_link": "https://datacommons.org/browser/Count_Farm_Cotton"
+    },
+    {
+        "node_name": "Area of Farms Growing Beans",
+        "node_dcid": "Area_Farm_DryEdibleBeans",
+        "node_link": "https://datacommons.org/browser/Area_Farm_DryEdibleBeans"
+    },
+    {
+        "node_name": "Farms Growing Beans",
+        "node_dcid": "Count_Farm_DryEdibleBeans",
+        "node_link": "https://datacommons.org/browser/Count_Farm_DryEdibleBeans"
+    },
+    {
+        "node_name": "Area of Farms Growing Durum Wheat",
+        "node_dcid": "Area_Farm_DurumWheatForGrain",
+        "node_link": "https://datacommons.org/browser/Area_Farm_DurumWheatForGrain"
+    },
+    {
+        "node_name": "Farms Growing Durum Wheat",
+        "node_dcid": "Count_Farm_DurumWheatForGrain",
+        "node_link": "https://datacommons.org/browser/Count_Farm_DurumWheatForGrain"
+    },
+    {
+        "node_name": "Area of Farm: Forage",
+        "node_dcid": "Area_Farm_Forage",
+        "node_link": "https://datacommons.org/browser/Area_Farm_Forage"
+    },
+    {
+        "node_name": "Count of Farm: Forage",
+        "node_dcid": "Count_Farm_Forage",
+        "node_link": "https://datacommons.org/browser/Count_Farm_Forage"
+    },
+    {
+        "node_name": "\u2026 That Sold Hogs and Pigs",
+        "node_dcid": "Count_Farm_InventorySold_HogsAndPigs",
+        "node_link": "https://datacommons.org/browser/Count_Farm_InventorySold_HogsAndPigs"
+    },
+    {
+        "node_name": "\u2026 With Hogs and Pigs",
+        "node_dcid": "Count_Farm_HogsAndPigs",
+        "node_link": "https://datacommons.org/browser/Count_Farm_HogsAndPigs"
+    },
+    {
+        "node_name": "Market Value of Farm Machinery and Equipment",
+        "node_dcid": "MarketValue_Farm_MachineryAndEquipment",
+        "node_link": "https://datacommons.org/browser/MarketValue_Farm_MachineryAndEquipment"
+    },
+    {
+        "node_name": "Mean Market Value of Farm Machinery and Equipment.",
+        "node_dcid": "Mean_MarketValue_Farm_MachineryAndEquipment",
+        "node_link": "https://datacommons.org/browser/Mean_MarketValue_Farm_MachineryAndEquipment"
+    },
+    {
+        "node_name": "Area of Farms Growing Oats",
+        "node_dcid": "Area_Farm_OatsForGrain",
+        "node_link": "https://datacommons.org/browser/Area_Farm_OatsForGrain"
+    },
+    {
+        "node_name": "Farms Grawing Oats",
+        "node_dcid": "Count_Farm_OatsForGrain",
+        "node_link": "https://datacommons.org/browser/Count_Farm_OatsForGrain"
+    },
+    {
+        "node_name": "Farms With Orchards",
+        "node_dcid": "Count_Farm_Orchards",
+        "node_link": "https://datacommons.org/browser/Count_Farm_Orchards"
+    },
+    {
+        "node_name": "Total Area of Farms With Orchards",
+        "node_dcid": "Area_Farm_Orchards",
+        "node_link": "https://datacommons.org/browser/Area_Farm_Orchards"
+    },
+    {
+        "node_name": "Area of Farm: Other Spring Wheat for Grain",
+        "node_dcid": "Area_Farm_OtherSpringWheatForGrain",
+        "node_link": "https://datacommons.org/browser/Area_Farm_OtherSpringWheatForGrain"
+    },
+    {
+        "node_name": "Count of Farm: Other Spring Wheat for Grain",
+        "node_dcid": "Count_Farm_OtherSpringWheatForGrain",
+        "node_link": "https://datacommons.org/browser/Count_Farm_OtherSpringWheatForGrain"
+    },
+    {
+        "node_name": "Area of Farms Growing Peanuts",
+        "node_dcid": "Area_Farm_PeanutsForNuts",
+        "node_link": "https://datacommons.org/browser/Area_Farm_PeanutsForNuts"
+    },
+    {
+        "node_name": "Farms Growing Peantuts",
+        "node_dcid": "Count_Farm_PeanutsForNuts",
+        "node_link": "https://datacommons.org/browser/Count_Farm_PeanutsForNuts"
+    },
+    {
+        "node_name": "Area of Farms Growing Pima Cotton",
+        "node_dcid": "Area_Farm_PimaCotton",
+        "node_link": "https://datacommons.org/browser/Area_Farm_PimaCotton"
+    },
+    {
+        "node_name": "Farms Growing Pima Cotton",
+        "node_dcid": "Count_Farm_PimaCotton",
+        "node_link": "https://datacommons.org/browser/Count_Farm_PimaCotton"
+    },
+    {
+        "node_name": "Area of Farms Growing Potatoes",
+        "node_dcid": "Area_Farm_Potatoes",
+        "node_link": "https://datacommons.org/browser/Area_Farm_Potatoes"
+    },
+    {
+        "node_name": "Farms Growing Potatoes",
+        "node_dcid": "Count_Farm_Potatoes",
+        "node_link": "https://datacommons.org/browser/Count_Farm_Potatoes"
+    },
+    {
+        "node_name": "Area of Farms Growing Rice",
+        "node_dcid": "Area_Farm_Rice",
+        "node_link": "https://datacommons.org/browser/Area_Farm_Rice"
+    },
+    {
+        "node_name": "Farms Growing Rice",
+        "node_dcid": "Count_Farm_Rice",
+        "node_link": "https://datacommons.org/browser/Count_Farm_Rice"
+    },
+    {
+        "node_name": "Area of Farms Growing Sorghum",
+        "node_dcid": "Area_Farm_SorghumForGrain",
+        "node_link": "https://datacommons.org/browser/Area_Farm_SorghumForGrain"
+    },
+    {
+        "node_name": "Farms Growing Sorghum",
+        "node_dcid": "Count_Farm_SorghumForGrain",
+        "node_link": "https://datacommons.org/browser/Count_Farm_SorghumForGrain"
+    },
+    {
+        "node_name": "Area of Farm: Sorghum for Silage or Greenchop",
+        "node_dcid": "Area_Farm_SorghumForSilageOrGreenchop",
+        "node_link": "https://datacommons.org/browser/Area_Farm_SorghumForSilageOrGreenchop"
+    },
+    {
+        "node_name": "Count of Farm: Sorghum for Silage or Greenchop",
+        "node_dcid": "Count_Farm_SorghumForSilageOrGreenchop",
+        "node_link": "https://datacommons.org/browser/Count_Farm_SorghumForSilageOrGreenchop"
+    },
+    {
+        "node_name": "Area of Farms Growing Sugarbeets for Sugar Production",
+        "node_dcid": "Area_Farm_SugarbeetsForSugar",
+        "node_link": "https://datacommons.org/browser/Area_Farm_SugarbeetsForSugar"
+    },
+    {
+        "node_name": "Farms Growing Sugarbeets for Sugar Production",
+        "node_dcid": "Count_Farm_SugarbeetsForSugar",
+        "node_link": "https://datacommons.org/browser/Count_Farm_SugarbeetsForSugar"
+    },
+    {
+        "node_name": "Area of Farms Growing Sunflower Seeds",
+        "node_dcid": "Area_Farm_SunflowerSeed",
+        "node_link": "https://datacommons.org/browser/Area_Farm_SunflowerSeed"
+    },
+    {
+        "node_name": "Farms Growing Sunflower Seeds",
+        "node_dcid": "Count_Farm_SunflowerSeed",
+        "node_link": "https://datacommons.org/browser/Count_Farm_SunflowerSeed"
+    },
+    {
+        "node_name": "Area of Farms Growing Sweet Potatoes",
+        "node_dcid": "Area_Farm_SweetPotatoes",
+        "node_link": "https://datacommons.org/browser/Area_Farm_SweetPotatoes"
+    },
+    {
+        "node_name": "Farms Growing Sweet Potatoes",
+        "node_dcid": "Count_Farm_SweetPotatoes",
+        "node_link": "https://datacommons.org/browser/Count_Farm_SweetPotatoes"
+    },
+    {
+        "node_name": "Area of Farms Growing Upland Cotton",
+        "node_dcid": "Area_Farm_UplandCotton",
+        "node_link": "https://datacommons.org/browser/Area_Farm_UplandCotton"
+    },
+    {
+        "node_name": "Farms Growing Upland Cotton",
+        "node_dcid": "Count_Farm_UplandCotton",
+        "node_link": "https://datacommons.org/browser/Count_Farm_UplandCotton"
+    },
+    {
+        "node_name": "Area of Farms Growing Vegetables for Sale",
+        "node_dcid": "Area_Farm_VegetablesHarvestedForSale",
+        "node_link": "https://datacommons.org/browser/Area_Farm_VegetablesHarvestedForSale"
+    },
+    {
+        "node_name": "Farms Growing Vegetables for Sale",
+        "node_dcid": "Count_Farm_VegetablesHarvestedForSale",
+        "node_link": "https://datacommons.org/browser/Count_Farm_VegetablesHarvestedForSale"
+    },
+    {
+        "node_name": "Area of Farms Growing Wheat",
+        "node_dcid": "Area_Farm_WheatForGrain",
+        "node_link": "https://datacommons.org/browser/Area_Farm_WheatForGrain"
+    },
+    {
+        "node_name": "Farms Growing Wheat",
+        "node_dcid": "Count_Farm_WheatForGrain",
+        "node_link": "https://datacommons.org/browser/Count_Farm_WheatForGrain"
+    },
+    {
+        "node_name": "Area of Farms Growing Winter Wheat",
+        "node_dcid": "Area_Farm_WinterWheatForGrain",
+        "node_link": "https://datacommons.org/browser/Area_Farm_WinterWheatForGrain"
+    },
+    {
+        "node_name": "Farms Growing Winter Wheat",
+        "node_dcid": "Count_Farm_WinterWheatForGrain",
+        "node_link": "https://datacommons.org/browser/Count_Farm_WinterWheatForGrain"
+    },
+    {
+        "node_name": "\u2026 From 1 Acre to 10 Acres",
+        "node_dcid": "Count_Farm_1To9.9Acre",
+        "node_link": "https://datacommons.org/browser/Count_Farm_1To9.9Acre"
+    },
+    {
+        "node_name": "\u2026 From 10 to 50 Acres",
+        "node_dcid": "Count_Farm_10To49.9Acre",
+        "node_link": "https://datacommons.org/browser/Count_Farm_10To49.9Acre"
+    },
+    {
+        "node_name": "\u2026 From 180 to 500 Acres",
+        "node_dcid": "Count_Farm_180To499Acre",
+        "node_link": "https://datacommons.org/browser/Count_Farm_180To499Acre"
+    },
+    {
+        "node_name": "\u2026 From 50 to 180 Acres",
+        "node_dcid": "Count_Farm_50To179Acre",
+        "node_link": "https://datacommons.org/browser/Count_Farm_50To179Acre"
+    },
+    {
+        "node_name": "\u2026 From 500 to 1000 Acres",
+        "node_dcid": "Count_Farm_500To999Acre",
+        "node_link": "https://datacommons.org/browser/Count_Farm_500To999Acre"
+    },
+    {
+        "node_name": "\u2026 of More Than 1000 Acres",
+        "node_dcid": "Count_1000OnwardsAcre",
+        "node_link": "https://datacommons.org/browser/Count_1000OnwardsAcre"
+    },
+    {
+        "node_name": "Area of Farms Used for Crop Cultivation",
+        "node_dcid": "Area_Farm_Cropland",
+        "node_link": "https://datacommons.org/browser/Area_Farm_Cropland"
+    },
+    {
+        "node_name": "Farms With Crop Cultivation",
+        "node_dcid": "Count_Farm_Cropland",
+        "node_link": "https://datacommons.org/browser/Count_Farm_Cropland"
+    },
+    {
+        "node_name": "Area of Farms With Harvested Cropland",
+        "node_dcid": "Area_Farm_HarvestedCropland",
+        "node_link": "https://datacommons.org/browser/Area_Farm_HarvestedCropland"
+    },
+    {
+        "node_name": "Farms With Harvested Cropland",
+        "node_dcid": "Count_Farm_HarvestedCropland",
+        "node_link": "https://datacommons.org/browser/Count_Farm_HarvestedCropland"
+    },
+    {
+        "node_name": "Area of Irrigated Lands on Farms",
+        "node_dcid": "Area_Farm_IrrigatedLand",
+        "node_link": "https://datacommons.org/browser/Area_Farm_IrrigatedLand"
+    },
+    {
+        "node_name": "Farms With Irrigated Lands",
+        "node_dcid": "Count_Farm_IrrigatedLand",
+        "node_link": "https://datacommons.org/browser/Count_Farm_IrrigatedLand"
+    },
+    {
+        "node_name": "Farms Receiving Government Payments",
+        "node_dcid": "Count_Farm_ReceivedGovernmentPayment",
+        "node_link": "https://datacommons.org/browser/Count_Farm_ReceivedGovernmentPayment"
+    },
+    {
+        "node_name": "Monetary Value of Government Payments to Farms",
+        "node_dcid": "MonetaryValue_Farm_GovernmentPayment",
+        "node_link": "https://datacommons.org/browser/MonetaryValue_Farm_GovernmentPayment"
+    },
+    {
+        "node_name": "\u2026 Income",
+        "node_dcid": "Count_Farm_ReportedIncome",
+        "node_link": "https://datacommons.org/browser/Count_Farm_ReportedIncome"
+    },
+    {
+        "node_name": "\u2026 Net Income",
+        "node_dcid": "Count_Farm_ReportedNetIncome",
+        "node_link": "https://datacommons.org/browser/Count_Farm_ReportedNetIncome"
+    },
+    {
+        "node_name": "Area of Farm: Primary Producer, American Indian or Alaska Native Alone",
+        "node_dcid": "Area_Farm_PrimaryProducer_AmericanIndianOrAlaskaNativeAlone",
+        "node_link": "https://datacommons.org/browser/Area_Farm_PrimaryProducer_AmericanIndianOrAlaskaNativeAlone"
+    },
+    {
+        "node_name": "Count of Farm: Primary Producer, American Indian or Alaska Native Alone",
+        "node_dcid": "Count_Farm_PrimaryProducer_AmericanIndianOrAlaskaNativeAlone",
+        "node_link": "https://datacommons.org/browser/Count_Farm_PrimaryProducer_AmericanIndianOrAlaskaNativeAlone"
+    },
+    {
+        "node_name": "Area of Farm: Primary Producer, Asian Alone",
+        "node_dcid": "Area_Farm_PrimaryProducer_AsianAlone",
+        "node_link": "https://datacommons.org/browser/Area_Farm_PrimaryProducer_AsianAlone"
+    },
+    {
+        "node_name": "Count of Farm: Primary Producer, Asian Alone",
+        "node_dcid": "Count_Farm_PrimaryProducer_AsianAlone",
+        "node_link": "https://datacommons.org/browser/Count_Farm_PrimaryProducer_AsianAlone"
+    },
+    {
+        "node_name": "Area of Farm: Primary Producer, Black or African American Alone",
+        "node_dcid": "Area_Farm_PrimaryProducer_BlackOrAfricanAmericanAlone",
+        "node_link": "https://datacommons.org/browser/Area_Farm_PrimaryProducer_BlackOrAfricanAmericanAlone"
+    },
+    {
+        "node_name": "Count of Farm: Primary Producer, Black or African American Alone",
+        "node_dcid": "Count_Farm_PrimaryProducer_BlackOrAfricanAmericanAlone",
+        "node_link": "https://datacommons.org/browser/Count_Farm_PrimaryProducer_BlackOrAfricanAmericanAlone"
+    },
+    {
+        "node_name": "Area of Farm: Primary Producer, Hispanic or Latino",
+        "node_dcid": "Area_Farm_PrimaryProducer_HispanicOrLatino",
+        "node_link": "https://datacommons.org/browser/Area_Farm_PrimaryProducer_HispanicOrLatino"
+    },
+    {
+        "node_name": "Count of Farm: Primary Producer, Hispanic or Latino",
+        "node_dcid": "Count_Farm_PrimaryProducer_HispanicOrLatino",
+        "node_link": "https://datacommons.org/browser/Count_Farm_PrimaryProducer_HispanicOrLatino"
+    },
+    {
+        "node_name": "Area of Farm: Primary Producer, Native Hawaiian or Other Pacific Islander Alone",
+        "node_dcid": "Area_Farm_PrimaryProducer_NativeHawaiianOrOtherPacificIslanderAlone",
+        "node_link": "https://datacommons.org/browser/Area_Farm_PrimaryProducer_NativeHawaiianOrOtherPacificIslanderAlone"
+    },
+    {
+        "node_name": "Count of Farm: Primary Producer, Native Hawaiian or Other Pacific Islander Alone",
+        "node_dcid": "Count_Farm_PrimaryProducer_NativeHawaiianOrOtherPacificIslanderAlone",
+        "node_link": "https://datacommons.org/browser/Count_Farm_PrimaryProducer_NativeHawaiianOrOtherPacificIslanderAlone"
+    },
+    {
+        "node_name": "Area of Farm: Primary Producer, Two or More Races",
+        "node_dcid": "Area_Farm_PrimaryProducer_TwoOrMoreRaces",
+        "node_link": "https://datacommons.org/browser/Area_Farm_PrimaryProducer_TwoOrMoreRaces"
+    },
+    {
+        "node_name": "Count of Farm: Primary Producer, Two or More Races",
+        "node_dcid": "Count_Farm_PrimaryProducer_TwoOrMoreRaces",
+        "node_link": "https://datacommons.org/browser/Count_Farm_PrimaryProducer_TwoOrMoreRaces"
+    },
+    {
+        "node_name": "Area of Farm: Primary Producer, White Alone",
+        "node_dcid": "Area_Farm_PrimaryProducer_WhiteAlone",
+        "node_link": "https://datacommons.org/browser/Area_Farm_PrimaryProducer_WhiteAlone"
+    },
+    {
+        "node_name": "Count of Farm: Primary Producer, White Alone",
+        "node_dcid": "Count_Farm_PrimaryProducer_WhiteAlone",
+        "node_link": "https://datacommons.org/browser/Count_Farm_PrimaryProducer_WhiteAlone"
+    },
+    {
+        "node_name": "Area of Farm: Producer, American Indian or Alaska Native Alone",
+        "node_dcid": "Area_Farm_Producer_AmericanIndianOrAlaskaNativeAlone",
+        "node_link": "https://datacommons.org/browser/Area_Farm_Producer_AmericanIndianOrAlaskaNativeAlone"
+    },
+    {
+        "node_name": "Count of Farm: Producer, American Indian or Alaska Native Alone",
+        "node_dcid": "Count_Farm_Producer_AmericanIndianOrAlaskaNativeAlone",
+        "node_link": "https://datacommons.org/browser/Count_Farm_Producer_AmericanIndianOrAlaskaNativeAlone"
+    },
+    {
+        "node_name": "Area of Farm: Producer, Asian Alone",
+        "node_dcid": "Area_Farm_Producer_AsianAlone",
+        "node_link": "https://datacommons.org/browser/Area_Farm_Producer_AsianAlone"
+    },
+    {
+        "node_name": "Count of Farm: Producer, Asian Alone",
+        "node_dcid": "Count_Farm_Producer_AsianAlone",
+        "node_link": "https://datacommons.org/browser/Count_Farm_Producer_AsianAlone"
+    },
+    {
+        "node_name": "Area of Farm: Producer, Black or African American Alone",
+        "node_dcid": "Area_Farm_Producer_BlackOrAfricanAmericanAlone",
+        "node_link": "https://datacommons.org/browser/Area_Farm_Producer_BlackOrAfricanAmericanAlone"
+    },
+    {
+        "node_name": "Count of Farm: Producer, Black or African American Alone",
+        "node_dcid": "Count_Farm_Producer_BlackOrAfricanAmericanAlone",
+        "node_link": "https://datacommons.org/browser/Count_Farm_Producer_BlackOrAfricanAmericanAlone"
+    },
+    {
+        "node_name": "Area of Farm: Producer, Hispanic or Latino",
+        "node_dcid": "Area_Farm_Producer_HispanicOrLatino",
+        "node_link": "https://datacommons.org/browser/Area_Farm_Producer_HispanicOrLatino"
+    },
+    {
+        "node_name": "Count of Farm: Producer, Hispanic or Latino",
+        "node_dcid": "Count_Farm_Producer_HispanicOrLatino",
+        "node_link": "https://datacommons.org/browser/Count_Farm_Producer_HispanicOrLatino"
+    },
+    {
+        "node_name": "Area of Farm: Producer, Native Hawaiian or Other Pacific Islander Alone",
+        "node_dcid": "Area_Farm_Producer_NativeHawaiianOrOtherPacificIslanderAlone",
+        "node_link": "https://datacommons.org/browser/Area_Farm_Producer_NativeHawaiianOrOtherPacificIslanderAlone"
+    },
+    {
+        "node_name": "Count of Farm: Producer, Native Hawaiian or Other Pacific Islander Alone",
+        "node_dcid": "Count_Farm_Producer_NativeHawaiianOrOtherPacificIslanderAlone",
+        "node_link": "https://datacommons.org/browser/Count_Farm_Producer_NativeHawaiianOrOtherPacificIslanderAlone"
+    },
+    {
+        "node_name": "Area of Farm: Producer, Two or More Races",
+        "node_dcid": "Area_Farm_Producer_TwoOrMoreRaces",
+        "node_link": "https://datacommons.org/browser/Area_Farm_Producer_TwoOrMoreRaces"
+    },
+    {
+        "node_name": "Count of Farm: Producer, Two or More Races",
+        "node_dcid": "Count_Farm_Producer_TwoOrMoreRaces",
+        "node_link": "https://datacommons.org/browser/Count_Farm_Producer_TwoOrMoreRaces"
+    },
+    {
+        "node_name": "Area of Farm: Producer, White Alone",
+        "node_dcid": "Area_Farm_Producer_WhiteAlone",
+        "node_link": "https://datacommons.org/browser/Area_Farm_Producer_WhiteAlone"
+    },
+    {
+        "node_name": "Count of Farm: Producer, White Alone",
+        "node_dcid": "Count_Farm_Producer_WhiteAlone",
+        "node_link": "https://datacommons.org/browser/Count_Farm_Producer_WhiteAlone"
+    },
+    {
+        "node_name": "Area of Farm: Primary Producer, American Indian or Alaska Native Alone",
+        "node_dcid": "Area_Farm_PrimaryProducer_AmericanIndianOrAlaskaNativeAlone",
+        "node_link": "https://datacommons.org/browser/Area_Farm_PrimaryProducer_AmericanIndianOrAlaskaNativeAlone"
+    },
+    {
+        "node_name": "Count of Farm: Primary Producer, American Indian or Alaska Native Alone",
+        "node_dcid": "Count_Farm_PrimaryProducer_AmericanIndianOrAlaskaNativeAlone",
+        "node_link": "https://datacommons.org/browser/Count_Farm_PrimaryProducer_AmericanIndianOrAlaskaNativeAlone"
+    },
+    {
+        "node_name": "Area of Farm: Producer, American Indian or Alaska Native Alone",
+        "node_dcid": "Area_Farm_Producer_AmericanIndianOrAlaskaNativeAlone",
+        "node_link": "https://datacommons.org/browser/Area_Farm_Producer_AmericanIndianOrAlaskaNativeAlone"
+    },
+    {
+        "node_name": "Count of Farm: Producer, American Indian or Alaska Native Alone",
+        "node_dcid": "Count_Farm_Producer_AmericanIndianOrAlaskaNativeAlone",
+        "node_link": "https://datacommons.org/browser/Count_Farm_Producer_AmericanIndianOrAlaskaNativeAlone"
+    },
+    {
+        "node_name": "Area of Farm: Primary Producer, Asian Alone",
+        "node_dcid": "Area_Farm_PrimaryProducer_AsianAlone",
+        "node_link": "https://datacommons.org/browser/Area_Farm_PrimaryProducer_AsianAlone"
+    },
+    {
+        "node_name": "Count of Farm: Primary Producer, Asian Alone",
+        "node_dcid": "Count_Farm_PrimaryProducer_AsianAlone",
+        "node_link": "https://datacommons.org/browser/Count_Farm_PrimaryProducer_AsianAlone"
+    },
+    {
+        "node_name": "Area of Farm: Producer, Asian Alone",
+        "node_dcid": "Area_Farm_Producer_AsianAlone",
+        "node_link": "https://datacommons.org/browser/Area_Farm_Producer_AsianAlone"
+    },
+    {
+        "node_name": "Count of Farm: Producer, Asian Alone",
+        "node_dcid": "Count_Farm_Producer_AsianAlone",
+        "node_link": "https://datacommons.org/browser/Count_Farm_Producer_AsianAlone"
+    },
+    {
+        "node_name": "Area of Farm: Primary Producer, Black or African American Alone",
+        "node_dcid": "Area_Farm_PrimaryProducer_BlackOrAfricanAmericanAlone",
+        "node_link": "https://datacommons.org/browser/Area_Farm_PrimaryProducer_BlackOrAfricanAmericanAlone"
+    },
+    {
+        "node_name": "Count of Farm: Primary Producer, Black or African American Alone",
+        "node_dcid": "Count_Farm_PrimaryProducer_BlackOrAfricanAmericanAlone",
+        "node_link": "https://datacommons.org/browser/Count_Farm_PrimaryProducer_BlackOrAfricanAmericanAlone"
+    },
+    {
+        "node_name": "Area of Farm: Producer, Black or African American Alone",
+        "node_dcid": "Area_Farm_Producer_BlackOrAfricanAmericanAlone",
+        "node_link": "https://datacommons.org/browser/Area_Farm_Producer_BlackOrAfricanAmericanAlone"
+    },
+    {
+        "node_name": "Count of Farm: Producer, Black or African American Alone",
+        "node_dcid": "Count_Farm_Producer_BlackOrAfricanAmericanAlone",
+        "node_link": "https://datacommons.org/browser/Count_Farm_Producer_BlackOrAfricanAmericanAlone"
+    },
+    {
+        "node_name": "Area of Farm: Primary Producer, Hispanic or Latino",
+        "node_dcid": "Area_Farm_PrimaryProducer_HispanicOrLatino",
+        "node_link": "https://datacommons.org/browser/Area_Farm_PrimaryProducer_HispanicOrLatino"
+    },
+    {
+        "node_name": "Count of Farm: Primary Producer, Hispanic or Latino",
+        "node_dcid": "Count_Farm_PrimaryProducer_HispanicOrLatino",
+        "node_link": "https://datacommons.org/browser/Count_Farm_PrimaryProducer_HispanicOrLatino"
+    },
+    {
+        "node_name": "Area of Farm: Producer, Hispanic or Latino",
+        "node_dcid": "Area_Farm_Producer_HispanicOrLatino",
+        "node_link": "https://datacommons.org/browser/Area_Farm_Producer_HispanicOrLatino"
+    },
+    {
+        "node_name": "Count of Farm: Producer, Hispanic or Latino",
+        "node_dcid": "Count_Farm_Producer_HispanicOrLatino",
+        "node_link": "https://datacommons.org/browser/Count_Farm_Producer_HispanicOrLatino"
+    },
+    {
+        "node_name": "Area of Farm: Primary Producer, Native Hawaiian or Other Pacific Islander Alone",
+        "node_dcid": "Area_Farm_PrimaryProducer_NativeHawaiianOrOtherPacificIslanderAlone",
+        "node_link": "https://datacommons.org/browser/Area_Farm_PrimaryProducer_NativeHawaiianOrOtherPacificIslanderAlone"
+    },
+    {
+        "node_name": "Count of Farm: Primary Producer, Native Hawaiian or Other Pacific Islander Alone",
+        "node_dcid": "Count_Farm_PrimaryProducer_NativeHawaiianOrOtherPacificIslanderAlone",
+        "node_link": "https://datacommons.org/browser/Count_Farm_PrimaryProducer_NativeHawaiianOrOtherPacificIslanderAlone"
+    },
+    {
+        "node_name": "Area of Farm: Producer, Native Hawaiian or Other Pacific Islander Alone",
+        "node_dcid": "Area_Farm_Producer_NativeHawaiianOrOtherPacificIslanderAlone",
+        "node_link": "https://datacommons.org/browser/Area_Farm_Producer_NativeHawaiianOrOtherPacificIslanderAlone"
+    },
+    {
+        "node_name": "Count of Farm: Producer, Native Hawaiian or Other Pacific Islander Alone",
+        "node_dcid": "Count_Farm_Producer_NativeHawaiianOrOtherPacificIslanderAlone",
+        "node_link": "https://datacommons.org/browser/Count_Farm_Producer_NativeHawaiianOrOtherPacificIslanderAlone"
+    },
+    {
+        "node_name": "Area of Farm: Primary Producer, Two or More Races",
+        "node_dcid": "Area_Farm_PrimaryProducer_TwoOrMoreRaces",
+        "node_link": "https://datacommons.org/browser/Area_Farm_PrimaryProducer_TwoOrMoreRaces"
+    },
+    {
+        "node_name": "Count of Farm: Primary Producer, Two or More Races",
+        "node_dcid": "Count_Farm_PrimaryProducer_TwoOrMoreRaces",
+        "node_link": "https://datacommons.org/browser/Count_Farm_PrimaryProducer_TwoOrMoreRaces"
+    },
+    {
+        "node_name": "Area of Farm: Producer, Two or More Races",
+        "node_dcid": "Area_Farm_Producer_TwoOrMoreRaces",
+        "node_link": "https://datacommons.org/browser/Area_Farm_Producer_TwoOrMoreRaces"
+    },
+    {
+        "node_name": "Count of Farm: Producer, Two or More Races",
+        "node_dcid": "Count_Farm_Producer_TwoOrMoreRaces",
+        "node_link": "https://datacommons.org/browser/Count_Farm_Producer_TwoOrMoreRaces"
+    },
+    {
+        "node_name": "Area of Farm: Primary Producer, White Alone",
+        "node_dcid": "Area_Farm_PrimaryProducer_WhiteAlone",
+        "node_link": "https://datacommons.org/browser/Area_Farm_PrimaryProducer_WhiteAlone"
+    },
+    {
+        "node_name": "Count of Farm: Primary Producer, White Alone",
+        "node_dcid": "Count_Farm_PrimaryProducer_WhiteAlone",
+        "node_link": "https://datacommons.org/browser/Count_Farm_PrimaryProducer_WhiteAlone"
+    },
+    {
+        "node_name": "Area of Farm: Producer, White Alone",
+        "node_dcid": "Area_Farm_Producer_WhiteAlone",
+        "node_link": "https://datacommons.org/browser/Area_Farm_Producer_WhiteAlone"
+    },
+    {
+        "node_name": "Count of Farm: Producer, White Alone",
+        "node_dcid": "Count_Farm_Producer_WhiteAlone",
+        "node_link": "https://datacommons.org/browser/Count_Farm_Producer_WhiteAlone"
+    },
+    {
+        "node_name": "\u2026 1,000 USD or Less",
+        "node_dcid": "Count_Farm_Upto1000USDollar",
+        "node_link": "https://datacommons.org/browser/Count_Farm_Upto1000USDollar"
+    },
+    {
+        "node_name": "\u2026 10,000 - 24,999 USD",
+        "node_dcid": "Count_Farm_10000To24999USDollar",
+        "node_link": "https://datacommons.org/browser/Count_Farm_10000To24999USDollar"
+    },
+    {
+        "node_name": "\u2026 100,000 USD or More",
+        "node_dcid": "Count_Farm_100000OnwardsUSDollar",
+        "node_link": "https://datacommons.org/browser/Count_Farm_100000OnwardsUSDollar"
+    },
+    {
+        "node_name": "\u2026 2,500 - 4,999 USD",
+        "node_dcid": "Count_Farm_2500To4999USDollar",
+        "node_link": "https://datacommons.org/browser/Count_Farm_2500To4999USDollar"
+    },
+    {
+        "node_name": "\u2026 25,000 - 49,999 USD",
+        "node_dcid": "Count_Farm_25000To49999USDollar",
+        "node_link": "https://datacommons.org/browser/Count_Farm_25000To49999USDollar"
+    },
+    {
+        "node_name": "\u2026 5,000 - 9,999 USD",
+        "node_dcid": "Count_Farm_5000To9999USDollar",
+        "node_link": "https://datacommons.org/browser/Count_Farm_5000To9999USDollar"
+    },
+    {
+        "node_name": "\u2026 50,000 - 99,999 USD",
+        "node_dcid": "Count_Farm_50000To99999USDollar",
+        "node_link": "https://datacommons.org/browser/Count_Farm_50000To99999USDollar"
+    },
+    {
+        "node_name": "Barley Grown",
+        "node_dcid": "Amount_FarmInventory_BarleyForGrain",
+        "node_link": "https://datacommons.org/browser/Amount_FarmInventory_BarleyForGrain"
+    },
+    {
+        "node_name": "Beans Grown",
+        "node_dcid": "Amount_FarmInventory_DryEdibleBeans",
+        "node_link": "https://datacommons.org/browser/Amount_FarmInventory_DryEdibleBeans"
+    },
+    {
+        "node_name": "Beef Cows on a Farm",
+        "node_dcid": "Count_FarmInventory_BeefCows",
+        "node_link": "https://datacommons.org/browser/Count_FarmInventory_BeefCows"
+    },
+    {
+        "node_name": "Broiler Chickens on a Farm",
+        "node_dcid": "Count_FarmInventory_Broilers",
+        "node_link": "https://datacommons.org/browser/Count_FarmInventory_Broilers"
+    },
+    {
+        "node_name": "Corn Grown",
+        "node_dcid": "Amout_FarmInventory_CornForGrain",
+        "node_link": "https://datacommons.org/browser/Amout_FarmInventory_CornForGrain"
+    },
+    {
+        "node_name": "Cotton Grown",
+        "node_dcid": "Amount_FarmInventory_Cotton",
+        "node_link": "https://datacommons.org/browser/Amount_FarmInventory_Cotton"
+    },
+    {
+        "node_name": "Durum Wheat Grown",
+        "node_dcid": "Amount_FarmInventory_DurumWheatForGrain",
+        "node_link": "https://datacommons.org/browser/Amount_FarmInventory_DurumWheatForGrain"
+    },
+    {
+        "node_name": "Forage Produced",
+        "node_dcid": "Amount_FarmInventory_Forage",
+        "node_link": "https://datacommons.org/browser/Amount_FarmInventory_Forage"
+    },
+    {
+        "node_name": "Laying Hens on a Farm",
+        "node_dcid": "Count_FarmInventory_Layers",
+        "node_link": "https://datacommons.org/browser/Count_FarmInventory_Layers"
+    },
+    {
+        "node_name": "Milk Cows on a Farm",
+        "node_dcid": "Count_FarmInventory_MilkCows",
+        "node_link": "https://datacommons.org/browser/Count_FarmInventory_MilkCows"
+    },
+    {
+        "node_name": "Oats Grown",
+        "node_dcid": "Amount_FarmInventory_OatsForGrain",
+        "node_link": "https://datacommons.org/browser/Amount_FarmInventory_OatsForGrain"
+    },
+    {
+        "node_name": "Peanuts Grown",
+        "node_dcid": "Amount_FarmInventory_PeanutsForNuts",
+        "node_link": "https://datacommons.org/browser/Amount_FarmInventory_PeanutsForNuts"
+    },
+    {
+        "node_name": "Pima Cotton Grown",
+        "node_dcid": "Amount_FarmInventory_PimaCotton",
+        "node_link": "https://datacommons.org/browser/Amount_FarmInventory_PimaCotton"
+    },
+    {
+        "node_name": "Rice Grown",
+        "node_dcid": "Amount_FarmInventory_Rice",
+        "node_link": "https://datacommons.org/browser/Amount_FarmInventory_Rice"
+    },
+    {
+        "node_name": "Sheep and Lambs on a Farm",
+        "node_dcid": "Count_FarmInventory_SheepAndLambs",
+        "node_link": "https://datacommons.org/browser/Count_FarmInventory_SheepAndLambs"
+    },
+    {
+        "node_name": "Silage Produced",
+        "node_dcid": "Amount_FarmInventory_CornForSilageOrGreenchop",
+        "node_link": "https://datacommons.org/browser/Amount_FarmInventory_CornForSilageOrGreenchop"
+    },
+    {
+        "node_name": "Sorghum Grown",
+        "node_dcid": "Amount_FarmInventory_SorghumForGrain",
+        "node_link": "https://datacommons.org/browser/Amount_FarmInventory_SorghumForGrain"
+    },
+    {
+        "node_name": "Sorghum for Silage or Greenchop Grown",
+        "node_dcid": "Amount_FarmInventory_SorghumForSilageOrGreenchop",
+        "node_link": "https://datacommons.org/browser/Amount_FarmInventory_SorghumForSilageOrGreenchop"
+    },
+    {
+        "node_name": "Spring Wheat Grown",
+        "node_dcid": "Amount_FarmInventory_OtherSpringWheatForGrain",
+        "node_link": "https://datacommons.org/browser/Amount_FarmInventory_OtherSpringWheatForGrain"
+    },
+    {
+        "node_name": "Sugarbeets Grown",
+        "node_dcid": "Amount_FarmInventory_SugarbeetsForSugar",
+        "node_link": "https://datacommons.org/browser/Amount_FarmInventory_SugarbeetsForSugar"
+    },
+    {
+        "node_name": "Sunflowerseed Grown",
+        "node_dcid": "Amount_FarmInventory_SunflowerSeed",
+        "node_link": "https://datacommons.org/browser/Amount_FarmInventory_SunflowerSeed"
+    },
+    {
+        "node_name": "Upland Cotton Grown",
+        "node_dcid": "Amount_FarmInventory_UplandCotton",
+        "node_link": "https://datacommons.org/browser/Amount_FarmInventory_UplandCotton"
+    },
+    {
+        "node_name": "Wheat Grown",
+        "node_dcid": "Amount_FarmInventory_WheatForGrain",
+        "node_link": "https://datacommons.org/browser/Amount_FarmInventory_WheatForGrain"
+    },
+    {
+        "node_name": "Winter Wheat Grain Grown",
+        "node_dcid": "AmountFarmInventory_WinterWheatForGrain",
+        "node_link": "https://datacommons.org/browser/AmountFarmInventory_WinterWheatForGrain"
+    },
+    {
+        "node_name": "Cattle and Calves on a Farm",
+        "node_dcid": "Count_FarmInventory_CattleAndCalves",
+        "node_link": "https://datacommons.org/browser/Count_FarmInventory_CattleAndCalves"
+    },
+    {
+        "node_name": "Quantity of Cattle and Calves Sold From Farms",
+        "node_dcid": "QuantitySold_FarmInventory_CattleAndCalves",
+        "node_link": "https://datacommons.org/browser/QuantitySold_FarmInventory_CattleAndCalves"
+    },
+    {
+        "node_name": "Hogs and Pigs on a Farm",
+        "node_dcid": "Count_FarmInventory_HogsAndPigs",
+        "node_link": "https://datacommons.org/browser/Count_FarmInventory_HogsAndPigs"
+    },
+    {
+        "node_name": "Quantity of Hogs and Pigs Sold From Farms",
+        "node_dcid": "QuantitySold_FarmInventory_HogsAndPigs",
+        "node_link": "https://datacommons.org/browser/QuantitySold_FarmInventory_HogsAndPigs"
+    },
+    {
+        "node_name": "Population: Producer",
+        "node_dcid": "Count_Person_Producer",
+        "node_link": "https://datacommons.org/browser/Count_Person_Producer"
+    },
+    {
+        "node_name": "African American Farmers",
+        "node_dcid": "Count_Person_Producer_BlackOrAfricanAmericanAlone",
+        "node_link": "https://datacommons.org/browser/Count_Person_Producer_BlackOrAfricanAmericanAlone"
+    },
+    {
+        "node_name": "American Indian and Native American Farmers",
+        "node_dcid": "Count_Person_Producer_AmericanIndianOrAlaskaNativeAlone",
+        "node_link": "https://datacommons.org/browser/Count_Person_Producer_AmericanIndianOrAlaskaNativeAlone"
+    },
+    {
+        "node_name": "Asian Farmers",
+        "node_dcid": "Count_Person_Producer_AsianAlone",
+        "node_link": "https://datacommons.org/browser/Count_Person_Producer_AsianAlone"
+    },
+    {
+        "node_name": "Hispanic Farmers",
+        "node_dcid": "Count_Person_Producer_HispanicOrLatino",
+        "node_link": "https://datacommons.org/browser/Count_Person_Producer_HispanicOrLatino"
+    },
+    {
+        "node_name": "Multiracial Farmers",
+        "node_dcid": "Count_Person_Producer_TwoOrMoreRaces",
+        "node_link": "https://datacommons.org/browser/Count_Person_Producer_TwoOrMoreRaces"
+    },
+    {
+        "node_name": "Native Hawaiian Farmers",
+        "node_dcid": "Count_Person_Producer_NativeHawaiianOrOtherPacificIslanderAlone",
+        "node_link": "https://datacommons.org/browser/Count_Person_Producer_NativeHawaiianOrOtherPacificIslanderAlone"
+    },
+    {
+        "node_name": "White Farmers",
+        "node_dcid": "Count_Person_Producer_WhiteAlone",
+        "node_link": "https://datacommons.org/browser/Count_Person_Producer_WhiteAlone"
+    },
+    {
+        "node_name": "American Indian and Native American Farmers",
+        "node_dcid": "Count_Person_Producer_AmericanIndianOrAlaskaNativeAlone",
+        "node_link": "https://datacommons.org/browser/Count_Person_Producer_AmericanIndianOrAlaskaNativeAlone"
+    },
+    {
+        "node_name": "Asian Farmers",
+        "node_dcid": "Count_Person_Producer_AsianAlone",
+        "node_link": "https://datacommons.org/browser/Count_Person_Producer_AsianAlone"
+    },
+    {
+        "node_name": "African American Farmers",
+        "node_dcid": "Count_Person_Producer_BlackOrAfricanAmericanAlone",
+        "node_link": "https://datacommons.org/browser/Count_Person_Producer_BlackOrAfricanAmericanAlone"
+    },
+    {
+        "node_name": "Hispanic Farmers",
+        "node_dcid": "Count_Person_Producer_HispanicOrLatino",
+        "node_link": "https://datacommons.org/browser/Count_Person_Producer_HispanicOrLatino"
+    },
+    {
+        "node_name": "Native Hawaiian Farmers",
+        "node_dcid": "Count_Person_Producer_NativeHawaiianOrOtherPacificIslanderAlone",
+        "node_link": "https://datacommons.org/browser/Count_Person_Producer_NativeHawaiianOrOtherPacificIslanderAlone"
+    },
+    {
+        "node_name": "Multiracial Farmers",
+        "node_dcid": "Count_Person_Producer_TwoOrMoreRaces",
+        "node_link": "https://datacommons.org/browser/Count_Person_Producer_TwoOrMoreRaces"
+    },
+    {
+        "node_name": "White Farmers",
+        "node_dcid": "Count_Person_Producer_WhiteAlone",
+        "node_link": "https://datacommons.org/browser/Count_Person_Producer_WhiteAlone"
+    },
+    {
+        "node_name": "American Indian and Native American Farmers",
+        "node_dcid": "Count_Person_Producer_AmericanIndianOrAlaskaNativeAlone",
+        "node_link": "https://datacommons.org/browser/Count_Person_Producer_AmericanIndianOrAlaskaNativeAlone"
+    },
+    {
+        "node_name": "Asian Farmers",
+        "node_dcid": "Count_Person_Producer_AsianAlone",
+        "node_link": "https://datacommons.org/browser/Count_Person_Producer_AsianAlone"
+    },
+    {
+        "node_name": "African American Farmers",
+        "node_dcid": "Count_Person_Producer_BlackOrAfricanAmericanAlone",
+        "node_link": "https://datacommons.org/browser/Count_Person_Producer_BlackOrAfricanAmericanAlone"
+    },
+    {
+        "node_name": "Hispanic Farmers",
+        "node_dcid": "Count_Person_Producer_HispanicOrLatino",
+        "node_link": "https://datacommons.org/browser/Count_Person_Producer_HispanicOrLatino"
+    },
+    {
+        "node_name": "Native Hawaiian Farmers",
+        "node_dcid": "Count_Person_Producer_NativeHawaiianOrOtherPacificIslanderAlone",
+        "node_link": "https://datacommons.org/browser/Count_Person_Producer_NativeHawaiianOrOtherPacificIslanderAlone"
+    },
+    {
+        "node_name": "Multiracial Farmers",
+        "node_dcid": "Count_Person_Producer_TwoOrMoreRaces",
+        "node_link": "https://datacommons.org/browser/Count_Person_Producer_TwoOrMoreRaces"
+    },
+    {
+        "node_name": "White Farmers",
+        "node_dcid": "Count_Person_Producer_WhiteAlone",
+        "node_link": "https://datacommons.org/browser/Count_Person_Producer_WhiteAlone"
+    }
+]

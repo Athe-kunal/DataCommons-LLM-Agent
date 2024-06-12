@@ -1,0 +1,227 @@
+[
+    {
+        "node_name": "Average Meal Cost for Food Secure People",
+        "node_dcid": "Mean_MealCost_Person_FoodSecure",
+        "node_link": "https://datacommons.org/browser/Mean_MealCost_Person_FoodSecure"
+    },
+    {
+        "node_name": "\u2026 Eligible for All Federal Benefits",
+        "node_dcid": "Count_Person_FoodInsecure_EligibleForAllFederalBenefits",
+        "node_link": "https://datacommons.org/browser/Count_Person_FoodInsecure_EligibleForAllFederalBenefits"
+    },
+    {
+        "node_name": "\u2026 Eligible for Some Federal Benefits",
+        "node_dcid": "Count_Person_FoodInsecure_EligibleForSomeFederalBenefits",
+        "node_link": "https://datacommons.org/browser/Count_Person_FoodInsecure_EligibleForSomeFederalBenefits"
+    },
+    {
+        "node_name": "\u2026 Ineligible for Federal Benefits",
+        "node_dcid": "Count_Person_FoodInsecure_IneligibleForFederalBenefits",
+        "node_link": "https://datacommons.org/browser/Count_Person_FoodInsecure_IneligibleForFederalBenefits"
+    },
+    {
+        "node_name": "\u2026 Eligible for Benefits",
+        "node_dcid": "Count_Child_FoodInsecure_EligibleForManyChildNutritionBenefits",
+        "node_link": "https://datacommons.org/browser/Count_Child_FoodInsecure_EligibleForManyChildNutritionBenefits"
+    },
+    {
+        "node_name": "\u2026 Ineligible for Benefits",
+        "node_dcid": "Count_Child_FoodInsecure_IneligibleForChildNutritionBenefits",
+        "node_link": "https://datacommons.org/browser/Count_Child_FoodInsecure_IneligibleForChildNutritionBenefits"
+    },
+    {
+        "node_name": "Count of Child: Food in Secure (As Fraction of Count Child)",
+        "node_dcid": "Count_Child_FoodInsecure_AsAFractionOf_Count_Child",
+        "node_link": "https://datacommons.org/browser/Count_Child_FoodInsecure_AsAFractionOf_Count_Child"
+    },
+    {
+        "node_name": "Population: Food Insecure Children",
+        "node_dcid": "Count_Child_FoodInsecure",
+        "node_link": "https://datacommons.org/browser/Count_Child_FoodInsecure"
+    },
+    {
+        "node_name": "\u2026 Eligible for Benefits",
+        "node_dcid": "Count_Child_FoodInsecure_EligibleForManyChildNutritionBenefits",
+        "node_link": "https://datacommons.org/browser/Count_Child_FoodInsecure_EligibleForManyChildNutritionBenefits"
+    },
+    {
+        "node_name": "\u2026 Ineligible for Benefits",
+        "node_dcid": "Count_Child_FoodInsecure_IneligibleForChildNutritionBenefits",
+        "node_link": "https://datacommons.org/browser/Count_Child_FoodInsecure_IneligibleForChildNutritionBenefits"
+    },
+    {
+        "node_name": "\u2026 above 185% of the federal poverty line",
+        "node_dcid": "Count_Child_FoodInsecure_HouseholdIncomeAbove185PercentOfFederalPovertyLine_AsAFractionOf_Count_Child_FoodInsecure",
+        "node_link": "https://datacommons.org/browser/Count_Child_FoodInsecure_HouseholdIncomeAbove185PercentOfFederalPovertyLine_AsAFractionOf_Count_Child_FoodInsecure"
+    },
+    {
+        "node_name": "\u2026 below 185% of the federal poverty line",
+        "node_dcid": "Count_Child_FoodInsecure_HouseholdIncomeBelow185PercentOfFederalPovertyLine_AsAFractionOf_Count_Child_FoodInsecure",
+        "node_link": "https://datacommons.org/browser/Count_Child_FoodInsecure_HouseholdIncomeBelow185PercentOfFederalPovertyLine_AsAFractionOf_Count_Child_FoodInsecure"
+    },
+    {
+        "node_name": "\u2026 above 185% of the federal poverty line",
+        "node_dcid": "Count_Child_FoodInsecure_HouseholdIncomeAbove185PercentOfFederalPovertyLine_AsAFractionOf_Count_Child_FoodInsecure",
+        "node_link": "https://datacommons.org/browser/Count_Child_FoodInsecure_HouseholdIncomeAbove185PercentOfFederalPovertyLine_AsAFractionOf_Count_Child_FoodInsecure"
+    },
+    {
+        "node_name": "\u2026 below 185% of the federal poverty line",
+        "node_dcid": "Count_Child_FoodInsecure_HouseholdIncomeBelow185PercentOfFederalPovertyLine_AsAFractionOf_Count_Child_FoodInsecure",
+        "node_link": "https://datacommons.org/browser/Count_Child_FoodInsecure_HouseholdIncomeBelow185PercentOfFederalPovertyLine_AsAFractionOf_Count_Child_FoodInsecure"
+    },
+    {
+        "node_name": "Population: Hispanic or Latino, Food in Secure (As Fraction of Count Person Hispanic or Latino)",
+        "node_dcid": "Count_Person_HispanicOrLatino_FoodInSecure_AsAFractionOf_Count_Person_HispanicOrLatino",
+        "node_link": "https://datacommons.org/browser/Count_Person_HispanicOrLatino_FoodInSecure_AsAFractionOf_Count_Person_HispanicOrLatino"
+    },
+    {
+        "node_name": "Population: Not Hispanic or Latino, Food in Secure, White (As Fraction of Count Person Not Hispanic or Latino White)",
+        "node_dcid": "Count_Person_NotHispanicOrLatino_FoodInSecure_White_AsAFractionOf_Count_Person_NotHispanicOrLatino_White",
+        "node_link": "https://datacommons.org/browser/Count_Person_NotHispanicOrLatino_FoodInSecure_White_AsAFractionOf_Count_Person_NotHispanicOrLatino_White"
+    },
+    {
+        "node_name": "Population: Not Hispanic or Latino, Food in Secure, White (As Fraction of Count Person Not Hispanic or Latino White)",
+        "node_dcid": "Count_Person_NotHispanicOrLatino_FoodInSecure_White_AsAFractionOf_Count_Person_NotHispanicOrLatino_White",
+        "node_link": "https://datacommons.org/browser/Count_Person_NotHispanicOrLatino_FoodInSecure_White_AsAFractionOf_Count_Person_NotHispanicOrLatino_White"
+    },
+    {
+        "node_name": "Annual Food Budget Shortfall",
+        "node_dcid": "Annual_FoodBudgetShortfall",
+        "node_link": "https://datacommons.org/browser/Annual_FoodBudgetShortfall"
+    },
+    {
+        "node_name": "Weighted Annual Food Budget Shortfall",
+        "node_dcid": "Annual_WeightedBudgetShortfall_Food",
+        "node_link": "https://datacommons.org/browser/Annual_WeightedBudgetShortfall_Food"
+    },
+    {
+        "node_name": "Average Meal Cost for Food Secure People",
+        "node_dcid": "Mean_MealCost_Person_FoodSecure",
+        "node_link": "https://datacommons.org/browser/Mean_MealCost_Person_FoodSecure"
+    },
+    {
+        "node_name": "Amount of money needed by a food insecure person to meet weekly food needs",
+        "node_dcid": "Weekly_WeightedFoodSpendAmount_Person_FoodInSecure",
+        "node_link": "https://datacommons.org/browser/Weekly_WeightedFoodSpendAmount_Person_FoodInSecure"
+    },
+    {
+        "node_name": "Average spend for meal by food insecure individual",
+        "node_dcid": "Mean_CostPerMeal_Person_FoodInSecure",
+        "node_link": "https://datacommons.org/browser/Mean_CostPerMeal_Person_FoodInSecure"
+    },
+    {
+        "node_name": "Population: Food Insecure People",
+        "node_dcid": "Count_Person_FoodInsecure",
+        "node_link": "https://datacommons.org/browser/Count_Person_FoodInsecure"
+    },
+    {
+        "node_name": "Population: Food in Secure (Per Capita)",
+        "node_dcid": "Count_Person_FoodInsecure_AsAFractionOf_Count_Person",
+        "node_link": "https://datacommons.org/browser/Count_Person_FoodInsecure_AsAFractionOf_Count_Person"
+    },
+    {
+        "node_name": "\u2026 Eligible for All Federal Benefits",
+        "node_dcid": "Count_Person_FoodInsecure_EligibleForAllFederalBenefits",
+        "node_link": "https://datacommons.org/browser/Count_Person_FoodInsecure_EligibleForAllFederalBenefits"
+    },
+    {
+        "node_name": "\u2026 Eligible for Some Federal Benefits",
+        "node_dcid": "Count_Person_FoodInsecure_EligibleForSomeFederalBenefits",
+        "node_link": "https://datacommons.org/browser/Count_Person_FoodInsecure_EligibleForSomeFederalBenefits"
+    },
+    {
+        "node_name": "\u2026 Ineligible for Federal Benefits",
+        "node_dcid": "Count_Person_FoodInsecure_IneligibleForFederalBenefits",
+        "node_link": "https://datacommons.org/browser/Count_Person_FoodInsecure_IneligibleForFederalBenefits"
+    },
+    {
+        "node_name": "\u2026 Hispanic or Latino, Food in Secure (As Fraction of Count Person Hispanic or Latino)",
+        "node_dcid": "Count_Person_HispanicOrLatino_FoodInSecure_AsAFractionOf_Count_Person_HispanicOrLatino",
+        "node_link": "https://datacommons.org/browser/Count_Person_HispanicOrLatino_FoodInSecure_AsAFractionOf_Count_Person_HispanicOrLatino"
+    },
+    {
+        "node_name": "\u2026 Not Hispanic or Latino, Food in Secure, White (As Fraction of Count Person Not Hispanic or Latino White)",
+        "node_dcid": "Count_Person_NotHispanicOrLatino_FoodInSecure_White_AsAFractionOf_Count_Person_NotHispanicOrLatino_White",
+        "node_link": "https://datacommons.org/browser/Count_Person_NotHispanicOrLatino_FoodInSecure_White_AsAFractionOf_Count_Person_NotHispanicOrLatino_White"
+    },
+    {
+        "node_name": "\u2026 above high threshold in state",
+        "node_dcid": "Count_Person_FoodInsecure_HouseholdIncomeAboveStateHighThreshold_AsAFractionOf_Count_Person_FoodInsecure",
+        "node_link": "https://datacommons.org/browser/Count_Person_FoodInsecure_HouseholdIncomeAboveStateHighThreshold_AsAFractionOf_Count_Person_FoodInsecure"
+    },
+    {
+        "node_name": "\u2026 above low threshold and below or equal to high threshold in state",
+        "node_dcid": "Count_Person_FoodInsecure_HouseholdIncomeAboveStateLowThresholdAndBelowOrEqualStateHighThreshold_AsAFractionOf_Count_Person_FoodInsecure",
+        "node_link": "https://datacommons.org/browser/Count_Person_FoodInsecure_HouseholdIncomeAboveStateLowThresholdAndBelowOrEqualStateHighThreshold_AsAFractionOf_Count_Person_FoodInsecure"
+    },
+    {
+        "node_name": "\u2026 above low threshold in state",
+        "node_dcid": "Count_Person_FoodInsecure_HouseholdIncomeAboveStateLowThreshold_AsAFractionOf_Count_Person_FoodInsecure",
+        "node_link": "https://datacommons.org/browser/Count_Person_FoodInsecure_HouseholdIncomeAboveStateLowThreshold_AsAFractionOf_Count_Person_FoodInsecure"
+    },
+    {
+        "node_name": "\u2026 at or below low threshold in state",
+        "node_dcid": "Count_Person_FoodInsecure_HouseholdIncomeAtOrBelowStateLowThreshold_AsAFractionOf_Count_Person_FoodInsecure",
+        "node_link": "https://datacommons.org/browser/Count_Person_FoodInsecure_HouseholdIncomeAtOrBelowStateLowThreshold_AsAFractionOf_Count_Person_FoodInsecure"
+    },
+    {
+        "node_name": "\u2026 Food in Secure, Black (As Fraction of Count Person Black)",
+        "node_dcid": "Count_Person_FoodInsecure_Black_AsAFractionOf_Count_Person_Black",
+        "node_link": "https://datacommons.org/browser/Count_Person_FoodInsecure_Black_AsAFractionOf_Count_Person_Black"
+    },
+    {
+        "node_name": "\u2026 Not Hispanic or Latino, Food in Secure, White (As Fraction of Count Person Not Hispanic or Latino White)",
+        "node_dcid": "Count_Person_NotHispanicOrLatino_FoodInSecure_White_AsAFractionOf_Count_Person_NotHispanicOrLatino_White",
+        "node_link": "https://datacommons.org/browser/Count_Person_NotHispanicOrLatino_FoodInSecure_White_AsAFractionOf_Count_Person_NotHispanicOrLatino_White"
+    },
+    {
+        "node_name": "\u2026 above high threshold in state",
+        "node_dcid": "Count_Person_FoodInsecure_HouseholdIncomeAboveStateHighThreshold_AsAFractionOf_Count_Person_FoodInsecure",
+        "node_link": "https://datacommons.org/browser/Count_Person_FoodInsecure_HouseholdIncomeAboveStateHighThreshold_AsAFractionOf_Count_Person_FoodInsecure"
+    },
+    {
+        "node_name": "\u2026 above low threshold and below or equal to high threshold in state",
+        "node_dcid": "Count_Person_FoodInsecure_HouseholdIncomeAboveStateLowThresholdAndBelowOrEqualStateHighThreshold_AsAFractionOf_Count_Person_FoodInsecure",
+        "node_link": "https://datacommons.org/browser/Count_Person_FoodInsecure_HouseholdIncomeAboveStateLowThresholdAndBelowOrEqualStateHighThreshold_AsAFractionOf_Count_Person_FoodInsecure"
+    },
+    {
+        "node_name": "\u2026 above low threshold in state",
+        "node_dcid": "Count_Person_FoodInsecure_HouseholdIncomeAboveStateLowThreshold_AsAFractionOf_Count_Person_FoodInsecure",
+        "node_link": "https://datacommons.org/browser/Count_Person_FoodInsecure_HouseholdIncomeAboveStateLowThreshold_AsAFractionOf_Count_Person_FoodInsecure"
+    },
+    {
+        "node_name": "\u2026 at or below low threshold in state",
+        "node_dcid": "Count_Person_FoodInsecure_HouseholdIncomeAtOrBelowStateLowThreshold_AsAFractionOf_Count_Person_FoodInsecure",
+        "node_link": "https://datacommons.org/browser/Count_Person_FoodInsecure_HouseholdIncomeAtOrBelowStateLowThreshold_AsAFractionOf_Count_Person_FoodInsecure"
+    },
+    {
+        "node_name": "Population: Food in Secure, Black (As Fraction of Count Person Black)",
+        "node_dcid": "Count_Person_FoodInsecure_Black_AsAFractionOf_Count_Person_Black",
+        "node_link": "https://datacommons.org/browser/Count_Person_FoodInsecure_Black_AsAFractionOf_Count_Person_Black"
+    },
+    {
+        "node_name": "Population: Not Hispanic or Latino, Food in Secure, White (As Fraction of Count Person Not Hispanic or Latino White)",
+        "node_dcid": "Count_Person_NotHispanicOrLatino_FoodInSecure_White_AsAFractionOf_Count_Person_NotHispanicOrLatino_White",
+        "node_link": "https://datacommons.org/browser/Count_Person_NotHispanicOrLatino_FoodInSecure_White_AsAFractionOf_Count_Person_NotHispanicOrLatino_White"
+    },
+    {
+        "node_name": "Population: Not Hispanic or Latino, Food in Secure, White (As Fraction of Count Person Not Hispanic or Latino White)",
+        "node_dcid": "Count_Person_NotHispanicOrLatino_FoodInSecure_White_AsAFractionOf_Count_Person_NotHispanicOrLatino_White",
+        "node_link": "https://datacommons.org/browser/Count_Person_NotHispanicOrLatino_FoodInSecure_White_AsAFractionOf_Count_Person_NotHispanicOrLatino_White"
+    },
+    {
+        "node_name": "Population: Food in Secure, Black (As Fraction of Count Person Black)",
+        "node_dcid": "Count_Person_FoodInsecure_Black_AsAFractionOf_Count_Person_Black",
+        "node_link": "https://datacommons.org/browser/Count_Person_FoodInsecure_Black_AsAFractionOf_Count_Person_Black"
+    },
+    {
+        "node_name": "Population: Not Hispanic or Latino, Food in Secure, White (As Fraction of Count Person Not Hispanic or Latino White)",
+        "node_dcid": "Count_Person_NotHispanicOrLatino_FoodInSecure_White_AsAFractionOf_Count_Person_NotHispanicOrLatino_White",
+        "node_link": "https://datacommons.org/browser/Count_Person_NotHispanicOrLatino_FoodInSecure_White_AsAFractionOf_Count_Person_NotHispanicOrLatino_White"
+    },
+    {
+        "node_name": "Population: Not Hispanic or Latino, Food in Secure, White (As Fraction of Count Person Not Hispanic or Latino White)",
+        "node_dcid": "Count_Person_NotHispanicOrLatino_FoodInSecure_White_AsAFractionOf_Count_Person_NotHispanicOrLatino_White",
+        "node_link": "https://datacommons.org/browser/Count_Person_NotHispanicOrLatino_FoodInSecure_White_AsAFractionOf_Count_Person_NotHispanicOrLatino_White"
+    }
+]

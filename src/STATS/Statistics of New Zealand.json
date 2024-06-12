@@ -1,0 +1,222 @@
+[
+    {
+        "node_name": "Fertility Rate",
+        "node_dcid": "FertilityRate_Person_Female",
+        "node_link": "https://datacommons.org/browser/FertilityRate_Person_Female"
+    },
+    {
+        "node_name": "Median Age of Population",
+        "node_dcid": "Median_Age_Person",
+        "node_link": "https://datacommons.org/browser/Median_Age_Person"
+    },
+    {
+        "node_name": "Population Change",
+        "node_dcid": "IncrementalCount_Person",
+        "node_link": "https://datacommons.org/browser/IncrementalCount_Person"
+    },
+    {
+        "node_name": "Rate of Population Growth",
+        "node_dcid": "GrowthRate_Count_Person",
+        "node_link": "https://datacommons.org/browser/GrowthRate_Count_Person"
+    },
+    {
+        "node_name": "Total Population",
+        "node_dcid": "Count_Person",
+        "node_link": "https://datacommons.org/browser/Count_Person"
+    },
+    {
+        "node_name": "\u2026 Life Expectancy",
+        "node_dcid": "LifeExpectancy_Person_Female",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_Female"
+    },
+    {
+        "node_name": "\u2026 Population",
+        "node_dcid": "Count_Person_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Female"
+    },
+    {
+        "node_name": "Median Age: Female, Ever Married & New Zealand_Civil Union",
+        "node_dcid": "Median_Age_Person_Female_EverMarriedOrNewZealandCivilUnion",
+        "node_link": "https://datacommons.org/browser/Median_Age_Person_Female_EverMarriedOrNewZealandCivilUnion"
+    },
+    {
+        "node_name": "Median Age: Female, Divorced",
+        "node_dcid": "Median_Age_Person_Female_Divorced",
+        "node_link": "https://datacommons.org/browser/Median_Age_Person_Female_Divorced"
+    },
+    {
+        "node_name": "Male Life Expectancy",
+        "node_dcid": "LifeExpectancy_Person_Male",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_Male"
+    },
+    {
+        "node_name": "Male Population",
+        "node_dcid": "Count_Person_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Male"
+    },
+    {
+        "node_name": "Population: Male (As Fraction of Count Person Female)",
+        "node_dcid": "Count_Person_Male_AsAFractionOf_Count_Person_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Male_AsAFractionOf_Count_Person_Female"
+    },
+    {
+        "node_name": "Median Age: Male, Ever Married & New Zealand_Civil Union",
+        "node_dcid": "Median_Age_Person_Male_EverMarriedOrNewZealandCivilUnion",
+        "node_link": "https://datacommons.org/browser/Median_Age_Person_Male_EverMarriedOrNewZealandCivilUnion"
+    },
+    {
+        "node_name": "Median Age: Male, Divorced",
+        "node_dcid": "Median_Age_Person_Male_Divorced",
+        "node_link": "https://datacommons.org/browser/Median_Age_Person_Male_Divorced"
+    },
+    {
+        "node_name": "Divorced Population",
+        "node_dcid": "Count_Person_Divorced",
+        "node_link": "https://datacommons.org/browser/Count_Person_Divorced"
+    },
+    {
+        "node_name": "Median Age: Female, Divorced",
+        "node_dcid": "Median_Age_Person_Female_Divorced",
+        "node_link": "https://datacommons.org/browser/Median_Age_Person_Female_Divorced"
+    },
+    {
+        "node_name": "Median Age: Male, Divorced",
+        "node_dcid": "Median_Age_Person_Male_Divorced",
+        "node_link": "https://datacommons.org/browser/Median_Age_Person_Male_Divorced"
+    },
+    {
+        "node_name": "Population: Ever Married & New Zealand_Civil Union",
+        "node_dcid": "Count_Person_EverMarriedOrNewZealandCivilUnion",
+        "node_link": "https://datacommons.org/browser/Count_Person_EverMarriedOrNewZealandCivilUnion"
+    },
+    {
+        "node_name": "\u2026 Female, Ever Married & New Zealand_Civil Union",
+        "node_dcid": "Median_Age_Person_Female_EverMarriedOrNewZealandCivilUnion",
+        "node_link": "https://datacommons.org/browser/Median_Age_Person_Female_EverMarriedOrNewZealandCivilUnion"
+    },
+    {
+        "node_name": "\u2026 Male, Ever Married & New Zealand_Civil Union",
+        "node_dcid": "Median_Age_Person_Male_EverMarriedOrNewZealandCivilUnion",
+        "node_link": "https://datacommons.org/browser/Median_Age_Person_Male_EverMarriedOrNewZealandCivilUnion"
+    },
+    {
+        "node_name": "\u2026 Life Expectancy",
+        "node_dcid": "LifeExpectancy_Person_Female",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_Female"
+    },
+    {
+        "node_name": "\u2026 Population",
+        "node_dcid": "Count_Person_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Female"
+    },
+    {
+        "node_name": "Median Age: Female, Ever Married & New Zealand_Civil Union",
+        "node_dcid": "Median_Age_Person_Female_EverMarriedOrNewZealandCivilUnion",
+        "node_link": "https://datacommons.org/browser/Median_Age_Person_Female_EverMarriedOrNewZealandCivilUnion"
+    },
+    {
+        "node_name": "Median Age: Female, Divorced",
+        "node_dcid": "Median_Age_Person_Female_Divorced",
+        "node_link": "https://datacommons.org/browser/Median_Age_Person_Female_Divorced"
+    },
+    {
+        "node_name": "Male Life Expectancy",
+        "node_dcid": "LifeExpectancy_Person_Male",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_Male"
+    },
+    {
+        "node_name": "Male Population",
+        "node_dcid": "Count_Person_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Male"
+    },
+    {
+        "node_name": "Population: Male (As Fraction of Count Person Female)",
+        "node_dcid": "Count_Person_Male_AsAFractionOf_Count_Person_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Male_AsAFractionOf_Count_Person_Female"
+    },
+    {
+        "node_name": "Median Age: Male, Ever Married & New Zealand_Civil Union",
+        "node_dcid": "Median_Age_Person_Male_EverMarriedOrNewZealandCivilUnion",
+        "node_link": "https://datacommons.org/browser/Median_Age_Person_Male_EverMarriedOrNewZealandCivilUnion"
+    },
+    {
+        "node_name": "Median Age: Male, Divorced",
+        "node_dcid": "Median_Age_Person_Male_Divorced",
+        "node_link": "https://datacommons.org/browser/Median_Age_Person_Male_Divorced"
+    },
+    {
+        "node_name": "Fertility Rate",
+        "node_dcid": "FertilityRate_Person_Female",
+        "node_link": "https://datacommons.org/browser/FertilityRate_Person_Female"
+    },
+    {
+        "node_name": "Median Mother's Age at Birth",
+        "node_dcid": "MedianMothersAge_BirthEvent",
+        "node_link": "https://datacommons.org/browser/MedianMothersAge_BirthEvent"
+    },
+    {
+        "node_name": "Median Mother's Age at Birth",
+        "node_dcid": "MedianMothersAge_BirthEvent",
+        "node_link": "https://datacommons.org/browser/MedianMothersAge_BirthEvent"
+    },
+    {
+        "node_name": "\u2026 Life Expectancy",
+        "node_dcid": "LifeExpectancy_Person_Female",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_Female"
+    },
+    {
+        "node_name": "\u2026 Population",
+        "node_dcid": "Count_Person_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Female"
+    },
+    {
+        "node_name": "Median Age: Female, Ever Married & New Zealand_Civil Union",
+        "node_dcid": "Median_Age_Person_Female_EverMarriedOrNewZealandCivilUnion",
+        "node_link": "https://datacommons.org/browser/Median_Age_Person_Female_EverMarriedOrNewZealandCivilUnion"
+    },
+    {
+        "node_name": "Median Age: Female, Divorced",
+        "node_dcid": "Median_Age_Person_Female_Divorced",
+        "node_link": "https://datacommons.org/browser/Median_Age_Person_Female_Divorced"
+    },
+    {
+        "node_name": "Male Life Expectancy",
+        "node_dcid": "LifeExpectancy_Person_Male",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person_Male"
+    },
+    {
+        "node_name": "Male Population",
+        "node_dcid": "Count_Person_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Male"
+    },
+    {
+        "node_name": "Population: Male (As Fraction of Count Person Female)",
+        "node_dcid": "Count_Person_Male_AsAFractionOf_Count_Person_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Male_AsAFractionOf_Count_Person_Female"
+    },
+    {
+        "node_name": "Median Age: Male, Ever Married & New Zealand_Civil Union",
+        "node_dcid": "Median_Age_Person_Male_EverMarriedOrNewZealandCivilUnion",
+        "node_link": "https://datacommons.org/browser/Median_Age_Person_Male_EverMarriedOrNewZealandCivilUnion"
+    },
+    {
+        "node_name": "Median Age: Male, Divorced",
+        "node_dcid": "Median_Age_Person_Male_Divorced",
+        "node_link": "https://datacommons.org/browser/Median_Age_Person_Male_Divorced"
+    },
+    {
+        "node_name": "Number of Deaths",
+        "node_dcid": "Count_Death",
+        "node_link": "https://datacommons.org/browser/Count_Death"
+    },
+    {
+        "node_name": "Count of Mortality Event: Infant",
+        "node_dcid": "Count_MortalityEvent_Infant",
+        "node_link": "https://datacommons.org/browser/Count_MortalityEvent_Infant"
+    },
+    {
+        "node_name": "Count of live births",
+        "node_dcid": "Count_BirthEvent_LiveBirth",
+        "node_link": "https://datacommons.org/browser/Count_BirthEvent_LiveBirth"
+    }
+]

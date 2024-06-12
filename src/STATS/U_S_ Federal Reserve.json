@@ -1,0 +1,277 @@
+[
+    {
+        "node_name": "\u2026 Financial Commercial Paper Interest Rate",
+        "node_dcid": "InterestRate_FinancialInstrument_30Day_FinancialCommercialPaperAA",
+        "node_link": "https://datacommons.org/browser/InterestRate_FinancialInstrument_30Day_FinancialCommercialPaperAA"
+    },
+    {
+        "node_name": "\u2026 Nonfinancial Commercial Paper Interest Rate",
+        "node_dcid": "InterestRate_FinancialInstrument_30Day_NonfinancialCommercialPaperAA",
+        "node_link": "https://datacommons.org/browser/InterestRate_FinancialInstrument_30Day_NonfinancialCommercialPaperAA"
+    },
+    {
+        "node_name": "\u2026 Financial Commercial Paper Interest Rate",
+        "node_dcid": "InterestRate_FinancialInstrument_60Day_FinancialCommercialPaperAA",
+        "node_link": "https://datacommons.org/browser/InterestRate_FinancialInstrument_60Day_FinancialCommercialPaperAA"
+    },
+    {
+        "node_name": "\u2026 Nonfinancial Commercial Paper Interest Rate",
+        "node_dcid": "InterestRate_FinancialInstrument_60Day_NonfinancialCommercialPaperAA",
+        "node_link": "https://datacommons.org/browser/InterestRate_FinancialInstrument_60Day_NonfinancialCommercialPaperAA"
+    },
+    {
+        "node_name": "\u2026 Financial Commercial Paper Interest Rate",
+        "node_dcid": "InterestRate_FinancialInstrument_90Day_FinancialCommercialPaperAA",
+        "node_link": "https://datacommons.org/browser/InterestRate_FinancialInstrument_90Day_FinancialCommercialPaperAA"
+    },
+    {
+        "node_name": "\u2026 Nonfinancial Commercial Paper Interest Rate",
+        "node_dcid": "InterestRate_FinancialInstrument_90Day_NonfinancialCommercialPaperAA",
+        "node_link": "https://datacommons.org/browser/InterestRate_FinancialInstrument_90Day_NonfinancialCommercialPaperAA"
+    },
+    {
+        "node_name": "Interest Rate of Financial Instrument: Years 1, Federal Fund",
+        "node_dcid": "InterestRate_FinancialInstrument_1Year_FederalFund",
+        "node_link": "https://datacommons.org/browser/InterestRate_FinancialInstrument_1Year_FederalFund"
+    },
+    {
+        "node_name": "Interest Rate of Financial Instrument: Years 1, Primary Credit",
+        "node_dcid": "InterestRate_FinancialInstrument_1Year_PrimaryCredit",
+        "node_link": "https://datacommons.org/browser/InterestRate_FinancialInstrument_1Year_PrimaryCredit"
+    },
+    {
+        "node_name": "Mean Prime Rate of Financial Instrument: Years 1, Bank Loan",
+        "node_dcid": "Mean_PrimeRate_FinancialInstrument_1Year_BankLoan",
+        "node_link": "https://datacommons.org/browser/Mean_PrimeRate_FinancialInstrument_1Year_BankLoan"
+    },
+    {
+        "node_name": "Interest Rate of Financial Instrument: Years 1, Federal Fund",
+        "node_dcid": "InterestRate_FinancialInstrument_1Year_FederalFund",
+        "node_link": "https://datacommons.org/browser/InterestRate_FinancialInstrument_1Year_FederalFund"
+    },
+    {
+        "node_name": "Interest Rate of Financial Instrument: Years 1, Primary Credit",
+        "node_dcid": "InterestRate_FinancialInstrument_1Year_PrimaryCredit",
+        "node_link": "https://datacommons.org/browser/InterestRate_FinancialInstrument_1Year_PrimaryCredit"
+    },
+    {
+        "node_name": "Mean Prime Rate of Financial Instrument: Years 1, Bank Loan",
+        "node_dcid": "Mean_PrimeRate_FinancialInstrument_1Year_BankLoan",
+        "node_link": "https://datacommons.org/browser/Mean_PrimeRate_FinancialInstrument_1Year_BankLoan"
+    },
+    {
+        "node_name": "30-Day AA Financial Commercial Paper Interest Rate",
+        "node_dcid": "InterestRate_FinancialInstrument_30Day_FinancialCommercialPaperAA",
+        "node_link": "https://datacommons.org/browser/InterestRate_FinancialInstrument_30Day_FinancialCommercialPaperAA"
+    },
+    {
+        "node_name": "60-Day AA Financial Commercial Paper Interest Rate",
+        "node_dcid": "InterestRate_FinancialInstrument_60Day_FinancialCommercialPaperAA",
+        "node_link": "https://datacommons.org/browser/InterestRate_FinancialInstrument_60Day_FinancialCommercialPaperAA"
+    },
+    {
+        "node_name": "90-Day AA Financial Commercial Paper Interest Rate",
+        "node_dcid": "InterestRate_FinancialInstrument_90Day_FinancialCommercialPaperAA",
+        "node_link": "https://datacommons.org/browser/InterestRate_FinancialInstrument_90Day_FinancialCommercialPaperAA"
+    },
+    {
+        "node_name": "30-Day AA Nonfinancial Commercial Paper Interest Rate",
+        "node_dcid": "InterestRate_FinancialInstrument_30Day_NonfinancialCommercialPaperAA",
+        "node_link": "https://datacommons.org/browser/InterestRate_FinancialInstrument_30Day_NonfinancialCommercialPaperAA"
+    },
+    {
+        "node_name": "60-Day AA Nonfinancial Commercial Paper Interest Rate",
+        "node_dcid": "InterestRate_FinancialInstrument_60Day_NonfinancialCommercialPaperAA",
+        "node_link": "https://datacommons.org/browser/InterestRate_FinancialInstrument_60Day_NonfinancialCommercialPaperAA"
+    },
+    {
+        "node_name": "90-Day AA Nonfinancial Commercial Paper Interest Rate",
+        "node_dcid": "InterestRate_FinancialInstrument_90Day_NonfinancialCommercialPaperAA",
+        "node_link": "https://datacommons.org/browser/InterestRate_FinancialInstrument_90Day_NonfinancialCommercialPaperAA"
+    },
+    {
+        "node_name": "1-year Treasury bill secondary market rate^  discount basis",
+        "node_dcid": "InterestRate_TreasuryBill_1Year_SecondaryMarket",
+        "node_link": "https://datacommons.org/browser/InterestRate_TreasuryBill_1Year_SecondaryMarket"
+    },
+    {
+        "node_name": "3-month Treasury bill secondary market rate  discount basis",
+        "node_dcid": "InterestRate_TreasuryBill_3Month_SecondaryMarket",
+        "node_link": "https://datacommons.org/browser/InterestRate_TreasuryBill_3Month_SecondaryMarket"
+    },
+    {
+        "node_name": "4-week Treasury bill secondary market rate  discount basis",
+        "node_dcid": "InterestRate_TreasuryBill_4Week_SecondaryMarket",
+        "node_link": "https://datacommons.org/browser/InterestRate_TreasuryBill_4Week_SecondaryMarket"
+    },
+    {
+        "node_name": "6-month Treasury bill secondary market rate  discount basis",
+        "node_dcid": "InterestRate_TreasuryBill_6Month_SecondaryMarket",
+        "node_link": "https://datacommons.org/browser/InterestRate_TreasuryBill_6Month_SecondaryMarket"
+    },
+    {
+        "node_name": "1-year Treasury bill secondary market rate^  discount basis",
+        "node_dcid": "InterestRate_TreasuryBill_1Year_SecondaryMarket",
+        "node_link": "https://datacommons.org/browser/InterestRate_TreasuryBill_1Year_SecondaryMarket"
+    },
+    {
+        "node_name": "3-month Treasury bill secondary market rate  discount basis",
+        "node_dcid": "InterestRate_TreasuryBill_3Month_SecondaryMarket",
+        "node_link": "https://datacommons.org/browser/InterestRate_TreasuryBill_3Month_SecondaryMarket"
+    },
+    {
+        "node_name": "4-week Treasury bill secondary market rate  discount basis",
+        "node_dcid": "InterestRate_TreasuryBill_4Week_SecondaryMarket",
+        "node_link": "https://datacommons.org/browser/InterestRate_TreasuryBill_4Week_SecondaryMarket"
+    },
+    {
+        "node_name": "6-month Treasury bill secondary market rate  discount basis",
+        "node_dcid": "InterestRate_TreasuryBill_6Month_SecondaryMarket",
+        "node_link": "https://datacommons.org/browser/InterestRate_TreasuryBill_6Month_SecondaryMarket"
+    },
+    {
+        "node_name": "Market yield on U.S. Treasury securities at 1-month  constant maturity, quoted on investment basis",
+        "node_dcid": "InterestRate_TreasurySecurity_1Month_ConstantMaturity",
+        "node_link": "https://datacommons.org/browser/InterestRate_TreasurySecurity_1Month_ConstantMaturity"
+    },
+    {
+        "node_name": "Market yield on U.S. Treasury securities at 1-year  constant maturity, quoted on investment basis",
+        "node_dcid": "InterestRate_TreasurySecurity_1Year_ConstantMaturity",
+        "node_link": "https://datacommons.org/browser/InterestRate_TreasurySecurity_1Year_ConstantMaturity"
+    },
+    {
+        "node_name": "Market yield on U.S. Treasury securities at 2-year  constant maturity, quoted on investment basis",
+        "node_dcid": "InterestRate_TreasurySecurity_2Year_ConstantMaturity",
+        "node_link": "https://datacommons.org/browser/InterestRate_TreasurySecurity_2Year_ConstantMaturity"
+    },
+    {
+        "node_name": "Market yield on U.S. Treasury securities at 3-month  constant maturity, quoted on investment basis",
+        "node_dcid": "InterestRate_TreasurySecurity_3Month_ConstantMaturity",
+        "node_link": "https://datacommons.org/browser/InterestRate_TreasurySecurity_3Month_ConstantMaturity"
+    },
+    {
+        "node_name": "Market yield on U.S. Treasury securities at 3-year  constant maturity, quoted on investment basis",
+        "node_dcid": "InterestRate_TreasurySecurity_3Year_ConstantMaturity",
+        "node_link": "https://datacommons.org/browser/InterestRate_TreasurySecurity_3Year_ConstantMaturity"
+    },
+    {
+        "node_name": "Market yield on U.S. Treasury securities at 6-month  constant maturity, quoted on investment basis",
+        "node_dcid": "InterestRate_TreasurySecurity_6Month_ConstantMaturity",
+        "node_link": "https://datacommons.org/browser/InterestRate_TreasurySecurity_6Month_ConstantMaturity"
+    },
+    {
+        "node_name": "Treasury long-term average (over 10 years)",
+        "node_dcid": "Mean_InterestRate_TreasurySecurity_10OrMoreYear_GovernmentSecurityLongTerm",
+        "node_link": "https://datacommons.org/browser/Mean_InterestRate_TreasurySecurity_10OrMoreYear_GovernmentSecurityLongTerm"
+    },
+    {
+        "node_name": "\u2026 basis",
+        "node_dcid": "InterestRate_TreasurySecurity_10Year_ConstantMaturity",
+        "node_link": "https://datacommons.org/browser/InterestRate_TreasurySecurity_10Year_ConstantMaturity"
+    },
+    {
+        "node_name": "\u2026 basis,  inflation-indexed",
+        "node_dcid": "InterestRate_TreasurySecurity_10Year_ConstantMaturityInflationIndexed",
+        "node_link": "https://datacommons.org/browser/InterestRate_TreasurySecurity_10Year_ConstantMaturityInflationIndexed"
+    },
+    {
+        "node_name": "\u2026 basis",
+        "node_dcid": "InterestRate_TreasurySecurity_20Year_ConstantMaturity",
+        "node_link": "https://datacommons.org/browser/InterestRate_TreasurySecurity_20Year_ConstantMaturity"
+    },
+    {
+        "node_name": "\u2026 basis,  inflation-indexed",
+        "node_dcid": "InterestRate_TreasurySecurity_20Year_ConstantMaturityInflationIndexed",
+        "node_link": "https://datacommons.org/browser/InterestRate_TreasurySecurity_20Year_ConstantMaturityInflationIndexed"
+    },
+    {
+        "node_name": "\u2026 30-year  constant maturity, quoted on investment basis",
+        "node_dcid": "InterestRate_TreasurySecurity_30Year_ConstantMaturity",
+        "node_link": "https://datacommons.org/browser/InterestRate_TreasurySecurity_30Year_ConstantMaturity"
+    },
+    {
+        "node_name": "\u2026 30-year^  constant maturity, quoted on investment basis,^  inflation-indexed",
+        "node_dcid": "InterestRate_TreasurySecurity_30Year_ConstantMaturityInflationIndexed",
+        "node_link": "https://datacommons.org/browser/InterestRate_TreasurySecurity_30Year_ConstantMaturityInflationIndexed"
+    },
+    {
+        "node_name": "\u2026 basis",
+        "node_dcid": "InterestRate_TreasurySecurity_5Year_ConstantMaturity",
+        "node_link": "https://datacommons.org/browser/InterestRate_TreasurySecurity_5Year_ConstantMaturity"
+    },
+    {
+        "node_name": "\u2026 basis,  inflation-indexed",
+        "node_dcid": "InterestRate_TreasurySecurity_5Year_ConstantMaturityInflationIndexed",
+        "node_link": "https://datacommons.org/browser/InterestRate_TreasurySecurity_5Year_ConstantMaturityInflationIndexed"
+    },
+    {
+        "node_name": "\u2026 basis",
+        "node_dcid": "InterestRate_TreasurySecurity_7Year_ConstantMaturity",
+        "node_link": "https://datacommons.org/browser/InterestRate_TreasurySecurity_7Year_ConstantMaturity"
+    },
+    {
+        "node_name": "\u2026 basis,  inflation-indexed",
+        "node_dcid": "InterestRate_TreasurySecurity_7Year_ConstantMaturityInflationIndexed",
+        "node_link": "https://datacommons.org/browser/InterestRate_TreasurySecurity_7Year_ConstantMaturityInflationIndexed"
+    },
+    {
+        "node_name": "Treasury long-term average (over 10 years)",
+        "node_dcid": "Mean_InterestRate_TreasurySecurity_10OrMoreYear_GovernmentSecurityLongTerm",
+        "node_link": "https://datacommons.org/browser/Mean_InterestRate_TreasurySecurity_10OrMoreYear_GovernmentSecurityLongTerm"
+    },
+    {
+        "node_name": "\u2026 1-month  constant maturity, quoted on investment basis",
+        "node_dcid": "InterestRate_TreasurySecurity_1Month_ConstantMaturity",
+        "node_link": "https://datacommons.org/browser/InterestRate_TreasurySecurity_1Month_ConstantMaturity"
+    },
+    {
+        "node_name": "\u2026 1-year  constant maturity, quoted on investment basis",
+        "node_dcid": "InterestRate_TreasurySecurity_1Year_ConstantMaturity",
+        "node_link": "https://datacommons.org/browser/InterestRate_TreasurySecurity_1Year_ConstantMaturity"
+    },
+    {
+        "node_name": "\u2026 10-year  constant maturity, quoted on investment basis",
+        "node_dcid": "InterestRate_TreasurySecurity_10Year_ConstantMaturity",
+        "node_link": "https://datacommons.org/browser/InterestRate_TreasurySecurity_10Year_ConstantMaturity"
+    },
+    {
+        "node_name": "\u2026 2-year  constant maturity, quoted on investment basis",
+        "node_dcid": "InterestRate_TreasurySecurity_2Year_ConstantMaturity",
+        "node_link": "https://datacommons.org/browser/InterestRate_TreasurySecurity_2Year_ConstantMaturity"
+    },
+    {
+        "node_name": "\u2026 20-year  constant maturity, quoted on investment basis",
+        "node_dcid": "InterestRate_TreasurySecurity_20Year_ConstantMaturity",
+        "node_link": "https://datacommons.org/browser/InterestRate_TreasurySecurity_20Year_ConstantMaturity"
+    },
+    {
+        "node_name": "\u2026 3-month  constant maturity, quoted on investment basis",
+        "node_dcid": "InterestRate_TreasurySecurity_3Month_ConstantMaturity",
+        "node_link": "https://datacommons.org/browser/InterestRate_TreasurySecurity_3Month_ConstantMaturity"
+    },
+    {
+        "node_name": "\u2026 3-year  constant maturity, quoted on investment basis",
+        "node_dcid": "InterestRate_TreasurySecurity_3Year_ConstantMaturity",
+        "node_link": "https://datacommons.org/browser/InterestRate_TreasurySecurity_3Year_ConstantMaturity"
+    },
+    {
+        "node_name": "\u2026 30-year  constant maturity, quoted on investment basis",
+        "node_dcid": "InterestRate_TreasurySecurity_30Year_ConstantMaturity",
+        "node_link": "https://datacommons.org/browser/InterestRate_TreasurySecurity_30Year_ConstantMaturity"
+    },
+    {
+        "node_name": "\u2026 5-year  constant maturity, quoted on investment basis",
+        "node_dcid": "InterestRate_TreasurySecurity_5Year_ConstantMaturity",
+        "node_link": "https://datacommons.org/browser/InterestRate_TreasurySecurity_5Year_ConstantMaturity"
+    },
+    {
+        "node_name": "\u2026 6-month  constant maturity, quoted on investment basis",
+        "node_dcid": "InterestRate_TreasurySecurity_6Month_ConstantMaturity",
+        "node_link": "https://datacommons.org/browser/InterestRate_TreasurySecurity_6Month_ConstantMaturity"
+    },
+    {
+        "node_name": "\u2026 7-year  constant maturity, quoted on investment basis",
+        "node_dcid": "InterestRate_TreasurySecurity_7Year_ConstantMaturity",
+        "node_link": "https://datacommons.org/browser/InterestRate_TreasurySecurity_7Year_ConstantMaturity"
+    }
+]

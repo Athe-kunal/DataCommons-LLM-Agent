@@ -1,0 +1,122 @@
+[
+    {
+        "node_name": "Population: Citizen, Female",
+        "node_dcid": "Count_Person_Citizen_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Citizen_Female"
+    },
+    {
+        "node_name": "Population: Citizen, Male",
+        "node_dcid": "Count_Person_Citizen_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Citizen_Male"
+    },
+    {
+        "node_name": "Population: Not A Citizen, Female",
+        "node_dcid": "Count_Person_NotACitizen_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_NotACitizen_Female"
+    },
+    {
+        "node_name": "Population: Not A Citizen, Male",
+        "node_dcid": "Count_Person_NotACitizen_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_NotACitizen_Male"
+    },
+    {
+        "node_name": "Population: Citizen, Female",
+        "node_dcid": "Count_Person_Citizen_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Citizen_Female"
+    },
+    {
+        "node_name": "Population: Not A Citizen, Female",
+        "node_dcid": "Count_Person_NotACitizen_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_NotACitizen_Female"
+    },
+    {
+        "node_name": "Population: Citizen, Male",
+        "node_dcid": "Count_Person_Citizen_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Citizen_Male"
+    },
+    {
+        "node_name": "Population: Not A Citizen, Male",
+        "node_dcid": "Count_Person_NotACitizen_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_NotACitizen_Male"
+    },
+    {
+        "node_name": "Population: Citizen, Female",
+        "node_dcid": "Count_Person_Citizen_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Citizen_Female"
+    },
+    {
+        "node_name": "Population: Citizen, Male",
+        "node_dcid": "Count_Person_Citizen_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Citizen_Male"
+    },
+    {
+        "node_name": "Population: Not A Citizen, Female",
+        "node_dcid": "Count_Person_NotACitizen_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_NotACitizen_Female"
+    },
+    {
+        "node_name": "Population: Not A Citizen, Male",
+        "node_dcid": "Count_Person_NotACitizen_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_NotACitizen_Male"
+    },
+    {
+        "node_name": "Population: Citizen, Female",
+        "node_dcid": "Count_Person_Citizen_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Citizen_Female"
+    },
+    {
+        "node_name": "Population: Not A Citizen, Female",
+        "node_dcid": "Count_Person_NotACitizen_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_NotACitizen_Female"
+    },
+    {
+        "node_name": "Population: Citizen, Male",
+        "node_dcid": "Count_Person_Citizen_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Citizen_Male"
+    },
+    {
+        "node_name": "Population: Not A Citizen, Male",
+        "node_dcid": "Count_Person_NotACitizen_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_NotACitizen_Male"
+    },
+    {
+        "node_name": "Population: Citizen, Female",
+        "node_dcid": "Count_Person_Citizen_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Citizen_Female"
+    },
+    {
+        "node_name": "Population: Citizen, Male",
+        "node_dcid": "Count_Person_Citizen_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Citizen_Male"
+    },
+    {
+        "node_name": "Population: Not A Citizen, Female",
+        "node_dcid": "Count_Person_NotACitizen_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_NotACitizen_Female"
+    },
+    {
+        "node_name": "Population: Not A Citizen, Male",
+        "node_dcid": "Count_Person_NotACitizen_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_NotACitizen_Male"
+    },
+    {
+        "node_name": "Population: Citizen, Female",
+        "node_dcid": "Count_Person_Citizen_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Citizen_Female"
+    },
+    {
+        "node_name": "Population: Not A Citizen, Female",
+        "node_dcid": "Count_Person_NotACitizen_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_NotACitizen_Female"
+    },
+    {
+        "node_name": "Population: Citizen, Male",
+        "node_dcid": "Count_Person_Citizen_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Citizen_Male"
+    },
+    {
+        "node_name": "Population: Not A Citizen, Male",
+        "node_dcid": "Count_Person_NotACitizen_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_NotACitizen_Male"
+    }
+]

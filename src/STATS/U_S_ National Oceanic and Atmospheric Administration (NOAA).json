@@ -1,0 +1,507 @@
+[
+    {
+        "node_name": "\u2026 1",
+        "node_dcid": "StandardizedPrecipitationIndex_Atmosphere_1MonthPeriod",
+        "node_link": "https://datacommons.org/browser/StandardizedPrecipitationIndex_Atmosphere_1MonthPeriod"
+    },
+    {
+        "node_name": "\u2026 3",
+        "node_dcid": "StandardizedPrecipitationIndex_Atmosphere_3MonthPeriod",
+        "node_link": "https://datacommons.org/browser/StandardizedPrecipitationIndex_Atmosphere_3MonthPeriod"
+    },
+    {
+        "node_name": "\u2026 36",
+        "node_dcid": "StandardizedPrecipitationIndex_Atmosphere_36MonthPeriod",
+        "node_link": "https://datacommons.org/browser/StandardizedPrecipitationIndex_Atmosphere_36MonthPeriod"
+    },
+    {
+        "node_name": "\u2026 6",
+        "node_dcid": "StandardizedPrecipitationIndex_Atmosphere_6MonthPeriod",
+        "node_link": "https://datacommons.org/browser/StandardizedPrecipitationIndex_Atmosphere_6MonthPeriod"
+    },
+    {
+        "node_name": "\u2026 72",
+        "node_dcid": "StandardizedPrecipitationIndex_Atmosphere_72MonthPeriod",
+        "node_link": "https://datacommons.org/browser/StandardizedPrecipitationIndex_Atmosphere_72MonthPeriod"
+    },
+    {
+        "node_name": "\u2026 9",
+        "node_dcid": "StandardizedPrecipitationIndex_Atmosphere_9MonthPeriod",
+        "node_link": "https://datacommons.org/browser/StandardizedPrecipitationIndex_Atmosphere_9MonthPeriod"
+    },
+    {
+        "node_name": "Costal Floods",
+        "node_dcid": "Count_CoastalFloodEvent",
+        "node_link": "https://datacommons.org/browser/Count_CoastalFloodEvent"
+    },
+    {
+        "node_name": "Count of Astronomical Low Tide Event",
+        "node_dcid": "Count_AstronomicalLowTideEvent",
+        "node_link": "https://datacommons.org/browser/Count_AstronomicalLowTideEvent"
+    },
+    {
+        "node_name": "Count of Avalanche Event",
+        "node_dcid": "Count_AvalancheEvent",
+        "node_link": "https://datacommons.org/browser/Count_AvalancheEvent"
+    },
+    {
+        "node_name": "Count of Blizzard Event",
+        "node_dcid": "Count_BlizzardEvent",
+        "node_link": "https://datacommons.org/browser/Count_BlizzardEvent"
+    },
+    {
+        "node_name": "Count of Cold Wind Chill Event",
+        "node_dcid": "Count_ColdWindChillEvent",
+        "node_link": "https://datacommons.org/browser/Count_ColdWindChillEvent"
+    },
+    {
+        "node_name": "Count of Debris Flow Event",
+        "node_dcid": "Count_DebrisFlowEvent",
+        "node_link": "https://datacommons.org/browser/Count_DebrisFlowEvent"
+    },
+    {
+        "node_name": "Count of Dense Fog Event",
+        "node_dcid": "Count_DenseFogEvent",
+        "node_link": "https://datacommons.org/browser/Count_DenseFogEvent"
+    },
+    {
+        "node_name": "Count of Dense Smoke Event",
+        "node_dcid": "Count_DenseSmokeEvent",
+        "node_link": "https://datacommons.org/browser/Count_DenseSmokeEvent"
+    },
+    {
+        "node_name": "Count of Dust Devil Event",
+        "node_dcid": "Count_DustDevilEvent",
+        "node_link": "https://datacommons.org/browser/Count_DustDevilEvent"
+    },
+    {
+        "node_name": "Count of Dust Storm Event",
+        "node_dcid": "Count_DustStormEvent",
+        "node_link": "https://datacommons.org/browser/Count_DustStormEvent"
+    },
+    {
+        "node_name": "Count of Excessive Heat Event",
+        "node_dcid": "Count_ExcessiveHeatEvent",
+        "node_link": "https://datacommons.org/browser/Count_ExcessiveHeatEvent"
+    },
+    {
+        "node_name": "Count of Extreme Cold Wind Chill Event",
+        "node_dcid": "Count_ExtremeColdWindChillEvent",
+        "node_link": "https://datacommons.org/browser/Count_ExtremeColdWindChillEvent"
+    },
+    {
+        "node_name": "Count of Flash Flood Event",
+        "node_dcid": "Count_FlashFloodEvent",
+        "node_link": "https://datacommons.org/browser/Count_FlashFloodEvent"
+    },
+    {
+        "node_name": "Count of Freezing Fog Event",
+        "node_dcid": "Count_FreezingFogEvent",
+        "node_link": "https://datacommons.org/browser/Count_FreezingFogEvent"
+    },
+    {
+        "node_name": "Count of Frost Freeze Event",
+        "node_dcid": "Count_FrostFreezeEvent",
+        "node_link": "https://datacommons.org/browser/Count_FrostFreezeEvent"
+    },
+    {
+        "node_name": "Count of Funnel Cloud Event",
+        "node_dcid": "Count_FunnelCloudEvent",
+        "node_link": "https://datacommons.org/browser/Count_FunnelCloudEvent"
+    },
+    {
+        "node_name": "Count of Hail Event",
+        "node_dcid": "Count_HailEvent",
+        "node_link": "https://datacommons.org/browser/Count_HailEvent"
+    },
+    {
+        "node_name": "Count of High Surf Event",
+        "node_dcid": "Count_HighSurfEvent",
+        "node_link": "https://datacommons.org/browser/Count_HighSurfEvent"
+    },
+    {
+        "node_name": "Count of High Wind Event",
+        "node_dcid": "Count_HighWindEvent",
+        "node_link": "https://datacommons.org/browser/Count_HighWindEvent"
+    },
+    {
+        "node_name": "Count of Hurricane Event",
+        "node_dcid": "Count_HurricaneEvent",
+        "node_link": "https://datacommons.org/browser/Count_HurricaneEvent"
+    },
+    {
+        "node_name": "Count of Hurricane Typhoon Event",
+        "node_dcid": "Count_HurricaneTyphoonEvent",
+        "node_link": "https://datacommons.org/browser/Count_HurricaneTyphoonEvent"
+    },
+    {
+        "node_name": "Count of Ice Storm Event",
+        "node_dcid": "Count_IceStormEvent",
+        "node_link": "https://datacommons.org/browser/Count_IceStormEvent"
+    },
+    {
+        "node_name": "Count of Lake Effect Snow Event",
+        "node_dcid": "Count_LakeEffectSnowEvent",
+        "node_link": "https://datacommons.org/browser/Count_LakeEffectSnowEvent"
+    },
+    {
+        "node_name": "Count of Lakeshore Flood Event",
+        "node_dcid": "Count_LakeshoreFloodEvent",
+        "node_link": "https://datacommons.org/browser/Count_LakeshoreFloodEvent"
+    },
+    {
+        "node_name": "Count of Lightning Event",
+        "node_dcid": "Count_LightningEvent",
+        "node_link": "https://datacommons.org/browser/Count_LightningEvent"
+    },
+    {
+        "node_name": "Count of Marine Dense Fog Event",
+        "node_dcid": "Count_MarineDenseFogEvent",
+        "node_link": "https://datacommons.org/browser/Count_MarineDenseFogEvent"
+    },
+    {
+        "node_name": "Count of Marine Hail Event",
+        "node_dcid": "Count_MarineHailEvent",
+        "node_link": "https://datacommons.org/browser/Count_MarineHailEvent"
+    },
+    {
+        "node_name": "Count of Marine High Wind Event",
+        "node_dcid": "Count_MarineHighWindEvent",
+        "node_link": "https://datacommons.org/browser/Count_MarineHighWindEvent"
+    },
+    {
+        "node_name": "Count of Marine Hurricane Typhoon Event",
+        "node_dcid": "Count_MarineHurricaneTyphoonEvent",
+        "node_link": "https://datacommons.org/browser/Count_MarineHurricaneTyphoonEvent"
+    },
+    {
+        "node_name": "Count of Marine Lightning Event",
+        "node_dcid": "Count_MarineLightningEvent",
+        "node_link": "https://datacommons.org/browser/Count_MarineLightningEvent"
+    },
+    {
+        "node_name": "Count of Marine Strong Wind Event",
+        "node_dcid": "Count_MarineStrongWindEvent",
+        "node_link": "https://datacommons.org/browser/Count_MarineStrongWindEvent"
+    },
+    {
+        "node_name": "Count of Marine Thunderstorm Wind Event",
+        "node_dcid": "Count_MarineThunderstormWindEvent",
+        "node_link": "https://datacommons.org/browser/Count_MarineThunderstormWindEvent"
+    },
+    {
+        "node_name": "Count of Marine Tropical Depression Event",
+        "node_dcid": "Count_MarineTropicalDepressionEvent",
+        "node_link": "https://datacommons.org/browser/Count_MarineTropicalDepressionEvent"
+    },
+    {
+        "node_name": "Count of Marine Tropical Storm Event",
+        "node_dcid": "Count_MarineTropicalStormEvent",
+        "node_link": "https://datacommons.org/browser/Count_MarineTropicalStormEvent"
+    },
+    {
+        "node_name": "Count of Northern Lights Event",
+        "node_dcid": "Count_NorthernLightsEvent",
+        "node_link": "https://datacommons.org/browser/Count_NorthernLightsEvent"
+    },
+    {
+        "node_name": "Count of Rip Current Event",
+        "node_dcid": "Count_RipCurrentEvent",
+        "node_link": "https://datacommons.org/browser/Count_RipCurrentEvent"
+    },
+    {
+        "node_name": "Count of Seiche Event",
+        "node_dcid": "Count_SeicheEvent",
+        "node_link": "https://datacommons.org/browser/Count_SeicheEvent"
+    },
+    {
+        "node_name": "Count of Sleet Event",
+        "node_dcid": "Count_SleetEvent",
+        "node_link": "https://datacommons.org/browser/Count_SleetEvent"
+    },
+    {
+        "node_name": "Count of Sneakerwave Event",
+        "node_dcid": "Count_SneakerwaveEvent",
+        "node_link": "https://datacommons.org/browser/Count_SneakerwaveEvent"
+    },
+    {
+        "node_name": "Count of Storm Surge Tide Event",
+        "node_dcid": "Count_StormSurgeTideEvent",
+        "node_link": "https://datacommons.org/browser/Count_StormSurgeTideEvent"
+    },
+    {
+        "node_name": "Count of Strong Wind Event",
+        "node_dcid": "Count_StrongWindEvent",
+        "node_link": "https://datacommons.org/browser/Count_StrongWindEvent"
+    },
+    {
+        "node_name": "Count of Thunderstorm Wind Event",
+        "node_dcid": "Count_ThunderstormWindEvent",
+        "node_link": "https://datacommons.org/browser/Count_ThunderstormWindEvent"
+    },
+    {
+        "node_name": "Count of Tornado Event",
+        "node_dcid": "Count_TornadoEvent",
+        "node_link": "https://datacommons.org/browser/Count_TornadoEvent"
+    },
+    {
+        "node_name": "Count of Tropical Depression Event",
+        "node_dcid": "Count_TropicalDepressionEvent",
+        "node_link": "https://datacommons.org/browser/Count_TropicalDepressionEvent"
+    },
+    {
+        "node_name": "Count of Tropical Storm Event",
+        "node_dcid": "Count_TropicalStormEvent",
+        "node_link": "https://datacommons.org/browser/Count_TropicalStormEvent"
+    },
+    {
+        "node_name": "Count of Tsunami Event",
+        "node_dcid": "Count_TsunamiEvent",
+        "node_link": "https://datacommons.org/browser/Count_TsunamiEvent"
+    },
+    {
+        "node_name": "Count of Volcanic Ashfall Event",
+        "node_dcid": "Count_VolcanicAshfallEvent",
+        "node_link": "https://datacommons.org/browser/Count_VolcanicAshfallEvent"
+    },
+    {
+        "node_name": "Count of Waterspout Event",
+        "node_dcid": "Count_WaterspoutEvent",
+        "node_link": "https://datacommons.org/browser/Count_WaterspoutEvent"
+    },
+    {
+        "node_name": "Count of Winter Storm Event",
+        "node_dcid": "Count_WinterStormEvent",
+        "node_link": "https://datacommons.org/browser/Count_WinterStormEvent"
+    },
+    {
+        "node_name": "Count of Winter Weather Event",
+        "node_dcid": "Count_WinterWeatherEvent",
+        "node_link": "https://datacommons.org/browser/Count_WinterWeatherEvent"
+    },
+    {
+        "node_name": "Heat Waves",
+        "node_dcid": "Count_HeatEvent",
+        "node_link": "https://datacommons.org/browser/Count_HeatEvent"
+    },
+    {
+        "node_name": "Heavy Rains",
+        "node_dcid": "Count_HeavyRainEvent",
+        "node_link": "https://datacommons.org/browser/Count_HeavyRainEvent"
+    },
+    {
+        "node_name": "Heavy Snows",
+        "node_dcid": "Count_HeavySnowEvent",
+        "node_link": "https://datacommons.org/browser/Count_HeavySnowEvent"
+    },
+    {
+        "node_name": "Volcano Events",
+        "node_dcid": "Count_VolcanicAshEvent",
+        "node_link": "https://datacommons.org/browser/Count_VolcanicAshEvent"
+    },
+    {
+        "node_name": "Wildfires",
+        "node_dcid": "Count_WildfireEvent",
+        "node_link": "https://datacommons.org/browser/Count_WildfireEvent"
+    },
+    {
+        "node_name": "Barometric Pressure of Cyclone Event",
+        "node_dcid": "BarometricPressure_CycloneEvent",
+        "node_link": "https://datacommons.org/browser/BarometricPressure_CycloneEvent"
+    },
+    {
+        "node_name": "Cyclones",
+        "node_dcid": "Count_CycloneEvent",
+        "node_link": "https://datacommons.org/browser/Count_CycloneEvent"
+    },
+    {
+        "node_name": "Distance To Land of Cyclone Event",
+        "node_dcid": "DistanceToLand_CycloneEvent",
+        "node_link": "https://datacommons.org/browser/DistanceToLand_CycloneEvent"
+    },
+    {
+        "node_name": "Wind Speed of Cyclone Event",
+        "node_dcid": "WindSpeed_CycloneEvent",
+        "node_link": "https://datacommons.org/browser/WindSpeed_CycloneEvent"
+    },
+    {
+        "node_name": "\u2026 Extratropical Cyclone",
+        "node_dcid": "Count_CycloneEvent_ExtratropicalCyclone",
+        "node_link": "https://datacommons.org/browser/Count_CycloneEvent_ExtratropicalCyclone"
+    },
+    {
+        "node_name": "\u2026 Subtropical Storm",
+        "node_dcid": "Count_CycloneEvent_SubtropicalStorm",
+        "node_link": "https://datacommons.org/browser/Count_CycloneEvent_SubtropicalStorm"
+    },
+    {
+        "node_name": "\u2026 Tropical Disturbance",
+        "node_dcid": "Count_CycloneEvent_TropicalDisturbance",
+        "node_link": "https://datacommons.org/browser/Count_CycloneEvent_TropicalDisturbance"
+    },
+    {
+        "node_name": "\u2026 Tropical Storm",
+        "node_dcid": "Count_CycloneEvent_TropicalStorm",
+        "node_link": "https://datacommons.org/browser/Count_CycloneEvent_TropicalStorm"
+    },
+    {
+        "node_name": "Area of Drought Event",
+        "node_dcid": "Area_DroughtEvent",
+        "node_link": "https://datacommons.org/browser/Area_DroughtEvent"
+    },
+    {
+        "node_name": "Droughts",
+        "node_dcid": "Count_DroughtEvent",
+        "node_link": "https://datacommons.org/browser/Count_DroughtEvent"
+    },
+    {
+        "node_name": "Floods",
+        "node_dcid": "Count_FloodEvent",
+        "node_link": "https://datacommons.org/browser/Count_FloodEvent"
+    },
+    {
+        "node_name": "\u2026 Salinity of Sea Body of Water: Surface Level",
+        "node_dcid": "Mean_Salinity_SeaSurface",
+        "node_link": "https://datacommons.org/browser/Mean_Salinity_SeaSurface"
+    },
+    {
+        "node_name": "\u2026 Temperature of Sea Body of Water: Surface Level",
+        "node_dcid": "Mean_Temperature_SeaSurface",
+        "node_link": "https://datacommons.org/browser/Mean_Temperature_SeaSurface"
+    },
+    {
+        "node_name": "Max Barometric Pressure",
+        "node_dcid": "Max_BarometricPressure",
+        "node_link": "https://datacommons.org/browser/Max_BarometricPressure"
+    },
+    {
+        "node_name": "Max Precipitable Water",
+        "node_dcid": "Max_PrecipitableWater_Atmosphere",
+        "node_link": "https://datacommons.org/browser/Max_PrecipitableWater_Atmosphere"
+    },
+    {
+        "node_name": "Max Rainfall",
+        "node_dcid": "Max_Rainfall",
+        "node_link": "https://datacommons.org/browser/Max_Rainfall"
+    },
+    {
+        "node_name": "Max Snowfall",
+        "node_dcid": "Max_Snowfall",
+        "node_link": "https://datacommons.org/browser/Max_Snowfall"
+    },
+    {
+        "node_name": "Maximum Temperature",
+        "node_dcid": "Max_Temperature",
+        "node_link": "https://datacommons.org/browser/Max_Temperature"
+    },
+    {
+        "node_name": "Mean Barometric Pressure",
+        "node_dcid": "Mean_BarometricPressure",
+        "node_link": "https://datacommons.org/browser/Mean_BarometricPressure"
+    },
+    {
+        "node_name": "Mean Precipitable Water",
+        "node_dcid": "Mean_PrecipitableWater_Atmosphere",
+        "node_link": "https://datacommons.org/browser/Mean_PrecipitableWater_Atmosphere"
+    },
+    {
+        "node_name": "Mean Rainfall",
+        "node_dcid": "Mean_Rainfall",
+        "node_link": "https://datacommons.org/browser/Mean_Rainfall"
+    },
+    {
+        "node_name": "Mean Snowfall",
+        "node_dcid": "Mean_Snowfall",
+        "node_link": "https://datacommons.org/browser/Mean_Snowfall"
+    },
+    {
+        "node_name": "Mean Temperature",
+        "node_dcid": "Mean_Temperature",
+        "node_link": "https://datacommons.org/browser/Mean_Temperature"
+    },
+    {
+        "node_name": "Mean Visibility",
+        "node_dcid": "Mean_Visibility",
+        "node_link": "https://datacommons.org/browser/Mean_Visibility"
+    },
+    {
+        "node_name": "Min Precipitable Water",
+        "node_dcid": "Min_PrecipitableWater_Atmosphere",
+        "node_link": "https://datacommons.org/browser/Min_PrecipitableWater_Atmosphere"
+    },
+    {
+        "node_name": "Min Rainfall",
+        "node_dcid": "Min_Rainfall",
+        "node_link": "https://datacommons.org/browser/Min_Rainfall"
+    },
+    {
+        "node_name": "Min Snowfall",
+        "node_dcid": "Min_Snowfall",
+        "node_link": "https://datacommons.org/browser/Min_Snowfall"
+    },
+    {
+        "node_name": "Min Temperature",
+        "node_dcid": "Min_Temperature",
+        "node_link": "https://datacommons.org/browser/Min_Temperature"
+    },
+    {
+        "node_name": "Max Wind Speed: Meter 10, UComponent",
+        "node_dcid": "Max_WindSpeed_UComponent_Height10Meters",
+        "node_link": "https://datacommons.org/browser/Max_WindSpeed_UComponent_Height10Meters"
+    },
+    {
+        "node_name": "Mean Wind Speed: Meter 10, UComponent",
+        "node_dcid": "Mean_WindSpeed_UComponent_Height10Meters",
+        "node_link": "https://datacommons.org/browser/Mean_WindSpeed_UComponent_Height10Meters"
+    },
+    {
+        "node_name": "Min Wind Speed: Meter 10, UComponent",
+        "node_dcid": "Min_WindSpeed_UComponent_Height10Meters",
+        "node_link": "https://datacommons.org/browser/Min_WindSpeed_UComponent_Height10Meters"
+    },
+    {
+        "node_name": "Max Wind Speed: Meter 10, VComponent",
+        "node_dcid": "Max_WindSpeed_VComponent_Height10Meters",
+        "node_link": "https://datacommons.org/browser/Max_WindSpeed_VComponent_Height10Meters"
+    },
+    {
+        "node_name": "Mean Wind Speed: Meter 10, VComponent",
+        "node_dcid": "Mean_WindSpeed_VComponent_Height10Meters",
+        "node_link": "https://datacommons.org/browser/Mean_WindSpeed_VComponent_Height10Meters"
+    },
+    {
+        "node_name": "Min Wind Speed: Meter 10, VComponent",
+        "node_dcid": "Min_WindSpeed_VComponent_Height10Meters",
+        "node_link": "https://datacommons.org/browser/Min_WindSpeed_VComponent_Height10Meters"
+    },
+    {
+        "node_name": "Max Wind Speed: Meter 10, UComponent",
+        "node_dcid": "Max_WindSpeed_UComponent_Height10Meters",
+        "node_link": "https://datacommons.org/browser/Max_WindSpeed_UComponent_Height10Meters"
+    },
+    {
+        "node_name": "Mean Wind Speed: Meter 10, UComponent",
+        "node_dcid": "Mean_WindSpeed_UComponent_Height10Meters",
+        "node_link": "https://datacommons.org/browser/Mean_WindSpeed_UComponent_Height10Meters"
+    },
+    {
+        "node_name": "Min Wind Speed: Meter 10, UComponent",
+        "node_dcid": "Min_WindSpeed_UComponent_Height10Meters",
+        "node_link": "https://datacommons.org/browser/Min_WindSpeed_UComponent_Height10Meters"
+    },
+    {
+        "node_name": "Max Wind Speed: Meter 10, VComponent",
+        "node_dcid": "Max_WindSpeed_VComponent_Height10Meters",
+        "node_link": "https://datacommons.org/browser/Max_WindSpeed_VComponent_Height10Meters"
+    },
+    {
+        "node_name": "Mean Wind Speed: Meter 10, VComponent",
+        "node_dcid": "Mean_WindSpeed_VComponent_Height10Meters",
+        "node_link": "https://datacommons.org/browser/Mean_WindSpeed_VComponent_Height10Meters"
+    },
+    {
+        "node_name": "Min Wind Speed: Meter 10, VComponent",
+        "node_dcid": "Min_WindSpeed_VComponent_Height10Meters",
+        "node_link": "https://datacommons.org/browser/Min_WindSpeed_VComponent_Height10Meters"
+    }
+]

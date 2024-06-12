@@ -1,0 +1,287 @@
+[
+    {
+        "node_name": "Mean Palmer Drought Severity Index (PDSI)",
+        "node_dcid": "Mean_PalmerDroughtSeverityIndex",
+        "node_link": "https://datacommons.org/browser/Mean_PalmerDroughtSeverityIndex"
+    },
+    {
+        "node_name": "\u2026 Palmer Drought Severity Index (PDSI) in forested areas",
+        "node_dcid": "Mean_PalmerDroughtSeverityIndex_Forest",
+        "node_link": "https://datacommons.org/browser/Mean_PalmerDroughtSeverityIndex_Forest"
+    },
+    {
+        "node_name": "\u2026 Vapor Pressure Deficit (VPD) for forested areas",
+        "node_dcid": "Mean_VaporPressureDeficit_Forest",
+        "node_link": "https://datacommons.org/browser/Mean_VaporPressureDeficit_Forest"
+    },
+    {
+        "node_name": "\u2026 maximum temperature in forested areas",
+        "node_dcid": "Mean_MaxTemperature_Forest",
+        "node_link": "https://datacommons.org/browser/Mean_MaxTemperature_Forest"
+    },
+    {
+        "node_name": "Standardized Precipitation Index",
+        "node_dcid": "StandardizedPrecipitationIndex_Atmosphere",
+        "node_link": "https://datacommons.org/browser/StandardizedPrecipitationIndex_Atmosphere"
+    },
+    {
+        "node_name": "\u2026 12 ppm",
+        "node_dcid": "NumberOfDays_Concentration_SmokePM25_Above12PPM",
+        "node_link": "https://datacommons.org/browser/NumberOfDays_Concentration_SmokePM25_Above12PPM"
+    },
+    {
+        "node_name": "\u2026 150 ppm",
+        "node_dcid": "NumberOfDays_Concentration_SmokePM25_Above150PPM",
+        "node_link": "https://datacommons.org/browser/NumberOfDays_Concentration_SmokePM25_Above150PPM"
+    },
+    {
+        "node_name": "\u2026 250 ppm",
+        "node_dcid": "NumberOfDays_Concentration_SmokePM25_Above250PPM",
+        "node_link": "https://datacommons.org/browser/NumberOfDays_Concentration_SmokePM25_Above250PPM"
+    },
+    {
+        "node_name": "\u2026 35 ppm",
+        "node_dcid": "NumberOfDays_Concentration_SmokePM25_Above35PPM",
+        "node_link": "https://datacommons.org/browser/NumberOfDays_Concentration_SmokePM25_Above35PPM"
+    },
+    {
+        "node_name": "\u2026 55 ppm",
+        "node_dcid": "NumberOfDays_Concentration_SmokePM25_Above55PPM",
+        "node_link": "https://datacommons.org/browser/NumberOfDays_Concentration_SmokePM25_Above55PPM"
+    },
+    {
+        "node_name": "\u2026 12 ppm",
+        "node_dcid": "NumberOfDays_Concentration_SmokePM25_Above12PPM",
+        "node_link": "https://datacommons.org/browser/NumberOfDays_Concentration_SmokePM25_Above12PPM"
+    },
+    {
+        "node_name": "\u2026 150 ppm",
+        "node_dcid": "NumberOfDays_Concentration_SmokePM25_Above150PPM",
+        "node_link": "https://datacommons.org/browser/NumberOfDays_Concentration_SmokePM25_Above150PPM"
+    },
+    {
+        "node_name": "\u2026 250 ppm",
+        "node_dcid": "NumberOfDays_Concentration_SmokePM25_Above250PPM",
+        "node_link": "https://datacommons.org/browser/NumberOfDays_Concentration_SmokePM25_Above250PPM"
+    },
+    {
+        "node_name": "\u2026 35 ppm",
+        "node_dcid": "NumberOfDays_Concentration_SmokePM25_Above35PPM",
+        "node_link": "https://datacommons.org/browser/NumberOfDays_Concentration_SmokePM25_Above35PPM"
+    },
+    {
+        "node_name": "\u2026 55 ppm",
+        "node_dcid": "NumberOfDays_Concentration_SmokePM25_Above55PPM",
+        "node_link": "https://datacommons.org/browser/NumberOfDays_Concentration_SmokePM25_Above55PPM"
+    },
+    {
+        "node_name": "\u2026 12 ppm",
+        "node_dcid": "NumberOfDays_Concentration_SmokePM25_Above12PPM",
+        "node_link": "https://datacommons.org/browser/NumberOfDays_Concentration_SmokePM25_Above12PPM"
+    },
+    {
+        "node_name": "\u2026 150 ppm",
+        "node_dcid": "NumberOfDays_Concentration_SmokePM25_Above150PPM",
+        "node_link": "https://datacommons.org/browser/NumberOfDays_Concentration_SmokePM25_Above150PPM"
+    },
+    {
+        "node_name": "\u2026 250 ppm",
+        "node_dcid": "NumberOfDays_Concentration_SmokePM25_Above250PPM",
+        "node_link": "https://datacommons.org/browser/NumberOfDays_Concentration_SmokePM25_Above250PPM"
+    },
+    {
+        "node_name": "\u2026 35 ppm",
+        "node_dcid": "NumberOfDays_Concentration_SmokePM25_Above35PPM",
+        "node_link": "https://datacommons.org/browser/NumberOfDays_Concentration_SmokePM25_Above35PPM"
+    },
+    {
+        "node_name": "\u2026 55 ppm",
+        "node_dcid": "NumberOfDays_Concentration_SmokePM25_Above55PPM",
+        "node_link": "https://datacommons.org/browser/NumberOfDays_Concentration_SmokePM25_Above55PPM"
+    },
+    {
+        "node_name": "Concentration of Smoke PM2.5",
+        "node_dcid": "Concentration_AirPollutant_SmokePM25",
+        "node_link": "https://datacommons.org/browser/Concentration_AirPollutant_SmokePM25"
+    },
+    {
+        "node_name": "Max Concentration of Smoke PM2.5",
+        "node_dcid": "Max_Concentration_AirPollutant_SmokePM25",
+        "node_link": "https://datacommons.org/browser/Max_Concentration_AirPollutant_SmokePM25"
+    },
+    {
+        "node_name": "Mean Concentration of Smoke PM2.5",
+        "node_dcid": "Mean_Concentration_AirPollutant_SmokePM25",
+        "node_link": "https://datacommons.org/browser/Mean_Concentration_AirPollutant_SmokePM25"
+    },
+    {
+        "node_name": "Population-weighted Max Concentration of Smoke PM2.5",
+        "node_dcid": "Max_PopulationWeighted_Concentration_AirPollutant_SmokePM25",
+        "node_link": "https://datacommons.org/browser/Max_PopulationWeighted_Concentration_AirPollutant_SmokePM25"
+    },
+    {
+        "node_name": "Population-weighted Mean Concentration of Smoke PM2.5",
+        "node_dcid": "Mean_PopulationWeighted_Concentration_AirPollutant_SmokePM25",
+        "node_link": "https://datacommons.org/browser/Mean_PopulationWeighted_Concentration_AirPollutant_SmokePM25"
+    },
+    {
+        "node_name": "\u2026 12 ppm",
+        "node_dcid": "NumberOfDays_Concentration_SmokePM25_Above12PPM",
+        "node_link": "https://datacommons.org/browser/NumberOfDays_Concentration_SmokePM25_Above12PPM"
+    },
+    {
+        "node_name": "\u2026 150 ppm",
+        "node_dcid": "NumberOfDays_Concentration_SmokePM25_Above150PPM",
+        "node_link": "https://datacommons.org/browser/NumberOfDays_Concentration_SmokePM25_Above150PPM"
+    },
+    {
+        "node_name": "\u2026 250 ppm",
+        "node_dcid": "NumberOfDays_Concentration_SmokePM25_Above250PPM",
+        "node_link": "https://datacommons.org/browser/NumberOfDays_Concentration_SmokePM25_Above250PPM"
+    },
+    {
+        "node_name": "\u2026 35 ppm",
+        "node_dcid": "NumberOfDays_Concentration_SmokePM25_Above35PPM",
+        "node_link": "https://datacommons.org/browser/NumberOfDays_Concentration_SmokePM25_Above35PPM"
+    },
+    {
+        "node_name": "\u2026 55 ppm",
+        "node_dcid": "NumberOfDays_Concentration_SmokePM25_Above55PPM",
+        "node_link": "https://datacommons.org/browser/NumberOfDays_Concentration_SmokePM25_Above55PPM"
+    },
+    {
+        "node_name": "\u2026 12 ppm",
+        "node_dcid": "NumberOfDays_Concentration_SmokePM25_Above12PPM",
+        "node_link": "https://datacommons.org/browser/NumberOfDays_Concentration_SmokePM25_Above12PPM"
+    },
+    {
+        "node_name": "\u2026 150 ppm",
+        "node_dcid": "NumberOfDays_Concentration_SmokePM25_Above150PPM",
+        "node_link": "https://datacommons.org/browser/NumberOfDays_Concentration_SmokePM25_Above150PPM"
+    },
+    {
+        "node_name": "\u2026 250 ppm",
+        "node_dcid": "NumberOfDays_Concentration_SmokePM25_Above250PPM",
+        "node_link": "https://datacommons.org/browser/NumberOfDays_Concentration_SmokePM25_Above250PPM"
+    },
+    {
+        "node_name": "\u2026 35 ppm",
+        "node_dcid": "NumberOfDays_Concentration_SmokePM25_Above35PPM",
+        "node_link": "https://datacommons.org/browser/NumberOfDays_Concentration_SmokePM25_Above35PPM"
+    },
+    {
+        "node_name": "\u2026 55 ppm",
+        "node_dcid": "NumberOfDays_Concentration_SmokePM25_Above55PPM",
+        "node_link": "https://datacommons.org/browser/NumberOfDays_Concentration_SmokePM25_Above55PPM"
+    },
+    {
+        "node_name": "Percent of area that burned",
+        "node_dcid": "Percent_BurnedArea_FireEvent",
+        "node_link": "https://datacommons.org/browser/Percent_BurnedArea_FireEvent"
+    },
+    {
+        "node_name": "Percent of forest area that experienced high-severity fire",
+        "node_dcid": "Percent_BurnedArea_FireEvent_Forest_HighSeverity",
+        "node_link": "https://datacommons.org/browser/Percent_BurnedArea_FireEvent_Forest_HighSeverity"
+    },
+    {
+        "node_name": "Total area that burned (Acres)",
+        "node_dcid": "BurnedArea_FireEvent",
+        "node_link": "https://datacommons.org/browser/BurnedArea_FireEvent"
+    },
+    {
+        "node_name": "Area of forest that burned (Acres)",
+        "node_dcid": "BurnedArea_FireEvent_Forest",
+        "node_link": "https://datacommons.org/browser/BurnedArea_FireEvent_Forest"
+    },
+    {
+        "node_name": "Percent of forest area that burned",
+        "node_dcid": "Percent_BurnedArea_FireEvent_Forest",
+        "node_link": "https://datacommons.org/browser/Percent_BurnedArea_FireEvent_Forest"
+    },
+    {
+        "node_name": "Percent of forest area that experienced high-severity fire",
+        "node_dcid": "Percent_BurnedArea_FireEvent_Forest_HighSeverity",
+        "node_link": "https://datacommons.org/browser/Percent_BurnedArea_FireEvent_Forest_HighSeverity"
+    },
+    {
+        "node_name": "Consecutive Dry Days",
+        "node_dcid": "ConsecutiveDryDays",
+        "node_link": "https://datacommons.org/browser/ConsecutiveDryDays"
+    },
+    {
+        "node_name": "Heavy Precipitation Index",
+        "node_dcid": "HeavyPrecipitationIndex",
+        "node_link": "https://datacommons.org/browser/HeavyPrecipitationIndex"
+    },
+    {
+        "node_name": "Max Temperature (Interannual Range of Monthly Aggregate)",
+        "node_dcid": "InterannualRange_Monthly_MaxTemperature",
+        "node_link": "https://datacommons.org/browser/InterannualRange_Monthly_MaxTemperature"
+    },
+    {
+        "node_name": "Mean Vapor Pressure Deficit (VPD)",
+        "node_dcid": "Mean_VaporPressureDeficit",
+        "node_link": "https://datacommons.org/browser/Mean_VaporPressureDeficit"
+    },
+    {
+        "node_name": "Mean maximum temperature",
+        "node_dcid": "Mean_MaxTemperature",
+        "node_link": "https://datacommons.org/browser/Mean_MaxTemperature"
+    },
+    {
+        "node_name": "Min Temperature (Interannual Range of Monthly Aggregate)",
+        "node_dcid": "InterannualRange_Monthly_MinTemperature",
+        "node_link": "https://datacommons.org/browser/InterannualRange_Monthly_MinTemperature"
+    },
+    {
+        "node_name": "Precipitation (Interannual Range of Monthly Aggregate)",
+        "node_dcid": "InterannualRange_Monthly_Precipitation",
+        "node_link": "https://datacommons.org/browser/InterannualRange_Monthly_Precipitation"
+    },
+    {
+        "node_name": "\u2026 Palmer Drought Severity Index (PDSI) in forested areas",
+        "node_dcid": "Mean_PalmerDroughtSeverityIndex_Forest",
+        "node_link": "https://datacommons.org/browser/Mean_PalmerDroughtSeverityIndex_Forest"
+    },
+    {
+        "node_name": "\u2026 Vapor Pressure Deficit (VPD) for forested areas",
+        "node_dcid": "Mean_VaporPressureDeficit_Forest",
+        "node_link": "https://datacommons.org/browser/Mean_VaporPressureDeficit_Forest"
+    },
+    {
+        "node_name": "\u2026 maximum temperature in forested areas",
+        "node_dcid": "Mean_MaxTemperature_Forest",
+        "node_link": "https://datacommons.org/browser/Mean_MaxTemperature_Forest"
+    },
+    {
+        "node_name": "Count of Heat Wave Event",
+        "node_dcid": "Count_HeatWaveEvent",
+        "node_link": "https://datacommons.org/browser/Count_HeatWaveEvent"
+    },
+    {
+        "node_name": "Heat Wave Intensity of Heat Wave Event",
+        "node_dcid": "Intensity_HeatWaveEvent",
+        "node_link": "https://datacommons.org/browser/Intensity_HeatWaveEvent"
+    },
+    {
+        "node_name": "Number of Days of Heat Wave Event",
+        "node_dcid": "NumberOfDays_HeatWaveEvent",
+        "node_link": "https://datacommons.org/browser/NumberOfDays_HeatWaveEvent"
+    },
+    {
+        "node_name": "Population-weighted Intensity of Heat Waves",
+        "node_dcid": "PopulationWeighted_Intensity_HeatWaveEvent",
+        "node_link": "https://datacommons.org/browser/PopulationWeighted_Intensity_HeatWaveEvent"
+    },
+    {
+        "node_name": "Population-weighted Length of Heat Waves",
+        "node_dcid": "PopulationWeighted_NumerOfDays_HeatWaveEvent",
+        "node_link": "https://datacommons.org/browser/PopulationWeighted_NumerOfDays_HeatWaveEvent"
+    },
+    {
+        "node_name": "Population-weighted Number of Heat Waves",
+        "node_dcid": "PopulationWeighted_Count_HeatWaveEvent",
+        "node_link": "https://datacommons.org/browser/PopulationWeighted_Count_HeatWaveEvent"
+    }
+]

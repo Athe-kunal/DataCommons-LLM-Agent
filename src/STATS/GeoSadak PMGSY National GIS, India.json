@@ -1,0 +1,22 @@
+[
+    {
+        "node_name": "\u2026 Agricultural Facility",
+        "node_dcid": "Count_CivicStructure_AgriculturalFacility",
+        "node_link": "https://datacommons.org/browser/Count_CivicStructure_AgriculturalFacility"
+    },
+    {
+        "node_name": "\u2026 Education Facility",
+        "node_dcid": "Count_CivicStructure_EducationFacility",
+        "node_link": "https://datacommons.org/browser/Count_CivicStructure_EducationFacility"
+    },
+    {
+        "node_name": "\u2026 Medical Facility",
+        "node_dcid": "Count_CivicStructure_MedicalFacility",
+        "node_link": "https://datacommons.org/browser/Count_CivicStructure_MedicalFacility"
+    },
+    {
+        "node_name": "\u2026 Transport or Admin Facility",
+        "node_dcid": "Count_CivicStructure_TransportOrAdminFacility",
+        "node_link": "https://datacommons.org/browser/Count_CivicStructure_TransportOrAdminFacility"
+    }
+]

@@ -1,0 +1,1397 @@
+[
+    {
+        "node_name": "Earthquakes",
+        "node_dcid": "Count_EarthquakeEvent",
+        "node_link": "https://datacommons.org/browser/Count_EarthquakeEvent"
+    },
+    {
+        "node_name": "\u2026 3 - 4 Magnitude",
+        "node_dcid": "Count_EarthquakeEvent_M3To4",
+        "node_link": "https://datacommons.org/browser/Count_EarthquakeEvent_M3To4"
+    },
+    {
+        "node_name": "\u2026 3 Magnitude or More",
+        "node_dcid": "Count_EarthquakeEvent_M3Onwards",
+        "node_link": "https://datacommons.org/browser/Count_EarthquakeEvent_M3Onwards"
+    },
+    {
+        "node_name": "\u2026 4 - 5 Magnitude",
+        "node_dcid": "Count_EarthquakeEvent_M4To5",
+        "node_link": "https://datacommons.org/browser/Count_EarthquakeEvent_M4To5"
+    },
+    {
+        "node_name": "\u2026 4 Magnitude or More",
+        "node_dcid": "Count_EarthquakeEvent_M4Onwards",
+        "node_link": "https://datacommons.org/browser/Count_EarthquakeEvent_M4Onwards"
+    },
+    {
+        "node_name": "\u2026 5 - 6 Magnitude",
+        "node_dcid": "Count_EarthquakeEvent_M5To6",
+        "node_link": "https://datacommons.org/browser/Count_EarthquakeEvent_M5To6"
+    },
+    {
+        "node_name": "\u2026 5 Magnitude or More",
+        "node_dcid": "Count_EarthquakeEvent_M5Onwards",
+        "node_link": "https://datacommons.org/browser/Count_EarthquakeEvent_M5Onwards"
+    },
+    {
+        "node_name": "\u2026 6 - 7 Magnitude",
+        "node_dcid": "Count_EarthquakeEvent_M6To7",
+        "node_link": "https://datacommons.org/browser/Count_EarthquakeEvent_M6To7"
+    },
+    {
+        "node_name": "\u2026 6 Magnitude or More",
+        "node_dcid": "Count_EarthquakeEvent_M6Onwards",
+        "node_link": "https://datacommons.org/browser/Count_EarthquakeEvent_M6Onwards"
+    },
+    {
+        "node_name": "\u2026 7 - 8 Magnitude",
+        "node_dcid": "Count_EarthquakeEvent_M7To8",
+        "node_link": "https://datacommons.org/browser/Count_EarthquakeEvent_M7To8"
+    },
+    {
+        "node_name": "\u2026 7 Magnitude or More",
+        "node_dcid": "Count_EarthquakeEvent_M7Onwards",
+        "node_link": "https://datacommons.org/browser/Count_EarthquakeEvent_M7Onwards"
+    },
+    {
+        "node_name": "\u2026 8 - 9 Magnitude",
+        "node_dcid": "Count_EarthquakeEvent_M8To9",
+        "node_link": "https://datacommons.org/browser/Count_EarthquakeEvent_M8To9"
+    },
+    {
+        "node_name": "\u2026 8 Magnitude or More",
+        "node_dcid": "Count_EarthquakeEvent_M8Onwards",
+        "node_link": "https://datacommons.org/browser/Count_EarthquakeEvent_M8Onwards"
+    },
+    {
+        "node_name": "\u2026 9 Magnitude or More",
+        "node_dcid": "Count_EarthquakeEvent_M9Onwards",
+        "node_link": "https://datacommons.org/browser/Count_EarthquakeEvent_M9Onwards"
+    },
+    {
+        "node_name": "Rate of Water Withdrawal",
+        "node_dcid": "WithdrawalRate_Water",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water"
+    },
+    {
+        "node_name": "Withdrawal Rate of Water: Aquaculture",
+        "node_dcid": "WithdrawalRate_Water_Aquaculture",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Aquaculture"
+    },
+    {
+        "node_name": "Withdrawal Rate of Water: Aquaculture, Ground Water",
+        "node_dcid": "WithdrawalRate_Water_Aquaculture_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Aquaculture_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Aquaculture_FreshWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Aquaculture_FreshWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Aquaculture_SalineWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Aquaculture_SalineWater_GroundWater"
+    },
+    {
+        "node_name": "Withdrawal Rate of Water: Aquaculture, Surface Water",
+        "node_dcid": "WithdrawalRate_Water_Aquaculture_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Aquaculture_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Aquaculture_FreshWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Aquaculture_FreshWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Aquaculture_SalineWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Aquaculture_SalineWater_SurfaceWater"
+    },
+    {
+        "node_name": "Withdrawal Rate of Water: Aquaculture, Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Aquaculture_FreshWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Aquaculture_FreshWater"
+    },
+    {
+        "node_name": "\u2026 Ground Water, Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Aquaculture_FreshWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Aquaculture_FreshWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Surface Water, Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Aquaculture_FreshWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Aquaculture_FreshWater_SurfaceWater"
+    },
+    {
+        "node_name": "Withdrawal Rate of Water: Aquaculture, Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Aquaculture_SalineWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Aquaculture_SalineWater"
+    },
+    {
+        "node_name": "\u2026 Ground Water, Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Aquaculture_SalineWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Aquaculture_SalineWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Surface Water, Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Aquaculture_SalineWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Aquaculture_SalineWater_SurfaceWater"
+    },
+    {
+        "node_name": "Withdrawal Rate of Water: Domestic",
+        "node_dcid": "WithdrawalRate_Water_Domestic",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Domestic"
+    },
+    {
+        "node_name": "Withdrawal Rate of Water: Domestic, Ground Water",
+        "node_dcid": "WithdrawalRate_Water_Domestic_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Domestic_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Domestic_FreshWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Domestic_FreshWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Domestic_SalineWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Domestic_SalineWater_GroundWater"
+    },
+    {
+        "node_name": "Withdrawal Rate of Water: Domestic, Surface Water",
+        "node_dcid": "WithdrawalRate_Water_Domestic_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Domestic_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Domestic_FreshWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Domestic_FreshWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Domestic_SalineWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Domestic_SalineWater_SurfaceWater"
+    },
+    {
+        "node_name": "Withdrawal Rate of Water: Domestic, Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Domestic_FreshWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Domestic_FreshWater"
+    },
+    {
+        "node_name": "\u2026 Ground Water, Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Domestic_FreshWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Domestic_FreshWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Surface Water, Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Domestic_FreshWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Domestic_FreshWater_SurfaceWater"
+    },
+    {
+        "node_name": "Withdrawal Rate of Water: Domestic, Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Domestic_SalineWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Domestic_SalineWater"
+    },
+    {
+        "node_name": "\u2026 Ground Water, Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Domestic_SalineWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Domestic_SalineWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Surface Water, Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Domestic_SalineWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Domestic_SalineWater_SurfaceWater"
+    },
+    {
+        "node_name": "Withdrawal Rate of Water: Industrial",
+        "node_dcid": "WithdrawalRate_Water_Industrial",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Industrial"
+    },
+    {
+        "node_name": "Withdrawal Rate of Water: Industrial, Ground Water",
+        "node_dcid": "WithdrawalRate_Water_Industrial_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Industrial_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Industrial_FreshWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Industrial_FreshWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Industrial_SalineWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Industrial_SalineWater_GroundWater"
+    },
+    {
+        "node_name": "Withdrawal Rate of Water: Industrial, Surface Water",
+        "node_dcid": "WithdrawalRate_Water_Industrial_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Industrial_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Industrial_FreshWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Industrial_FreshWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Industrial_SalineWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Industrial_SalineWater_SurfaceWater"
+    },
+    {
+        "node_name": "Withdrawal Rate of Water: Industrial, Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Industrial_FreshWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Industrial_FreshWater"
+    },
+    {
+        "node_name": "\u2026 Ground Water, Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Industrial_FreshWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Industrial_FreshWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Surface Water, Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Industrial_FreshWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Industrial_FreshWater_SurfaceWater"
+    },
+    {
+        "node_name": "Withdrawal Rate of Water: Industrial, Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Industrial_SalineWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Industrial_SalineWater"
+    },
+    {
+        "node_name": "\u2026 Ground Water, Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Industrial_SalineWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Industrial_SalineWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Surface Water, Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Industrial_SalineWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Industrial_SalineWater_SurfaceWater"
+    },
+    {
+        "node_name": "Withdrawal Rate of Water: Irrigation",
+        "node_dcid": "WithdrawalRate_Water_Irrigation",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Irrigation"
+    },
+    {
+        "node_name": "Withdrawal Rate of Water: Irrigation, Ground Water",
+        "node_dcid": "WithdrawalRate_Water_Irrigation_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Irrigation_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Irrigation_FreshWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Irrigation_FreshWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Irrigation_SalineWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Irrigation_SalineWater_GroundWater"
+    },
+    {
+        "node_name": "Withdrawal Rate of Water: Irrigation, Surface Water",
+        "node_dcid": "WithdrawalRate_Water_Irrigation_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Irrigation_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Irrigation_FreshWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Irrigation_FreshWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Irrigation_SalineWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Irrigation_SalineWater_SurfaceWater"
+    },
+    {
+        "node_name": "Withdrawal Rate of Water: Irrigation, Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Irrigation_FreshWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Irrigation_FreshWater"
+    },
+    {
+        "node_name": "\u2026 Ground Water, Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Irrigation_FreshWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Irrigation_FreshWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Surface Water, Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Irrigation_FreshWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Irrigation_FreshWater_SurfaceWater"
+    },
+    {
+        "node_name": "Withdrawal Rate of Water: Irrigation, Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Irrigation_SalineWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Irrigation_SalineWater"
+    },
+    {
+        "node_name": "\u2026 Ground Water, Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Irrigation_SalineWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Irrigation_SalineWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Surface Water, Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Irrigation_SalineWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Irrigation_SalineWater_SurfaceWater"
+    },
+    {
+        "node_name": "Withdrawal Rate of Water: Livestock",
+        "node_dcid": "WithdrawalRate_Water_Livestock",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Livestock"
+    },
+    {
+        "node_name": "Withdrawal Rate of Water: Livestock, Ground Water",
+        "node_dcid": "WithdrawalRate_Water_Livestock_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Livestock_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Livestock_FreshWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Livestock_FreshWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Livestock_SalineWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Livestock_SalineWater_GroundWater"
+    },
+    {
+        "node_name": "Withdrawal Rate of Water: Livestock, Surface Water",
+        "node_dcid": "WithdrawalRate_Water_Livestock_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Livestock_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Livestock_FreshWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Livestock_FreshWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Livestock_SalineWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Livestock_SalineWater_SurfaceWater"
+    },
+    {
+        "node_name": "Withdrawal Rate of Water: Livestock, Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Livestock_FreshWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Livestock_FreshWater"
+    },
+    {
+        "node_name": "\u2026 Ground Water, Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Livestock_FreshWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Livestock_FreshWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Surface Water, Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Livestock_FreshWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Livestock_FreshWater_SurfaceWater"
+    },
+    {
+        "node_name": "Withdrawal Rate of Water: Livestock, Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Livestock_SalineWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Livestock_SalineWater"
+    },
+    {
+        "node_name": "\u2026 Ground Water, Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Livestock_SalineWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Livestock_SalineWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Surface Water, Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Livestock_SalineWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Livestock_SalineWater_SurfaceWater"
+    },
+    {
+        "node_name": "Withdrawal Rate of Water: Mining",
+        "node_dcid": "WithdrawalRate_Water_Mining",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Mining"
+    },
+    {
+        "node_name": "Withdrawal Rate of Water: Mining, Ground Water",
+        "node_dcid": "WithdrawalRate_Water_Mining_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Mining_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Mining_FreshWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Mining_FreshWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Mining_SalineWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Mining_SalineWater_GroundWater"
+    },
+    {
+        "node_name": "Withdrawal Rate of Water: Mining, Surface Water",
+        "node_dcid": "WithdrawalRate_Water_Mining_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Mining_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Mining_FreshWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Mining_FreshWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Mining_SalineWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Mining_SalineWater_SurfaceWater"
+    },
+    {
+        "node_name": "Withdrawal Rate of Water: Mining, Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Mining_FreshWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Mining_FreshWater"
+    },
+    {
+        "node_name": "\u2026 Ground Water, Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Mining_FreshWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Mining_FreshWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Surface Water, Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Mining_FreshWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Mining_FreshWater_SurfaceWater"
+    },
+    {
+        "node_name": "Withdrawal Rate of Water: Mining, Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Mining_SalineWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Mining_SalineWater"
+    },
+    {
+        "node_name": "\u2026 Ground Water, Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Mining_SalineWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Mining_SalineWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Surface Water, Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Mining_SalineWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Mining_SalineWater_SurfaceWater"
+    },
+    {
+        "node_name": "Withdrawal Rate of Water: Public Supply",
+        "node_dcid": "WithdrawalRate_Water_PublicSupply",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_PublicSupply"
+    },
+    {
+        "node_name": "Withdrawal Rate of Water: Public Supply, Ground Water",
+        "node_dcid": "WithdrawalRate_Water_PublicSupply_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_PublicSupply_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_PublicSupply_FreshWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_PublicSupply_FreshWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Saline Water",
+        "node_dcid": "WithdrawalRate_Water_PublicSupply_SalineWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_PublicSupply_SalineWater_GroundWater"
+    },
+    {
+        "node_name": "Withdrawal Rate of Water: Public Supply, Surface Water",
+        "node_dcid": "WithdrawalRate_Water_PublicSupply_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_PublicSupply_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_PublicSupply_FreshWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_PublicSupply_FreshWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Saline Water",
+        "node_dcid": "WithdrawalRate_Water_PublicSupply_SalineWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_PublicSupply_SalineWater_SurfaceWater"
+    },
+    {
+        "node_name": "Withdrawal Rate of Water: Public Supply, Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_PublicSupply_FreshWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_PublicSupply_FreshWater"
+    },
+    {
+        "node_name": "\u2026 Ground Water, Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_PublicSupply_FreshWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_PublicSupply_FreshWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Surface Water, Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_PublicSupply_FreshWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_PublicSupply_FreshWater_SurfaceWater"
+    },
+    {
+        "node_name": "Withdrawal Rate of Water: Public Supply, Saline Water",
+        "node_dcid": "WithdrawalRate_Water_PublicSupply_SalineWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_PublicSupply_SalineWater"
+    },
+    {
+        "node_name": "\u2026 Ground Water, Saline Water",
+        "node_dcid": "WithdrawalRate_Water_PublicSupply_SalineWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_PublicSupply_SalineWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Surface Water, Saline Water",
+        "node_dcid": "WithdrawalRate_Water_PublicSupply_SalineWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_PublicSupply_SalineWater_SurfaceWater"
+    },
+    {
+        "node_name": "Withdrawal Rate of Water: Thermoelectric",
+        "node_dcid": "WithdrawalRate_Water_Thermoelectric",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Thermoelectric"
+    },
+    {
+        "node_name": "Withdrawal Rate of Water: Thermoelectric, Ground Water",
+        "node_dcid": "WithdrawalRate_Water_Thermoelectric_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Thermoelectric_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Thermoelectric_FreshWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Thermoelectric_FreshWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Thermoelectric_SalineWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Thermoelectric_SalineWater_GroundWater"
+    },
+    {
+        "node_name": "Withdrawal Rate of Water: Thermoelectric, Surface Water",
+        "node_dcid": "WithdrawalRate_Water_Thermoelectric_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Thermoelectric_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Thermoelectric_FreshWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Thermoelectric_FreshWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Thermoelectric_SalineWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Thermoelectric_SalineWater_SurfaceWater"
+    },
+    {
+        "node_name": "Withdrawal Rate of Water: Thermoelectric, Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Thermoelectric_FreshWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Thermoelectric_FreshWater"
+    },
+    {
+        "node_name": "\u2026 Ground Water, Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Thermoelectric_FreshWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Thermoelectric_FreshWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Surface Water, Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Thermoelectric_FreshWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Thermoelectric_FreshWater_SurfaceWater"
+    },
+    {
+        "node_name": "Withdrawal Rate of Water: Thermoelectric, Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Thermoelectric_SalineWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Thermoelectric_SalineWater"
+    },
+    {
+        "node_name": "\u2026 Ground Water, Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Thermoelectric_SalineWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Thermoelectric_SalineWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Surface Water, Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Thermoelectric_SalineWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Thermoelectric_SalineWater_SurfaceWater"
+    },
+    {
+        "node_name": "Withdrawal Rate of Water: Aquaculture, Ground Water",
+        "node_dcid": "WithdrawalRate_Water_Aquaculture_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Aquaculture_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Aquaculture_FreshWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Aquaculture_FreshWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Aquaculture_SalineWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Aquaculture_SalineWater_GroundWater"
+    },
+    {
+        "node_name": "Withdrawal Rate of Water: Domestic, Ground Water",
+        "node_dcid": "WithdrawalRate_Water_Domestic_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Domestic_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Domestic_FreshWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Domestic_FreshWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Domestic_SalineWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Domestic_SalineWater_GroundWater"
+    },
+    {
+        "node_name": "Withdrawal Rate of Water: Industrial, Ground Water",
+        "node_dcid": "WithdrawalRate_Water_Industrial_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Industrial_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Industrial_FreshWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Industrial_FreshWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Industrial_SalineWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Industrial_SalineWater_GroundWater"
+    },
+    {
+        "node_name": "Withdrawal Rate of Water: Irrigation, Ground Water",
+        "node_dcid": "WithdrawalRate_Water_Irrigation_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Irrigation_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Irrigation_FreshWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Irrigation_FreshWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Irrigation_SalineWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Irrigation_SalineWater_GroundWater"
+    },
+    {
+        "node_name": "Withdrawal Rate of Water: Livestock, Ground Water",
+        "node_dcid": "WithdrawalRate_Water_Livestock_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Livestock_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Livestock_FreshWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Livestock_FreshWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Livestock_SalineWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Livestock_SalineWater_GroundWater"
+    },
+    {
+        "node_name": "Withdrawal Rate of Water: Mining, Ground Water",
+        "node_dcid": "WithdrawalRate_Water_Mining_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Mining_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Mining_FreshWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Mining_FreshWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Mining_SalineWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Mining_SalineWater_GroundWater"
+    },
+    {
+        "node_name": "Withdrawal Rate of Water: Public Supply, Ground Water",
+        "node_dcid": "WithdrawalRate_Water_PublicSupply_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_PublicSupply_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_PublicSupply_FreshWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_PublicSupply_FreshWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Saline Water",
+        "node_dcid": "WithdrawalRate_Water_PublicSupply_SalineWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_PublicSupply_SalineWater_GroundWater"
+    },
+    {
+        "node_name": "Withdrawal Rate of Water: Thermoelectric, Ground Water",
+        "node_dcid": "WithdrawalRate_Water_Thermoelectric_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Thermoelectric_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Thermoelectric_FreshWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Thermoelectric_FreshWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Thermoelectric_SalineWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Thermoelectric_SalineWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Aquaculture, Ground Water, Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Aquaculture_FreshWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Aquaculture_FreshWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Domestic, Ground Water, Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Domestic_FreshWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Domestic_FreshWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Industrial, Ground Water, Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Industrial_FreshWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Industrial_FreshWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Irrigation, Ground Water, Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Irrigation_FreshWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Irrigation_FreshWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Livestock, Ground Water, Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Livestock_FreshWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Livestock_FreshWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Mining, Ground Water, Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Mining_FreshWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Mining_FreshWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Public Supply, Ground Water, Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_PublicSupply_FreshWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_PublicSupply_FreshWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Thermoelectric, Ground Water, Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Thermoelectric_FreshWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Thermoelectric_FreshWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Aquaculture, Ground Water, Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Aquaculture_SalineWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Aquaculture_SalineWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Domestic, Ground Water, Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Domestic_SalineWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Domestic_SalineWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Industrial, Ground Water, Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Industrial_SalineWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Industrial_SalineWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Irrigation, Ground Water, Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Irrigation_SalineWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Irrigation_SalineWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Livestock, Ground Water, Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Livestock_SalineWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Livestock_SalineWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Mining, Ground Water, Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Mining_SalineWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Mining_SalineWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Public Supply, Ground Water, Saline Water",
+        "node_dcid": "WithdrawalRate_Water_PublicSupply_SalineWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_PublicSupply_SalineWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Thermoelectric, Ground Water, Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Thermoelectric_SalineWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Thermoelectric_SalineWater_GroundWater"
+    },
+    {
+        "node_name": "Withdrawal Rate of Water: Aquaculture, Surface Water",
+        "node_dcid": "WithdrawalRate_Water_Aquaculture_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Aquaculture_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Aquaculture_FreshWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Aquaculture_FreshWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Aquaculture_SalineWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Aquaculture_SalineWater_SurfaceWater"
+    },
+    {
+        "node_name": "Withdrawal Rate of Water: Domestic, Surface Water",
+        "node_dcid": "WithdrawalRate_Water_Domestic_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Domestic_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Domestic_FreshWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Domestic_FreshWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Domestic_SalineWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Domestic_SalineWater_SurfaceWater"
+    },
+    {
+        "node_name": "Withdrawal Rate of Water: Industrial, Surface Water",
+        "node_dcid": "WithdrawalRate_Water_Industrial_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Industrial_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Industrial_FreshWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Industrial_FreshWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Industrial_SalineWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Industrial_SalineWater_SurfaceWater"
+    },
+    {
+        "node_name": "Withdrawal Rate of Water: Irrigation, Surface Water",
+        "node_dcid": "WithdrawalRate_Water_Irrigation_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Irrigation_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Irrigation_FreshWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Irrigation_FreshWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Irrigation_SalineWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Irrigation_SalineWater_SurfaceWater"
+    },
+    {
+        "node_name": "Withdrawal Rate of Water: Livestock, Surface Water",
+        "node_dcid": "WithdrawalRate_Water_Livestock_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Livestock_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Livestock_FreshWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Livestock_FreshWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Livestock_SalineWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Livestock_SalineWater_SurfaceWater"
+    },
+    {
+        "node_name": "Withdrawal Rate of Water: Mining, Surface Water",
+        "node_dcid": "WithdrawalRate_Water_Mining_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Mining_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Mining_FreshWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Mining_FreshWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Mining_SalineWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Mining_SalineWater_SurfaceWater"
+    },
+    {
+        "node_name": "Withdrawal Rate of Water: Public Supply, Surface Water",
+        "node_dcid": "WithdrawalRate_Water_PublicSupply_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_PublicSupply_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_PublicSupply_FreshWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_PublicSupply_FreshWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Saline Water",
+        "node_dcid": "WithdrawalRate_Water_PublicSupply_SalineWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_PublicSupply_SalineWater_SurfaceWater"
+    },
+    {
+        "node_name": "Withdrawal Rate of Water: Thermoelectric, Surface Water",
+        "node_dcid": "WithdrawalRate_Water_Thermoelectric_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Thermoelectric_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Thermoelectric_FreshWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Thermoelectric_FreshWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Thermoelectric_SalineWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Thermoelectric_SalineWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Aquaculture, Surface Water, Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Aquaculture_FreshWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Aquaculture_FreshWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Domestic, Surface Water, Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Domestic_FreshWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Domestic_FreshWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Industrial, Surface Water, Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Industrial_FreshWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Industrial_FreshWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Irrigation, Surface Water, Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Irrigation_FreshWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Irrigation_FreshWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Livestock, Surface Water, Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Livestock_FreshWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Livestock_FreshWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Mining, Surface Water, Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Mining_FreshWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Mining_FreshWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Public Supply, Surface Water, Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_PublicSupply_FreshWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_PublicSupply_FreshWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Thermoelectric, Surface Water, Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Thermoelectric_FreshWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Thermoelectric_FreshWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Aquaculture, Surface Water, Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Aquaculture_SalineWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Aquaculture_SalineWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Domestic, Surface Water, Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Domestic_SalineWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Domestic_SalineWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Industrial, Surface Water, Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Industrial_SalineWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Industrial_SalineWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Irrigation, Surface Water, Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Irrigation_SalineWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Irrigation_SalineWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Livestock, Surface Water, Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Livestock_SalineWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Livestock_SalineWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Mining, Surface Water, Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Mining_SalineWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Mining_SalineWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Public Supply, Surface Water, Saline Water",
+        "node_dcid": "WithdrawalRate_Water_PublicSupply_SalineWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_PublicSupply_SalineWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Thermoelectric, Surface Water, Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Thermoelectric_SalineWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Thermoelectric_SalineWater_SurfaceWater"
+    },
+    {
+        "node_name": "Withdrawal Rate of Water: Aquaculture, Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Aquaculture_FreshWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Aquaculture_FreshWater"
+    },
+    {
+        "node_name": "\u2026 Ground Water, Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Aquaculture_FreshWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Aquaculture_FreshWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Surface Water, Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Aquaculture_FreshWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Aquaculture_FreshWater_SurfaceWater"
+    },
+    {
+        "node_name": "Withdrawal Rate of Water: Domestic, Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Domestic_FreshWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Domestic_FreshWater"
+    },
+    {
+        "node_name": "\u2026 Ground Water, Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Domestic_FreshWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Domestic_FreshWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Surface Water, Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Domestic_FreshWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Domestic_FreshWater_SurfaceWater"
+    },
+    {
+        "node_name": "Withdrawal Rate of Water: Industrial, Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Industrial_FreshWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Industrial_FreshWater"
+    },
+    {
+        "node_name": "\u2026 Ground Water, Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Industrial_FreshWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Industrial_FreshWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Surface Water, Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Industrial_FreshWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Industrial_FreshWater_SurfaceWater"
+    },
+    {
+        "node_name": "Withdrawal Rate of Water: Irrigation, Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Irrigation_FreshWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Irrigation_FreshWater"
+    },
+    {
+        "node_name": "\u2026 Ground Water, Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Irrigation_FreshWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Irrigation_FreshWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Surface Water, Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Irrigation_FreshWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Irrigation_FreshWater_SurfaceWater"
+    },
+    {
+        "node_name": "Withdrawal Rate of Water: Livestock, Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Livestock_FreshWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Livestock_FreshWater"
+    },
+    {
+        "node_name": "\u2026 Ground Water, Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Livestock_FreshWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Livestock_FreshWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Surface Water, Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Livestock_FreshWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Livestock_FreshWater_SurfaceWater"
+    },
+    {
+        "node_name": "Withdrawal Rate of Water: Mining, Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Mining_FreshWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Mining_FreshWater"
+    },
+    {
+        "node_name": "\u2026 Ground Water, Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Mining_FreshWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Mining_FreshWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Surface Water, Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Mining_FreshWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Mining_FreshWater_SurfaceWater"
+    },
+    {
+        "node_name": "Withdrawal Rate of Water: Public Supply, Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_PublicSupply_FreshWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_PublicSupply_FreshWater"
+    },
+    {
+        "node_name": "\u2026 Ground Water, Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_PublicSupply_FreshWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_PublicSupply_FreshWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Surface Water, Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_PublicSupply_FreshWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_PublicSupply_FreshWater_SurfaceWater"
+    },
+    {
+        "node_name": "Withdrawal Rate of Water: Thermoelectric, Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Thermoelectric_FreshWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Thermoelectric_FreshWater"
+    },
+    {
+        "node_name": "\u2026 Ground Water, Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Thermoelectric_FreshWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Thermoelectric_FreshWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Surface Water, Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Thermoelectric_FreshWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Thermoelectric_FreshWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Aquaculture, Ground Water, Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Aquaculture_FreshWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Aquaculture_FreshWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Domestic, Ground Water, Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Domestic_FreshWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Domestic_FreshWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Industrial, Ground Water, Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Industrial_FreshWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Industrial_FreshWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Irrigation, Ground Water, Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Irrigation_FreshWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Irrigation_FreshWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Livestock, Ground Water, Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Livestock_FreshWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Livestock_FreshWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Mining, Ground Water, Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Mining_FreshWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Mining_FreshWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Public Supply, Ground Water, Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_PublicSupply_FreshWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_PublicSupply_FreshWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Thermoelectric, Ground Water, Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Thermoelectric_FreshWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Thermoelectric_FreshWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Aquaculture, Surface Water, Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Aquaculture_FreshWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Aquaculture_FreshWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Domestic, Surface Water, Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Domestic_FreshWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Domestic_FreshWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Industrial, Surface Water, Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Industrial_FreshWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Industrial_FreshWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Irrigation, Surface Water, Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Irrigation_FreshWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Irrigation_FreshWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Livestock, Surface Water, Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Livestock_FreshWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Livestock_FreshWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Mining, Surface Water, Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Mining_FreshWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Mining_FreshWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Public Supply, Surface Water, Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_PublicSupply_FreshWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_PublicSupply_FreshWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Thermoelectric, Surface Water, Fresh Water",
+        "node_dcid": "WithdrawalRate_Water_Thermoelectric_FreshWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Thermoelectric_FreshWater_SurfaceWater"
+    },
+    {
+        "node_name": "Withdrawal Rate of Water: Aquaculture, Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Aquaculture_SalineWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Aquaculture_SalineWater"
+    },
+    {
+        "node_name": "\u2026 Ground Water, Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Aquaculture_SalineWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Aquaculture_SalineWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Surface Water, Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Aquaculture_SalineWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Aquaculture_SalineWater_SurfaceWater"
+    },
+    {
+        "node_name": "Withdrawal Rate of Water: Domestic, Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Domestic_SalineWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Domestic_SalineWater"
+    },
+    {
+        "node_name": "\u2026 Ground Water, Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Domestic_SalineWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Domestic_SalineWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Surface Water, Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Domestic_SalineWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Domestic_SalineWater_SurfaceWater"
+    },
+    {
+        "node_name": "Withdrawal Rate of Water: Industrial, Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Industrial_SalineWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Industrial_SalineWater"
+    },
+    {
+        "node_name": "\u2026 Ground Water, Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Industrial_SalineWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Industrial_SalineWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Surface Water, Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Industrial_SalineWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Industrial_SalineWater_SurfaceWater"
+    },
+    {
+        "node_name": "Withdrawal Rate of Water: Irrigation, Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Irrigation_SalineWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Irrigation_SalineWater"
+    },
+    {
+        "node_name": "\u2026 Ground Water, Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Irrigation_SalineWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Irrigation_SalineWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Surface Water, Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Irrigation_SalineWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Irrigation_SalineWater_SurfaceWater"
+    },
+    {
+        "node_name": "Withdrawal Rate of Water: Livestock, Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Livestock_SalineWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Livestock_SalineWater"
+    },
+    {
+        "node_name": "\u2026 Ground Water, Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Livestock_SalineWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Livestock_SalineWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Surface Water, Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Livestock_SalineWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Livestock_SalineWater_SurfaceWater"
+    },
+    {
+        "node_name": "Withdrawal Rate of Water: Mining, Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Mining_SalineWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Mining_SalineWater"
+    },
+    {
+        "node_name": "\u2026 Ground Water, Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Mining_SalineWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Mining_SalineWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Surface Water, Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Mining_SalineWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Mining_SalineWater_SurfaceWater"
+    },
+    {
+        "node_name": "Withdrawal Rate of Water: Public Supply, Saline Water",
+        "node_dcid": "WithdrawalRate_Water_PublicSupply_SalineWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_PublicSupply_SalineWater"
+    },
+    {
+        "node_name": "\u2026 Ground Water, Saline Water",
+        "node_dcid": "WithdrawalRate_Water_PublicSupply_SalineWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_PublicSupply_SalineWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Surface Water, Saline Water",
+        "node_dcid": "WithdrawalRate_Water_PublicSupply_SalineWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_PublicSupply_SalineWater_SurfaceWater"
+    },
+    {
+        "node_name": "Withdrawal Rate of Water: Thermoelectric, Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Thermoelectric_SalineWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Thermoelectric_SalineWater"
+    },
+    {
+        "node_name": "\u2026 Ground Water, Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Thermoelectric_SalineWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Thermoelectric_SalineWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Surface Water, Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Thermoelectric_SalineWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Thermoelectric_SalineWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Aquaculture, Ground Water, Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Aquaculture_SalineWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Aquaculture_SalineWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Domestic, Ground Water, Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Domestic_SalineWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Domestic_SalineWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Industrial, Ground Water, Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Industrial_SalineWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Industrial_SalineWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Irrigation, Ground Water, Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Irrigation_SalineWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Irrigation_SalineWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Livestock, Ground Water, Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Livestock_SalineWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Livestock_SalineWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Mining, Ground Water, Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Mining_SalineWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Mining_SalineWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Public Supply, Ground Water, Saline Water",
+        "node_dcid": "WithdrawalRate_Water_PublicSupply_SalineWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_PublicSupply_SalineWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Thermoelectric, Ground Water, Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Thermoelectric_SalineWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Thermoelectric_SalineWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Aquaculture, Surface Water, Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Aquaculture_SalineWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Aquaculture_SalineWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Domestic, Surface Water, Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Domestic_SalineWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Domestic_SalineWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Industrial, Surface Water, Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Industrial_SalineWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Industrial_SalineWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Irrigation, Surface Water, Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Irrigation_SalineWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Irrigation_SalineWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Livestock, Surface Water, Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Livestock_SalineWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Livestock_SalineWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Mining, Surface Water, Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Mining_SalineWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Mining_SalineWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Public Supply, Surface Water, Saline Water",
+        "node_dcid": "WithdrawalRate_Water_PublicSupply_SalineWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_PublicSupply_SalineWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Thermoelectric, Surface Water, Saline Water",
+        "node_dcid": "WithdrawalRate_Water_Thermoelectric_SalineWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WithdrawalRate_Water_Thermoelectric_SalineWater_SurfaceWater"
+    }
+]

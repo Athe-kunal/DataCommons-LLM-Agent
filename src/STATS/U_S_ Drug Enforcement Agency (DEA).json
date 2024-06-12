@@ -1,0 +1,392 @@
+[
+    {
+        "node_name": "Amount of Amphetamine Distributed Through Retail Drug Channels",
+        "node_dcid": "RetailDrugDistribution_DrugDistribution_Amphetamine",
+        "node_link": "https://datacommons.org/browser/RetailDrugDistribution_DrugDistribution_Amphetamine"
+    },
+    {
+        "node_name": "Amount of Codeine Distributed Through Retail Drug Channels",
+        "node_dcid": "RetailDrugDistribution_DrugDistribution_Codeine",
+        "node_link": "https://datacommons.org/browser/RetailDrugDistribution_DrugDistribution_Codeine"
+    },
+    {
+        "node_name": "Amount of Hydrocodone Distributed Through Retail Drug Channels",
+        "node_dcid": "RetailDrugDistribution_DrugDistribution_Hydrocodone",
+        "node_link": "https://datacommons.org/browser/RetailDrugDistribution_DrugDistribution_Hydrocodone"
+    },
+    {
+        "node_name": "Amount of Morphine Distributed Through Retail Drug Channels",
+        "node_dcid": "RetailDrugDistribution_DrugDistribution_Morphine",
+        "node_link": "https://datacommons.org/browser/RetailDrugDistribution_DrugDistribution_Morphine"
+    },
+    {
+        "node_name": "Amount of Oxycodone Distributed Through Retail Drug Channels",
+        "node_dcid": "RetailDrugDistribution_DrugDistribution_Oxycodone",
+        "node_link": "https://datacommons.org/browser/RetailDrugDistribution_DrugDistribution_Oxycodone"
+    },
+    {
+        "node_name": "Retail Drug Distribution of Drug Distribution: Drug/dea/1105 B",
+        "node_dcid": "RetailDrugDistribution_DrugDistribution_DlMethamphetamine",
+        "node_link": "https://datacommons.org/browser/RetailDrugDistribution_DrugDistribution_DlMethamphetamine"
+    },
+    {
+        "node_name": "Retail Drug Distribution of Drug Distribution: Drug/dea/1105 D",
+        "node_dcid": "RetailDrugDistribution_DrugDistribution_DMethamphetamine",
+        "node_link": "https://datacommons.org/browser/RetailDrugDistribution_DrugDistribution_DMethamphetamine"
+    },
+    {
+        "node_name": "Retail Drug Distribution of Drug Distribution: Drug/dea/1205",
+        "node_dcid": "RetailDrugDistribution_DrugDistribution_Lisdexamfetamine",
+        "node_link": "https://datacommons.org/browser/RetailDrugDistribution_DrugDistribution_Lisdexamfetamine"
+    },
+    {
+        "node_name": "Retail Drug Distribution of Drug Distribution: Drug/dea/1248",
+        "node_dcid": "RetailDrugDistribution_DrugDistribution_Mephedrone",
+        "node_link": "https://datacommons.org/browser/RetailDrugDistribution_DrugDistribution_Mephedrone"
+    },
+    {
+        "node_name": "Retail Drug Distribution of Drug Distribution: Drug/dea/1615",
+        "node_dcid": "RetailDrugDistribution_DrugDistribution_Phendimetrazine",
+        "node_link": "https://datacommons.org/browser/RetailDrugDistribution_DrugDistribution_Phendimetrazine"
+    },
+    {
+        "node_name": "Retail Drug Distribution of Drug Distribution: Drug/dea/1724",
+        "node_dcid": "RetailDrugDistribution_DrugDistribution_Methylphenidate",
+        "node_link": "https://datacommons.org/browser/RetailDrugDistribution_DrugDistribution_Methylphenidate"
+    },
+    {
+        "node_name": "Retail Drug Distribution of Drug Distribution: Drug/dea/2010",
+        "node_dcid": "RetailDrugDistribution_DrugDistribution_GammaHydroxybutyricAcid",
+        "node_link": "https://datacommons.org/browser/RetailDrugDistribution_DrugDistribution_GammaHydroxybutyricAcid"
+    },
+    {
+        "node_name": "Retail Drug Distribution of Drug Distribution: Drug/dea/2012",
+        "node_dcid": "RetailDrugDistribution_DrugDistribution_FDAApprovedGammaHydroxybutyricAcidPreparations",
+        "node_link": "https://datacommons.org/browser/RetailDrugDistribution_DrugDistribution_FDAApprovedGammaHydroxybutyricAcidPreparations"
+    },
+    {
+        "node_name": "Retail Drug Distribution of Drug Distribution: Drug/dea/2100",
+        "node_dcid": "RetailDrugDistribution_DrugDistribution_BarbituricAcidDerivativeOrSalt",
+        "node_link": "https://datacommons.org/browser/RetailDrugDistribution_DrugDistribution_BarbituricAcidDerivativeOrSalt"
+    },
+    {
+        "node_name": "Retail Drug Distribution of Drug Distribution: Drug/dea/2125",
+        "node_dcid": "RetailDrugDistribution_DrugDistribution_Amobarbital",
+        "node_link": "https://datacommons.org/browser/RetailDrugDistribution_DrugDistribution_Amobarbital"
+    },
+    {
+        "node_name": "Retail Drug Distribution of Drug Distribution: Drug/dea/2165",
+        "node_dcid": "RetailDrugDistribution_DrugDistribution_Butalbital",
+        "node_link": "https://datacommons.org/browser/RetailDrugDistribution_DrugDistribution_Butalbital"
+    },
+    {
+        "node_name": "Retail Drug Distribution of Drug Distribution: Drug/dea/2270",
+        "node_dcid": "RetailDrugDistribution_DrugDistribution_Pentobarbital",
+        "node_link": "https://datacommons.org/browser/RetailDrugDistribution_DrugDistribution_Pentobarbital"
+    },
+    {
+        "node_name": "Retail Drug Distribution of Drug Distribution: Drug/dea/2285",
+        "node_dcid": "RetailDrugDistribution_DrugDistribution_Phenobarbital",
+        "node_link": "https://datacommons.org/browser/RetailDrugDistribution_DrugDistribution_Phenobarbital"
+    },
+    {
+        "node_name": "Retail Drug Distribution of Drug Distribution: Drug/dea/2315",
+        "node_dcid": "RetailDrugDistribution_DrugDistribution_Secobarbital",
+        "node_link": "https://datacommons.org/browser/RetailDrugDistribution_DrugDistribution_Secobarbital"
+    },
+    {
+        "node_name": "Retail Drug Distribution of Drug Distribution: Drug/dea/2765",
+        "node_dcid": "RetailDrugDistribution_DrugDistribution_Diazepam",
+        "node_link": "https://datacommons.org/browser/RetailDrugDistribution_DrugDistribution_Diazepam"
+    },
+    {
+        "node_name": "Retail Drug Distribution of Drug Distribution: Drug/dea/2783",
+        "node_dcid": "RetailDrugDistribution_DrugDistribution_Zolpidem",
+        "node_link": "https://datacommons.org/browser/RetailDrugDistribution_DrugDistribution_Zolpidem"
+    },
+    {
+        "node_name": "Retail Drug Distribution of Drug Distribution: Drug/dea/2885",
+        "node_dcid": "RetailDrugDistribution_DrugDistribution_Lorazepam",
+        "node_link": "https://datacommons.org/browser/RetailDrugDistribution_DrugDistribution_Lorazepam"
+    },
+    {
+        "node_name": "Retail Drug Distribution of Drug Distribution: Drug/dea/4000",
+        "node_dcid": "RetailDrugDistribution_DrugDistribution_AnabolicSteroids",
+        "node_link": "https://datacommons.org/browser/RetailDrugDistribution_DrugDistribution_AnabolicSteroids"
+    },
+    {
+        "node_name": "Retail Drug Distribution of Drug Distribution: Drug/dea/4187",
+        "node_dcid": "RetailDrugDistribution_DrugDistribution_Testosterone",
+        "node_link": "https://datacommons.org/browser/RetailDrugDistribution_DrugDistribution_Testosterone"
+    },
+    {
+        "node_name": "Retail Drug Distribution of Drug Distribution: Drug/dea/7285",
+        "node_dcid": "RetailDrugDistribution_DrugDistribution_Ketamine",
+        "node_link": "https://datacommons.org/browser/RetailDrugDistribution_DrugDistribution_Ketamine"
+    },
+    {
+        "node_name": "Retail Drug Distribution of Drug Distribution: Drug/dea/7315 D",
+        "node_dcid": "RetailDrugDistribution_DrugDistribution_Lysergide",
+        "node_link": "https://datacommons.org/browser/RetailDrugDistribution_DrugDistribution_Lysergide"
+    },
+    {
+        "node_name": "Retail Drug Distribution of Drug Distribution: Drug/dea/7365",
+        "node_dcid": "RetailDrugDistribution_DrugDistribution_MarketableOralDronabinol",
+        "node_link": "https://datacommons.org/browser/RetailDrugDistribution_DrugDistribution_MarketableOralDronabinol"
+    },
+    {
+        "node_name": "Retail Drug Distribution of Drug Distribution: Drug/dea/7369",
+        "node_dcid": "RetailDrugDistribution_DrugDistribution_DronabinolGelCapsule",
+        "node_link": "https://datacommons.org/browser/RetailDrugDistribution_DrugDistribution_DronabinolGelCapsule"
+    },
+    {
+        "node_name": "Retail Drug Distribution of Drug Distribution: Drug/dea/7370",
+        "node_dcid": "RetailDrugDistribution_DrugDistribution_Tetrahydrocannabinol",
+        "node_link": "https://datacommons.org/browser/RetailDrugDistribution_DrugDistribution_Tetrahydrocannabinol"
+    },
+    {
+        "node_name": "Retail Drug Distribution of Drug Distribution: Drug/dea/7377",
+        "node_dcid": "RetailDrugDistribution_DrugDistribution_Cannabicyclol",
+        "node_link": "https://datacommons.org/browser/RetailDrugDistribution_DrugDistribution_Cannabicyclol"
+    },
+    {
+        "node_name": "Retail Drug Distribution of Drug Distribution: Drug/dea/7379",
+        "node_dcid": "RetailDrugDistribution_DrugDistribution_Nabilone",
+        "node_link": "https://datacommons.org/browser/RetailDrugDistribution_DrugDistribution_Nabilone"
+    },
+    {
+        "node_name": "Retail Drug Distribution of Drug Distribution: Drug/dea/7381",
+        "node_dcid": "RetailDrugDistribution_DrugDistribution_Mescaline",
+        "node_link": "https://datacommons.org/browser/RetailDrugDistribution_DrugDistribution_Mescaline"
+    },
+    {
+        "node_name": "Retail Drug Distribution of Drug Distribution: Drug/dea/7400",
+        "node_dcid": "RetailDrugDistribution_DrugDistribution_34Methylenedioxyamphetamine",
+        "node_link": "https://datacommons.org/browser/RetailDrugDistribution_DrugDistribution_34Methylenedioxyamphetamine"
+    },
+    {
+        "node_name": "Retail Drug Distribution of Drug Distribution: Drug/dea/7431",
+        "node_dcid": "RetailDrugDistribution_DrugDistribution_5MethoxyNNDimethyltryptamine",
+        "node_link": "https://datacommons.org/browser/RetailDrugDistribution_DrugDistribution_5MethoxyNNDimethyltryptamine"
+    },
+    {
+        "node_name": "Retail Drug Distribution of Drug Distribution: Drug/dea/7433",
+        "node_dcid": "RetailDrugDistribution_DrugDistribution_Bufotenine",
+        "node_link": "https://datacommons.org/browser/RetailDrugDistribution_DrugDistribution_Bufotenine"
+    },
+    {
+        "node_name": "Retail Drug Distribution of Drug Distribution: Drug/dea/7437",
+        "node_dcid": "RetailDrugDistribution_DrugDistribution_Psilocybin",
+        "node_link": "https://datacommons.org/browser/RetailDrugDistribution_DrugDistribution_Psilocybin"
+    },
+    {
+        "node_name": "Retail Drug Distribution of Drug Distribution: Drug/dea/7438",
+        "node_dcid": "RetailDrugDistribution_DrugDistribution_Psilocin",
+        "node_link": "https://datacommons.org/browser/RetailDrugDistribution_DrugDistribution_Psilocin"
+    },
+    {
+        "node_name": "Retail Drug Distribution of Drug Distribution: Drug/dea/7439",
+        "node_dcid": "RetailDrugDistribution_DrugDistribution_d",
+        "node_link": "https://datacommons.org/browser/RetailDrugDistribution_DrugDistribution_d"
+    },
+    {
+        "node_name": "Retail Drug Distribution of Drug Distribution: Drug/dea/7444",
+        "node_dcid": "RetailDrugDistribution_DrugDistribution_d",
+        "node_link": "https://datacommons.org/browser/RetailDrugDistribution_DrugDistribution_d"
+    },
+    {
+        "node_name": "Retail Drug Distribution of Drug Distribution: Drug/dea/7455",
+        "node_dcid": "RetailDrugDistribution_DrugDistribution_PCE",
+        "node_link": "https://datacommons.org/browser/RetailDrugDistribution_DrugDistribution_PCE"
+    },
+    {
+        "node_name": "Retail Drug Distribution of Drug Distribution: Drug/dea/7471",
+        "node_dcid": "RetailDrugDistribution_DrugDistribution_Phencyclidine",
+        "node_link": "https://datacommons.org/browser/RetailDrugDistribution_DrugDistribution_Phencyclidine"
+    },
+    {
+        "node_name": "Retail Drug Distribution of Drug Distribution: Drug/dea/7540",
+        "node_dcid": "RetailDrugDistribution_DrugDistribution_Methylone",
+        "node_link": "https://datacommons.org/browser/RetailDrugDistribution_DrugDistribution_Methylone"
+    },
+    {
+        "node_name": "Retail Drug Distribution of Drug Distribution: Drug/dea/9010",
+        "node_dcid": "RetailDrugDistribution_DrugDistribution_Alphaprodine",
+        "node_link": "https://datacommons.org/browser/RetailDrugDistribution_DrugDistribution_Alphaprodine"
+    },
+    {
+        "node_name": "Retail Drug Distribution of Drug Distribution: Drug/dea/9020",
+        "node_dcid": "RetailDrugDistribution_DrugDistribution_Anileridine",
+        "node_link": "https://datacommons.org/browser/RetailDrugDistribution_DrugDistribution_Anileridine"
+    },
+    {
+        "node_name": "Retail Drug Distribution of Drug Distribution: Drug/dea/9041 L",
+        "node_dcid": "RetailDrugDistribution_DrugDistribution_Cocaine",
+        "node_link": "https://datacommons.org/browser/RetailDrugDistribution_DrugDistribution_Cocaine"
+    },
+    {
+        "node_name": "Retail Drug Distribution of Drug Distribution: Drug/dea/9046",
+        "node_dcid": "RetailDrugDistribution_DrugDistribution_Norcocaine",
+        "node_link": "https://datacommons.org/browser/RetailDrugDistribution_DrugDistribution_Norcocaine"
+    },
+    {
+        "node_name": "Retail Drug Distribution of Drug Distribution: Drug/dea/9056",
+        "node_dcid": "RetailDrugDistribution_DrugDistribution_EtorphineExceptHCl",
+        "node_link": "https://datacommons.org/browser/RetailDrugDistribution_DrugDistribution_EtorphineExceptHCl"
+    },
+    {
+        "node_name": "Retail Drug Distribution of Drug Distribution: Drug/dea/9064",
+        "node_dcid": "RetailDrugDistribution_DrugDistribution_Buprenorphine",
+        "node_link": "https://datacommons.org/browser/RetailDrugDistribution_DrugDistribution_Buprenorphine"
+    },
+    {
+        "node_name": "Retail Drug Distribution of Drug Distribution: Drug/dea/9120",
+        "node_dcid": "RetailDrugDistribution_DrugDistribution_Dihydrocodeine",
+        "node_link": "https://datacommons.org/browser/RetailDrugDistribution_DrugDistribution_Dihydrocodeine"
+    },
+    {
+        "node_name": "Retail Drug Distribution of Drug Distribution: Drug/dea/9150",
+        "node_dcid": "RetailDrugDistribution_DrugDistribution_Hydromorphone",
+        "node_link": "https://datacommons.org/browser/RetailDrugDistribution_DrugDistribution_Hydromorphone"
+    },
+    {
+        "node_name": "Retail Drug Distribution of Drug Distribution: Drug/dea/9168",
+        "node_dcid": "RetailDrugDistribution_DrugDistribution_Difenoxin",
+        "node_link": "https://datacommons.org/browser/RetailDrugDistribution_DrugDistribution_Difenoxin"
+    },
+    {
+        "node_name": "Retail Drug Distribution of Drug Distribution: Drug/dea/9170",
+        "node_dcid": "RetailDrugDistribution_DrugDistribution_Diphenoxylate",
+        "node_link": "https://datacommons.org/browser/RetailDrugDistribution_DrugDistribution_Diphenoxylate"
+    },
+    {
+        "node_name": "Retail Drug Distribution of Drug Distribution: Drug/dea/9180 L",
+        "node_dcid": "RetailDrugDistribution_DrugDistribution_Ecgonine",
+        "node_link": "https://datacommons.org/browser/RetailDrugDistribution_DrugDistribution_Ecgonine"
+    },
+    {
+        "node_name": "Retail Drug Distribution of Drug Distribution: Drug/dea/9190",
+        "node_dcid": "RetailDrugDistribution_DrugDistribution_Ethylmorphine",
+        "node_link": "https://datacommons.org/browser/RetailDrugDistribution_DrugDistribution_Ethylmorphine"
+    },
+    {
+        "node_name": "Retail Drug Distribution of Drug Distribution: Drug/dea/9200",
+        "node_dcid": "RetailDrugDistribution_DrugDistribution_Heroin",
+        "node_link": "https://datacommons.org/browser/RetailDrugDistribution_DrugDistribution_Heroin"
+    },
+    {
+        "node_name": "Retail Drug Distribution of Drug Distribution: Drug/dea/9220 L",
+        "node_dcid": "RetailDrugDistribution_DrugDistribution_Levorphanol",
+        "node_link": "https://datacommons.org/browser/RetailDrugDistribution_DrugDistribution_Levorphanol"
+    },
+    {
+        "node_name": "Retail Drug Distribution of Drug Distribution: Drug/dea/9230",
+        "node_dcid": "RetailDrugDistribution_DrugDistribution_Pethidine",
+        "node_link": "https://datacommons.org/browser/RetailDrugDistribution_DrugDistribution_Pethidine"
+    },
+    {
+        "node_name": "Retail Drug Distribution of Drug Distribution: Drug/dea/9250 B",
+        "node_dcid": "RetailDrugDistribution_DrugDistribution_Methadone",
+        "node_link": "https://datacommons.org/browser/RetailDrugDistribution_DrugDistribution_Methadone"
+    },
+    {
+        "node_name": "Retail Drug Distribution of Drug Distribution: Drug/dea/9273 D",
+        "node_dcid": "RetailDrugDistribution_DrugDistribution_BulkDextropropoxyphene",
+        "node_link": "https://datacommons.org/browser/RetailDrugDistribution_DrugDistribution_BulkDextropropoxyphene"
+    },
+    {
+        "node_name": "Retail Drug Distribution of Drug Distribution: Drug/dea/9313",
+        "node_dcid": "RetailDrugDistribution_DrugDistribution_Normorphine",
+        "node_link": "https://datacommons.org/browser/RetailDrugDistribution_DrugDistribution_Normorphine"
+    },
+    {
+        "node_name": "Retail Drug Distribution of Drug Distribution: Drug/dea/9333",
+        "node_dcid": "RetailDrugDistribution_DrugDistribution_Thebaine",
+        "node_link": "https://datacommons.org/browser/RetailDrugDistribution_DrugDistribution_Thebaine"
+    },
+    {
+        "node_name": "Retail Drug Distribution of Drug Distribution: Drug/dea/9336",
+        "node_dcid": "RetailDrugDistribution_DrugDistribution_d",
+        "node_link": "https://datacommons.org/browser/RetailDrugDistribution_DrugDistribution_d"
+    },
+    {
+        "node_name": "Retail Drug Distribution of Drug Distribution: Drug/dea/9411",
+        "node_dcid": "RetailDrugDistribution_DrugDistribution_Naloxone",
+        "node_link": "https://datacommons.org/browser/RetailDrugDistribution_DrugDistribution_Naloxone"
+    },
+    {
+        "node_name": "Retail Drug Distribution of Drug Distribution: Drug/dea/9600",
+        "node_dcid": "RetailDrugDistribution_DrugDistribution_RawOpium",
+        "node_link": "https://datacommons.org/browser/RetailDrugDistribution_DrugDistribution_RawOpium"
+    },
+    {
+        "node_name": "Retail Drug Distribution of Drug Distribution: Drug/dea/9630",
+        "node_dcid": "RetailDrugDistribution_DrugDistribution_TincuredOpium",
+        "node_link": "https://datacommons.org/browser/RetailDrugDistribution_DrugDistribution_TincuredOpium"
+    },
+    {
+        "node_name": "Retail Drug Distribution of Drug Distribution: Drug/dea/9639",
+        "node_dcid": "RetailDrugDistribution_DrugDistribution_PowderedOpium",
+        "node_link": "https://datacommons.org/browser/RetailDrugDistribution_DrugDistribution_PowderedOpium"
+    },
+    {
+        "node_name": "Retail Drug Distribution of Drug Distribution: Drug/dea/9652",
+        "node_dcid": "RetailDrugDistribution_DrugDistribution_Oxymorphone",
+        "node_link": "https://datacommons.org/browser/RetailDrugDistribution_DrugDistribution_Oxymorphone"
+    },
+    {
+        "node_name": "Retail Drug Distribution of Drug Distribution: Drug/dea/9655",
+        "node_dcid": "RetailDrugDistribution_DrugDistribution_Paregoric",
+        "node_link": "https://datacommons.org/browser/RetailDrugDistribution_DrugDistribution_Paregoric"
+    },
+    {
+        "node_name": "Retail Drug Distribution of Drug Distribution: Drug/dea/9665",
+        "node_dcid": "RetailDrugDistribution_DrugDistribution_14Hydroxycodeinone",
+        "node_link": "https://datacommons.org/browser/RetailDrugDistribution_DrugDistribution_14Hydroxycodeinone"
+    },
+    {
+        "node_name": "Retail Drug Distribution of Drug Distribution: Drug/dea/9668",
+        "node_dcid": "RetailDrugDistribution_DrugDistribution_Noroxymorphone",
+        "node_link": "https://datacommons.org/browser/RetailDrugDistribution_DrugDistribution_Noroxymorphone"
+    },
+    {
+        "node_name": "Retail Drug Distribution of Drug Distribution: Drug/dea/9670",
+        "node_dcid": "RetailDrugDistribution_DrugDistribution_PoppyStrawConcentrate",
+        "node_link": "https://datacommons.org/browser/RetailDrugDistribution_DrugDistribution_PoppyStrawConcentrate"
+    },
+    {
+        "node_name": "Retail Drug Distribution of Drug Distribution: Drug/dea/9737",
+        "node_dcid": "RetailDrugDistribution_DrugDistribution_Alfentanil",
+        "node_link": "https://datacommons.org/browser/RetailDrugDistribution_DrugDistribution_Alfentanil"
+    },
+    {
+        "node_name": "Retail Drug Distribution of Drug Distribution: Drug/dea/9739",
+        "node_dcid": "RetailDrugDistribution_DrugDistribution_Remifentanil",
+        "node_link": "https://datacommons.org/browser/RetailDrugDistribution_DrugDistribution_Remifentanil"
+    },
+    {
+        "node_name": "Retail Drug Distribution of Drug Distribution: Drug/dea/9740",
+        "node_dcid": "RetailDrugDistribution_DrugDistribution_Sufentanil",
+        "node_link": "https://datacommons.org/browser/RetailDrugDistribution_DrugDistribution_Sufentanil"
+    },
+    {
+        "node_name": "Retail Drug Distribution of Drug Distribution: Drug/dea/9743",
+        "node_dcid": "RetailDrugDistribution_DrugDistribution_Carfentanil",
+        "node_link": "https://datacommons.org/browser/RetailDrugDistribution_DrugDistribution_Carfentanil"
+    },
+    {
+        "node_name": "Retail Drug Distribution of Drug Distribution: Drug/dea/9780",
+        "node_dcid": "RetailDrugDistribution_DrugDistribution_Tapentadol",
+        "node_link": "https://datacommons.org/browser/RetailDrugDistribution_DrugDistribution_Tapentadol"
+    },
+    {
+        "node_name": "Retail Drug Distribution of Drug Distribution: Drug/dea/9801",
+        "node_dcid": "RetailDrugDistribution_DrugDistribution_Fentanyl",
+        "node_link": "https://datacommons.org/browser/RetailDrugDistribution_DrugDistribution_Fentanyl"
+    },
+    {
+        "node_name": "Retail Drug Distribution of Drug Distribution: Drug/dea/9809",
+        "node_dcid": "RetailDrugDistribution_DrugDistribution_d",
+        "node_link": "https://datacommons.org/browser/RetailDrugDistribution_DrugDistribution_d"
+    }
+]

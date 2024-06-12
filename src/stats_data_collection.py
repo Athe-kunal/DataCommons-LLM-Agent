@@ -32,7 +32,38 @@ curr_stats_files = []
 for stats_files in os.listdir("STATS"):
     curr_stats_files.append(stats_files.split(".")[0])
 
-req_data_sources = [i for i in data_sources_list if i not in curr_stats_files]
+# req_data_sources = [i for i in data_sources_list if i not in curr_stats_files]
+req_data_sources = ["Wildland Fire Interagency Geospatial Services",'Wikimedia Foundation','U.S. National Wildfire Coordinating Group'
+                    'U.S National Renewable Energy Laboratory (NREL)',
+                    'U.S. National Oceanic and Atmospheric Administration (NOAA)',
+                    'U.S. National Highway Traffic Safety Administration (NHTSA)',
+                    'U.S. National Aeronautics and Space Administration (NASA)',
+                    'U.S. Federal Reserve',
+                    'U.S. Environmental Protection Agency (EPA)',
+                    'U.S. Drug Enforcement Agency (DEA)',
+                    'U.S. Department of Labor (DOL)',
+                    'U.S. Department of Housing and Urban Development (HUD)',
+                    'U.S. Department of Education (ED)',
+                    'U.S. Department of Agriculture (USDA)',
+                    'U.S. Bureau of Economic Analysis (BEA)',
+                    'United States Geological Service (USGS)',
+                    'Unique Identification Authority of India',
+                    'UAE Bayanat Open Data Portal',
+                    'Statistics of New Zealand',
+                    'Stanford University',
+                    'Stadt Zurich open data',
+                    'Resources for the Future (RFF)',
+                    'Our World in Data',
+                    'India Water Resources Information System',
+                    'India Ministry of Statistics and Programme Implementation',
+                    'India Energy Dashboard',
+                    'India Central Pollution Control Board (CPCB)',
+                    'GeoSadak PMGSY National GIS, India',
+                    'General Statistics Office (GSO), Vietnam',
+                     'Food and Agriculture Organization of the United Nations',
+                    'Feeding America',
+                    'Federal Emergency Management Agency',
+                    ]
 
 # Define a function to recursively click elements with the class name 'title'
 def recursively_click_titles(driver):
@@ -95,11 +126,11 @@ def selenium_get_data(ds:str):
             node_label_str = str(node_label)
             node_label_str = node_label_str[node_label_str.find("for=")+4:node_label_str.find("/")][1:-2]
             node_label_list.append({"node_name":node_label.text,"node_dcid":node_label_str,"node_link":base_stats_link+node_label_str})
-    save_path = os.path.join("STATS",f"{ds}.json")
+    save_path = os.path.join("STATS",f"{'_'.join(ds.split('.'))}.json")
     with open(save_path, 'w', encoding='utf-8') as json_file:
         json.dump(node_label_list, json_file, indent=4,ensure_ascii=True)
     print(f"Done for {ds}")
 
 if __name__ == '__main__':
-    with concurrent.futures.ThreadPoolExecutor(max_workers=5) as executor:
+    with concurrent.futures.ThreadPoolExecutor(max_workers=2) as executor:
         executor.map(selenium_get_data,req_data_sources)

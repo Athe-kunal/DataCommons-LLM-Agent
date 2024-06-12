@@ -1,0 +1,302 @@
+[
+    {
+        "node_name": "Life Expectancy",
+        "node_dcid": "LifeExpectancy_Person",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person"
+    },
+    {
+        "node_name": "Total Population",
+        "node_dcid": "Count_Person",
+        "node_link": "https://datacommons.org/browser/Count_Person"
+    },
+    {
+        "node_name": "Population: 15 Years or More, in Labor Force",
+        "node_dcid": "Count_Person_Years15Onwards_InLaborForce",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_InLaborForce"
+    },
+    {
+        "node_name": "Unemployment Rate: 15 Years or More, in Labor Force",
+        "node_dcid": "UnemploymentRate_Person_15OrMoreYears_InLaborForce",
+        "node_link": "https://datacommons.org/browser/UnemploymentRate_Person_15OrMoreYears_InLaborForce"
+    },
+    {
+        "node_name": "Female Population",
+        "node_dcid": "Count_Person_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Female"
+    },
+    {
+        "node_name": "Male Population",
+        "node_dcid": "Count_Person_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Male"
+    },
+    {
+        "node_name": "Population: 15 Years or More, in Labor Force",
+        "node_dcid": "Count_Person_Years15Onwards_InLaborForce",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_InLaborForce"
+    },
+    {
+        "node_name": "Unemployment Rate: 15 Years or More, in Labor Force",
+        "node_dcid": "UnemploymentRate_Person_15OrMoreYears_InLaborForce",
+        "node_link": "https://datacommons.org/browser/UnemploymentRate_Person_15OrMoreYears_InLaborForce"
+    },
+    {
+        "node_name": "Population Living in Rural Areas",
+        "node_dcid": "Count_Person_Rural",
+        "node_link": "https://datacommons.org/browser/Count_Person_Rural"
+    },
+    {
+        "node_name": "Population Living in Urban Areas",
+        "node_dcid": "Count_Person_Urban",
+        "node_link": "https://datacommons.org/browser/Count_Person_Urban"
+    },
+    {
+        "node_name": "Population Living in Rural Areas",
+        "node_dcid": "Count_Person_Rural",
+        "node_link": "https://datacommons.org/browser/Count_Person_Rural"
+    },
+    {
+        "node_name": "Population Living in Urban Areas",
+        "node_dcid": "Count_Person_Urban",
+        "node_link": "https://datacommons.org/browser/Count_Person_Urban"
+    },
+    {
+        "node_name": "Population: Employed",
+        "node_dcid": "",
+        "node_link": "https://datacommons.org/browser/"
+    },
+    {
+        "node_name": "Female Population",
+        "node_dcid": "Count_Person_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Female"
+    },
+    {
+        "node_name": "Male Population",
+        "node_dcid": "Count_Person_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Male"
+    },
+    {
+        "node_name": "Population: 15 Years or More, in Labor Force",
+        "node_dcid": "Count_Person_Years15Onwards_InLaborForce",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_InLaborForce"
+    },
+    {
+        "node_name": "Unemployment Rate: 15 Years or More, in Labor Force",
+        "node_dcid": "UnemploymentRate_Person_15OrMoreYears_InLaborForce",
+        "node_link": "https://datacommons.org/browser/UnemploymentRate_Person_15OrMoreYears_InLaborForce"
+    },
+    {
+        "node_name": "Population: 15 Years or More, in Labor Force",
+        "node_dcid": "Count_Person_Years15Onwards_InLaborForce",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_InLaborForce"
+    },
+    {
+        "node_name": "Unemployment Rate: 15 Years or More, in Labor Force",
+        "node_dcid": "UnemploymentRate_Person_15OrMoreYears_InLaborForce",
+        "node_link": "https://datacommons.org/browser/UnemploymentRate_Person_15OrMoreYears_InLaborForce"
+    },
+    {
+        "node_name": "Population: 15 Years or More, in Labor Force",
+        "node_dcid": "Count_Person_Years15Onwards_InLaborForce",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_InLaborForce"
+    },
+    {
+        "node_name": "Unemployment Rate: 15 Years or More, in Labor Force",
+        "node_dcid": "UnemploymentRate_Person_15OrMoreYears_InLaborForce",
+        "node_link": "https://datacommons.org/browser/UnemploymentRate_Person_15OrMoreYears_InLaborForce"
+    },
+    {
+        "node_name": "Count of Class Room",
+        "node_dcid": "Count_ClassRoom",
+        "node_link": "https://datacommons.org/browser/Count_ClassRoom"
+    },
+    {
+        "node_name": "\u2026 Kindergarten",
+        "node_dcid": "Count_ClassRoom_Kindergarten",
+        "node_link": "https://datacommons.org/browser/Count_ClassRoom_Kindergarten"
+    },
+    {
+        "node_name": "\u2026 Lower Secondary Education",
+        "node_dcid": "Count_ClassRoom_LowerSecondaryEducation",
+        "node_link": "https://datacommons.org/browser/Count_ClassRoom_LowerSecondaryEducation"
+    },
+    {
+        "node_name": "\u2026 Primary School",
+        "node_dcid": "Count_ClassRoom_PrimarySchool",
+        "node_link": "https://datacommons.org/browser/Count_ClassRoom_PrimarySchool"
+    },
+    {
+        "node_name": "\u2026 Upper Secondary Education",
+        "node_dcid": "Count_ClassRoom_UpperSecondaryEducation",
+        "node_link": "https://datacommons.org/browser/Count_ClassRoom_UpperSecondaryEducation"
+    },
+    {
+        "node_name": "Population: 15 Years or More, in Labor Force",
+        "node_dcid": "Count_Person_Years15Onwards_InLaborForce",
+        "node_link": "https://datacommons.org/browser/Count_Person_Years15Onwards_InLaborForce"
+    },
+    {
+        "node_name": "Unemployment Rate: 15 Years or More, in Labor Force",
+        "node_dcid": "UnemploymentRate_Person_15OrMoreYears_InLaborForce",
+        "node_link": "https://datacommons.org/browser/UnemploymentRate_Person_15OrMoreYears_InLaborForce"
+    },
+    {
+        "node_name": "Count of School",
+        "node_dcid": "Count_School",
+        "node_link": "https://datacommons.org/browser/Count_School"
+    },
+    {
+        "node_name": "\u2026 Kindergarten",
+        "node_dcid": "Count_School_Kindergarten",
+        "node_link": "https://datacommons.org/browser/Count_School_Kindergarten"
+    },
+    {
+        "node_name": "\u2026 Lower Secondary Education",
+        "node_dcid": "Count_School_LowerSecondaryEducation",
+        "node_link": "https://datacommons.org/browser/Count_School_LowerSecondaryEducation"
+    },
+    {
+        "node_name": "\u2026 Lower Secondary Education & Upper Secondary Education",
+        "node_dcid": "Count_School_LowerSecondaryEducationOrUpperSecondaryEducation",
+        "node_link": "https://datacommons.org/browser/Count_School_LowerSecondaryEducationOrUpperSecondaryEducation"
+    },
+    {
+        "node_name": "\u2026 Primary School & Lower Secondary Education",
+        "node_dcid": "Count_School_PrimarySchoolOrLowerSecondaryEducation",
+        "node_link": "https://datacommons.org/browser/Count_School_PrimarySchoolOrLowerSecondaryEducation"
+    },
+    {
+        "node_name": "\u2026 Upper Secondary Education",
+        "node_dcid": "Count_School_UpperSecondaryEducation",
+        "node_link": "https://datacommons.org/browser/Count_School_UpperSecondaryEducation"
+    },
+    {
+        "node_name": "Count of School: Primary School",
+        "node_dcid": "Count_School_PrimarySchool",
+        "node_link": "https://datacommons.org/browser/Count_School_PrimarySchool"
+    },
+    {
+        "node_name": "Count of Student",
+        "node_dcid": "Count_Student",
+        "node_link": "https://datacommons.org/browser/Count_Student"
+    },
+    {
+        "node_name": "Count of Student: Lower Secondary Education, Lower Secondary Education",
+        "node_dcid": "Count_Student_LowerSecondaryEducation",
+        "node_link": "https://datacommons.org/browser/Count_Student_LowerSecondaryEducation"
+    },
+    {
+        "node_name": "Count of Student: Upper Secondary Education, Upper Secondary Education",
+        "node_dcid": "Count_Student_UpperSecondaryEducation",
+        "node_link": "https://datacommons.org/browser/Count_Student_UpperSecondaryEducation"
+    },
+    {
+        "node_name": "\u2026 Lower Secondary Education, Lower Secondary Education",
+        "node_dcid": "Count_Student_LowerSecondaryEducation",
+        "node_link": "https://datacommons.org/browser/Count_Student_LowerSecondaryEducation"
+    },
+    {
+        "node_name": "\u2026 Upper Secondary Education, Upper Secondary Education",
+        "node_dcid": "Count_Student_UpperSecondaryEducation",
+        "node_link": "https://datacommons.org/browser/Count_Student_UpperSecondaryEducation"
+    },
+    {
+        "node_name": "Count of Student: Kindergarten",
+        "node_dcid": "Count_Student_Kindergarten",
+        "node_link": "https://datacommons.org/browser/Count_Student_Kindergarten"
+    },
+    {
+        "node_name": "Count of Student: Primary School",
+        "node_dcid": "Count_Student_PrimarySchool",
+        "node_link": "https://datacommons.org/browser/Count_Student_PrimarySchool"
+    },
+    {
+        "node_name": "Teachers",
+        "node_dcid": "Count_Teacher",
+        "node_link": "https://datacommons.org/browser/Count_Teacher"
+    },
+    {
+        "node_name": "Count of Teacher: Lower Secondary Education, Lower Secondary Education",
+        "node_dcid": "Count_Teacher_LowerSecondaryEducation",
+        "node_link": "https://datacommons.org/browser/Count_Teacher_LowerSecondaryEducation"
+    },
+    {
+        "node_name": "Count of Teacher: Upper Secondary Education, Upper Secondary Education",
+        "node_dcid": "Count_Teacher_UpperSecondaryEducation",
+        "node_link": "https://datacommons.org/browser/Count_Teacher_UpperSecondaryEducation"
+    },
+    {
+        "node_name": "\u2026 Kindergarten",
+        "node_dcid": "Count_Teacher_Kindergarten",
+        "node_link": "https://datacommons.org/browser/Count_Teacher_Kindergarten"
+    },
+    {
+        "node_name": "\u2026 Primary School",
+        "node_dcid": "",
+        "node_link": "https://datacommons.org/browser/"
+    },
+    {
+        "node_name": "Count of Teacher: Lower Secondary Education, Lower Secondary Education",
+        "node_dcid": "Count_Teacher_LowerSecondaryEducation",
+        "node_link": "https://datacommons.org/browser/Count_Teacher_LowerSecondaryEducation"
+    },
+    {
+        "node_name": "Count of Teacher: Upper Secondary Education, Upper Secondary Education",
+        "node_dcid": "Count_Teacher_UpperSecondaryEducation",
+        "node_link": "https://datacommons.org/browser/Count_Teacher_UpperSecondaryEducation"
+    },
+    {
+        "node_name": "Life Expectancy",
+        "node_dcid": "LifeExpectancy_Person",
+        "node_link": "https://datacommons.org/browser/LifeExpectancy_Person"
+    },
+    {
+        "node_name": "Female Population",
+        "node_dcid": "Count_Person_Female",
+        "node_link": "https://datacommons.org/browser/Count_Person_Female"
+    },
+    {
+        "node_name": "Male Population",
+        "node_dcid": "Count_Person_Male",
+        "node_link": "https://datacommons.org/browser/Count_Person_Male"
+    },
+    {
+        "node_name": "Count of Health Establishment",
+        "node_dcid": "Count_HealthEstablishment",
+        "node_link": "https://datacommons.org/browser/Count_HealthEstablishment"
+    },
+    {
+        "node_name": "\u2026 Hospital",
+        "node_dcid": "Count_HealthEstablishment_Hospital",
+        "node_link": "https://datacommons.org/browser/Count_HealthEstablishment_Hospital"
+    },
+    {
+        "node_name": "\u2026 Medical Service Unit",
+        "node_dcid": "Count_HealthEstablishment_MedicalServiceUnit",
+        "node_link": "https://datacommons.org/browser/Count_HealthEstablishment_MedicalServiceUnit"
+    },
+    {
+        "node_name": "\u2026 Regional Polyclinic",
+        "node_dcid": "Count_HealthEstablishment_RegionalPolyclinic",
+        "node_link": "https://datacommons.org/browser/Count_HealthEstablishment_RegionalPolyclinic"
+    },
+    {
+        "node_name": "\u2026 Sanatorium Rehabilitation Hospital",
+        "node_dcid": "Count_HealthEstablishment_SanatoriumRehabilitationHospital",
+        "node_link": "https://datacommons.org/browser/Count_HealthEstablishment_SanatoriumRehabilitationHospital"
+    },
+    {
+        "node_name": "Number of Deaths",
+        "node_dcid": "Count_Death",
+        "node_link": "https://datacommons.org/browser/Count_Death"
+    },
+    {
+        "node_name": "\u2026 Out of Date Registered",
+        "node_dcid": "Count_MortalityEvent_OutOfDateRegistered",
+        "node_link": "https://datacommons.org/browser/Count_MortalityEvent_OutOfDateRegistered"
+    },
+    {
+        "node_name": "\u2026 on Time Registered",
+        "node_dcid": "Count_MortalityEvent_OnTimeRegistered",
+        "node_link": "https://datacommons.org/browser/Count_MortalityEvent_OnTimeRegistered"
+    }
+]

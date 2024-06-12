@@ -1,0 +1,312 @@
+[
+    {
+        "node_name": "\u2026 Daily: Female",
+        "node_dcid": "Mean_WagesDaily_Worker_Female",
+        "node_link": "https://datacommons.org/browser/Mean_WagesDaily_Worker_Female"
+    },
+    {
+        "node_name": "\u2026 Monthly: Female",
+        "node_dcid": "Mean_WagesMonthly_Worker_Female",
+        "node_link": "https://datacommons.org/browser/Mean_WagesMonthly_Worker_Female"
+    },
+    {
+        "node_name": "\u2026 Daily: Female, Rural",
+        "node_dcid": "Mean_WagesDaily_Worker_Rural_Female",
+        "node_link": "https://datacommons.org/browser/Mean_WagesDaily_Worker_Rural_Female"
+    },
+    {
+        "node_name": "\u2026 Monthly: Female, Rural",
+        "node_dcid": "Mean_WagesMonthly_Worker_Rural_Female",
+        "node_link": "https://datacommons.org/browser/Mean_WagesMonthly_Worker_Rural_Female"
+    },
+    {
+        "node_name": "\u2026 Daily: Female, Urban",
+        "node_dcid": "Mean_WagesDaily_Worker_Urban_Female",
+        "node_link": "https://datacommons.org/browser/Mean_WagesDaily_Worker_Urban_Female"
+    },
+    {
+        "node_name": "\u2026 Monthly: Female, Urban",
+        "node_dcid": "Mean_WagesMonthly_Worker_Urban_Female",
+        "node_link": "https://datacommons.org/browser/Mean_WagesMonthly_Worker_Urban_Female"
+    },
+    {
+        "node_name": "\u2026 Daily: Male",
+        "node_dcid": "Mean_WagesDaily_Worker_Male",
+        "node_link": "https://datacommons.org/browser/Mean_WagesDaily_Worker_Male"
+    },
+    {
+        "node_name": "\u2026 Monthly: Male",
+        "node_dcid": "Mean_WagesMonthly_Worker_Male",
+        "node_link": "https://datacommons.org/browser/Mean_WagesMonthly_Worker_Male"
+    },
+    {
+        "node_name": "\u2026 Daily: Male, Rural",
+        "node_dcid": "Mean_WagesDaily_Worker_Rural_Male",
+        "node_link": "https://datacommons.org/browser/Mean_WagesDaily_Worker_Rural_Male"
+    },
+    {
+        "node_name": "\u2026 Monthly: Male, Rural",
+        "node_dcid": "Mean_WagesMonthly_Worker_Rural_Male",
+        "node_link": "https://datacommons.org/browser/Mean_WagesMonthly_Worker_Rural_Male"
+    },
+    {
+        "node_name": "\u2026 Daily: Male, Urban",
+        "node_dcid": "Mean_WagesDaily_Worker_Urban_Male",
+        "node_link": "https://datacommons.org/browser/Mean_WagesDaily_Worker_Urban_Male"
+    },
+    {
+        "node_name": "\u2026 Monthly: Male, Urban",
+        "node_dcid": "Mean_WagesMonthly_Worker_Urban_Male",
+        "node_link": "https://datacommons.org/browser/Mean_WagesMonthly_Worker_Urban_Male"
+    },
+    {
+        "node_name": "\u2026 Daily: Rural",
+        "node_dcid": "Mean_WagesDaily_Worker_Rural",
+        "node_link": "https://datacommons.org/browser/Mean_WagesDaily_Worker_Rural"
+    },
+    {
+        "node_name": "\u2026 Monthly: Rural",
+        "node_dcid": "Mean_WagesMonthly_Worker_Rural",
+        "node_link": "https://datacommons.org/browser/Mean_WagesMonthly_Worker_Rural"
+    },
+    {
+        "node_name": "\u2026 Daily: Female, Rural",
+        "node_dcid": "Mean_WagesDaily_Worker_Rural_Female",
+        "node_link": "https://datacommons.org/browser/Mean_WagesDaily_Worker_Rural_Female"
+    },
+    {
+        "node_name": "\u2026 Monthly: Female, Rural",
+        "node_dcid": "Mean_WagesMonthly_Worker_Rural_Female",
+        "node_link": "https://datacommons.org/browser/Mean_WagesMonthly_Worker_Rural_Female"
+    },
+    {
+        "node_name": "\u2026 Daily: Male, Rural",
+        "node_dcid": "Mean_WagesDaily_Worker_Rural_Male",
+        "node_link": "https://datacommons.org/browser/Mean_WagesDaily_Worker_Rural_Male"
+    },
+    {
+        "node_name": "\u2026 Monthly: Male, Rural",
+        "node_dcid": "Mean_WagesMonthly_Worker_Rural_Male",
+        "node_link": "https://datacommons.org/browser/Mean_WagesMonthly_Worker_Rural_Male"
+    },
+    {
+        "node_name": "\u2026 Daily: Urban",
+        "node_dcid": "Mean_WagesDaily_Worker_Urban",
+        "node_link": "https://datacommons.org/browser/Mean_WagesDaily_Worker_Urban"
+    },
+    {
+        "node_name": "\u2026 Monthly: Urban",
+        "node_dcid": "Mean_WagesMonthly_Worker_Urban",
+        "node_link": "https://datacommons.org/browser/Mean_WagesMonthly_Worker_Urban"
+    },
+    {
+        "node_name": "\u2026 Daily: Female, Urban",
+        "node_dcid": "Mean_WagesDaily_Worker_Urban_Female",
+        "node_link": "https://datacommons.org/browser/Mean_WagesDaily_Worker_Urban_Female"
+    },
+    {
+        "node_name": "\u2026 Monthly: Female, Urban",
+        "node_dcid": "Mean_WagesMonthly_Worker_Urban_Female",
+        "node_link": "https://datacommons.org/browser/Mean_WagesMonthly_Worker_Urban_Female"
+    },
+    {
+        "node_name": "\u2026 Daily: Male, Urban",
+        "node_dcid": "Mean_WagesDaily_Worker_Urban_Male",
+        "node_link": "https://datacommons.org/browser/Mean_WagesDaily_Worker_Urban_Male"
+    },
+    {
+        "node_name": "\u2026 Monthly: Male, Urban",
+        "node_dcid": "Mean_WagesMonthly_Worker_Urban_Male",
+        "node_link": "https://datacommons.org/browser/Mean_WagesMonthly_Worker_Urban_Male"
+    },
+    {
+        "node_name": "\u2026 Daily: Rural",
+        "node_dcid": "Mean_WagesDaily_Worker_Rural",
+        "node_link": "https://datacommons.org/browser/Mean_WagesDaily_Worker_Rural"
+    },
+    {
+        "node_name": "\u2026 Monthly: Rural",
+        "node_dcid": "Mean_WagesMonthly_Worker_Rural",
+        "node_link": "https://datacommons.org/browser/Mean_WagesMonthly_Worker_Rural"
+    },
+    {
+        "node_name": "\u2026 Daily: Female, Rural",
+        "node_dcid": "Mean_WagesDaily_Worker_Rural_Female",
+        "node_link": "https://datacommons.org/browser/Mean_WagesDaily_Worker_Rural_Female"
+    },
+    {
+        "node_name": "\u2026 Monthly: Female, Rural",
+        "node_dcid": "Mean_WagesMonthly_Worker_Rural_Female",
+        "node_link": "https://datacommons.org/browser/Mean_WagesMonthly_Worker_Rural_Female"
+    },
+    {
+        "node_name": "\u2026 Daily: Male, Rural",
+        "node_dcid": "Mean_WagesDaily_Worker_Rural_Male",
+        "node_link": "https://datacommons.org/browser/Mean_WagesDaily_Worker_Rural_Male"
+    },
+    {
+        "node_name": "\u2026 Monthly: Male, Rural",
+        "node_dcid": "Mean_WagesMonthly_Worker_Rural_Male",
+        "node_link": "https://datacommons.org/browser/Mean_WagesMonthly_Worker_Rural_Male"
+    },
+    {
+        "node_name": "\u2026 Daily: Urban",
+        "node_dcid": "Mean_WagesDaily_Worker_Urban",
+        "node_link": "https://datacommons.org/browser/Mean_WagesDaily_Worker_Urban"
+    },
+    {
+        "node_name": "\u2026 Monthly: Urban",
+        "node_dcid": "Mean_WagesMonthly_Worker_Urban",
+        "node_link": "https://datacommons.org/browser/Mean_WagesMonthly_Worker_Urban"
+    },
+    {
+        "node_name": "\u2026 Daily: Female, Urban",
+        "node_dcid": "Mean_WagesDaily_Worker_Urban_Female",
+        "node_link": "https://datacommons.org/browser/Mean_WagesDaily_Worker_Urban_Female"
+    },
+    {
+        "node_name": "\u2026 Monthly: Female, Urban",
+        "node_dcid": "Mean_WagesMonthly_Worker_Urban_Female",
+        "node_link": "https://datacommons.org/browser/Mean_WagesMonthly_Worker_Urban_Female"
+    },
+    {
+        "node_name": "\u2026 Daily: Male, Urban",
+        "node_dcid": "Mean_WagesDaily_Worker_Urban_Male",
+        "node_link": "https://datacommons.org/browser/Mean_WagesDaily_Worker_Urban_Male"
+    },
+    {
+        "node_name": "\u2026 Monthly: Male, Urban",
+        "node_dcid": "Mean_WagesMonthly_Worker_Urban_Male",
+        "node_link": "https://datacommons.org/browser/Mean_WagesMonthly_Worker_Urban_Male"
+    },
+    {
+        "node_name": "\u2026 Monthly Wages",
+        "node_dcid": "Mean_WagesMonthly_Worker",
+        "node_link": "https://datacommons.org/browser/Mean_WagesMonthly_Worker"
+    },
+    {
+        "node_name": "\u2026 Wages Daily",
+        "node_dcid": "Mean_WagesDaily_Worker",
+        "node_link": "https://datacommons.org/browser/Mean_WagesDaily_Worker"
+    },
+    {
+        "node_name": "\u2026 Daily: Female",
+        "node_dcid": "Mean_WagesDaily_Worker_Female",
+        "node_link": "https://datacommons.org/browser/Mean_WagesDaily_Worker_Female"
+    },
+    {
+        "node_name": "\u2026 Monthly: Female",
+        "node_dcid": "Mean_WagesMonthly_Worker_Female",
+        "node_link": "https://datacommons.org/browser/Mean_WagesMonthly_Worker_Female"
+    },
+    {
+        "node_name": "\u2026 Daily: Female, Rural",
+        "node_dcid": "Mean_WagesDaily_Worker_Rural_Female",
+        "node_link": "https://datacommons.org/browser/Mean_WagesDaily_Worker_Rural_Female"
+    },
+    {
+        "node_name": "\u2026 Monthly: Female, Rural",
+        "node_dcid": "Mean_WagesMonthly_Worker_Rural_Female",
+        "node_link": "https://datacommons.org/browser/Mean_WagesMonthly_Worker_Rural_Female"
+    },
+    {
+        "node_name": "\u2026 Daily: Female, Urban",
+        "node_dcid": "Mean_WagesDaily_Worker_Urban_Female",
+        "node_link": "https://datacommons.org/browser/Mean_WagesDaily_Worker_Urban_Female"
+    },
+    {
+        "node_name": "\u2026 Monthly: Female, Urban",
+        "node_dcid": "Mean_WagesMonthly_Worker_Urban_Female",
+        "node_link": "https://datacommons.org/browser/Mean_WagesMonthly_Worker_Urban_Female"
+    },
+    {
+        "node_name": "\u2026 Daily: Male",
+        "node_dcid": "Mean_WagesDaily_Worker_Male",
+        "node_link": "https://datacommons.org/browser/Mean_WagesDaily_Worker_Male"
+    },
+    {
+        "node_name": "\u2026 Monthly: Male",
+        "node_dcid": "Mean_WagesMonthly_Worker_Male",
+        "node_link": "https://datacommons.org/browser/Mean_WagesMonthly_Worker_Male"
+    },
+    {
+        "node_name": "\u2026 Daily: Male, Rural",
+        "node_dcid": "Mean_WagesDaily_Worker_Rural_Male",
+        "node_link": "https://datacommons.org/browser/Mean_WagesDaily_Worker_Rural_Male"
+    },
+    {
+        "node_name": "\u2026 Monthly: Male, Rural",
+        "node_dcid": "Mean_WagesMonthly_Worker_Rural_Male",
+        "node_link": "https://datacommons.org/browser/Mean_WagesMonthly_Worker_Rural_Male"
+    },
+    {
+        "node_name": "\u2026 Daily: Male, Urban",
+        "node_dcid": "Mean_WagesDaily_Worker_Urban_Male",
+        "node_link": "https://datacommons.org/browser/Mean_WagesDaily_Worker_Urban_Male"
+    },
+    {
+        "node_name": "\u2026 Monthly: Male, Urban",
+        "node_dcid": "Mean_WagesMonthly_Worker_Urban_Male",
+        "node_link": "https://datacommons.org/browser/Mean_WagesMonthly_Worker_Urban_Male"
+    },
+    {
+        "node_name": "\u2026 Daily: Female",
+        "node_dcid": "Mean_WagesDaily_Worker_Female",
+        "node_link": "https://datacommons.org/browser/Mean_WagesDaily_Worker_Female"
+    },
+    {
+        "node_name": "\u2026 Monthly: Female",
+        "node_dcid": "Mean_WagesMonthly_Worker_Female",
+        "node_link": "https://datacommons.org/browser/Mean_WagesMonthly_Worker_Female"
+    },
+    {
+        "node_name": "\u2026 Daily: Female, Rural",
+        "node_dcid": "Mean_WagesDaily_Worker_Rural_Female",
+        "node_link": "https://datacommons.org/browser/Mean_WagesDaily_Worker_Rural_Female"
+    },
+    {
+        "node_name": "\u2026 Monthly: Female, Rural",
+        "node_dcid": "Mean_WagesMonthly_Worker_Rural_Female",
+        "node_link": "https://datacommons.org/browser/Mean_WagesMonthly_Worker_Rural_Female"
+    },
+    {
+        "node_name": "\u2026 Daily: Female, Urban",
+        "node_dcid": "Mean_WagesDaily_Worker_Urban_Female",
+        "node_link": "https://datacommons.org/browser/Mean_WagesDaily_Worker_Urban_Female"
+    },
+    {
+        "node_name": "\u2026 Monthly: Female, Urban",
+        "node_dcid": "Mean_WagesMonthly_Worker_Urban_Female",
+        "node_link": "https://datacommons.org/browser/Mean_WagesMonthly_Worker_Urban_Female"
+    },
+    {
+        "node_name": "\u2026 Daily: Male",
+        "node_dcid": "Mean_WagesDaily_Worker_Male",
+        "node_link": "https://datacommons.org/browser/Mean_WagesDaily_Worker_Male"
+    },
+    {
+        "node_name": "\u2026 Monthly: Male",
+        "node_dcid": "Mean_WagesMonthly_Worker_Male",
+        "node_link": "https://datacommons.org/browser/Mean_WagesMonthly_Worker_Male"
+    },
+    {
+        "node_name": "\u2026 Daily: Male, Rural",
+        "node_dcid": "Mean_WagesDaily_Worker_Rural_Male",
+        "node_link": "https://datacommons.org/browser/Mean_WagesDaily_Worker_Rural_Male"
+    },
+    {
+        "node_name": "\u2026 Monthly: Male, Rural",
+        "node_dcid": "Mean_WagesMonthly_Worker_Rural_Male",
+        "node_link": "https://datacommons.org/browser/Mean_WagesMonthly_Worker_Rural_Male"
+    },
+    {
+        "node_name": "\u2026 Daily: Male, Urban",
+        "node_dcid": "Mean_WagesDaily_Worker_Urban_Male",
+        "node_link": "https://datacommons.org/browser/Mean_WagesDaily_Worker_Urban_Male"
+    },
+    {
+        "node_name": "\u2026 Monthly: Male, Urban",
+        "node_dcid": "Mean_WagesMonthly_Worker_Urban_Male",
+        "node_link": "https://datacommons.org/browser/Mean_WagesMonthly_Worker_Urban_Male"
+    }
+]

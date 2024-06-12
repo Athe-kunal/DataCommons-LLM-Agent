@@ -1,0 +1,142 @@
+[
+    {
+        "node_name": "Insured Unemployment Rate",
+        "node_dcid": "InsuredUnemploymentRate_Person_WithCoveredEmployment_MovingAverage1WeekWindow",
+        "node_link": "https://datacommons.org/browser/InsuredUnemploymentRate_Person_WithCoveredEmployment_MovingAverage1WeekWindow"
+    },
+    {
+        "node_name": "Count of Unemployment Insurance Claim (Moving Average 1 Week Window): State Unemployment Insurance or Short Time Compensation, Continued Claim",
+        "node_dcid": "Count_UnemploymentInsuranceClaim_StateUnemploymentInsuranceOrShortTimeCompensation_ContinuedClaim_MovingAverage1WeekWindow",
+        "node_link": "https://datacommons.org/browser/Count_UnemploymentInsuranceClaim_StateUnemploymentInsuranceOrShortTimeCompensation_ContinuedClaim_MovingAverage1WeekWindow"
+    },
+    {
+        "node_name": "\u2026 Claim (Scaled for Part Time Unemployment Benefits): Short Time Compensation",
+        "node_dcid": "Count_UnemploymentInsuranceClaim_ShortTimeCompensation_ScaledForPartTimeUnemploymentBenefits",
+        "node_link": "https://datacommons.org/browser/Count_UnemploymentInsuranceClaim_ShortTimeCompensation_ScaledForPartTimeUnemploymentBenefits"
+    },
+    {
+        "node_name": "\u2026 Claim: Short Time Compensation",
+        "node_dcid": "Count_UnemploymentInsuranceClaim_ShortTimeCompensation",
+        "node_link": "https://datacommons.org/browser/Count_UnemploymentInsuranceClaim_ShortTimeCompensation"
+    },
+    {
+        "node_name": "\u2026 Claim (Scaled for Part Time Unemployment Benefits): Short Time Compensation, Continued Claim",
+        "node_dcid": "Count_UnemploymentInsuranceClaim_ShortTimeCompensation_ContinuedClaim_ScaledForPartTimeUnemploymentBenefits",
+        "node_link": "https://datacommons.org/browser/Count_UnemploymentInsuranceClaim_ShortTimeCompensation_ContinuedClaim_ScaledForPartTimeUnemploymentBenefits"
+    },
+    {
+        "node_name": "\u2026 Claim: Short Time Compensation, Continued Claim",
+        "node_dcid": "Count_UnemploymentInsuranceClaim_ShortTimeCompensation_ContinuedClaim",
+        "node_link": "https://datacommons.org/browser/Count_UnemploymentInsuranceClaim_ShortTimeCompensation_ContinuedClaim"
+    },
+    {
+        "node_name": "\u2026 Claim (Scaled for Part Time Unemployment Benefits): Short Time Compensation, Initial Claim",
+        "node_dcid": "Count_UnemploymentInsuranceClaim_ShortTimeCompensation_InitialClaim_ScaledForPartTimeUnemploymentBenefits",
+        "node_link": "https://datacommons.org/browser/Count_UnemploymentInsuranceClaim_ShortTimeCompensation_InitialClaim_ScaledForPartTimeUnemploymentBenefits"
+    },
+    {
+        "node_name": "\u2026 Claim: Short Time Compensation, Initial Claim",
+        "node_dcid": "Count_UnemploymentInsuranceClaim_ShortTimeCompensation_InitialClaim",
+        "node_link": "https://datacommons.org/browser/Count_UnemploymentInsuranceClaim_ShortTimeCompensation_InitialClaim"
+    },
+    {
+        "node_name": "State Unemployment Insurance Claims",
+        "node_dcid": "Count_UnemploymentInsuranceClaim_StateUnemploymentInsurance",
+        "node_link": "https://datacommons.org/browser/Count_UnemploymentInsuranceClaim_StateUnemploymentInsurance"
+    },
+    {
+        "node_name": "\u2026 Continued Claim",
+        "node_dcid": "Count_UnemploymentInsuranceClaim_StateUnemploymentInsurance_ContinuedClaim",
+        "node_link": "https://datacommons.org/browser/Count_UnemploymentInsuranceClaim_StateUnemploymentInsurance_ContinuedClaim"
+    },
+    {
+        "node_name": "\u2026 Initial Claim Excluding Intrastate Transitional",
+        "node_dcid": "Count_UnemploymentInsuranceClaim_StateUnemploymentInsurance_InitialClaimExcludingIntrastateTransitional",
+        "node_link": "https://datacommons.org/browser/Count_UnemploymentInsuranceClaim_StateUnemploymentInsurance_InitialClaimExcludingIntrastateTransitional"
+    },
+    {
+        "node_name": "Count of Unemployment Insurance Claim: Unemployment Compensation for Ex-servicemembers",
+        "node_dcid": "Count_UnemploymentInsuranceClaim_UCXOnly",
+        "node_link": "https://datacommons.org/browser/Count_UnemploymentInsuranceClaim_UCXOnly"
+    },
+    {
+        "node_name": "\u2026 Continued Claim",
+        "node_dcid": "Count_UnemploymentInsuranceClaim_UCXOnly_ContinuedClaim",
+        "node_link": "https://datacommons.org/browser/Count_UnemploymentInsuranceClaim_UCXOnly_ContinuedClaim"
+    },
+    {
+        "node_name": "\u2026 Initial Claim",
+        "node_dcid": "Count_UnemploymentInsuranceClaim_UCXOnly_InitialClaim",
+        "node_link": "https://datacommons.org/browser/Count_UnemploymentInsuranceClaim_UCXOnly_InitialClaim"
+    },
+    {
+        "node_name": "Count of Unemployment Insurance Claim: Unemployment Compensation for Federal Employees",
+        "node_dcid": "Count_UnemploymentInsuranceClaim_UCFENoStateUnemploymentInsurance",
+        "node_link": "https://datacommons.org/browser/Count_UnemploymentInsuranceClaim_UCFENoStateUnemploymentInsurance"
+    },
+    {
+        "node_name": "\u2026 Continued Claim",
+        "node_dcid": "Count_UnemploymentInsuranceClaim_UCFENoStateUnemploymentInsurance_ContinuedClaim",
+        "node_link": "https://datacommons.org/browser/Count_UnemploymentInsuranceClaim_UCFENoStateUnemploymentInsurance_ContinuedClaim"
+    },
+    {
+        "node_name": "\u2026 Initial Claim",
+        "node_dcid": "Count_UnemploymentInsuranceClaim_UCFENoStateUnemploymentInsurance_InitialClaim",
+        "node_link": "https://datacommons.org/browser/Count_UnemploymentInsuranceClaim_UCFENoStateUnemploymentInsurance_InitialClaim"
+    },
+    {
+        "node_name": "Count of Unemployment Insurance Claim: State Unemployment Insurance, Initial Claim Excluding Intrastate Transitional",
+        "node_dcid": "Count_UnemploymentInsuranceClaim_StateUnemploymentInsurance_InitialClaimExcludingIntrastateTransitional",
+        "node_link": "https://datacommons.org/browser/Count_UnemploymentInsuranceClaim_StateUnemploymentInsurance_InitialClaimExcludingIntrastateTransitional"
+    },
+    {
+        "node_name": "\u2026 Claim (Moving Average 1 Week Window): State Unemployment Insurance or Short Time Compensation, Continued Claim",
+        "node_dcid": "Count_UnemploymentInsuranceClaim_StateUnemploymentInsuranceOrShortTimeCompensation_ContinuedClaim_MovingAverage1WeekWindow",
+        "node_link": "https://datacommons.org/browser/Count_UnemploymentInsuranceClaim_StateUnemploymentInsuranceOrShortTimeCompensation_ContinuedClaim_MovingAverage1WeekWindow"
+    },
+    {
+        "node_name": "\u2026 Claim: State Unemployment Insurance, Continued Claim",
+        "node_dcid": "Count_UnemploymentInsuranceClaim_StateUnemploymentInsurance_ContinuedClaim",
+        "node_link": "https://datacommons.org/browser/Count_UnemploymentInsuranceClaim_StateUnemploymentInsurance_ContinuedClaim"
+    },
+    {
+        "node_name": "\u2026 Claim: Unemployment Compensation for Ex-servicemembers, Continued Claim",
+        "node_dcid": "Count_UnemploymentInsuranceClaim_UCXOnly_ContinuedClaim",
+        "node_link": "https://datacommons.org/browser/Count_UnemploymentInsuranceClaim_UCXOnly_ContinuedClaim"
+    },
+    {
+        "node_name": "\u2026 Claim: Unemployment Compensation for Federal Employees, Continued Claim",
+        "node_dcid": "Count_UnemploymentInsuranceClaim_UCFENoStateUnemploymentInsurance_ContinuedClaim",
+        "node_link": "https://datacommons.org/browser/Count_UnemploymentInsuranceClaim_UCFENoStateUnemploymentInsurance_ContinuedClaim"
+    },
+    {
+        "node_name": "\u2026 Claim (Scaled for Part Time Unemployment Benefits): Short Time Compensation, Continued Claim",
+        "node_dcid": "Count_UnemploymentInsuranceClaim_ShortTimeCompensation_ContinuedClaim_ScaledForPartTimeUnemploymentBenefits",
+        "node_link": "https://datacommons.org/browser/Count_UnemploymentInsuranceClaim_ShortTimeCompensation_ContinuedClaim_ScaledForPartTimeUnemploymentBenefits"
+    },
+    {
+        "node_name": "\u2026 Claim: Short Time Compensation, Continued Claim",
+        "node_dcid": "Count_UnemploymentInsuranceClaim_ShortTimeCompensation_ContinuedClaim",
+        "node_link": "https://datacommons.org/browser/Count_UnemploymentInsuranceClaim_ShortTimeCompensation_ContinuedClaim"
+    },
+    {
+        "node_name": "\u2026 Ex-servicemembers, Initial Claim",
+        "node_dcid": "Count_UnemploymentInsuranceClaim_UCXOnly_InitialClaim",
+        "node_link": "https://datacommons.org/browser/Count_UnemploymentInsuranceClaim_UCXOnly_InitialClaim"
+    },
+    {
+        "node_name": "\u2026 Federal Employees, Initial Claim",
+        "node_dcid": "Count_UnemploymentInsuranceClaim_UCFENoStateUnemploymentInsurance_InitialClaim",
+        "node_link": "https://datacommons.org/browser/Count_UnemploymentInsuranceClaim_UCFENoStateUnemploymentInsurance_InitialClaim"
+    },
+    {
+        "node_name": "\u2026 Claim (Scaled for Part Time Unemployment Benefits): Short Time Compensation, Initial Claim",
+        "node_dcid": "Count_UnemploymentInsuranceClaim_ShortTimeCompensation_InitialClaim_ScaledForPartTimeUnemploymentBenefits",
+        "node_link": "https://datacommons.org/browser/Count_UnemploymentInsuranceClaim_ShortTimeCompensation_InitialClaim_ScaledForPartTimeUnemploymentBenefits"
+    },
+    {
+        "node_name": "\u2026 Claim: Short Time Compensation, Initial Claim",
+        "node_dcid": "Count_UnemploymentInsuranceClaim_ShortTimeCompensation_InitialClaim",
+        "node_link": "https://datacommons.org/browser/Count_UnemploymentInsuranceClaim_ShortTimeCompensation_InitialClaim"
+    }
+]

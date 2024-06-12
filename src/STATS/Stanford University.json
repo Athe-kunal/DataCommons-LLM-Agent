@@ -1,0 +1,47 @@
+[
+    {
+        "node_name": "Solar Installations",
+        "node_dcid": "Count_SolarInstallation",
+        "node_link": "https://datacommons.org/browser/Count_SolarInstallation"
+    },
+    {
+        "node_name": "Count of Solar Installation: Commercial",
+        "node_dcid": "Count_SolarInstallation_Commercial",
+        "node_link": "https://datacommons.org/browser/Count_SolarInstallation_Commercial"
+    },
+    {
+        "node_name": "Coverage Area of Solar Installation: Commercial",
+        "node_dcid": "Mean_CoverageArea_SolarInstallation_Commercial",
+        "node_link": "https://datacommons.org/browser/Mean_CoverageArea_SolarInstallation_Commercial"
+    },
+    {
+        "node_name": "Count of Solar Installation: Residential",
+        "node_dcid": "Count_SolarInstallation_Residential",
+        "node_link": "https://datacommons.org/browser/Count_SolarInstallation_Residential"
+    },
+    {
+        "node_name": "Coverage Area of Solar Installation: Residential",
+        "node_dcid": "Mean_CoverageArea_SolarInstallation_Residential",
+        "node_link": "https://datacommons.org/browser/Mean_CoverageArea_SolarInstallation_Residential"
+    },
+    {
+        "node_name": "Count of Solar Installation: Utility Scale",
+        "node_dcid": "Count_SolarInstallation_UtilityScale",
+        "node_link": "https://datacommons.org/browser/Count_SolarInstallation_UtilityScale"
+    },
+    {
+        "node_name": "Coverage Area of Solar Installation: Utility Scale",
+        "node_dcid": "Mean_CoverageArea_SolarInstallation_UtilityScale",
+        "node_link": "https://datacommons.org/browser/Mean_CoverageArea_SolarInstallation_UtilityScale"
+    },
+    {
+        "node_name": "Count of Solar Thermal Installation: Non Utility",
+        "node_dcid": "Count_SolarThermalInstallation_NonUtility",
+        "node_link": "https://datacommons.org/browser/Count_SolarThermalInstallation_NonUtility"
+    },
+    {
+        "node_name": "Coverage Area of Solar Thermal Installation: Non Utility",
+        "node_dcid": "Mean_CoverageArea_SolarThermalInstallation_NonUtility",
+        "node_link": "https://datacommons.org/browser/Mean_CoverageArea_SolarThermalInstallation_NonUtility"
+    }
+]

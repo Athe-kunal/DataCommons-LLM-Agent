@@ -1,0 +1,482 @@
+[
+    {
+        "node_name": "\u2026 (Inflation Adjusted): Gross Domestic Production",
+        "node_dcid": "InflationAdjustedGDP",
+        "node_link": "https://datacommons.org/browser/InflationAdjustedGDP"
+    },
+    {
+        "node_name": "\u2026 (Real Value): Gross Domestic Production",
+        "node_dcid": "Amount_EconomicActivity_GrossDomesticProduction_RealValue",
+        "node_link": "https://datacommons.org/browser/Amount_EconomicActivity_GrossDomesticProduction_RealValue"
+    },
+    {
+        "node_name": "\u2026 (Nominal): Gross Domestic Production, Durable Goods Manufacturing (NAICS/311-316_322-326)",
+        "node_dcid": "USStateQuarterlyIndustryGDP_NAICS_311_316_322_326",
+        "node_link": "https://datacommons.org/browser/USStateQuarterlyIndustryGDP_NAICS_311_316_322_326"
+    },
+    {
+        "node_name": "\u2026 (Nominal): Gross Domestic Production, Durable Goods Manufacturing (NAICS/321_327-339)",
+        "node_dcid": "USStateQuarterlyIndustryGDP_NAICS_321_327_339",
+        "node_link": "https://datacommons.org/browser/USStateQuarterlyIndustryGDP_NAICS_321_327_339"
+    },
+    {
+        "node_name": "\u2026 (Real Value): Gross Domestic Production, Arts, Entertainment, And Recreation, And Accommodation And Food Services (NAICS/71-72)",
+        "node_dcid": "Amount_EconomicActivity_GrossDomesticProduction_NAICSArtsEntertainmentRecreationAccommodationFoodServices_RealValue",
+        "node_link": "https://datacommons.org/browser/Amount_EconomicActivity_GrossDomesticProduction_NAICSArtsEntertainmentRecreationAccommodationFoodServices_RealValue"
+    },
+    {
+        "node_name": "\u2026 (Real Value): Gross Domestic Production, Durable Goods Manufacturing (NAICS/JOLTS_320000)",
+        "node_dcid": "Amount_EconomicActivity_GrossDomesticProduction_NAICSDurableGoodsManufacturing_RealValue",
+        "node_link": "https://datacommons.org/browser/Amount_EconomicActivity_GrossDomesticProduction_NAICSDurableGoodsManufacturing_RealValue"
+    },
+    {
+        "node_name": "\u2026 (Real Value): Gross Domestic Production, Educational Services, And Health Care And Social Assistance (NAICS/61-62)",
+        "node_dcid": "Amount_EconomicActivity_GrossDomesticProduction_NAICSEducationalServicesHealthCareSocialAssistance_RealValue",
+        "node_link": "https://datacommons.org/browser/Amount_EconomicActivity_GrossDomesticProduction_NAICSEducationalServicesHealthCareSocialAssistance_RealValue"
+    },
+    {
+        "node_name": "\u2026 (Real Value): Gross Domestic Production, Finance And Insurance, And Real Estate And Rental And Leasing (NAICS/52-53)",
+        "node_dcid": "Amount_EconomicActivity_GrossDomesticProduction_NAICSFinanceInsuranceRealEstateRentalLeasing_RealValue",
+        "node_link": "https://datacommons.org/browser/Amount_EconomicActivity_GrossDomesticProduction_NAICSFinanceInsuranceRealEstateRentalLeasing_RealValue"
+    },
+    {
+        "node_name": "\u2026 (Real Value): Gross Domestic Production, Manufacturing (NAICS/1013)",
+        "node_dcid": "Amount_EconomicActivity_GrossDomesticProduction_NAICSManufacturing_RealValue",
+        "node_link": "https://datacommons.org/browser/Amount_EconomicActivity_GrossDomesticProduction_NAICSManufacturing_RealValue"
+    },
+    {
+        "node_name": "\u2026 (Real Value): Gross Domestic Production, Natural Resources And Mining (NAICS/1011)",
+        "node_dcid": "Amount_EconomicActivity_GrossDomesticProduction_NAICSNaturalResourcesMining_RealValue",
+        "node_link": "https://datacommons.org/browser/Amount_EconomicActivity_GrossDomesticProduction_NAICSNaturalResourcesMining_RealValue"
+    },
+    {
+        "node_name": "\u2026 (Real Value): Gross Domestic Production, Nondurable Goods Manufacturing (NAICS/JOLTS_340000)",
+        "node_dcid": "Amount_EconomicActivity_GrossDomesticProduction_NAICSNondurableGoodsManufacturing_RealValue",
+        "node_link": "https://datacommons.org/browser/Amount_EconomicActivity_GrossDomesticProduction_NAICSNondurableGoodsManufacturing_RealValue"
+    },
+    {
+        "node_name": "\u2026 (Real Value): Gross Domestic Production, Professional And Business Services (NAICS/JOLTS_540099)",
+        "node_dcid": "Amount_EconomicActivity_GrossDomesticProduction_NAICSProfessionalAndBusinessServices_RealValue",
+        "node_link": "https://datacommons.org/browser/Amount_EconomicActivity_GrossDomesticProduction_NAICSProfessionalAndBusinessServices_RealValue"
+    },
+    {
+        "node_name": "Amount of Economic Activity (Nominal): Gross Domestic Production, Accommodation And Food Services (NAICS/72)",
+        "node_dcid": "USStateQuarterlyIndustryGDP_NAICS_72",
+        "node_link": "https://datacommons.org/browser/USStateQuarterlyIndustryGDP_NAICS_72"
+    },
+    {
+        "node_name": "GDP of the Accommodation and Food Services Industry",
+        "node_dcid": "Amount_EconomicActivity_GrossDomesticProduction_NAICSAccommodationFoodServices_RealValue",
+        "node_link": "https://datacommons.org/browser/Amount_EconomicActivity_GrossDomesticProduction_NAICSAccommodationFoodServices_RealValue"
+    },
+    {
+        "node_name": "Amount of Economic Activity (Nominal): Gross Domestic Production, Administrative And Support And Waste Management Services (NAICS/56)",
+        "node_dcid": "USStateQuarterlyIndustryGDP_NAICS_56",
+        "node_link": "https://datacommons.org/browser/USStateQuarterlyIndustryGDP_NAICS_56"
+    },
+    {
+        "node_name": "GDP of the Administrative and Support and Waste Management Services Industry",
+        "node_dcid": "Amount_EconomicActivity_GrossDomesticProduction_NAICSAdministrativeSupportWasteManagementRemediationServices_RealValue",
+        "node_link": "https://datacommons.org/browser/Amount_EconomicActivity_GrossDomesticProduction_NAICSAdministrativeSupportWasteManagementRemediationServices_RealValue"
+    },
+    {
+        "node_name": "Amount of Economic Activity (Nominal): Gross Domestic Production, Agriculture, Forestry, Fishing And Hunting (NAICS/11)",
+        "node_dcid": "USStateQuarterlyIndustryGDP_NAICS_11",
+        "node_link": "https://datacommons.org/browser/USStateQuarterlyIndustryGDP_NAICS_11"
+    },
+    {
+        "node_name": "GDP of the Agriculture, Forestry, Fishing and Hunting Industry",
+        "node_dcid": "Amount_EconomicActivity_GrossDomesticProduction_NAICSAgricultureForestryFishingHunting_RealValue",
+        "node_link": "https://datacommons.org/browser/Amount_EconomicActivity_GrossDomesticProduction_NAICSAgricultureForestryFishingHunting_RealValue"
+    },
+    {
+        "node_name": "Amount of Economic Activity (Nominal): Gross Domestic Production, Arts, Entertainment, And Recreation (NAICS/71)",
+        "node_dcid": "USStateQuarterlyIndustryGDP_NAICS_71",
+        "node_link": "https://datacommons.org/browser/USStateQuarterlyIndustryGDP_NAICS_71"
+    },
+    {
+        "node_name": "GDP of the Arts, Entertainment, and Recreation Industry",
+        "node_dcid": "Amount_EconomicActivity_GrossDomesticProduction_NAICSArtsEntertainmentRecreation_RealValue",
+        "node_link": "https://datacommons.org/browser/Amount_EconomicActivity_GrossDomesticProduction_NAICSArtsEntertainmentRecreation_RealValue"
+    },
+    {
+        "node_name": "Amount of Economic Activity (Nominal): Gross Domestic Production, Construction (NAICS/23)",
+        "node_dcid": "USStateQuarterlyIndustryGDP_NAICS_23",
+        "node_link": "https://datacommons.org/browser/USStateQuarterlyIndustryGDP_NAICS_23"
+    },
+    {
+        "node_name": "GDP of the Construction Industry",
+        "node_dcid": "Amount_EconomicActivity_GrossDomesticProduction_NAICSConstruction_RealValue",
+        "node_link": "https://datacommons.org/browser/Amount_EconomicActivity_GrossDomesticProduction_NAICSConstruction_RealValue"
+    },
+    {
+        "node_name": "Amount of Economic Activity (Nominal): Gross Domestic Production, Educational Services (NAICS/61)",
+        "node_dcid": "USStateQuarterlyIndustryGDP_NAICS_61",
+        "node_link": "https://datacommons.org/browser/USStateQuarterlyIndustryGDP_NAICS_61"
+    },
+    {
+        "node_name": "GDP of the Educational Services Industry",
+        "node_dcid": "Amount_EconomicActivity_GrossDomesticProduction_NAICSEducationalServices_RealValue",
+        "node_link": "https://datacommons.org/browser/Amount_EconomicActivity_GrossDomesticProduction_NAICSEducationalServices_RealValue"
+    },
+    {
+        "node_name": "Amount of Economic Activity (Nominal): Gross Domestic Production, Finance And Insurance (NAICS/52)",
+        "node_dcid": "USStateQuarterlyIndustryGDP_NAICS_52",
+        "node_link": "https://datacommons.org/browser/USStateQuarterlyIndustryGDP_NAICS_52"
+    },
+    {
+        "node_name": "GDP of the Finance and Insurance Industry",
+        "node_dcid": "Amount_EconomicActivity_GrossDomesticProduction_NAICSFinanceInsurance_RealValue",
+        "node_link": "https://datacommons.org/browser/Amount_EconomicActivity_GrossDomesticProduction_NAICSFinanceInsurance_RealValue"
+    },
+    {
+        "node_name": "Amount of Economic Activity (Nominal): Gross Domestic Production, Health Care And Social Assistance (NAICS/62)",
+        "node_dcid": "USStateQuarterlyIndustryGDP_NAICS_62",
+        "node_link": "https://datacommons.org/browser/USStateQuarterlyIndustryGDP_NAICS_62"
+    },
+    {
+        "node_name": "GDP of the Health Care and Social Assistance Industry",
+        "node_dcid": "Amount_EconomicActivity_GrossDomesticProduction_NAICSHealthCareSocialAssistance_RealValue",
+        "node_link": "https://datacommons.org/browser/Amount_EconomicActivity_GrossDomesticProduction_NAICSHealthCareSocialAssistance_RealValue"
+    },
+    {
+        "node_name": "Amount of Economic Activity (Nominal): Gross Domestic Production, Information (NAICS/51)",
+        "node_dcid": "USStateQuarterlyIndustryGDP_NAICS_51",
+        "node_link": "https://datacommons.org/browser/USStateQuarterlyIndustryGDP_NAICS_51"
+    },
+    {
+        "node_name": "GDP of the Information Industry",
+        "node_dcid": "Amount_EconomicActivity_GrossDomesticProduction_NAICSInformation_RealValue",
+        "node_link": "https://datacommons.org/browser/Amount_EconomicActivity_GrossDomesticProduction_NAICSInformation_RealValue"
+    },
+    {
+        "node_name": "Amount of Economic Activity (Nominal): Gross Domestic Production, Management of Companies And Enterprises (NAICS/55)",
+        "node_dcid": "USStateQuarterlyIndustryGDP_NAICS_55",
+        "node_link": "https://datacommons.org/browser/USStateQuarterlyIndustryGDP_NAICS_55"
+    },
+    {
+        "node_name": "GDP of the Management of Companies and Enterprises Industry",
+        "node_dcid": "Amount_EconomicActivity_GrossDomesticProduction_NAICSManagementOfCompaniesEnterprises_RealValue",
+        "node_link": "https://datacommons.org/browser/Amount_EconomicActivity_GrossDomesticProduction_NAICSManagementOfCompaniesEnterprises_RealValue"
+    },
+    {
+        "node_name": "Amount of Economic Activity (Nominal): Gross Domestic Production, Manufacturing (NAICS/31-33)",
+        "node_dcid": "USStateQuarterlyIndustryGDP_NAICS_31_33",
+        "node_link": "https://datacommons.org/browser/USStateQuarterlyIndustryGDP_NAICS_31_33"
+    },
+    {
+        "node_name": "Amount of Economic Activity (Nominal): Gross Domestic Production, Mining, Quarrying, And Oil And Gas Extraction (NAICS/21)",
+        "node_dcid": "USStateQuarterlyIndustryGDP_NAICS_21",
+        "node_link": "https://datacommons.org/browser/USStateQuarterlyIndustryGDP_NAICS_21"
+    },
+    {
+        "node_name": "GDP of the Mining, Quarrying, and Oil and Gas Extraction Industry",
+        "node_dcid": "Amount_EconomicActivity_GrossDomesticProduction_NAICSMiningQuarryingOilGasExtraction_RealValue",
+        "node_link": "https://datacommons.org/browser/Amount_EconomicActivity_GrossDomesticProduction_NAICSMiningQuarryingOilGasExtraction_RealValue"
+    },
+    {
+        "node_name": "Amount of Economic Activity (Nominal): Gross Domestic Production, Other Services, Except Public Administration (NAICS/81)",
+        "node_dcid": "USStateQuarterlyIndustryGDP_NAICS_81",
+        "node_link": "https://datacommons.org/browser/USStateQuarterlyIndustryGDP_NAICS_81"
+    },
+    {
+        "node_name": "GDP of Other Services, Except Public Administration Industry",
+        "node_dcid": "Amount_EconomicActivity_GrossDomesticProduction_NAICSOtherServices_RealValue",
+        "node_link": "https://datacommons.org/browser/Amount_EconomicActivity_GrossDomesticProduction_NAICSOtherServices_RealValue"
+    },
+    {
+        "node_name": "Amount of Economic Activity (Nominal): Gross Domestic Production, Professional, Scientific, And Technical Services (NAICS/54)",
+        "node_dcid": "USStateQuarterlyIndustryGDP_NAICS_54",
+        "node_link": "https://datacommons.org/browser/USStateQuarterlyIndustryGDP_NAICS_54"
+    },
+    {
+        "node_name": "GDP of the Professional, Scientific, and Technical Services Industry",
+        "node_dcid": "Amount_EconomicActivity_GrossDomesticProduction_NAICSProfessionalScientificTechnicalServices_RealValue",
+        "node_link": "https://datacommons.org/browser/Amount_EconomicActivity_GrossDomesticProduction_NAICSProfessionalScientificTechnicalServices_RealValue"
+    },
+    {
+        "node_name": "Amount of Economic Activity (Nominal): Gross Domestic Production, Real Estate And Rental And Leasing (NAICS/53)",
+        "node_dcid": "USStateQuarterlyIndustryGDP_NAICS_53",
+        "node_link": "https://datacommons.org/browser/USStateQuarterlyIndustryGDP_NAICS_53"
+    },
+    {
+        "node_name": "GDP of the Real Estate and Rental and Leasing Industry",
+        "node_dcid": "Amount_EconomicActivity_GrossDomesticProduction_NAICSRealEstateRentalLeasing_RealValue",
+        "node_link": "https://datacommons.org/browser/Amount_EconomicActivity_GrossDomesticProduction_NAICSRealEstateRentalLeasing_RealValue"
+    },
+    {
+        "node_name": "\u2026 (Nominal): Gross Domestic Production, Retail Trade (NAICS/44-45)",
+        "node_dcid": "USStateQuarterlyIndustryGDP_NAICS_44_45",
+        "node_link": "https://datacommons.org/browser/USStateQuarterlyIndustryGDP_NAICS_44_45"
+    },
+    {
+        "node_name": "\u2026 (Real Value): Gross Domestic Production, Retail Trade (NAICS/44-45)",
+        "node_dcid": "Amount_EconomicActivity_GrossDomesticProduction_NAICSRetailTrade_RealValue",
+        "node_link": "https://datacommons.org/browser/Amount_EconomicActivity_GrossDomesticProduction_NAICSRetailTrade_RealValue"
+    },
+    {
+        "node_name": "\u2026 (Nominal): Gross Domestic Production, Transportation And Warehousing (NAICS/48-49)",
+        "node_dcid": "USStateQuarterlyIndustryGDP_NAICS_48_49",
+        "node_link": "https://datacommons.org/browser/USStateQuarterlyIndustryGDP_NAICS_48_49"
+    },
+    {
+        "node_name": "\u2026 (Real Value): Gross Domestic Production, Transportation And Warehousing (NAICS/48-49)",
+        "node_dcid": "Amount_EconomicActivity_GrossDomesticProduction_NAICSTransportationWarehousing_RealValue",
+        "node_link": "https://datacommons.org/browser/Amount_EconomicActivity_GrossDomesticProduction_NAICSTransportationWarehousing_RealValue"
+    },
+    {
+        "node_name": "Amount of Economic Activity (Nominal): Gross Domestic Production, Utilities (NAICS/22)",
+        "node_dcid": "USStateQuarterlyIndustryGDP_NAICS_22",
+        "node_link": "https://datacommons.org/browser/USStateQuarterlyIndustryGDP_NAICS_22"
+    },
+    {
+        "node_name": "GDP of the Utilities Industry",
+        "node_dcid": "Amount_EconomicActivity_GrossDomesticProduction_NAICSUtilities_RealValue",
+        "node_link": "https://datacommons.org/browser/Amount_EconomicActivity_GrossDomesticProduction_NAICSUtilities_RealValue"
+    },
+    {
+        "node_name": "Amount of Economic Activity (Nominal): Gross Domestic Production, Wholesale Trade (NAICS/42)",
+        "node_dcid": "USStateQuarterlyIndustryGDP_NAICS_42",
+        "node_link": "https://datacommons.org/browser/USStateQuarterlyIndustryGDP_NAICS_42"
+    },
+    {
+        "node_name": "GDP of the Wholesale Trade Industry",
+        "node_dcid": "Amount_EconomicActivity_GrossDomesticProduction_NAICSWholesaleTrade_RealValue",
+        "node_link": "https://datacommons.org/browser/Amount_EconomicActivity_GrossDomesticProduction_NAICSWholesaleTrade_RealValue"
+    },
+    {
+        "node_name": "\u2026 (Nominal): Gross Domestic Production, Durable Goods Manufacturing (NAICS/311-316_322-326)",
+        "node_dcid": "USStateQuarterlyIndustryGDP_NAICS_311_316_322_326",
+        "node_link": "https://datacommons.org/browser/USStateQuarterlyIndustryGDP_NAICS_311_316_322_326"
+    },
+    {
+        "node_name": "\u2026 (Nominal): Gross Domestic Production, Durable Goods Manufacturing (NAICS/321_327-339)",
+        "node_dcid": "USStateQuarterlyIndustryGDP_NAICS_321_327_339",
+        "node_link": "https://datacommons.org/browser/USStateQuarterlyIndustryGDP_NAICS_321_327_339"
+    },
+    {
+        "node_name": "\u2026 (Real Value): Gross Domestic Production, Arts, Entertainment, And Recreation, And Accommodation And Food Services (NAICS/71-72)",
+        "node_dcid": "Amount_EconomicActivity_GrossDomesticProduction_NAICSArtsEntertainmentRecreationAccommodationFoodServices_RealValue",
+        "node_link": "https://datacommons.org/browser/Amount_EconomicActivity_GrossDomesticProduction_NAICSArtsEntertainmentRecreationAccommodationFoodServices_RealValue"
+    },
+    {
+        "node_name": "\u2026 (Real Value): Gross Domestic Production, Durable Goods Manufacturing (NAICS/JOLTS_320000)",
+        "node_dcid": "Amount_EconomicActivity_GrossDomesticProduction_NAICSDurableGoodsManufacturing_RealValue",
+        "node_link": "https://datacommons.org/browser/Amount_EconomicActivity_GrossDomesticProduction_NAICSDurableGoodsManufacturing_RealValue"
+    },
+    {
+        "node_name": "\u2026 (Real Value): Gross Domestic Production, Educational Services, And Health Care And Social Assistance (NAICS/61-62)",
+        "node_dcid": "Amount_EconomicActivity_GrossDomesticProduction_NAICSEducationalServicesHealthCareSocialAssistance_RealValue",
+        "node_link": "https://datacommons.org/browser/Amount_EconomicActivity_GrossDomesticProduction_NAICSEducationalServicesHealthCareSocialAssistance_RealValue"
+    },
+    {
+        "node_name": "\u2026 (Real Value): Gross Domestic Production, Finance And Insurance, And Real Estate And Rental And Leasing (NAICS/52-53)",
+        "node_dcid": "Amount_EconomicActivity_GrossDomesticProduction_NAICSFinanceInsuranceRealEstateRentalLeasing_RealValue",
+        "node_link": "https://datacommons.org/browser/Amount_EconomicActivity_GrossDomesticProduction_NAICSFinanceInsuranceRealEstateRentalLeasing_RealValue"
+    },
+    {
+        "node_name": "\u2026 (Real Value): Gross Domestic Production, Manufacturing (NAICS/1013)",
+        "node_dcid": "Amount_EconomicActivity_GrossDomesticProduction_NAICSManufacturing_RealValue",
+        "node_link": "https://datacommons.org/browser/Amount_EconomicActivity_GrossDomesticProduction_NAICSManufacturing_RealValue"
+    },
+    {
+        "node_name": "\u2026 (Real Value): Gross Domestic Production, Natural Resources And Mining (NAICS/1011)",
+        "node_dcid": "Amount_EconomicActivity_GrossDomesticProduction_NAICSNaturalResourcesMining_RealValue",
+        "node_link": "https://datacommons.org/browser/Amount_EconomicActivity_GrossDomesticProduction_NAICSNaturalResourcesMining_RealValue"
+    },
+    {
+        "node_name": "\u2026 (Real Value): Gross Domestic Production, Nondurable Goods Manufacturing (NAICS/JOLTS_340000)",
+        "node_dcid": "Amount_EconomicActivity_GrossDomesticProduction_NAICSNondurableGoodsManufacturing_RealValue",
+        "node_link": "https://datacommons.org/browser/Amount_EconomicActivity_GrossDomesticProduction_NAICSNondurableGoodsManufacturing_RealValue"
+    },
+    {
+        "node_name": "\u2026 (Real Value): Gross Domestic Production, Professional And Business Services (NAICS/JOLTS_540099)",
+        "node_dcid": "Amount_EconomicActivity_GrossDomesticProduction_NAICSProfessionalAndBusinessServices_RealValue",
+        "node_link": "https://datacommons.org/browser/Amount_EconomicActivity_GrossDomesticProduction_NAICSProfessionalAndBusinessServices_RealValue"
+    },
+    {
+        "node_name": "Amount of Economic Activity (Nominal): Gross Domestic Production, Accommodation And Food Services (NAICS/72)",
+        "node_dcid": "USStateQuarterlyIndustryGDP_NAICS_72",
+        "node_link": "https://datacommons.org/browser/USStateQuarterlyIndustryGDP_NAICS_72"
+    },
+    {
+        "node_name": "GDP of the Accommodation and Food Services Industry",
+        "node_dcid": "Amount_EconomicActivity_GrossDomesticProduction_NAICSAccommodationFoodServices_RealValue",
+        "node_link": "https://datacommons.org/browser/Amount_EconomicActivity_GrossDomesticProduction_NAICSAccommodationFoodServices_RealValue"
+    },
+    {
+        "node_name": "Amount of Economic Activity (Nominal): Gross Domestic Production, Administrative And Support And Waste Management Services (NAICS/56)",
+        "node_dcid": "USStateQuarterlyIndustryGDP_NAICS_56",
+        "node_link": "https://datacommons.org/browser/USStateQuarterlyIndustryGDP_NAICS_56"
+    },
+    {
+        "node_name": "GDP of the Administrative and Support and Waste Management Services Industry",
+        "node_dcid": "Amount_EconomicActivity_GrossDomesticProduction_NAICSAdministrativeSupportWasteManagementRemediationServices_RealValue",
+        "node_link": "https://datacommons.org/browser/Amount_EconomicActivity_GrossDomesticProduction_NAICSAdministrativeSupportWasteManagementRemediationServices_RealValue"
+    },
+    {
+        "node_name": "Amount of Economic Activity (Nominal): Gross Domestic Production, Agriculture, Forestry, Fishing And Hunting (NAICS/11)",
+        "node_dcid": "USStateQuarterlyIndustryGDP_NAICS_11",
+        "node_link": "https://datacommons.org/browser/USStateQuarterlyIndustryGDP_NAICS_11"
+    },
+    {
+        "node_name": "GDP of the Agriculture, Forestry, Fishing and Hunting Industry",
+        "node_dcid": "Amount_EconomicActivity_GrossDomesticProduction_NAICSAgricultureForestryFishingHunting_RealValue",
+        "node_link": "https://datacommons.org/browser/Amount_EconomicActivity_GrossDomesticProduction_NAICSAgricultureForestryFishingHunting_RealValue"
+    },
+    {
+        "node_name": "Amount of Economic Activity (Nominal): Gross Domestic Production, Arts, Entertainment, And Recreation (NAICS/71)",
+        "node_dcid": "USStateQuarterlyIndustryGDP_NAICS_71",
+        "node_link": "https://datacommons.org/browser/USStateQuarterlyIndustryGDP_NAICS_71"
+    },
+    {
+        "node_name": "GDP of the Arts, Entertainment, and Recreation Industry",
+        "node_dcid": "Amount_EconomicActivity_GrossDomesticProduction_NAICSArtsEntertainmentRecreation_RealValue",
+        "node_link": "https://datacommons.org/browser/Amount_EconomicActivity_GrossDomesticProduction_NAICSArtsEntertainmentRecreation_RealValue"
+    },
+    {
+        "node_name": "Amount of Economic Activity (Nominal): Gross Domestic Production, Construction (NAICS/23)",
+        "node_dcid": "USStateQuarterlyIndustryGDP_NAICS_23",
+        "node_link": "https://datacommons.org/browser/USStateQuarterlyIndustryGDP_NAICS_23"
+    },
+    {
+        "node_name": "GDP of the Construction Industry",
+        "node_dcid": "Amount_EconomicActivity_GrossDomesticProduction_NAICSConstruction_RealValue",
+        "node_link": "https://datacommons.org/browser/Amount_EconomicActivity_GrossDomesticProduction_NAICSConstruction_RealValue"
+    },
+    {
+        "node_name": "Amount of Economic Activity (Nominal): Gross Domestic Production, Educational Services (NAICS/61)",
+        "node_dcid": "USStateQuarterlyIndustryGDP_NAICS_61",
+        "node_link": "https://datacommons.org/browser/USStateQuarterlyIndustryGDP_NAICS_61"
+    },
+    {
+        "node_name": "GDP of the Educational Services Industry",
+        "node_dcid": "Amount_EconomicActivity_GrossDomesticProduction_NAICSEducationalServices_RealValue",
+        "node_link": "https://datacommons.org/browser/Amount_EconomicActivity_GrossDomesticProduction_NAICSEducationalServices_RealValue"
+    },
+    {
+        "node_name": "Amount of Economic Activity (Nominal): Gross Domestic Production, Finance And Insurance (NAICS/52)",
+        "node_dcid": "USStateQuarterlyIndustryGDP_NAICS_52",
+        "node_link": "https://datacommons.org/browser/USStateQuarterlyIndustryGDP_NAICS_52"
+    },
+    {
+        "node_name": "GDP of the Finance and Insurance Industry",
+        "node_dcid": "Amount_EconomicActivity_GrossDomesticProduction_NAICSFinanceInsurance_RealValue",
+        "node_link": "https://datacommons.org/browser/Amount_EconomicActivity_GrossDomesticProduction_NAICSFinanceInsurance_RealValue"
+    },
+    {
+        "node_name": "Amount of Economic Activity (Nominal): Gross Domestic Production, Health Care And Social Assistance (NAICS/62)",
+        "node_dcid": "USStateQuarterlyIndustryGDP_NAICS_62",
+        "node_link": "https://datacommons.org/browser/USStateQuarterlyIndustryGDP_NAICS_62"
+    },
+    {
+        "node_name": "GDP of the Health Care and Social Assistance Industry",
+        "node_dcid": "Amount_EconomicActivity_GrossDomesticProduction_NAICSHealthCareSocialAssistance_RealValue",
+        "node_link": "https://datacommons.org/browser/Amount_EconomicActivity_GrossDomesticProduction_NAICSHealthCareSocialAssistance_RealValue"
+    },
+    {
+        "node_name": "Amount of Economic Activity (Nominal): Gross Domestic Production, Information (NAICS/51)",
+        "node_dcid": "USStateQuarterlyIndustryGDP_NAICS_51",
+        "node_link": "https://datacommons.org/browser/USStateQuarterlyIndustryGDP_NAICS_51"
+    },
+    {
+        "node_name": "GDP of the Information Industry",
+        "node_dcid": "Amount_EconomicActivity_GrossDomesticProduction_NAICSInformation_RealValue",
+        "node_link": "https://datacommons.org/browser/Amount_EconomicActivity_GrossDomesticProduction_NAICSInformation_RealValue"
+    },
+    {
+        "node_name": "Amount of Economic Activity (Nominal): Gross Domestic Production, Management of Companies And Enterprises (NAICS/55)",
+        "node_dcid": "USStateQuarterlyIndustryGDP_NAICS_55",
+        "node_link": "https://datacommons.org/browser/USStateQuarterlyIndustryGDP_NAICS_55"
+    },
+    {
+        "node_name": "GDP of the Management of Companies and Enterprises Industry",
+        "node_dcid": "Amount_EconomicActivity_GrossDomesticProduction_NAICSManagementOfCompaniesEnterprises_RealValue",
+        "node_link": "https://datacommons.org/browser/Amount_EconomicActivity_GrossDomesticProduction_NAICSManagementOfCompaniesEnterprises_RealValue"
+    },
+    {
+        "node_name": "Amount of Economic Activity (Nominal): Gross Domestic Production, Manufacturing (NAICS/31-33)",
+        "node_dcid": "USStateQuarterlyIndustryGDP_NAICS_31_33",
+        "node_link": "https://datacommons.org/browser/USStateQuarterlyIndustryGDP_NAICS_31_33"
+    },
+    {
+        "node_name": "Amount of Economic Activity (Nominal): Gross Domestic Production, Mining, Quarrying, And Oil And Gas Extraction (NAICS/21)",
+        "node_dcid": "USStateQuarterlyIndustryGDP_NAICS_21",
+        "node_link": "https://datacommons.org/browser/USStateQuarterlyIndustryGDP_NAICS_21"
+    },
+    {
+        "node_name": "GDP of the Mining, Quarrying, and Oil and Gas Extraction Industry",
+        "node_dcid": "Amount_EconomicActivity_GrossDomesticProduction_NAICSMiningQuarryingOilGasExtraction_RealValue",
+        "node_link": "https://datacommons.org/browser/Amount_EconomicActivity_GrossDomesticProduction_NAICSMiningQuarryingOilGasExtraction_RealValue"
+    },
+    {
+        "node_name": "Amount of Economic Activity (Nominal): Gross Domestic Production, Other Services, Except Public Administration (NAICS/81)",
+        "node_dcid": "USStateQuarterlyIndustryGDP_NAICS_81",
+        "node_link": "https://datacommons.org/browser/USStateQuarterlyIndustryGDP_NAICS_81"
+    },
+    {
+        "node_name": "GDP of Other Services, Except Public Administration Industry",
+        "node_dcid": "Amount_EconomicActivity_GrossDomesticProduction_NAICSOtherServices_RealValue",
+        "node_link": "https://datacommons.org/browser/Amount_EconomicActivity_GrossDomesticProduction_NAICSOtherServices_RealValue"
+    },
+    {
+        "node_name": "Amount of Economic Activity (Nominal): Gross Domestic Production, Professional, Scientific, And Technical Services (NAICS/54)",
+        "node_dcid": "USStateQuarterlyIndustryGDP_NAICS_54",
+        "node_link": "https://datacommons.org/browser/USStateQuarterlyIndustryGDP_NAICS_54"
+    },
+    {
+        "node_name": "GDP of the Professional, Scientific, and Technical Services Industry",
+        "node_dcid": "Amount_EconomicActivity_GrossDomesticProduction_NAICSProfessionalScientificTechnicalServices_RealValue",
+        "node_link": "https://datacommons.org/browser/Amount_EconomicActivity_GrossDomesticProduction_NAICSProfessionalScientificTechnicalServices_RealValue"
+    },
+    {
+        "node_name": "Amount of Economic Activity (Nominal): Gross Domestic Production, Real Estate And Rental And Leasing (NAICS/53)",
+        "node_dcid": "USStateQuarterlyIndustryGDP_NAICS_53",
+        "node_link": "https://datacommons.org/browser/USStateQuarterlyIndustryGDP_NAICS_53"
+    },
+    {
+        "node_name": "GDP of the Real Estate and Rental and Leasing Industry",
+        "node_dcid": "Amount_EconomicActivity_GrossDomesticProduction_NAICSRealEstateRentalLeasing_RealValue",
+        "node_link": "https://datacommons.org/browser/Amount_EconomicActivity_GrossDomesticProduction_NAICSRealEstateRentalLeasing_RealValue"
+    },
+    {
+        "node_name": "\u2026 (Nominal): Gross Domestic Production, Retail Trade (NAICS/44-45)",
+        "node_dcid": "USStateQuarterlyIndustryGDP_NAICS_44_45",
+        "node_link": "https://datacommons.org/browser/USStateQuarterlyIndustryGDP_NAICS_44_45"
+    },
+    {
+        "node_name": "\u2026 (Real Value): Gross Domestic Production, Retail Trade (NAICS/44-45)",
+        "node_dcid": "Amount_EconomicActivity_GrossDomesticProduction_NAICSRetailTrade_RealValue",
+        "node_link": "https://datacommons.org/browser/Amount_EconomicActivity_GrossDomesticProduction_NAICSRetailTrade_RealValue"
+    },
+    {
+        "node_name": "\u2026 (Nominal): Gross Domestic Production, Transportation And Warehousing (NAICS/48-49)",
+        "node_dcid": "USStateQuarterlyIndustryGDP_NAICS_48_49",
+        "node_link": "https://datacommons.org/browser/USStateQuarterlyIndustryGDP_NAICS_48_49"
+    },
+    {
+        "node_name": "\u2026 (Real Value): Gross Domestic Production, Transportation And Warehousing (NAICS/48-49)",
+        "node_dcid": "Amount_EconomicActivity_GrossDomesticProduction_NAICSTransportationWarehousing_RealValue",
+        "node_link": "https://datacommons.org/browser/Amount_EconomicActivity_GrossDomesticProduction_NAICSTransportationWarehousing_RealValue"
+    },
+    {
+        "node_name": "Amount of Economic Activity (Nominal): Gross Domestic Production, Utilities (NAICS/22)",
+        "node_dcid": "USStateQuarterlyIndustryGDP_NAICS_22",
+        "node_link": "https://datacommons.org/browser/USStateQuarterlyIndustryGDP_NAICS_22"
+    },
+    {
+        "node_name": "GDP of the Utilities Industry",
+        "node_dcid": "Amount_EconomicActivity_GrossDomesticProduction_NAICSUtilities_RealValue",
+        "node_link": "https://datacommons.org/browser/Amount_EconomicActivity_GrossDomesticProduction_NAICSUtilities_RealValue"
+    },
+    {
+        "node_name": "Amount of Economic Activity (Nominal): Gross Domestic Production, Wholesale Trade (NAICS/42)",
+        "node_dcid": "USStateQuarterlyIndustryGDP_NAICS_42",
+        "node_link": "https://datacommons.org/browser/USStateQuarterlyIndustryGDP_NAICS_42"
+    },
+    {
+        "node_name": "GDP of the Wholesale Trade Industry",
+        "node_dcid": "Amount_EconomicActivity_GrossDomesticProduction_NAICSWholesaleTrade_RealValue",
+        "node_link": "https://datacommons.org/browser/Amount_EconomicActivity_GrossDomesticProduction_NAICSWholesaleTrade_RealValue"
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "node_name": "Mean Solar Insolation",
+        "node_dcid": "Mean_SolarInsolation",
+        "node_link": "https://datacommons.org/browser/Mean_SolarInsolation"
+    },
+    {
+        "node_name": "Mean Wind Direction",
+        "node_dcid": "Mean_WindDirection",
+        "node_link": "https://datacommons.org/browser/Mean_WindDirection"
+    },
+    {
+        "node_name": "\u2026 Ammonia",
+        "node_dcid": "Mean_Concentration_AirPollutant_Ammonia",
+        "node_link": "https://datacommons.org/browser/Mean_Concentration_AirPollutant_Ammonia"
+    },
+    {
+        "node_name": "\u2026 Benzene",
+        "node_dcid": "Mean_Concentration_AirPollutant_Benzene",
+        "node_link": "https://datacommons.org/browser/Mean_Concentration_AirPollutant_Benzene"
+    },
+    {
+        "node_name": "\u2026 Ethyl Benzene",
+        "node_dcid": "Mean_Concentration_AirPollutant_EthylBenzene",
+        "node_link": "https://datacommons.org/browser/Mean_Concentration_AirPollutant_EthylBenzene"
+    },
+    {
+        "node_name": "\u2026 MPXylene",
+        "node_dcid": "Mean_Concentration_AirPollutant_MPXylene",
+        "node_link": "https://datacommons.org/browser/Mean_Concentration_AirPollutant_MPXylene"
+    },
+    {
+        "node_name": "\u2026 Nitrogen Monoxide",
+        "node_dcid": "Mean_Concentration_AirPollutant_NitrogenMonoxide",
+        "node_link": "https://datacommons.org/browser/Mean_Concentration_AirPollutant_NitrogenMonoxide"
+    },
+    {
+        "node_name": "\u2026 Oxides of Nitrogen",
+        "node_dcid": "Mean_Concentration_AirPollutant_OxidesOfNitrogen",
+        "node_link": "https://datacommons.org/browser/Mean_Concentration_AirPollutant_OxidesOfNitrogen"
+    },
+    {
+        "node_name": "\u2026 Toluene",
+        "node_dcid": "Mean_Concentration_AirPollutant_Toluene",
+        "node_link": "https://datacommons.org/browser/Mean_Concentration_AirPollutant_Toluene"
+    },
+    {
+        "node_name": "\u2026 Xylene",
+        "node_dcid": "Mean_Concentration_AirPollutant_Xylene",
+        "node_link": "https://datacommons.org/browser/Mean_Concentration_AirPollutant_Xylene"
+    },
+    {
+        "node_name": "Mean Concentration: Carbon Monoxide",
+        "node_dcid": "Mean_Concentration_AirPollutant_CO",
+        "node_link": "https://datacommons.org/browser/Mean_Concentration_AirPollutant_CO"
+    },
+    {
+        "node_name": "Mean Concentration: Nitrogen Dioxide",
+        "node_dcid": "Mean_Concentration_AirPollutant_NO2",
+        "node_link": "https://datacommons.org/browser/Mean_Concentration_AirPollutant_NO2"
+    },
+    {
+        "node_name": "Mean Concentration of Ozone Air Pollutant",
+        "node_dcid": "Mean_Concentration_AirPollutant_Ozone",
+        "node_link": "https://datacommons.org/browser/Mean_Concentration_AirPollutant_Ozone"
+    },
+    {
+        "node_name": "Mean Concentration: PM 10",
+        "node_dcid": "Mean_Concentration_AirPollutant_PM10",
+        "node_link": "https://datacommons.org/browser/Mean_Concentration_AirPollutant_PM10"
+    },
+    {
+        "node_name": "Mean Concentration of PM2.5 Air Pollutant",
+        "node_dcid": "Mean_Concentration_AirPollutant_PM2.5",
+        "node_link": "https://datacommons.org/browser/Mean_Concentration_AirPollutant_PM2.5"
+    },
+    {
+        "node_name": "Mean Concentration: Sulfur Dioxide",
+        "node_dcid": "Mean_Concentration_AirPollutant_SO2",
+        "node_link": "https://datacommons.org/browser/Mean_Concentration_AirPollutant_SO2"
+    },
+    {
+        "node_name": "\u2026 Barometric Pressure",
+        "node_dcid": "Mean_BarometricPressure",
+        "node_link": "https://datacommons.org/browser/Mean_BarometricPressure"
+    },
+    {
+        "node_name": "\u2026 Temperature",
+        "node_dcid": "Mean_Temperature",
+        "node_link": "https://datacommons.org/browser/Mean_Temperature"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "node_name": "Population enrolled for Aadhaar monthly",
+        "node_dcid": "Monthly_Count_Person_Aadhaar_Enrolled",
+        "node_link": "https://datacommons.org/browser/Monthly_Count_Person_Aadhaar_Enrolled"
+    },
+    {
+        "node_name": "Total population enrolled for Aadhaar",
+        "node_dcid": "Count_Person_Aadhaar_Enrolled",
+        "node_link": "https://datacommons.org/browser/Count_Person_Aadhaar_Enrolled"
+    },
+    {
+        "node_name": "Population enrolled for Aadhaar monthly",
+        "node_dcid": "Monthly_Count_Person_Aadhaar_Enrolled",
+        "node_link": "https://datacommons.org/browser/Monthly_Count_Person_Aadhaar_Enrolled"
+    },
+    {
+        "node_name": "Total population enrolled for Aadhaar",
+        "node_dcid": "Count_Person_Aadhaar_Enrolled",
+        "node_link": "https://datacommons.org/browser/Count_Person_Aadhaar_Enrolled"
+    }
+]

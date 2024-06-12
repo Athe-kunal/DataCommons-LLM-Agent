@@ -1,0 +1,22 @@
+[
+    {
+        "node_name": "\u2026 Fire Incident Complex Event",
+        "node_dcid": "Count_FireIncidentComplex",
+        "node_link": "https://datacommons.org/browser/Count_FireIncidentComplex"
+    },
+    {
+        "node_name": "\u2026 Prescribed Fire Event",
+        "node_dcid": "Count_PrescribedFireEvent",
+        "node_link": "https://datacommons.org/browser/Count_PrescribedFireEvent"
+    },
+    {
+        "node_name": "Area of Wildland Fire Event",
+        "node_dcid": "Area_WildlandFireEvent",
+        "node_link": "https://datacommons.org/browser/Area_WildlandFireEvent"
+    },
+    {
+        "node_name": "Count of Wildland Fire Event",
+        "node_dcid": "Count_WildlandFireEvent",
+        "node_link": "https://datacommons.org/browser/Count_WildlandFireEvent"
+    }
+]

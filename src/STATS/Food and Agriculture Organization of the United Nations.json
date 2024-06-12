@@ -1,0 +1,12 @@
+[
+    {
+        "node_name": "\u2026 Rate",
+        "node_dcid": "ExchangeRate_Currency_Local",
+        "node_link": "https://datacommons.org/browser/ExchangeRate_Currency_Local"
+    },
+    {
+        "node_name": "\u2026 Rate, Standardized",
+        "node_dcid": "ExchangeRate_Currency_Standardized",
+        "node_link": "https://datacommons.org/browser/ExchangeRate_Currency_Standardized"
+    }
+]

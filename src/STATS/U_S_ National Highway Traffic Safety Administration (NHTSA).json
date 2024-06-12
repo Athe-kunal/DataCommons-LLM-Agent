@@ -1,0 +1,642 @@
+[
+    {
+        "node_name": "Count of number of person not a motor vehicle occupant involved in crash",
+        "node_dcid": "Count_Person_InvolvedInCrash_NotMotorVehicleOccupant",
+        "node_link": "https://datacommons.org/browser/Count_Person_InvolvedInCrash_NotMotorVehicleOccupant"
+    },
+    {
+        "node_name": "Count of the number of motorists in the crash",
+        "node_dcid": "Count_Person_InvolvedInCrash_Motorists",
+        "node_link": "https://datacommons.org/browser/Count_Person_InvolvedInCrash_Motorists"
+    },
+    {
+        "node_name": "Count of the number of non-motorists in the crash",
+        "node_dcid": "Count_Person_InvolvedInCrash_NonMotorists",
+        "node_link": "https://datacommons.org/browser/Count_Person_InvolvedInCrash_NonMotorists"
+    },
+    {
+        "node_name": "Number of motor vehicle occupants involved in crash",
+        "node_dcid": "Count_Person_InvolvedInCrash_MotorVehicleOccupant",
+        "node_link": "https://datacommons.org/browser/Count_Person_InvolvedInCrash_MotorVehicleOccupant"
+    },
+    {
+        "node_name": "\u2026 number of parked vehicle involved in crash",
+        "node_dcid": "Count_Vehicle_InvolvedInCrash_Parked",
+        "node_link": "https://datacommons.org/browser/Count_Vehicle_InvolvedInCrash_Parked"
+    },
+    {
+        "node_name": "\u2026 the number of vehicles in-transport involved in crash",
+        "node_dcid": "Count_Vehicle_InvolvedInCrash_InTransport",
+        "node_link": "https://datacommons.org/browser/Count_Vehicle_InvolvedInCrash_InTransport"
+    },
+    {
+        "node_name": "\u2026 number of parked vehicle involved in crash",
+        "node_dcid": "Count_Vehicle_InvolvedInCrash_Parked",
+        "node_link": "https://datacommons.org/browser/Count_Vehicle_InvolvedInCrash_Parked"
+    },
+    {
+        "node_name": "\u2026 the number of vehicles in-transport involved in crash",
+        "node_dcid": "Count_Vehicle_InvolvedInCrash_InTransport",
+        "node_link": "https://datacommons.org/browser/Count_Vehicle_InvolvedInCrash_InTransport"
+    },
+    {
+        "node_name": "\u2026 not related to the crash",
+        "node_dcid": "Count_VehicleCrashIncident_InvolvedInCrash_NotASchoolBus",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_InvolvedInCrash_NotASchoolBus"
+    },
+    {
+        "node_name": "\u2026 related to the crash",
+        "node_dcid": "Count_VehicleCrashIncident_InvolvedInCrash_SchoolBus",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_InvolvedInCrash_SchoolBus"
+    },
+    {
+        "node_name": "\u2026 angle collision",
+        "node_dcid": "Count_VehicleCrashIncident_CollisionCrash_AngleCollision",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_CollisionCrash_AngleCollision"
+    },
+    {
+        "node_name": "\u2026 collision not with motor vehicle in transport",
+        "node_dcid": "Count_VehicleCrashIncident_CollisionCrash_CollisionNotWithMotorVehicleInTransport",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_CollisionCrash_CollisionNotWithMotorVehicleInTransport"
+    },
+    {
+        "node_name": "\u2026 front to side opposite direction collision",
+        "node_dcid": "Count_VehicleCrashIncident_CollisionCrash_FrontToSideOppositeDirectionCollision",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_CollisionCrash_FrontToSideOppositeDirectionCollision"
+    },
+    {
+        "node_name": "\u2026 front to side same direction collision",
+        "node_dcid": "Count_VehicleCrashIncident_CollisionCrash_FrontToSideSameDirectionCollision",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_CollisionCrash_FrontToSideSameDirectionCollision"
+    },
+    {
+        "node_name": "\u2026 head on collision",
+        "node_dcid": "Count_VehicleCrashIncident_CollisionCrash_HeadOnCollision",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_CollisionCrash_HeadOnCollision"
+    },
+    {
+        "node_name": "\u2026 not reported orientation of collision",
+        "node_dcid": "Count_VehicleCrashIncident_CollisionCrash_NHTSANotReportedOrientation",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_CollisionCrash_NHTSANotReportedOrientation"
+    },
+    {
+        "node_name": "\u2026 other orientation of collision",
+        "node_dcid": "Count_VehicleCrashIncident_CollisionCrash_NHTSAOtherOrientation",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_CollisionCrash_NHTSAOtherOrientation"
+    },
+    {
+        "node_name": "\u2026 rear end collision",
+        "node_dcid": "Count_VehicleCrashIncident_CollisionCrash_RearEndCollision",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_CollisionCrash_RearEndCollision"
+    },
+    {
+        "node_name": "\u2026 rear to rear collision",
+        "node_dcid": "Count_VehicleCrashIncident_CollisionCrash_RearToRearCollision",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_CollisionCrash_RearToRearCollision"
+    },
+    {
+        "node_name": "\u2026 rear to side collision",
+        "node_dcid": "Count_VehicleCrashIncident_CollisionCrash_RearToSideCollision",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_CollisionCrash_RearToSideCollision"
+    },
+    {
+        "node_name": "\u2026 sideswipe collision",
+        "node_dcid": "Count_VehicleCrashIncident_CollisionCrash_SideswipeCollision",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_CollisionCrash_SideswipeCollision"
+    },
+    {
+        "node_name": "\u2026 sideswipe opposite direction collision",
+        "node_dcid": "Count_VehicleCrashIncident_CollisionCrash_SideswipeOppositeDirectionCollision",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_CollisionCrash_SideswipeOppositeDirectionCollision"
+    },
+    {
+        "node_name": "\u2026 sideswipe same direction collision",
+        "node_dcid": "Count_VehicleCrashIncident_CollisionCrash_SideswipeSameDirectionCollision",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_CollisionCrash_SideswipeSameDirectionCollision"
+    },
+    {
+        "node_name": "\u2026 unknown orientation of collision",
+        "node_dcid": "Count_VehicleCrashIncident_CollisionCrash_NHTSAUnknownOrientation",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_CollisionCrash_NHTSAUnknownOrientation"
+    },
+    {
+        "node_name": "\u2026 incidents on indian reservation",
+        "node_dcid": "Count_VehicleCrashIncident_IndianReservation",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_IndianReservation"
+    },
+    {
+        "node_name": "\u2026 incidents on military trafficway",
+        "node_dcid": "Count_VehicleCrashIncident_MilitaryJurisdiction",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_MilitaryJurisdiction"
+    },
+    {
+        "node_name": "\u2026 incidents on national park service trafficway",
+        "node_dcid": "Count_VehicleCrashIncident_NationalParkService",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_NationalParkService"
+    },
+    {
+        "node_name": "\u2026 incidents on no special jurisdiction",
+        "node_dcid": "Count_VehicleCrashIncident_NoSpecialJurisdiction",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_NoSpecialJurisdiction"
+    },
+    {
+        "node_name": "\u2026 incidents on other federal property",
+        "node_dcid": "Count_VehicleCrashIncident_OtherFederalProperty",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_OtherFederalProperty"
+    },
+    {
+        "node_name": "\u2026 incidents on other location",
+        "node_dcid": "Count_VehicleCrashIncident_NHTSAOtherJurisdiction",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_NHTSAOtherJurisdiction"
+    },
+    {
+        "node_name": "\u2026 incidents on unknown location",
+        "node_dcid": "Count_VehicleCrashIncident_NHTSAUnknownJurisdiction",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_NHTSAUnknownJurisdiction"
+    },
+    {
+        "node_name": "\u2026 incidentss on college or university campus",
+        "node_dcid": "Count_VehicleCrashIncident_CollegeOrUniversityCampus",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_CollegeOrUniversityCampus"
+    },
+    {
+        "node_name": "\u2026 in daylight",
+        "node_dcid": "Count_VehicleCrashIncident_Daylight",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_Daylight"
+    },
+    {
+        "node_name": "\u2026 in the dark",
+        "node_dcid": "Count_VehicleCrashIncident_Dark",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_Dark"
+    },
+    {
+        "node_name": "\u2026 in the dark with some light",
+        "node_dcid": "Count_VehicleCrashIncident_DarkButLighted",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_DarkButLighted"
+    },
+    {
+        "node_name": "\u2026 where dawn level of light at the time of the crash",
+        "node_dcid": "Count_VehicleCrashIncident_Dawn",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_Dawn"
+    },
+    {
+        "node_name": "\u2026 where dusk level of light at the time of the crash",
+        "node_dcid": "Count_VehicleCrashIncident_Dusk",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_Dusk"
+    },
+    {
+        "node_name": "\u2026 where not reported level of light at the time of the crash",
+        "node_dcid": "Count_VehicleCrashIncident_NHTSALightLevelNotReported",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_NHTSALightLevelNotReported"
+    },
+    {
+        "node_name": "\u2026 where other level of light at the time of the crash",
+        "node_dcid": "Count_VehicleCrashIncident_NHTSAOtherLightLevel",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_NHTSAOtherLightLevel"
+    },
+    {
+        "node_name": "\u2026 where unknown level of light at the time of the crash",
+        "node_dcid": "Count_VehicleCrashIncident_NHTSAUnknownLightLevel",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_NHTSAUnknownLightLevel"
+    },
+    {
+        "node_name": "\u2026 where unknown light level of light at the time of the crash",
+        "node_dcid": "Count_VehicleCrashIncident_UnknownLight",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_UnknownLight"
+    },
+    {
+        "node_name": "\u2026 incident at unknown location type",
+        "node_dcid": "Count_VehicleCrashIncident_NHTSAUnknownLocationType",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_NHTSAUnknownLocationType"
+    },
+    {
+        "node_name": "\u2026 incident on othe major arterial road",
+        "node_dcid": "Count_VehicleCrashIncident_OtherMajorArterialRoad",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_OtherMajorArterialRoad"
+    },
+    {
+        "node_name": "\u2026 incidents in parking lane",
+        "node_dcid": "Count_VehicleCrashIncident_ParkingLane",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_ParkingLane"
+    },
+    {
+        "node_name": "\u2026 incidents not reported location type",
+        "node_dcid": "Count_VehicleCrashIncident_NHTSANotReportedLocationType",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_NHTSANotReportedLocationType"
+    },
+    {
+        "node_name": "\u2026 incidents occured not on national highway",
+        "node_dcid": "Count_VehicleCrashIncident_NotOnNationalHighway",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_NotOnNationalHighway"
+    },
+    {
+        "node_name": "\u2026 incidents occured on national highway",
+        "node_dcid": "Count_VehicleCrashIncident_NationalHighway",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_NationalHighway"
+    },
+    {
+        "node_name": "\u2026 incidents off roadway",
+        "node_dcid": "Count_VehicleCrashIncident_OffRoadway",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_OffRoadway"
+    },
+    {
+        "node_name": "\u2026 incidents on US highway",
+        "node_dcid": "Count_VehicleCrashIncident_USHighway",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_USHighway"
+    },
+    {
+        "node_name": "\u2026 incidents on continuous left turn lane",
+        "node_dcid": "Count_VehicleCrashIncident_ContinuousLeftTurnLane",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_ContinuousLeftTurnLane"
+    },
+    {
+        "node_name": "\u2026 incidents on county road",
+        "node_dcid": "Count_VehicleCrashIncident_CountyRoad",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_CountyRoad"
+    },
+    {
+        "node_name": "\u2026 incidents on gore road",
+        "node_dcid": "Count_VehicleCrashIncident_GoreRoad",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_GoreRoad"
+    },
+    {
+        "node_name": "\u2026 incidents on interstate road",
+        "node_dcid": "Count_VehicleCrashIncident_InterstateRoad",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_InterstateRoad"
+    },
+    {
+        "node_name": "\u2026 incidents on local street",
+        "node_dcid": "Count_VehicleCrashIncident_LocalStreet",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_LocalStreet"
+    },
+    {
+        "node_name": "\u2026 incidents on local street frontage road",
+        "node_dcid": "Count_VehicleCrashIncident_LocalStreetFrontageRoad",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_LocalStreetFrontageRoad"
+    },
+    {
+        "node_name": "\u2026 incidents on local street municipality",
+        "node_dcid": "Count_VehicleCrashIncident_LocalStreetMunicipality",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_LocalStreetMunicipality"
+    },
+    {
+        "node_name": "\u2026 incidents on local street township",
+        "node_dcid": "Count_VehicleCrashIncident_LocalStreetTownship",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_LocalStreetTownship"
+    },
+    {
+        "node_name": "\u2026 incidents on median",
+        "node_dcid": "Count_VehicleCrashIncident_OnMedian",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_OnMedian"
+    },
+    {
+        "node_name": "\u2026 incidents on other US route",
+        "node_dcid": "Count_VehicleCrashIncident_NHTSAOtherUSRoute",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_NHTSAOtherUSRoute"
+    },
+    {
+        "node_name": "\u2026 incidents on other limited access location",
+        "node_dcid": "Count_VehicleCrashIncident_OtherLimitedAccessLocation",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_OtherLimitedAccessLocation"
+    },
+    {
+        "node_name": "\u2026 incidents on other location",
+        "node_dcid": "Count_VehicleCrashIncident_NHTSAOtherLocation",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_NHTSAOtherLocation"
+    },
+    {
+        "node_name": "\u2026 incidents on other state route",
+        "node_dcid": "Count_VehicleCrashIncident_OtherStateRoute",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_OtherStateRoute"
+    },
+    {
+        "node_name": "\u2026 incidents on outside righ to fway",
+        "node_dcid": "Count_VehicleCrashIncident_OutsideRightOfWay",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_OutsideRightOfWay"
+    },
+    {
+        "node_name": "\u2026 incidents on pedestrian refuge island or traffic island",
+        "node_dcid": "Count_VehicleCrashIncident_PedestrianRefugeIslandOrTrafficIsland",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_PedestrianRefugeIslandOrTrafficIsland"
+    },
+    {
+        "node_name": "\u2026 incidents on road separator",
+        "node_dcid": "Count_VehicleCrashIncident_RoadSeparator",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_RoadSeparator"
+    },
+    {
+        "node_name": "\u2026 incidents on roadside",
+        "node_dcid": "Count_VehicleCrashIncident_OnRoadside",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_OnRoadside"
+    },
+    {
+        "node_name": "\u2026 incidents on roadway",
+        "node_dcid": "Count_VehicleCrashIncident_OnRoadway",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_OnRoadway"
+    },
+    {
+        "node_name": "\u2026 incidents on shoulder",
+        "node_dcid": "Count_VehicleCrashIncident_OnShoulder",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_OnShoulder"
+    },
+    {
+        "node_name": "\u2026 incidents on state highway",
+        "node_dcid": "Count_VehicleCrashIncident_StateHighway",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_StateHighway"
+    },
+    {
+        "node_name": "\u2026 incidents on unknown location",
+        "node_dcid": "Count_VehicleCrashIncident_NHTSAUnknownLocation",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_NHTSAUnknownLocation"
+    },
+    {
+        "node_name": "\u2026 in construction or maintenance or utility work zone",
+        "node_dcid": "Count_VehicleCrashIncident_WorkZone_ConstructionOrMaintenanceOrUtility",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_WorkZone_ConstructionOrMaintenanceOrUtility"
+    },
+    {
+        "node_name": "\u2026 in construction work zone",
+        "node_dcid": "Count_VehicleCrashIncident_WorkZone_Construction",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_WorkZone_Construction"
+    },
+    {
+        "node_name": "\u2026 in maintenance work zone",
+        "node_dcid": "Count_VehicleCrashIncident_WorkZone_Maintenance",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_WorkZone_Maintenance"
+    },
+    {
+        "node_name": "\u2026 in utility work zone",
+        "node_dcid": "Count_VehicleCrashIncident_WorkZone_Utility",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_WorkZone_Utility"
+    },
+    {
+        "node_name": "\u2026 not reported work zone",
+        "node_dcid": "Count_VehicleCrashIncident_WorkZone_NHTSAWorkzoneNotReported",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_WorkZone_NHTSAWorkzoneNotReported"
+    },
+    {
+        "node_name": "\u2026 work zone type unknown",
+        "node_dcid": "Count_VehicleCrashIncident_WorkZone_NHTSAUnknownWorkzone",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_WorkZone_NHTSAUnknownWorkzone"
+    },
+    {
+        "node_name": "\u2026 angle collision",
+        "node_dcid": "Count_VehicleCrashIncident_CollisionCrash_AngleCollision",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_CollisionCrash_AngleCollision"
+    },
+    {
+        "node_name": "\u2026 collision not with motor vehicle in transport",
+        "node_dcid": "Count_VehicleCrashIncident_CollisionCrash_CollisionNotWithMotorVehicleInTransport",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_CollisionCrash_CollisionNotWithMotorVehicleInTransport"
+    },
+    {
+        "node_name": "\u2026 front to side opposite direction collision",
+        "node_dcid": "Count_VehicleCrashIncident_CollisionCrash_FrontToSideOppositeDirectionCollision",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_CollisionCrash_FrontToSideOppositeDirectionCollision"
+    },
+    {
+        "node_name": "\u2026 front to side same direction collision",
+        "node_dcid": "Count_VehicleCrashIncident_CollisionCrash_FrontToSideSameDirectionCollision",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_CollisionCrash_FrontToSideSameDirectionCollision"
+    },
+    {
+        "node_name": "\u2026 head on collision",
+        "node_dcid": "Count_VehicleCrashIncident_CollisionCrash_HeadOnCollision",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_CollisionCrash_HeadOnCollision"
+    },
+    {
+        "node_name": "\u2026 not reported orientation of collision",
+        "node_dcid": "Count_VehicleCrashIncident_CollisionCrash_NHTSANotReportedOrientation",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_CollisionCrash_NHTSANotReportedOrientation"
+    },
+    {
+        "node_name": "\u2026 other orientation of collision",
+        "node_dcid": "Count_VehicleCrashIncident_CollisionCrash_NHTSAOtherOrientation",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_CollisionCrash_NHTSAOtherOrientation"
+    },
+    {
+        "node_name": "\u2026 rear end collision",
+        "node_dcid": "Count_VehicleCrashIncident_CollisionCrash_RearEndCollision",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_CollisionCrash_RearEndCollision"
+    },
+    {
+        "node_name": "\u2026 rear to rear collision",
+        "node_dcid": "Count_VehicleCrashIncident_CollisionCrash_RearToRearCollision",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_CollisionCrash_RearToRearCollision"
+    },
+    {
+        "node_name": "\u2026 rear to side collision",
+        "node_dcid": "Count_VehicleCrashIncident_CollisionCrash_RearToSideCollision",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_CollisionCrash_RearToSideCollision"
+    },
+    {
+        "node_name": "\u2026 sideswipe collision",
+        "node_dcid": "Count_VehicleCrashIncident_CollisionCrash_SideswipeCollision",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_CollisionCrash_SideswipeCollision"
+    },
+    {
+        "node_name": "\u2026 sideswipe opposite direction collision",
+        "node_dcid": "Count_VehicleCrashIncident_CollisionCrash_SideswipeOppositeDirectionCollision",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_CollisionCrash_SideswipeOppositeDirectionCollision"
+    },
+    {
+        "node_name": "\u2026 sideswipe same direction collision",
+        "node_dcid": "Count_VehicleCrashIncident_CollisionCrash_SideswipeSameDirectionCollision",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_CollisionCrash_SideswipeSameDirectionCollision"
+    },
+    {
+        "node_name": "\u2026 unknown orientation of collision",
+        "node_dcid": "Count_VehicleCrashIncident_CollisionCrash_NHTSAUnknownOrientation",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_CollisionCrash_NHTSAUnknownOrientation"
+    },
+    {
+        "node_name": "\u2026 L-intersection",
+        "node_dcid": "Count_VehicleCrashIncident_LIntersection",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_LIntersection"
+    },
+    {
+        "node_name": "\u2026 T-intersection",
+        "node_dcid": "Count_VehicleCrashIncident_TIntersection",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_TIntersection"
+    },
+    {
+        "node_name": "\u2026 Y-intersection",
+        "node_dcid": "Count_VehicleCrashIncident_YIntersection",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_YIntersection"
+    },
+    {
+        "node_name": "\u2026 five point or more",
+        "node_dcid": "Count_VehicleCrashIncident_FivePointOrMore",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_FivePointOrMore"
+    },
+    {
+        "node_name": "\u2026 four way intersection",
+        "node_dcid": "Count_VehicleCrashIncident_FourWayIntersection",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_FourWayIntersection"
+    },
+    {
+        "node_name": "\u2026 not an intersection",
+        "node_dcid": "Count_VehicleCrashIncident_NotAnIntersection",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_NotAnIntersection"
+    },
+    {
+        "node_name": "\u2026 not reported intersection type",
+        "node_dcid": "Count_VehicleCrashIncident_NHTSANotReportedIntersectionType",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_NHTSANotReportedIntersectionType"
+    },
+    {
+        "node_name": "\u2026 other intersection type",
+        "node_dcid": "Count_VehicleCrashIncident_NHTSAOtherIntersectionType",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_NHTSAOtherIntersectionType"
+    },
+    {
+        "node_name": "\u2026 reported as unknown",
+        "node_dcid": "Count_VehicleCrashIncident_ReportedAsUnknown",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_ReportedAsUnknown"
+    },
+    {
+        "node_name": "\u2026 round about",
+        "node_dcid": "Count_VehicleCrashIncident_Roundabout",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_Roundabout"
+    },
+    {
+        "node_name": "\u2026 traffic circle",
+        "node_dcid": "Count_VehicleCrashIncident_TrafficCircle",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_TrafficCircle"
+    },
+    {
+        "node_name": "\u2026 unknown intersection type",
+        "node_dcid": "Count_VehicleCrashIncident_NHTSAUnknownIntersectionType",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_NHTSAUnknownIntersectionType"
+    },
+    {
+        "node_name": "\u2026 not related to the crash",
+        "node_dcid": "Count_VehicleCrashIncident_InvolvedInCrash_NotASchoolBus",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_InvolvedInCrash_NotASchoolBus"
+    },
+    {
+        "node_name": "\u2026 related to the crash",
+        "node_dcid": "Count_VehicleCrashIncident_InvolvedInCrash_SchoolBus",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_InvolvedInCrash_SchoolBus"
+    },
+    {
+        "node_name": "\u2026 blowing sand or soil or dirt atmospheric conditions existed at the time of the crash",
+        "node_dcid": "Count_VehicleCrashIncident_BlowingSandOrSoilOrDirt",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_BlowingSandOrSoilOrDirt"
+    },
+    {
+        "node_name": "\u2026 blowing snow atmospheric conditions existed at the time of the crash",
+        "node_dcid": "Count_VehicleCrashIncident_BlowingSnow",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_BlowingSnow"
+    },
+    {
+        "node_name": "\u2026 cloudy atmospheric conditions existed at the time of the crash",
+        "node_dcid": "Count_VehicleCrashIncident_Cloudy",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_Cloudy"
+    },
+    {
+        "node_name": "\u2026 fog or smoke or smog atmospheric conditions existed at the time of the crash",
+        "node_dcid": "Count_VehicleCrashIncident_FogOrSmokeOrSmog",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_FogOrSmokeOrSmog"
+    },
+    {
+        "node_name": "\u2026 freezing rain or drizzle atmospheric conditions existed at the time of the crash",
+        "node_dcid": "Count_VehicleCrashIncident_FreezingRainOrDrizzle",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_FreezingRainOrDrizzle"
+    },
+    {
+        "node_name": "\u2026 no adverse atmospheric condition existed at the time of the crash",
+        "node_dcid": "Count_VehicleCrashIncident_NoAdverseWeatherCondition",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_NoAdverseWeatherCondition"
+    },
+    {
+        "node_name": "\u2026 not reported atmospheric conditions existed at the time of the crash",
+        "node_dcid": "Count_VehicleCrashIncident_NHTSAWeatherNotReported",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_NHTSAWeatherNotReported"
+    },
+    {
+        "node_name": "\u2026 other atmospheric conditions existed at the time of the crash",
+        "node_dcid": "Count_VehicleCrashIncident_NHTSAOtherWeatherCondition",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_NHTSAOtherWeatherCondition"
+    },
+    {
+        "node_name": "\u2026 rain or mist atmospheric conditions existed at the time of the crash",
+        "node_dcid": "Count_VehicleCrashIncident_RainOrMist",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_RainOrMist"
+    },
+    {
+        "node_name": "\u2026 severe crosswind atmospheric conditions existed at the time of the crash",
+        "node_dcid": "Count_VehicleCrashIncident_SevereCrosswind",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_SevereCrosswind"
+    },
+    {
+        "node_name": "\u2026 sleet or hail atmospheric conditions existed at the time of the crash",
+        "node_dcid": "Count_VehicleCrashIncident_SleetOrHail",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_SleetOrHail"
+    },
+    {
+        "node_name": "\u2026 snow atmospheric conditions existed at the time of the crash",
+        "node_dcid": "Count_VehicleCrashIncident_Snow",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_Snow"
+    },
+    {
+        "node_name": "\u2026 unknown atmospheric conditions existed at the time of the crash",
+        "node_dcid": "Count_VehicleCrashIncident_NHTSAUnknownWeather",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_NHTSAUnknownWeather"
+    },
+    {
+        "node_name": "\u2026 in construction or maintenance or utility work zone",
+        "node_dcid": "Count_VehicleCrashIncident_WorkZone_ConstructionOrMaintenanceOrUtility",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_WorkZone_ConstructionOrMaintenanceOrUtility"
+    },
+    {
+        "node_name": "\u2026 in construction work zone",
+        "node_dcid": "Count_VehicleCrashIncident_WorkZone_Construction",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_WorkZone_Construction"
+    },
+    {
+        "node_name": "\u2026 in maintenance work zone",
+        "node_dcid": "Count_VehicleCrashIncident_WorkZone_Maintenance",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_WorkZone_Maintenance"
+    },
+    {
+        "node_name": "\u2026 in no work zone",
+        "node_dcid": "Count_VehicleCrashIncident_NotAWorkZone",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_NotAWorkZone"
+    },
+    {
+        "node_name": "\u2026 in utility work zone",
+        "node_dcid": "Count_VehicleCrashIncident_WorkZone_Utility",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_WorkZone_Utility"
+    },
+    {
+        "node_name": "\u2026 not reported work zone",
+        "node_dcid": "Count_VehicleCrashIncident_WorkZone_NHTSAWorkzoneNotReported",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_WorkZone_NHTSAWorkzoneNotReported"
+    },
+    {
+        "node_name": "\u2026 work zone type unknown",
+        "node_dcid": "Count_VehicleCrashIncident_WorkZone_NHTSAUnknownWorkzone",
+        "node_link": "https://datacommons.org/browser/Count_VehicleCrashIncident_WorkZone_NHTSAUnknownWorkzone"
+    },
+    {
+        "node_name": "Count of number of person not a motor vehicle occupant involved in crash",
+        "node_dcid": "Count_Person_InvolvedInCrash_NotMotorVehicleOccupant",
+        "node_link": "https://datacommons.org/browser/Count_Person_InvolvedInCrash_NotMotorVehicleOccupant"
+    },
+    {
+        "node_name": "Count of the number of motorists in the crash",
+        "node_dcid": "Count_Person_InvolvedInCrash_Motorists",
+        "node_link": "https://datacommons.org/browser/Count_Person_InvolvedInCrash_Motorists"
+    },
+    {
+        "node_name": "Count of the number of non-motorists in the crash",
+        "node_dcid": "Count_Person_InvolvedInCrash_NonMotorists",
+        "node_link": "https://datacommons.org/browser/Count_Person_InvolvedInCrash_NonMotorists"
+    },
+    {
+        "node_name": "Number of motor vehicle occupants involved in crash",
+        "node_dcid": "Count_Person_InvolvedInCrash_MotorVehicleOccupant",
+        "node_link": "https://datacommons.org/browser/Count_Person_InvolvedInCrash_MotorVehicleOccupant"
+    }
+]

@@ -1,0 +1,1262 @@
+[
+    {
+        "node_name": "\u2026 Coal",
+        "node_dcid": "Annual_Consumption_Coal_BricksConstructionIndustry_Coal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_BricksConstructionIndustry_Coal"
+    },
+    {
+        "node_name": "\u2026 Lignite Coal",
+        "node_dcid": "Annual_Consumption_Coal_BricksConstructionIndustry_LigniteCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_BricksConstructionIndustry_LigniteCoal"
+    },
+    {
+        "node_name": "\u2026 Middlings Coal",
+        "node_dcid": "Annual_Consumption_Coal_BricksConstructionIndustry_MiddlingsCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_BricksConstructionIndustry_MiddlingsCoal"
+    },
+    {
+        "node_name": "\u2026 Raw Coal",
+        "node_dcid": "Annual_Consumption_Coal_BricksConstructionIndustry_RawCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_BricksConstructionIndustry_RawCoal"
+    },
+    {
+        "node_name": "\u2026 Washed Coal",
+        "node_dcid": "Annual_Consumption_Coal_BricksConstructionIndustry_WashedCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_BricksConstructionIndustry_WashedCoal"
+    },
+    {
+        "node_name": "\u2026 Coal",
+        "node_dcid": "Annual_Consumption_Coal_CementConstructionIndustry_Coal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_CementConstructionIndustry_Coal"
+    },
+    {
+        "node_name": "\u2026 Lignite Coal",
+        "node_dcid": "Annual_Consumption_Coal_CementConstructionIndustry_LigniteCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_CementConstructionIndustry_LigniteCoal"
+    },
+    {
+        "node_name": "\u2026 Middlings Coal",
+        "node_dcid": "Annual_Consumption_Coal_CementConstructionIndustry_MiddlingsCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_CementConstructionIndustry_MiddlingsCoal"
+    },
+    {
+        "node_name": "\u2026 Raw Coal",
+        "node_dcid": "Annual_Consumption_Coal_CementConstructionIndustry_RawCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_CementConstructionIndustry_RawCoal"
+    },
+    {
+        "node_name": "\u2026 Washed Coal",
+        "node_dcid": "Annual_Consumption_Coal_CementConstructionIndustry_WashedCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_CementConstructionIndustry_WashedCoal"
+    },
+    {
+        "node_name": "\u2026 Coal",
+        "node_dcid": "Annual_Consumption_Coal_ChemicalPetrochemicalIndustry_Coal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_ChemicalPetrochemicalIndustry_Coal"
+    },
+    {
+        "node_name": "\u2026 Lignite Coal",
+        "node_dcid": "Annual_Consumption_Coal_ChemicalPetrochemicalIndustry_LigniteCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_ChemicalPetrochemicalIndustry_LigniteCoal"
+    },
+    {
+        "node_name": "\u2026 Middlings Coal",
+        "node_dcid": "Annual_Consumption_Coal_ChemicalPetrochemicalIndustry_MiddlingsCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_ChemicalPetrochemicalIndustry_MiddlingsCoal"
+    },
+    {
+        "node_name": "\u2026 Raw Coal",
+        "node_dcid": "Annual_Consumption_Coal_ChemicalPetrochemicalIndustry_RawCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_ChemicalPetrochemicalIndustry_RawCoal"
+    },
+    {
+        "node_name": "\u2026 Coal",
+        "node_dcid": "Annual_Consumption_Coal_CoalMines_Coal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_CoalMines_Coal"
+    },
+    {
+        "node_name": "\u2026 Middlings Coal",
+        "node_dcid": "Annual_Consumption_Coal_CoalMines_MiddlingsCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_CoalMines_MiddlingsCoal"
+    },
+    {
+        "node_name": "\u2026 Raw Coal",
+        "node_dcid": "Annual_Consumption_Coal_CoalMines_RawCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_CoalMines_RawCoal"
+    },
+    {
+        "node_name": "\u2026 Washed Coal",
+        "node_dcid": "Annual_Consumption_Coal_CoalMines_WashedCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_CoalMines_WashedCoal"
+    },
+    {
+        "node_name": "\u2026 Raw Coal",
+        "node_dcid": "Annual_Consumption_Coal_CokeOvens_RawCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_CokeOvens_RawCoal"
+    },
+    {
+        "node_name": "\u2026 Washed Coal",
+        "node_dcid": "Annual_Consumption_Coal_CokeOvens_WashedCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_CokeOvens_WashedCoal"
+    },
+    {
+        "node_name": "\u2026 Coal",
+        "node_dcid": "Annual_Consumption_Coal_ElectricityGeneration_Coal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_ElectricityGeneration_Coal"
+    },
+    {
+        "node_name": "\u2026 Lignite Coal",
+        "node_dcid": "Annual_Consumption_Coal_ElectricityGeneration_LigniteCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_ElectricityGeneration_LigniteCoal"
+    },
+    {
+        "node_name": "\u2026 Middlings Coal",
+        "node_dcid": "Annual_Consumption_Coal_ElectricityGeneration_MiddlingsCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_ElectricityGeneration_MiddlingsCoal"
+    },
+    {
+        "node_name": "\u2026 Raw Coal",
+        "node_dcid": "Annual_Consumption_Coal_ElectricityGeneration_RawCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_ElectricityGeneration_RawCoal"
+    },
+    {
+        "node_name": "\u2026 Washed Coal",
+        "node_dcid": "Annual_Consumption_Coal_ElectricityGeneration_WashedCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_ElectricityGeneration_WashedCoal"
+    },
+    {
+        "node_name": "\u2026 Coal",
+        "node_dcid": "Annual_Consumption_Coal_FertilizerIndustry_Coal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_FertilizerIndustry_Coal"
+    },
+    {
+        "node_name": "\u2026 Lignite Coal",
+        "node_dcid": "Annual_Consumption_Coal_FertilizerIndustry_LigniteCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_FertilizerIndustry_LigniteCoal"
+    },
+    {
+        "node_name": "\u2026 Raw Coal",
+        "node_dcid": "Annual_Consumption_Coal_FertilizerIndustry_RawCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_FertilizerIndustry_RawCoal"
+    },
+    {
+        "node_name": "\u2026 Coal",
+        "node_dcid": "Annual_Consumption_Coal_IndiaEDM_UnspecifiedSector_Coal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_IndiaEDM_UnspecifiedSector_Coal"
+    },
+    {
+        "node_name": "\u2026 Lignite Coal",
+        "node_dcid": "Annual_Consumption_Coal_IndiaEDM_UnspecifiedSector_LigniteCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_IndiaEDM_UnspecifiedSector_LigniteCoal"
+    },
+    {
+        "node_name": "\u2026 Middlings Coal",
+        "node_dcid": "Annual_Consumption_Coal_IndiaEDM_UnspecifiedSector_MiddlingsCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_IndiaEDM_UnspecifiedSector_MiddlingsCoal"
+    },
+    {
+        "node_name": "\u2026 Raw Coal",
+        "node_dcid": "Annual_Consumption_Coal_IndiaEDM_UnspecifiedSector_RawCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_IndiaEDM_UnspecifiedSector_RawCoal"
+    },
+    {
+        "node_name": "\u2026 Washed Coal",
+        "node_dcid": "Annual_Consumption_Coal_IndiaEDM_UnspecifiedSector_WashedCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_IndiaEDM_UnspecifiedSector_WashedCoal"
+    },
+    {
+        "node_name": "\u2026 Coal",
+        "node_dcid": "Annual_Consumption_Coal_IronSteel_Coal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_IronSteel_Coal"
+    },
+    {
+        "node_name": "\u2026 Lignite Coal",
+        "node_dcid": "Annual_Consumption_Coal_IronSteel_LigniteCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_IronSteel_LigniteCoal"
+    },
+    {
+        "node_name": "\u2026 Middlings Coal",
+        "node_dcid": "Annual_Consumption_Coal_IronSteel_MiddlingsCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_IronSteel_MiddlingsCoal"
+    },
+    {
+        "node_name": "\u2026 Raw Coal",
+        "node_dcid": "Annual_Consumption_Coal_IronSteel_RawCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_IronSteel_RawCoal"
+    },
+    {
+        "node_name": "\u2026 Washed Coal",
+        "node_dcid": "Annual_Consumption_Coal_IronSteel_WashedCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_IronSteel_WashedCoal"
+    },
+    {
+        "node_name": "\u2026 Coal",
+        "node_dcid": "Annual_Consumption_Coal_NonFerrousMetalsIndustry_Coal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_NonFerrousMetalsIndustry_Coal"
+    },
+    {
+        "node_name": "\u2026 Lignite Coal",
+        "node_dcid": "Annual_Consumption_Coal_NonFerrousMetalsIndustry_LigniteCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_NonFerrousMetalsIndustry_LigniteCoal"
+    },
+    {
+        "node_name": "\u2026 Middlings Coal",
+        "node_dcid": "Annual_Consumption_Coal_NonFerrousMetalsIndustry_MiddlingsCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_NonFerrousMetalsIndustry_MiddlingsCoal"
+    },
+    {
+        "node_name": "\u2026 Raw Coal",
+        "node_dcid": "Annual_Consumption_Coal_NonFerrousMetalsIndustry_RawCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_NonFerrousMetalsIndustry_RawCoal"
+    },
+    {
+        "node_name": "\u2026 Washed Coal",
+        "node_dcid": "Annual_Consumption_Coal_NonFerrousMetalsIndustry_WashedCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_NonFerrousMetalsIndustry_WashedCoal"
+    },
+    {
+        "node_name": "\u2026 Coal",
+        "node_dcid": "Annual_Consumption_Coal_PaperPulpPrintIndustry_Coal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_PaperPulpPrintIndustry_Coal"
+    },
+    {
+        "node_name": "\u2026 Lignite Coal",
+        "node_dcid": "Annual_Consumption_Coal_PaperPulpPrintIndustry_LigniteCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_PaperPulpPrintIndustry_LigniteCoal"
+    },
+    {
+        "node_name": "\u2026 Middlings Coal",
+        "node_dcid": "Annual_Consumption_Coal_PaperPulpPrintIndustry_MiddlingsCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_PaperPulpPrintIndustry_MiddlingsCoal"
+    },
+    {
+        "node_name": "\u2026 Raw Coal",
+        "node_dcid": "Annual_Consumption_Coal_PaperPulpPrintIndustry_RawCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_PaperPulpPrintIndustry_RawCoal"
+    },
+    {
+        "node_name": "\u2026 Coal",
+        "node_dcid": "Annual_Consumption_Coal_TextileAndLeatherIndustry_Coal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_TextileAndLeatherIndustry_Coal"
+    },
+    {
+        "node_name": "\u2026 Lignite Coal",
+        "node_dcid": "Annual_Consumption_Coal_TextileAndLeatherIndustry_LigniteCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_TextileAndLeatherIndustry_LigniteCoal"
+    },
+    {
+        "node_name": "\u2026 Raw Coal",
+        "node_dcid": "Annual_Consumption_Coal_TextileAndLeatherIndustry_RawCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_TextileAndLeatherIndustry_RawCoal"
+    },
+    {
+        "node_name": "\u2026 Washed Coal",
+        "node_dcid": "Annual_Consumption_Coal_TextileAndLeatherIndustry_WashedCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_TextileAndLeatherIndustry_WashedCoal"
+    },
+    {
+        "node_name": "\u2026 Imports of Coal: Coke Coal",
+        "node_dcid": "Annual_Imports_Coal_CokeCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Imports_Coal_CokeCoal"
+    },
+    {
+        "node_name": "\u2026 Reserves of Coal: High Sulphur Coal",
+        "node_dcid": "Annual_Reserves_Coal_HighSulphurCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Reserves_Coal_HighSulphurCoal"
+    },
+    {
+        "node_name": "\u2026 Reserves of Coal: Medium Coking Coal",
+        "node_dcid": "Annual_Reserves_Coal_MediumCokingCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Reserves_Coal_MediumCokingCoal"
+    },
+    {
+        "node_name": "\u2026 Reserves of Coal: Prime Coking Coal",
+        "node_dcid": "Annual_Reserves_Coal_PrimeCokingCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Reserves_Coal_PrimeCokingCoal"
+    },
+    {
+        "node_name": "\u2026 Reserves of Coal: Semi Coking Coal",
+        "node_dcid": "Annual_Reserves_Coal_SemiCokingCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Reserves_Coal_SemiCokingCoal"
+    },
+    {
+        "node_name": "\u2026 Bricks Construction Industry, Coal",
+        "node_dcid": "Annual_Consumption_Coal_BricksConstructionIndustry_Coal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_BricksConstructionIndustry_Coal"
+    },
+    {
+        "node_name": "\u2026 Cement Construction Industry, Coal",
+        "node_dcid": "Annual_Consumption_Coal_CementConstructionIndustry_Coal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_CementConstructionIndustry_Coal"
+    },
+    {
+        "node_name": "\u2026 Chemical Petrochemical Industry, Coal",
+        "node_dcid": "Annual_Consumption_Coal_ChemicalPetrochemicalIndustry_Coal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_ChemicalPetrochemicalIndustry_Coal"
+    },
+    {
+        "node_name": "\u2026 Coal Mines, Coal",
+        "node_dcid": "Annual_Consumption_Coal_CoalMines_Coal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_CoalMines_Coal"
+    },
+    {
+        "node_name": "\u2026 Electricity Generation, Coal",
+        "node_dcid": "Annual_Consumption_Coal_ElectricityGeneration_Coal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_ElectricityGeneration_Coal"
+    },
+    {
+        "node_name": "\u2026 Fertilizer Industry, Coal",
+        "node_dcid": "Annual_Consumption_Coal_FertilizerIndustry_Coal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_FertilizerIndustry_Coal"
+    },
+    {
+        "node_name": "\u2026 India EDM_Unspecified Sector, Coal",
+        "node_dcid": "Annual_Consumption_Coal_IndiaEDM_UnspecifiedSector_Coal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_IndiaEDM_UnspecifiedSector_Coal"
+    },
+    {
+        "node_name": "\u2026 Iron Steel, Coal",
+        "node_dcid": "Annual_Consumption_Coal_IronSteel_Coal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_IronSteel_Coal"
+    },
+    {
+        "node_name": "\u2026 Non Ferrous Metals Industry, Coal",
+        "node_dcid": "Annual_Consumption_Coal_NonFerrousMetalsIndustry_Coal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_NonFerrousMetalsIndustry_Coal"
+    },
+    {
+        "node_name": "\u2026 Paper Pulp Print Industry, Coal",
+        "node_dcid": "Annual_Consumption_Coal_PaperPulpPrintIndustry_Coal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_PaperPulpPrintIndustry_Coal"
+    },
+    {
+        "node_name": "\u2026 Textile And Leather Industry, Coal",
+        "node_dcid": "Annual_Consumption_Coal_TextileAndLeatherIndustry_Coal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_TextileAndLeatherIndustry_Coal"
+    },
+    {
+        "node_name": "\u2026 Generation of Coal: Coking Coal",
+        "node_dcid": "Annual_Generation_Coal_CokingCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Generation_Coal_CokingCoal"
+    },
+    {
+        "node_name": "\u2026 Imports of Coal: Coking Coal",
+        "node_dcid": "Annual_Imports_Coal_CokingCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Imports_Coal_CokingCoal"
+    },
+    {
+        "node_name": "\u2026 Generation of Coal: Lignite Coal",
+        "node_dcid": "Annual_Generation_Coal_LigniteCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Generation_Coal_LigniteCoal"
+    },
+    {
+        "node_name": "\u2026 Imports of Coal: Lignite Coal",
+        "node_dcid": "Annual_Imports_Coal_LigniteCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Imports_Coal_LigniteCoal"
+    },
+    {
+        "node_name": "\u2026 Bricks Construction Industry, Lignite Coal",
+        "node_dcid": "Annual_Consumption_Coal_BricksConstructionIndustry_LigniteCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_BricksConstructionIndustry_LigniteCoal"
+    },
+    {
+        "node_name": "\u2026 Cement Construction Industry, Lignite Coal",
+        "node_dcid": "Annual_Consumption_Coal_CementConstructionIndustry_LigniteCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_CementConstructionIndustry_LigniteCoal"
+    },
+    {
+        "node_name": "\u2026 Chemical Petrochemical Industry, Lignite Coal",
+        "node_dcid": "Annual_Consumption_Coal_ChemicalPetrochemicalIndustry_LigniteCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_ChemicalPetrochemicalIndustry_LigniteCoal"
+    },
+    {
+        "node_name": "\u2026 Electricity Generation, Lignite Coal",
+        "node_dcid": "Annual_Consumption_Coal_ElectricityGeneration_LigniteCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_ElectricityGeneration_LigniteCoal"
+    },
+    {
+        "node_name": "\u2026 Fertilizer Industry, Lignite Coal",
+        "node_dcid": "Annual_Consumption_Coal_FertilizerIndustry_LigniteCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_FertilizerIndustry_LigniteCoal"
+    },
+    {
+        "node_name": "\u2026 India EDM_Unspecified Sector, Lignite Coal",
+        "node_dcid": "Annual_Consumption_Coal_IndiaEDM_UnspecifiedSector_LigniteCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_IndiaEDM_UnspecifiedSector_LigniteCoal"
+    },
+    {
+        "node_name": "\u2026 Iron Steel, Lignite Coal",
+        "node_dcid": "Annual_Consumption_Coal_IronSteel_LigniteCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_IronSteel_LigniteCoal"
+    },
+    {
+        "node_name": "\u2026 Non Ferrous Metals Industry, Lignite Coal",
+        "node_dcid": "Annual_Consumption_Coal_NonFerrousMetalsIndustry_LigniteCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_NonFerrousMetalsIndustry_LigniteCoal"
+    },
+    {
+        "node_name": "\u2026 Paper Pulp Print Industry, Lignite Coal",
+        "node_dcid": "Annual_Consumption_Coal_PaperPulpPrintIndustry_LigniteCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_PaperPulpPrintIndustry_LigniteCoal"
+    },
+    {
+        "node_name": "\u2026 Textile And Leather Industry, Lignite Coal",
+        "node_dcid": "Annual_Consumption_Coal_TextileAndLeatherIndustry_LigniteCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_TextileAndLeatherIndustry_LigniteCoal"
+    },
+    {
+        "node_name": "\u2026 Bricks Construction Industry, Middlings Coal",
+        "node_dcid": "Annual_Consumption_Coal_BricksConstructionIndustry_MiddlingsCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_BricksConstructionIndustry_MiddlingsCoal"
+    },
+    {
+        "node_name": "\u2026 Cement Construction Industry, Middlings Coal",
+        "node_dcid": "Annual_Consumption_Coal_CementConstructionIndustry_MiddlingsCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_CementConstructionIndustry_MiddlingsCoal"
+    },
+    {
+        "node_name": "\u2026 Chemical Petrochemical Industry, Middlings Coal",
+        "node_dcid": "Annual_Consumption_Coal_ChemicalPetrochemicalIndustry_MiddlingsCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_ChemicalPetrochemicalIndustry_MiddlingsCoal"
+    },
+    {
+        "node_name": "\u2026 Coal Mines, Middlings Coal",
+        "node_dcid": "Annual_Consumption_Coal_CoalMines_MiddlingsCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_CoalMines_MiddlingsCoal"
+    },
+    {
+        "node_name": "\u2026 Electricity Generation, Middlings Coal",
+        "node_dcid": "Annual_Consumption_Coal_ElectricityGeneration_MiddlingsCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_ElectricityGeneration_MiddlingsCoal"
+    },
+    {
+        "node_name": "\u2026 India EDM_Unspecified Sector, Middlings Coal",
+        "node_dcid": "Annual_Consumption_Coal_IndiaEDM_UnspecifiedSector_MiddlingsCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_IndiaEDM_UnspecifiedSector_MiddlingsCoal"
+    },
+    {
+        "node_name": "\u2026 Iron Steel, Middlings Coal",
+        "node_dcid": "Annual_Consumption_Coal_IronSteel_MiddlingsCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_IronSteel_MiddlingsCoal"
+    },
+    {
+        "node_name": "\u2026 Non Ferrous Metals Industry, Middlings Coal",
+        "node_dcid": "Annual_Consumption_Coal_NonFerrousMetalsIndustry_MiddlingsCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_NonFerrousMetalsIndustry_MiddlingsCoal"
+    },
+    {
+        "node_name": "\u2026 Paper Pulp Print Industry, Middlings Coal",
+        "node_dcid": "Annual_Consumption_Coal_PaperPulpPrintIndustry_MiddlingsCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_PaperPulpPrintIndustry_MiddlingsCoal"
+    },
+    {
+        "node_name": "\u2026 Generation of Coal: Non Coking Coal",
+        "node_dcid": "Annual_Generation_Coal_NonCokingCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Generation_Coal_NonCokingCoal"
+    },
+    {
+        "node_name": "\u2026 Imports of Coal: Non Coking Coal",
+        "node_dcid": "Annual_Imports_Coal_NonCokingCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Imports_Coal_NonCokingCoal"
+    },
+    {
+        "node_name": "\u2026 Reserves of Coal: Non Coking Coal",
+        "node_dcid": "Annual_Reserves_Coal_NonCokingCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Reserves_Coal_NonCokingCoal"
+    },
+    {
+        "node_name": "\u2026 Bricks Construction Industry, Raw Coal",
+        "node_dcid": "Annual_Consumption_Coal_BricksConstructionIndustry_RawCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_BricksConstructionIndustry_RawCoal"
+    },
+    {
+        "node_name": "\u2026 Cement Construction Industry, Raw Coal",
+        "node_dcid": "Annual_Consumption_Coal_CementConstructionIndustry_RawCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_CementConstructionIndustry_RawCoal"
+    },
+    {
+        "node_name": "\u2026 Chemical Petrochemical Industry, Raw Coal",
+        "node_dcid": "Annual_Consumption_Coal_ChemicalPetrochemicalIndustry_RawCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_ChemicalPetrochemicalIndustry_RawCoal"
+    },
+    {
+        "node_name": "\u2026 Coal Mines, Raw Coal",
+        "node_dcid": "Annual_Consumption_Coal_CoalMines_RawCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_CoalMines_RawCoal"
+    },
+    {
+        "node_name": "\u2026 Coke Ovens, Raw Coal",
+        "node_dcid": "Annual_Consumption_Coal_CokeOvens_RawCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_CokeOvens_RawCoal"
+    },
+    {
+        "node_name": "\u2026 Electricity Generation, Raw Coal",
+        "node_dcid": "Annual_Consumption_Coal_ElectricityGeneration_RawCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_ElectricityGeneration_RawCoal"
+    },
+    {
+        "node_name": "\u2026 Fertilizer Industry, Raw Coal",
+        "node_dcid": "Annual_Consumption_Coal_FertilizerIndustry_RawCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_FertilizerIndustry_RawCoal"
+    },
+    {
+        "node_name": "\u2026 India EDM_Unspecified Sector, Raw Coal",
+        "node_dcid": "Annual_Consumption_Coal_IndiaEDM_UnspecifiedSector_RawCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_IndiaEDM_UnspecifiedSector_RawCoal"
+    },
+    {
+        "node_name": "\u2026 Iron Steel, Raw Coal",
+        "node_dcid": "Annual_Consumption_Coal_IronSteel_RawCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_IronSteel_RawCoal"
+    },
+    {
+        "node_name": "\u2026 Non Ferrous Metals Industry, Raw Coal",
+        "node_dcid": "Annual_Consumption_Coal_NonFerrousMetalsIndustry_RawCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_NonFerrousMetalsIndustry_RawCoal"
+    },
+    {
+        "node_name": "\u2026 Paper Pulp Print Industry, Raw Coal",
+        "node_dcid": "Annual_Consumption_Coal_PaperPulpPrintIndustry_RawCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_PaperPulpPrintIndustry_RawCoal"
+    },
+    {
+        "node_name": "\u2026 Textile And Leather Industry, Raw Coal",
+        "node_dcid": "Annual_Consumption_Coal_TextileAndLeatherIndustry_RawCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_TextileAndLeatherIndustry_RawCoal"
+    },
+    {
+        "node_name": "\u2026 Bricks Construction Industry, Washed Coal",
+        "node_dcid": "Annual_Consumption_Coal_BricksConstructionIndustry_WashedCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_BricksConstructionIndustry_WashedCoal"
+    },
+    {
+        "node_name": "\u2026 Cement Construction Industry, Washed Coal",
+        "node_dcid": "Annual_Consumption_Coal_CementConstructionIndustry_WashedCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_CementConstructionIndustry_WashedCoal"
+    },
+    {
+        "node_name": "\u2026 Coal Mines, Washed Coal",
+        "node_dcid": "Annual_Consumption_Coal_CoalMines_WashedCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_CoalMines_WashedCoal"
+    },
+    {
+        "node_name": "\u2026 Coke Ovens, Washed Coal",
+        "node_dcid": "Annual_Consumption_Coal_CokeOvens_WashedCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_CokeOvens_WashedCoal"
+    },
+    {
+        "node_name": "\u2026 Electricity Generation, Washed Coal",
+        "node_dcid": "Annual_Consumption_Coal_ElectricityGeneration_WashedCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_ElectricityGeneration_WashedCoal"
+    },
+    {
+        "node_name": "\u2026 India EDM_Unspecified Sector, Washed Coal",
+        "node_dcid": "Annual_Consumption_Coal_IndiaEDM_UnspecifiedSector_WashedCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_IndiaEDM_UnspecifiedSector_WashedCoal"
+    },
+    {
+        "node_name": "\u2026 Iron Steel, Washed Coal",
+        "node_dcid": "Annual_Consumption_Coal_IronSteel_WashedCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_IronSteel_WashedCoal"
+    },
+    {
+        "node_name": "\u2026 Non Ferrous Metals Industry, Washed Coal",
+        "node_dcid": "Annual_Consumption_Coal_NonFerrousMetalsIndustry_WashedCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_NonFerrousMetalsIndustry_WashedCoal"
+    },
+    {
+        "node_name": "\u2026 Textile And Leather Industry, Washed Coal",
+        "node_dcid": "Annual_Consumption_Coal_TextileAndLeatherIndustry_WashedCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Coal_TextileAndLeatherIndustry_WashedCoal"
+    },
+    {
+        "node_name": "\u2026 Energy Generation (All Fuels, All Sectors)",
+        "node_dcid": "Annual_Generation_Electricity",
+        "node_link": "https://datacommons.org/browser/Annual_Generation_Electricity"
+    },
+    {
+        "node_name": "\u2026 Loss of Electricity",
+        "node_dcid": "Annual_Loss_Electricity",
+        "node_link": "https://datacommons.org/browser/Annual_Loss_Electricity"
+    },
+    {
+        "node_name": "\u2026 Consumption of Electricity: for Agriculture",
+        "node_dcid": "Annual_Consumption_Electricity_Agriculture",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Electricity_Agriculture"
+    },
+    {
+        "node_name": "\u2026 Generation of Electricity: for Agriculture",
+        "node_dcid": "Annual_Generation_Electricity_Agriculture",
+        "node_link": "https://datacommons.org/browser/Annual_Generation_Electricity_Agriculture"
+    },
+    {
+        "node_name": "\u2026 Consumption of Electricity: for Commerce And Public Services",
+        "node_dcid": "Annual_Consumption_Electricity_CommerceAndPublicServices",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Electricity_CommerceAndPublicServices"
+    },
+    {
+        "node_name": "\u2026 Generation of Electricity: for Commerce And Public Services",
+        "node_dcid": "Annual_Generation_Electricity_CommerceAndPublicServices",
+        "node_link": "https://datacommons.org/browser/Annual_Generation_Electricity_CommerceAndPublicServices"
+    },
+    {
+        "node_name": "\u2026 Consumption of Electricity: for Energy Industry Own Use",
+        "node_dcid": "Annual_Consumption_Electricity_EnergyIndustryOwnUse",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Electricity_EnergyIndustryOwnUse"
+    },
+    {
+        "node_name": "\u2026 Generation of Electricity: for Energy Industry Own Use",
+        "node_dcid": "Annual_Generation_Electricity_EnergyIndustryOwnUse",
+        "node_link": "https://datacommons.org/browser/Annual_Generation_Electricity_EnergyIndustryOwnUse"
+    },
+    {
+        "node_name": "\u2026 Consumption of Electricity: for Households",
+        "node_dcid": "Annual_Consumption_Electricity_Households",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Electricity_Households"
+    },
+    {
+        "node_name": "\u2026 Generation of Electricity: for Households",
+        "node_dcid": "Annual_Generation_Electricity_Households",
+        "node_link": "https://datacommons.org/browser/Annual_Generation_Electricity_Households"
+    },
+    {
+        "node_name": "\u2026 Consumption of Electricity: for India EDM_Unspecified Sector",
+        "node_dcid": "Annual_Consumption_Electricity_IndiaEDM_UnspecifiedSector",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Electricity_IndiaEDM_UnspecifiedSector"
+    },
+    {
+        "node_name": "\u2026 Generation of Electricity: for India EDM_Unspecified Sector",
+        "node_dcid": "Annual_Generation_Electricity_IndiaEDM_UnspecifiedSector",
+        "node_link": "https://datacommons.org/browser/Annual_Generation_Electricity_IndiaEDM_UnspecifiedSector"
+    },
+    {
+        "node_name": "\u2026 Consumption of Electricity: for Industry",
+        "node_dcid": "Annual_Consumption_Electricity_Industry",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Electricity_Industry"
+    },
+    {
+        "node_name": "\u2026 Generation of Electricity: for Industry",
+        "node_dcid": "Annual_Generation_Electricity_Industry",
+        "node_link": "https://datacommons.org/browser/Annual_Generation_Electricity_Industry"
+    },
+    {
+        "node_name": "\u2026 Lignite Coal",
+        "node_dcid": "Annual_Generation_Electricity_LigniteCoal",
+        "node_link": "https://datacommons.org/browser/Annual_Generation_Electricity_LigniteCoal"
+    },
+    {
+        "node_name": "\u2026 Naphtha",
+        "node_dcid": "Annual_Generation_Electricity_Naphtha",
+        "node_link": "https://datacommons.org/browser/Annual_Generation_Electricity_Naphtha"
+    },
+    {
+        "node_name": "\u2026 Capacity of Electricity: From Bagasse",
+        "node_dcid": "Annual_Capacity_Electricity_Bagasse",
+        "node_link": "https://datacommons.org/browser/Annual_Capacity_Electricity_Bagasse"
+    },
+    {
+        "node_name": "\u2026 Generation of Electricity: From Bagasse",
+        "node_dcid": "Annual_Generation_Electricity_Bagasse",
+        "node_link": "https://datacommons.org/browser/Annual_Generation_Electricity_Bagasse"
+    },
+    {
+        "node_name": "\u2026 Potential Capacity of Electricity: From Bagasse",
+        "node_dcid": "Annual_PotentialCapacity_Electricity_Bagasse",
+        "node_link": "https://datacommons.org/browser/Annual_PotentialCapacity_Electricity_Bagasse"
+    },
+    {
+        "node_name": "Annual Capacity of Electricity: From Coal",
+        "node_dcid": "Annual_Capacity_Electricity_Coal",
+        "node_link": "https://datacommons.org/browser/Annual_Capacity_Electricity_Coal"
+    },
+    {
+        "node_name": "Net generation, coal, all sectors, annual",
+        "node_dcid": "Annual_Generation_Electricity_Coal",
+        "node_link": "https://datacommons.org/browser/Annual_Generation_Electricity_Coal"
+    },
+    {
+        "node_name": "Annual Capacity of Electricity: From Conventional Hydroelectric",
+        "node_dcid": "Annual_Capacity_Electricity_ConventionalHydroelectric",
+        "node_link": "https://datacommons.org/browser/Annual_Capacity_Electricity_ConventionalHydroelectric"
+    },
+    {
+        "node_name": "Annual Potential Capacity of Electricity: From Conventional Hydroelectric",
+        "node_dcid": "Annual_PotentialCapacity_Electricity_ConventionalHydroelectric",
+        "node_link": "https://datacommons.org/browser/Annual_PotentialCapacity_Electricity_ConventionalHydroelectric"
+    },
+    {
+        "node_name": "Net generation, conventional hydroelectric, all sectors, annual",
+        "node_dcid": "Annual_Generation_Electricity_ConventionalHydroelectric",
+        "node_link": "https://datacommons.org/browser/Annual_Generation_Electricity_ConventionalHydroelectric"
+    },
+    {
+        "node_name": "\u2026 Capacity of Electricity: From Diesel Oil",
+        "node_dcid": "Annual_Capacity_Electricity_DieselOil",
+        "node_link": "https://datacommons.org/browser/Annual_Capacity_Electricity_DieselOil"
+    },
+    {
+        "node_name": "\u2026 Generation of Electricity: From Diesel Oil",
+        "node_dcid": "Annual_Generation_Electricity_DieselOil",
+        "node_link": "https://datacommons.org/browser/Annual_Generation_Electricity_DieselOil"
+    },
+    {
+        "node_name": "Annual Capacity of Electricity: From Natural Gas",
+        "node_dcid": "Annual_Capacity_Electricity_NaturalGas",
+        "node_link": "https://datacommons.org/browser/Annual_Capacity_Electricity_NaturalGas"
+    },
+    {
+        "node_name": "Net generation, natural gas, all sectors, annual",
+        "node_dcid": "Annual_Generation_Electricity_NaturalGas",
+        "node_link": "https://datacommons.org/browser/Annual_Generation_Electricity_NaturalGas"
+    },
+    {
+        "node_name": "\u2026 Capacity of Electricity: From Non Renewable Waste",
+        "node_dcid": "Annual_Capacity_Electricity_NonRenewableWaste",
+        "node_link": "https://datacommons.org/browser/Annual_Capacity_Electricity_NonRenewableWaste"
+    },
+    {
+        "node_name": "\u2026 Generation of Electricity: From Non Renewable Waste",
+        "node_dcid": "Annual_Generation_Electricity_NonRenewableWaste",
+        "node_link": "https://datacommons.org/browser/Annual_Generation_Electricity_NonRenewableWaste"
+    },
+    {
+        "node_name": "\u2026 Potential Capacity of Electricity: From Non Renewable Waste",
+        "node_dcid": "Annual_PotentialCapacity_Electricity_NonRenewableWaste",
+        "node_link": "https://datacommons.org/browser/Annual_PotentialCapacity_Electricity_NonRenewableWaste"
+    },
+    {
+        "node_name": "Annual Capacity of Electricity: From Nuclear",
+        "node_dcid": "Annual_Capacity_Electricity_Nuclear",
+        "node_link": "https://datacommons.org/browser/Annual_Capacity_Electricity_Nuclear"
+    },
+    {
+        "node_name": "Net generation, nuclear, all sectors, annual",
+        "node_dcid": "Annual_Generation_Electricity_Nuclear",
+        "node_link": "https://datacommons.org/browser/Annual_Generation_Electricity_Nuclear"
+    },
+    {
+        "node_name": "Annual Potential Capacity of Electricity: From Other Biomass",
+        "node_dcid": "Annual_PotentialCapacity_Electricity_OtherBiomass",
+        "node_link": "https://datacommons.org/browser/Annual_PotentialCapacity_Electricity_OtherBiomass"
+    },
+    {
+        "node_name": "Annual Capacity of Electricity: From Renewable Energy",
+        "node_dcid": "Annual_Capacity_Electricity_RenewableEnergy",
+        "node_link": "https://datacommons.org/browser/Annual_Capacity_Electricity_RenewableEnergy"
+    },
+    {
+        "node_name": "Net generation, other renewables (total), all sectors, annual",
+        "node_dcid": "Annual_Generation_Electricity_RenewableEnergy",
+        "node_link": "https://datacommons.org/browser/Annual_Generation_Electricity_RenewableEnergy"
+    },
+    {
+        "node_name": "\u2026 Capacity of Electricity: From Small Hydroelectric",
+        "node_dcid": "Annual_Capacity_Electricity_SmallHydroelectric",
+        "node_link": "https://datacommons.org/browser/Annual_Capacity_Electricity_SmallHydroelectric"
+    },
+    {
+        "node_name": "\u2026 Generation of Electricity: From Small Hydroelectric",
+        "node_dcid": "Annual_Generation_Electricity_SmallHydroelectric",
+        "node_link": "https://datacommons.org/browser/Annual_Generation_Electricity_SmallHydroelectric"
+    },
+    {
+        "node_name": "\u2026 Potential Capacity of Electricity: From Small Hydroelectric",
+        "node_dcid": "Annual_PotentialCapacity_Electricity_SmallHydroelectric",
+        "node_link": "https://datacommons.org/browser/Annual_PotentialCapacity_Electricity_SmallHydroelectric"
+    },
+    {
+        "node_name": "Annual Capacity of Electricity: From Solar",
+        "node_dcid": "Annual_Capacity_Electricity_Solar",
+        "node_link": "https://datacommons.org/browser/Annual_Capacity_Electricity_Solar"
+    },
+    {
+        "node_name": "Annual Potential Capacity of Electricity: From Solar",
+        "node_dcid": "Annual_PotentialCapacity_Electricity_Solar",
+        "node_link": "https://datacommons.org/browser/Annual_PotentialCapacity_Electricity_Solar"
+    },
+    {
+        "node_name": "Net generation, all solar, all sectors, annual",
+        "node_dcid": "Annual_Generation_Electricity_Solar",
+        "node_link": "https://datacommons.org/browser/Annual_Generation_Electricity_Solar"
+    },
+    {
+        "node_name": "Annual Capacity of Electricity: From Wind",
+        "node_dcid": "Annual_Capacity_Electricity_Wind",
+        "node_link": "https://datacommons.org/browser/Annual_Capacity_Electricity_Wind"
+    },
+    {
+        "node_name": "Annual Potential Capacity of Electricity: From Wind",
+        "node_dcid": "Annual_PotentialCapacity_Electricity_Wind",
+        "node_link": "https://datacommons.org/browser/Annual_PotentialCapacity_Electricity_Wind"
+    },
+    {
+        "node_name": "Net generation, wind, all sectors, annual",
+        "node_dcid": "Annual_Generation_Electricity_Wind",
+        "node_link": "https://datacommons.org/browser/Annual_Generation_Electricity_Wind"
+    },
+    {
+        "node_name": "Electricity Consumers in a Year",
+        "node_dcid": "Annual_Count_ElectricityConsumer",
+        "node_link": "https://datacommons.org/browser/Annual_Count_ElectricityConsumer"
+    },
+    {
+        "node_name": "\u2026 Energy Industry Own Use, Natural Gas",
+        "node_dcid": "Annual_Consumption_Fuel_EnergyIndustryOwnUse_NaturalGas",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Fuel_EnergyIndustryOwnUse_NaturalGas"
+    },
+    {
+        "node_name": "\u2026 Non Energy Industry, Fuel Oil",
+        "node_dcid": "Annual_Consumption_Fuel_NonEnergyIndustry_FuelOil",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Fuel_NonEnergyIndustry_FuelOil"
+    },
+    {
+        "node_name": "\u2026 Oil Gas Imports, Fuel Oil",
+        "node_dcid": "Annual_Consumption_Fuel_OilGasImports_FuelOil",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Fuel_OilGasImports_FuelOil"
+    },
+    {
+        "node_name": "\u2026 Oil Gas Sales, Fuel Oil",
+        "node_dcid": "Annual_Consumption_Fuel_OilGasSales_FuelOil",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Fuel_OilGasSales_FuelOil"
+    },
+    {
+        "node_name": "\u2026 Retail Industry, Fuel Oil",
+        "node_dcid": "Annual_Consumption_Fuel_RetailIndustry_FuelOil",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Fuel_RetailIndustry_FuelOil"
+    },
+    {
+        "node_name": "\u2026 Tea Industry, Natural Gas",
+        "node_dcid": "Annual_Consumption_Fuel_TeaIndustry_NaturalGas",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Fuel_TeaIndustry_NaturalGas"
+    },
+    {
+        "node_name": "\u2026 Fuel Oil",
+        "node_dcid": "Annual_Consumption_Fuel_Agriculture_FuelOil",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Fuel_Agriculture_FuelOil"
+    },
+    {
+        "node_name": "\u2026 Natural Gas",
+        "node_dcid": "Annual_Consumption_Fuel_Agriculture_NaturalGas",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Fuel_Agriculture_NaturalGas"
+    },
+    {
+        "node_name": "\u2026 Fuel Oil",
+        "node_dcid": "Annual_Consumption_Fuel_ChemicalPetrochemicalIndustry_FuelOil",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Fuel_ChemicalPetrochemicalIndustry_FuelOil"
+    },
+    {
+        "node_name": "\u2026 Natural Gas",
+        "node_dcid": "Annual_Consumption_Fuel_ChemicalPetrochemicalIndustry_NaturalGas",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Fuel_ChemicalPetrochemicalIndustry_NaturalGas"
+    },
+    {
+        "node_name": "Annual Consumption of Fuel: Commerce And Public Services, Natural Gas",
+        "node_dcid": "Annual_Consumption_Fuel_CommerceAndPublicServices_NaturalGas",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Fuel_CommerceAndPublicServices_NaturalGas"
+    },
+    {
+        "node_name": "Annual Consumption of Fuel: Electricity Generation, Fuel Oil",
+        "node_dcid": "Annual_Consumption_Fuel_ElectricityGeneration_FuelOil",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Fuel_ElectricityGeneration_FuelOil"
+    },
+    {
+        "node_name": "Annual Consumption of Fuel: Electricity Generation, Natural Gas",
+        "node_dcid": "Annual_Consumption_Fuel_ElectricityGeneration_NaturalGas",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Fuel_ElectricityGeneration_NaturalGas"
+    },
+    {
+        "node_name": "\u2026 Fuel Oil",
+        "node_dcid": "Annual_Consumption_Fuel_FertilizerIndustry_FuelOil",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Fuel_FertilizerIndustry_FuelOil"
+    },
+    {
+        "node_name": "\u2026 Natural Gas",
+        "node_dcid": "Annual_Consumption_Fuel_FertilizerIndustry_NaturalGas",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Fuel_FertilizerIndustry_NaturalGas"
+    },
+    {
+        "node_name": "\u2026 Fuel Oil",
+        "node_dcid": "Annual_Consumption_Fuel_Households_FuelOil",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Fuel_Households_FuelOil"
+    },
+    {
+        "node_name": "\u2026 Natural Gas",
+        "node_dcid": "Annual_Consumption_Fuel_Households_NaturalGas",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Fuel_Households_NaturalGas"
+    },
+    {
+        "node_name": "\u2026 Fuel Oil",
+        "node_dcid": "Annual_Consumption_Fuel_IndiaEDM_UnspecifiedSector_FuelOil",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Fuel_IndiaEDM_UnspecifiedSector_FuelOil"
+    },
+    {
+        "node_name": "\u2026 Natural Gas",
+        "node_dcid": "Annual_Consumption_Fuel_IndiaEDM_UnspecifiedSector_NaturalGas",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Fuel_IndiaEDM_UnspecifiedSector_NaturalGas"
+    },
+    {
+        "node_name": "Annual Consumption of Fuel: Industry, Fuel Oil",
+        "node_dcid": "Annual_Consumption_Fuel_Industry_FuelOil",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Fuel_Industry_FuelOil"
+    },
+    {
+        "node_name": "Annual Consumption of Fuel: Industry, Natural Gas",
+        "node_dcid": "Annual_Consumption_Fuel_Industry_NaturalGas",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Fuel_Industry_NaturalGas"
+    },
+    {
+        "node_name": "\u2026 Fuel Oil",
+        "node_dcid": "Annual_Consumption_Fuel_IronSteel_FuelOil",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Fuel_IronSteel_FuelOil"
+    },
+    {
+        "node_name": "\u2026 Natural Gas",
+        "node_dcid": "Annual_Consumption_Fuel_IronSteel_NaturalGas",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Fuel_IronSteel_NaturalGas"
+    },
+    {
+        "node_name": "\u2026 Fuel Oil",
+        "node_dcid": "Annual_Consumption_Fuel_Manufacturing_FuelOil",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Fuel_Manufacturing_FuelOil"
+    },
+    {
+        "node_name": "\u2026 Natural Gas",
+        "node_dcid": "Annual_Consumption_Fuel_Manufacturing_NaturalGas",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Fuel_Manufacturing_NaturalGas"
+    },
+    {
+        "node_name": "Annual Consumption of Fuel: Mining And Quarrying Industry, Fuel Oil",
+        "node_dcid": "Annual_Consumption_Fuel_MiningAndQuarryingIndustry_FuelOil",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Fuel_MiningAndQuarryingIndustry_FuelOil"
+    },
+    {
+        "node_name": "Annual Consumption of Fuel: Oil Gas Extraction, Natural Gas",
+        "node_dcid": "Annual_Consumption_Fuel_OilGasExtraction_NaturalGas",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Fuel_OilGasExtraction_NaturalGas"
+    },
+    {
+        "node_name": "Annual Consumption of Fuel: Oil Refineries, Fuel Oil",
+        "node_dcid": "Annual_Consumption_Fuel_OilRefineries_FuelOil",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Fuel_OilRefineries_FuelOil"
+    },
+    {
+        "node_name": "Annual Consumption of Fuel: Oil Refineries, Natural Gas",
+        "node_dcid": "Annual_Consumption_Fuel_OilRefineries_NaturalGas",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Fuel_OilRefineries_NaturalGas"
+    },
+    {
+        "node_name": "\u2026 Fuel Oil",
+        "node_dcid": "Annual_Consumption_Fuel_TransportIndustry_FuelOil",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Fuel_TransportIndustry_FuelOil"
+    },
+    {
+        "node_name": "\u2026 Natural Gas",
+        "node_dcid": "Annual_Consumption_Fuel_TransportIndustry_NaturalGas",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Fuel_TransportIndustry_NaturalGas"
+    },
+    {
+        "node_name": "Monthly Imports of Fuel: Motor Gasoline",
+        "node_dcid": "Monthly_Imports_Fuel_MotorGasoline",
+        "node_link": "https://datacommons.org/browser/Monthly_Imports_Fuel_MotorGasoline"
+    },
+    {
+        "node_name": "\u2026 Generation of Fuel: EIA_Coal Derived Synthesis Gas",
+        "node_dcid": "Monthly_Generation_Fuel_EIA_CoalDerivedSynthesisGas",
+        "node_link": "https://datacommons.org/browser/Monthly_Generation_Fuel_EIA_CoalDerivedSynthesisGas"
+    },
+    {
+        "node_name": "\u2026 Imports of Fuel: India EDM_Other Oil Products",
+        "node_dcid": "Monthly_Imports_Fuel_IndiaEDM_OtherOilProducts",
+        "node_link": "https://datacommons.org/browser/Monthly_Imports_Fuel_IndiaEDM_OtherOilProducts"
+    },
+    {
+        "node_name": "\u2026 Imports of Fuel: Oil Shale And Tar Sands",
+        "node_dcid": "Monthly_Imports_Fuel_OilShaleAndTarSands",
+        "node_link": "https://datacommons.org/browser/Monthly_Imports_Fuel_OilShaleAndTarSands"
+    },
+    {
+        "node_name": "Annual Capacity of Fuel: Crude Oil",
+        "node_dcid": "Annual_Capacity_Fuel_CrudeOil",
+        "node_link": "https://datacommons.org/browser/Annual_Capacity_Fuel_CrudeOil"
+    },
+    {
+        "node_name": "Monthly Imports of Fuel: Diesel Oil",
+        "node_dcid": "Monthly_Imports_Fuel_DieselOil",
+        "node_link": "https://datacommons.org/browser/Monthly_Imports_Fuel_DieselOil"
+    },
+    {
+        "node_name": "Monthly Imports of Fuel: EIA_Kerosene",
+        "node_dcid": "Monthly_Imports_Fuel_EIA_Kerosene",
+        "node_link": "https://datacommons.org/browser/Monthly_Imports_Fuel_EIA_Kerosene"
+    },
+    {
+        "node_name": "Monthly Imports of Fuel: Fuel Oil",
+        "node_dcid": "Monthly_Imports_Fuel_FuelOil",
+        "node_link": "https://datacommons.org/browser/Monthly_Imports_Fuel_FuelOil"
+    },
+    {
+        "node_name": "\u2026 Agriculture, Fuel Oil",
+        "node_dcid": "Annual_Consumption_Fuel_Agriculture_FuelOil",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Fuel_Agriculture_FuelOil"
+    },
+    {
+        "node_name": "\u2026 Chemical Petrochemical Industry, Fuel Oil",
+        "node_dcid": "Annual_Consumption_Fuel_ChemicalPetrochemicalIndustry_FuelOil",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Fuel_ChemicalPetrochemicalIndustry_FuelOil"
+    },
+    {
+        "node_name": "\u2026 Fertilizer Industry, Fuel Oil",
+        "node_dcid": "Annual_Consumption_Fuel_FertilizerIndustry_FuelOil",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Fuel_FertilizerIndustry_FuelOil"
+    },
+    {
+        "node_name": "\u2026 Households, Fuel Oil",
+        "node_dcid": "Annual_Consumption_Fuel_Households_FuelOil",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Fuel_Households_FuelOil"
+    },
+    {
+        "node_name": "\u2026 India EDM_Unspecified Sector, Fuel Oil",
+        "node_dcid": "Annual_Consumption_Fuel_IndiaEDM_UnspecifiedSector_FuelOil",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Fuel_IndiaEDM_UnspecifiedSector_FuelOil"
+    },
+    {
+        "node_name": "\u2026 Iron Steel, Fuel Oil",
+        "node_dcid": "Annual_Consumption_Fuel_IronSteel_FuelOil",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Fuel_IronSteel_FuelOil"
+    },
+    {
+        "node_name": "\u2026 Manufacturing, Fuel Oil",
+        "node_dcid": "Annual_Consumption_Fuel_Manufacturing_FuelOil",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Fuel_Manufacturing_FuelOil"
+    },
+    {
+        "node_name": "\u2026 Mining And Quarrying Industry, Fuel Oil",
+        "node_dcid": "Annual_Consumption_Fuel_MiningAndQuarryingIndustry_FuelOil",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Fuel_MiningAndQuarryingIndustry_FuelOil"
+    },
+    {
+        "node_name": "\u2026 Non Energy Industry, Fuel Oil",
+        "node_dcid": "Annual_Consumption_Fuel_NonEnergyIndustry_FuelOil",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Fuel_NonEnergyIndustry_FuelOil"
+    },
+    {
+        "node_name": "\u2026 Oil Gas Imports, Fuel Oil",
+        "node_dcid": "Annual_Consumption_Fuel_OilGasImports_FuelOil",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Fuel_OilGasImports_FuelOil"
+    },
+    {
+        "node_name": "\u2026 Oil Gas Sales, Fuel Oil",
+        "node_dcid": "Annual_Consumption_Fuel_OilGasSales_FuelOil",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Fuel_OilGasSales_FuelOil"
+    },
+    {
+        "node_name": "\u2026 Retail Industry, Fuel Oil",
+        "node_dcid": "Annual_Consumption_Fuel_RetailIndustry_FuelOil",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Fuel_RetailIndustry_FuelOil"
+    },
+    {
+        "node_name": "\u2026 Transport Industry, Fuel Oil",
+        "node_dcid": "Annual_Consumption_Fuel_TransportIndustry_FuelOil",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Fuel_TransportIndustry_FuelOil"
+    },
+    {
+        "node_name": "Annual Consumption of Fuel: Electricity Generation, Fuel Oil",
+        "node_dcid": "Annual_Consumption_Fuel_ElectricityGeneration_FuelOil",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Fuel_ElectricityGeneration_FuelOil"
+    },
+    {
+        "node_name": "Annual Consumption of Fuel: Industry, Fuel Oil",
+        "node_dcid": "Annual_Consumption_Fuel_Industry_FuelOil",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Fuel_Industry_FuelOil"
+    },
+    {
+        "node_name": "Annual Consumption of Fuel: Oil Refineries, Fuel Oil",
+        "node_dcid": "Annual_Consumption_Fuel_OilRefineries_FuelOil",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Fuel_OilRefineries_FuelOil"
+    },
+    {
+        "node_name": "Monthly Imports of Fuel: Gasoline Jet Fuel",
+        "node_dcid": "Monthly_Imports_Fuel_GasolineJetFuel",
+        "node_link": "https://datacommons.org/browser/Monthly_Imports_Fuel_GasolineJetFuel"
+    },
+    {
+        "node_name": "Annual Capacity of Fuel: Liquefied Petroleum Gas",
+        "node_dcid": "Annual_Capacity_Fuel_LiquefiedPetroleumGas",
+        "node_link": "https://datacommons.org/browser/Annual_Capacity_Fuel_LiquefiedPetroleumGas"
+    },
+    {
+        "node_name": "Monthly Imports of Fuel: Liquefied Petroleum Gas",
+        "node_dcid": "Monthly_Imports_Fuel_LiquefiedPetroleumGas",
+        "node_link": "https://datacommons.org/browser/Monthly_Imports_Fuel_LiquefiedPetroleumGas"
+    },
+    {
+        "node_name": "Monthly Imports of Fuel: Lubricants",
+        "node_dcid": "Monthly_Imports_Fuel_Lubricants",
+        "node_link": "https://datacommons.org/browser/Monthly_Imports_Fuel_Lubricants"
+    },
+    {
+        "node_name": "Monthly Imports of Fuel: Naphtha",
+        "node_dcid": "Monthly_Imports_Fuel_Naphtha",
+        "node_link": "https://datacommons.org/browser/Monthly_Imports_Fuel_Naphtha"
+    },
+    {
+        "node_name": "Annual Generation of Fuel: Natural Gas",
+        "node_dcid": "Annual_Generation_Fuel_NaturalGas",
+        "node_link": "https://datacommons.org/browser/Annual_Generation_Fuel_NaturalGas"
+    },
+    {
+        "node_name": "Monthly Generation of Fuel: Natural Gas",
+        "node_dcid": "Monthly_Generation_Fuel_NaturalGas",
+        "node_link": "https://datacommons.org/browser/Monthly_Generation_Fuel_NaturalGas"
+    },
+    {
+        "node_name": "\u2026 Agriculture, Natural Gas",
+        "node_dcid": "Annual_Consumption_Fuel_Agriculture_NaturalGas",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Fuel_Agriculture_NaturalGas"
+    },
+    {
+        "node_name": "\u2026 Chemical Petrochemical Industry, Natural Gas",
+        "node_dcid": "Annual_Consumption_Fuel_ChemicalPetrochemicalIndustry_NaturalGas",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Fuel_ChemicalPetrochemicalIndustry_NaturalGas"
+    },
+    {
+        "node_name": "\u2026 Commerce And Public Services, Natural Gas",
+        "node_dcid": "Annual_Consumption_Fuel_CommerceAndPublicServices_NaturalGas",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Fuel_CommerceAndPublicServices_NaturalGas"
+    },
+    {
+        "node_name": "\u2026 Energy Industry Own Use, Natural Gas",
+        "node_dcid": "Annual_Consumption_Fuel_EnergyIndustryOwnUse_NaturalGas",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Fuel_EnergyIndustryOwnUse_NaturalGas"
+    },
+    {
+        "node_name": "\u2026 Fertilizer Industry, Natural Gas",
+        "node_dcid": "Annual_Consumption_Fuel_FertilizerIndustry_NaturalGas",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Fuel_FertilizerIndustry_NaturalGas"
+    },
+    {
+        "node_name": "\u2026 Households, Natural Gas",
+        "node_dcid": "Annual_Consumption_Fuel_Households_NaturalGas",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Fuel_Households_NaturalGas"
+    },
+    {
+        "node_name": "\u2026 India EDM_Unspecified Sector, Natural Gas",
+        "node_dcid": "Annual_Consumption_Fuel_IndiaEDM_UnspecifiedSector_NaturalGas",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Fuel_IndiaEDM_UnspecifiedSector_NaturalGas"
+    },
+    {
+        "node_name": "\u2026 Iron Steel, Natural Gas",
+        "node_dcid": "Annual_Consumption_Fuel_IronSteel_NaturalGas",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Fuel_IronSteel_NaturalGas"
+    },
+    {
+        "node_name": "\u2026 Manufacturing, Natural Gas",
+        "node_dcid": "Annual_Consumption_Fuel_Manufacturing_NaturalGas",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Fuel_Manufacturing_NaturalGas"
+    },
+    {
+        "node_name": "\u2026 Tea Industry, Natural Gas",
+        "node_dcid": "Annual_Consumption_Fuel_TeaIndustry_NaturalGas",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Fuel_TeaIndustry_NaturalGas"
+    },
+    {
+        "node_name": "\u2026 Transport Industry, Natural Gas",
+        "node_dcid": "Annual_Consumption_Fuel_TransportIndustry_NaturalGas",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Fuel_TransportIndustry_NaturalGas"
+    },
+    {
+        "node_name": "Annual Consumption of Fuel: Electricity Generation, Natural Gas",
+        "node_dcid": "Annual_Consumption_Fuel_ElectricityGeneration_NaturalGas",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Fuel_ElectricityGeneration_NaturalGas"
+    },
+    {
+        "node_name": "Annual Consumption of Fuel: Industry, Natural Gas",
+        "node_dcid": "Annual_Consumption_Fuel_Industry_NaturalGas",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Fuel_Industry_NaturalGas"
+    },
+    {
+        "node_name": "Annual Consumption of Fuel: Oil Gas Extraction, Natural Gas",
+        "node_dcid": "Annual_Consumption_Fuel_OilGasExtraction_NaturalGas",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Fuel_OilGasExtraction_NaturalGas"
+    },
+    {
+        "node_name": "Annual Consumption of Fuel: Oil Refineries, Natural Gas",
+        "node_dcid": "Annual_Consumption_Fuel_OilRefineries_NaturalGas",
+        "node_link": "https://datacommons.org/browser/Annual_Consumption_Fuel_OilRefineries_NaturalGas"
+    },
+    {
+        "node_name": "Annual Imports of Fuel: Natural Gas Liquids",
+        "node_dcid": "Annual_Imports_Fuel_NaturalGasLiquids",
+        "node_link": "https://datacommons.org/browser/Annual_Imports_Fuel_NaturalGasLiquids"
+    },
+    {
+        "node_name": "Monthly Imports of Fuel: Petroleum Coke",
+        "node_dcid": "Monthly_Imports_Fuel_PetroleumCoke",
+        "node_link": "https://datacommons.org/browser/Monthly_Imports_Fuel_PetroleumCoke"
+    },
+    {
+        "node_name": "Annual Capacity of Fuel: Petroleum Liquids",
+        "node_dcid": "Annual_Capacity_Fuel_PetroleumLiquids",
+        "node_link": "https://datacommons.org/browser/Annual_Capacity_Fuel_PetroleumLiquids"
+    },
+    {
+        "node_name": "Annual Energy Generation (All Fuels, All Sectors)",
+        "node_dcid": "Annual_Generation_Electricity",
+        "node_link": "https://datacommons.org/browser/Annual_Generation_Electricity"
+    },
+    {
+        "node_name": "Annual Energy Generation (All Fuels, All Sectors)",
+        "node_dcid": "Annual_Generation_Electricity",
+        "node_link": "https://datacommons.org/browser/Annual_Generation_Electricity"
+    },
+    {
+        "node_name": "Annual Energy Generation (All Fuels, All Sectors)",
+        "node_dcid": "Annual_Generation_Electricity",
+        "node_link": "https://datacommons.org/browser/Annual_Generation_Electricity"
+    },
+    {
+        "node_name": "Net generation, all solar, all sectors, annual",
+        "node_dcid": "Annual_Generation_Electricity_Solar",
+        "node_link": "https://datacommons.org/browser/Annual_Generation_Electricity_Solar"
+    },
+    {
+        "node_name": "Net generation, coal, all sectors, annual",
+        "node_dcid": "Annual_Generation_Electricity_Coal",
+        "node_link": "https://datacommons.org/browser/Annual_Generation_Electricity_Coal"
+    },
+    {
+        "node_name": "Net generation, conventional hydroelectric, all sectors, annual",
+        "node_dcid": "Annual_Generation_Electricity_ConventionalHydroelectric",
+        "node_link": "https://datacommons.org/browser/Annual_Generation_Electricity_ConventionalHydroelectric"
+    },
+    {
+        "node_name": "Net generation, natural gas, all sectors, annual",
+        "node_dcid": "Annual_Generation_Electricity_NaturalGas",
+        "node_link": "https://datacommons.org/browser/Annual_Generation_Electricity_NaturalGas"
+    },
+    {
+        "node_name": "Net generation, nuclear, all sectors, annual",
+        "node_dcid": "Annual_Generation_Electricity_Nuclear",
+        "node_link": "https://datacommons.org/browser/Annual_Generation_Electricity_Nuclear"
+    },
+    {
+        "node_name": "Net generation, other renewables (total), all sectors, annual",
+        "node_dcid": "Annual_Generation_Electricity_RenewableEnergy",
+        "node_link": "https://datacommons.org/browser/Annual_Generation_Electricity_RenewableEnergy"
+    },
+    {
+        "node_name": "Net generation, wind, all sectors, annual",
+        "node_dcid": "Annual_Generation_Electricity_Wind",
+        "node_link": "https://datacommons.org/browser/Annual_Generation_Electricity_Wind"
+    },
+    {
+        "node_name": "Annual Energy Generation (All Fuels, All Sectors)",
+        "node_dcid": "Annual_Generation_Electricity",
+        "node_link": "https://datacommons.org/browser/Annual_Generation_Electricity"
+    },
+    {
+        "node_name": "Electricity Consumers in a Year",
+        "node_dcid": "Annual_Count_ElectricityConsumer",
+        "node_link": "https://datacommons.org/browser/Annual_Count_ElectricityConsumer"
+    }
+]

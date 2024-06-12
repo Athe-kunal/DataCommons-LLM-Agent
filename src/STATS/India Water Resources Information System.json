@@ -1,0 +1,1112 @@
+[
+    {
+        "node_name": "\u2026 Aluminum in Surface Water",
+        "node_dcid": "Concentration_Aluminum_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Aluminum_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Ammonia in Surface Water",
+        "node_dcid": "Concentration_Ammonia_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Ammonia_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Boron",
+        "node_dcid": "Concentration_Boron_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Boron_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Chromium",
+        "node_dcid": "Concentration_Chromium_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Chromium_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Copper",
+        "node_dcid": "Concentration_Copper_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Copper_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Cyanide in Surface Water",
+        "node_dcid": "Concentration_Cyanide_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Cyanide_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Manganese",
+        "node_dcid": "Concentration_Manganese_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Manganese_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Nickel",
+        "node_dcid": "Concentration_Nickel_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Nickel_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Phosphate in Ground Water",
+        "node_dcid": "Concentration_Phosphate_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Phosphate_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Silver in Surface Water",
+        "node_dcid": "Concentration_Silver_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Silver_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Sodium",
+        "node_dcid": "Concentration_Sodium_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Sodium_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Uranium",
+        "node_dcid": "Concentration_Uranium_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Uranium_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Arsenic",
+        "node_dcid": "Concentration_Arsenic_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Arsenic_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Arsenic in Surface Water",
+        "node_dcid": "Concentration_Arsenic_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Arsenic_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "Concentration of Cadmium",
+        "node_dcid": "Concentration_Cadmium_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Cadmium_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Calcium",
+        "node_dcid": "Concentration_Calcium_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Calcium_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Calcium in Surface Water",
+        "node_dcid": "Concentration_Calcium_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Calcium_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Carbonate",
+        "node_dcid": "Concentration_Carbonate_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Carbonate_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Carbonate in Surface Water",
+        "node_dcid": "Concentration_Carbonate_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Carbonate_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Chloride",
+        "node_dcid": "Concentration_Chloride_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Chloride_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Chloride in Surface Water",
+        "node_dcid": "Concentration_Chloride_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Chloride_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Ground Water",
+        "node_dcid": "Concentration_SiliconDioxide_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_SiliconDioxide_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Surface Water",
+        "node_dcid": "Concentration_SiliconDioxide_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/Concentration_SiliconDioxide_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Ground Water",
+        "node_dcid": "Concentration_Fluorine_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Fluorine_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Surface Water",
+        "node_dcid": "Concentration_Fluorine_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Fluorine_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Ground Water",
+        "node_dcid": "Concentration_HydrogenCarbonate_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_HydrogenCarbonate_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Surface Water",
+        "node_dcid": "Concentration_HydrogenCarbonate_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/Concentration_HydrogenCarbonate_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "Concentration of Iron in Surface Water",
+        "node_dcid": "Concentration_Iron_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Iron_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "Concentration of Iron",
+        "node_dcid": "Concentration_Iron_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Iron_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "Concentration of Lead in Surface Water",
+        "node_dcid": "Concentration_Lead_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Lead_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "Concentration of Lead",
+        "node_dcid": "Concentration_Lead_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Lead_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Magnesium",
+        "node_dcid": "Concentration_Magnesium_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Magnesium_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Magnesium in Surface Water",
+        "node_dcid": "Concentration_Magnesium_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Magnesium_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Mercury",
+        "node_dcid": "Concentration_Mercury_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Mercury_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Mercury in Surface Water",
+        "node_dcid": "Concentration_Mercury_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Mercury_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Nitrate",
+        "node_dcid": "Concentration_Nitrate_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Nitrate_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Nitrate in Surface Water",
+        "node_dcid": "Concentration_Nitrate_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Nitrate_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Potassium",
+        "node_dcid": "Concentration_Potassium_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Potassium_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Potassium in Surface Water",
+        "node_dcid": "Concentration_Potassium_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Potassium_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Sulfate",
+        "node_dcid": "Concentration_Sulfate_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Sulfate_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Sulfate in Surface Water",
+        "node_dcid": "Concentration_Sulfate_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Sulfate_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Zinc",
+        "node_dcid": "Concentration_Zinc_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Zinc_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Zinc in Surface Water",
+        "node_dcid": "Concentration_Zinc_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Zinc_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Arsenic",
+        "node_dcid": "Concentration_Arsenic_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Arsenic_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Boron",
+        "node_dcid": "Concentration_Boron_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Boron_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Calcium",
+        "node_dcid": "Concentration_Calcium_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Calcium_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Carbonate",
+        "node_dcid": "Concentration_Carbonate_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Carbonate_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Chloride",
+        "node_dcid": "Concentration_Chloride_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Chloride_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Chromium",
+        "node_dcid": "Concentration_Chromium_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Chromium_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Copper",
+        "node_dcid": "Concentration_Copper_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Copper_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Fluorine in Ground Water",
+        "node_dcid": "Concentration_Fluorine_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Fluorine_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 HydrogenCarbonate in Ground Water",
+        "node_dcid": "Concentration_HydrogenCarbonate_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_HydrogenCarbonate_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Magnesium",
+        "node_dcid": "Concentration_Magnesium_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Magnesium_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Manganese",
+        "node_dcid": "Concentration_Manganese_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Manganese_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Mercury",
+        "node_dcid": "Concentration_Mercury_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Mercury_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Nickel",
+        "node_dcid": "Concentration_Nickel_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Nickel_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Nitrate",
+        "node_dcid": "Concentration_Nitrate_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Nitrate_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Phosphate in Ground Water",
+        "node_dcid": "Concentration_Phosphate_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Phosphate_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Potassium",
+        "node_dcid": "Concentration_Potassium_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Potassium_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 SiliconDioxide in Ground Water",
+        "node_dcid": "Concentration_SiliconDioxide_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_SiliconDioxide_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Sodium",
+        "node_dcid": "Concentration_Sodium_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Sodium_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Sulfate",
+        "node_dcid": "Concentration_Sulfate_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Sulfate_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Uranium",
+        "node_dcid": "Concentration_Uranium_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Uranium_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Zinc",
+        "node_dcid": "Concentration_Zinc_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Zinc_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "Concentration of Cadmium",
+        "node_dcid": "Concentration_Cadmium_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Cadmium_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "Concentration of Iron",
+        "node_dcid": "Concentration_Iron_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Iron_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "Concentration of Lead",
+        "node_dcid": "Concentration_Lead_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Lead_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Aluminum in Surface Water",
+        "node_dcid": "Concentration_Aluminum_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Aluminum_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Ammonia in Surface Water",
+        "node_dcid": "Concentration_Ammonia_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Ammonia_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Arsenic in Surface Water",
+        "node_dcid": "Concentration_Arsenic_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Arsenic_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Calcium in Surface Water",
+        "node_dcid": "Concentration_Calcium_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Calcium_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Carbonate in Surface Water",
+        "node_dcid": "Concentration_Carbonate_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Carbonate_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Chloride in Surface Water",
+        "node_dcid": "Concentration_Chloride_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Chloride_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Cyanide in Surface Water",
+        "node_dcid": "Concentration_Cyanide_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Cyanide_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Fluorine in Surface Water",
+        "node_dcid": "Concentration_Fluorine_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Fluorine_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 HydrogenCarbonate in Surface Water",
+        "node_dcid": "Concentration_HydrogenCarbonate_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/Concentration_HydrogenCarbonate_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Iron in Surface Water",
+        "node_dcid": "Concentration_Iron_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Iron_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Lead in Surface Water",
+        "node_dcid": "Concentration_Lead_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Lead_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Magnesium in Surface Water",
+        "node_dcid": "Concentration_Magnesium_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Magnesium_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Mercury in Surface Water",
+        "node_dcid": "Concentration_Mercury_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Mercury_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Nitrate in Surface Water",
+        "node_dcid": "Concentration_Nitrate_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Nitrate_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Potassium in Surface Water",
+        "node_dcid": "Concentration_Potassium_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Potassium_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 SiliconDioxide in Surface Water",
+        "node_dcid": "Concentration_SiliconDioxide_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/Concentration_SiliconDioxide_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Silver in Surface Water",
+        "node_dcid": "Concentration_Silver_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Silver_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Sulfate in Surface Water",
+        "node_dcid": "Concentration_Sulfate_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Sulfate_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Zinc in Surface Water",
+        "node_dcid": "Concentration_Zinc_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Zinc_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "DissolvedOxygen",
+        "node_dcid": "DissolvedOxygen_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/DissolvedOxygen_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "DissolvedOxygen in Surface Water",
+        "node_dcid": "DissolvedOxygen_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/DissolvedOxygen_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "DissolvedOxygen",
+        "node_dcid": "DissolvedOxygen_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/DissolvedOxygen_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "DissolvedOxygen in Surface Water",
+        "node_dcid": "DissolvedOxygen_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/DissolvedOxygen_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "DissolvedOxygen",
+        "node_dcid": "DissolvedOxygen_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/DissolvedOxygen_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "DissolvedOxygen in Surface Water",
+        "node_dcid": "DissolvedOxygen_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/DissolvedOxygen_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "DissolvedOxygen",
+        "node_dcid": "DissolvedOxygen_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/DissolvedOxygen_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "DissolvedOxygen in Surface Water",
+        "node_dcid": "DissolvedOxygen_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/DissolvedOxygen_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "DissolvedOxygen",
+        "node_dcid": "DissolvedOxygen_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/DissolvedOxygen_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "ElectricalConductivity",
+        "node_dcid": "ElectricalConductivity_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/ElectricalConductivity_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "Ground Water",
+        "node_dcid": "ResidualSodiumCarbonate_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/ResidualSodiumCarbonate_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "Ground Water",
+        "node_dcid": "SodiumAdsorptionRatio_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/SodiumAdsorptionRatio_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "Ground Water",
+        "node_dcid": "TotalDissolvedSolids_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/TotalDissolvedSolids_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "Ground Water",
+        "node_dcid": "WaterAlkalinity_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WaterAlkalinity_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "Ground Water",
+        "node_dcid": "WaterHardness_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WaterHardness_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "PotentialOfHydrogen in Ground Water",
+        "node_dcid": "PotentialOfHydrogen_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/PotentialOfHydrogen_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "DissolvedOxygen in Surface Water",
+        "node_dcid": "DissolvedOxygen_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/DissolvedOxygen_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "ElectricalConductivity in Surface Water",
+        "node_dcid": "ElectricalConductivity_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/ElectricalConductivity_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "PotentialOfHydrogen in Surface Water",
+        "node_dcid": "PotentialOfHydrogen_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/PotentialOfHydrogen_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "ResidualSodiumCarbonate in Surface Water",
+        "node_dcid": "ResidualSodiumCarbonate_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/ResidualSodiumCarbonate_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "SodiumAdsorptionRatio in Surface Water",
+        "node_dcid": "SodiumAdsorptionRatio_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/SodiumAdsorptionRatio_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "TotalDissolvedSolids in Surface Water",
+        "node_dcid": "TotalDissolvedSolids_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/TotalDissolvedSolids_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "WaterAlkalinity in Surface Water",
+        "node_dcid": "WaterAlkalinity_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WaterAlkalinity_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "WaterHardness in Surface Water",
+        "node_dcid": "WaterHardness_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WaterHardness_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Aluminum in Surface Water",
+        "node_dcid": "Concentration_Aluminum_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Aluminum_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Ammonia in Surface Water",
+        "node_dcid": "Concentration_Ammonia_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Ammonia_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Boron",
+        "node_dcid": "Concentration_Boron_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Boron_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Chromium",
+        "node_dcid": "Concentration_Chromium_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Chromium_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Copper",
+        "node_dcid": "Concentration_Copper_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Copper_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Cyanide in Surface Water",
+        "node_dcid": "Concentration_Cyanide_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Cyanide_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Manganese",
+        "node_dcid": "Concentration_Manganese_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Manganese_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Nickel",
+        "node_dcid": "Concentration_Nickel_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Nickel_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Phosphate in Ground Water",
+        "node_dcid": "Concentration_Phosphate_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Phosphate_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Silver in Surface Water",
+        "node_dcid": "Concentration_Silver_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Silver_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Sodium",
+        "node_dcid": "Concentration_Sodium_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Sodium_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Uranium",
+        "node_dcid": "Concentration_Uranium_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Uranium_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Arsenic",
+        "node_dcid": "Concentration_Arsenic_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Arsenic_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Arsenic in Surface Water",
+        "node_dcid": "Concentration_Arsenic_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Arsenic_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "Concentration of Cadmium",
+        "node_dcid": "Concentration_Cadmium_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Cadmium_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Calcium",
+        "node_dcid": "Concentration_Calcium_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Calcium_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Calcium in Surface Water",
+        "node_dcid": "Concentration_Calcium_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Calcium_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Carbonate",
+        "node_dcid": "Concentration_Carbonate_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Carbonate_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Carbonate in Surface Water",
+        "node_dcid": "Concentration_Carbonate_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Carbonate_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Chloride",
+        "node_dcid": "Concentration_Chloride_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Chloride_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Chloride in Surface Water",
+        "node_dcid": "Concentration_Chloride_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Chloride_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Ground Water",
+        "node_dcid": "Concentration_SiliconDioxide_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_SiliconDioxide_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Surface Water",
+        "node_dcid": "Concentration_SiliconDioxide_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/Concentration_SiliconDioxide_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Ground Water",
+        "node_dcid": "Concentration_Fluorine_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Fluorine_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Surface Water",
+        "node_dcid": "Concentration_Fluorine_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Fluorine_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Ground Water",
+        "node_dcid": "Concentration_HydrogenCarbonate_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_HydrogenCarbonate_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Surface Water",
+        "node_dcid": "Concentration_HydrogenCarbonate_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/Concentration_HydrogenCarbonate_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "Concentration of Iron in Surface Water",
+        "node_dcid": "Concentration_Iron_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Iron_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "Concentration of Iron",
+        "node_dcid": "Concentration_Iron_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Iron_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "Concentration of Lead in Surface Water",
+        "node_dcid": "Concentration_Lead_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Lead_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "Concentration of Lead",
+        "node_dcid": "Concentration_Lead_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Lead_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Magnesium",
+        "node_dcid": "Concentration_Magnesium_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Magnesium_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Magnesium in Surface Water",
+        "node_dcid": "Concentration_Magnesium_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Magnesium_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Mercury",
+        "node_dcid": "Concentration_Mercury_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Mercury_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Mercury in Surface Water",
+        "node_dcid": "Concentration_Mercury_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Mercury_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Nitrate",
+        "node_dcid": "Concentration_Nitrate_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Nitrate_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Nitrate in Surface Water",
+        "node_dcid": "Concentration_Nitrate_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Nitrate_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Potassium",
+        "node_dcid": "Concentration_Potassium_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Potassium_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Potassium in Surface Water",
+        "node_dcid": "Concentration_Potassium_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Potassium_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Sulfate",
+        "node_dcid": "Concentration_Sulfate_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Sulfate_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Sulfate in Surface Water",
+        "node_dcid": "Concentration_Sulfate_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Sulfate_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Zinc",
+        "node_dcid": "Concentration_Zinc_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Zinc_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Zinc in Surface Water",
+        "node_dcid": "Concentration_Zinc_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Zinc_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Arsenic",
+        "node_dcid": "Concentration_Arsenic_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Arsenic_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Boron",
+        "node_dcid": "Concentration_Boron_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Boron_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Calcium",
+        "node_dcid": "Concentration_Calcium_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Calcium_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Carbonate",
+        "node_dcid": "Concentration_Carbonate_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Carbonate_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Chloride",
+        "node_dcid": "Concentration_Chloride_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Chloride_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Chromium",
+        "node_dcid": "Concentration_Chromium_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Chromium_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Copper",
+        "node_dcid": "Concentration_Copper_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Copper_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Fluorine in Ground Water",
+        "node_dcid": "Concentration_Fluorine_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Fluorine_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 HydrogenCarbonate in Ground Water",
+        "node_dcid": "Concentration_HydrogenCarbonate_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_HydrogenCarbonate_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Magnesium",
+        "node_dcid": "Concentration_Magnesium_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Magnesium_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Manganese",
+        "node_dcid": "Concentration_Manganese_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Manganese_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Mercury",
+        "node_dcid": "Concentration_Mercury_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Mercury_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Nickel",
+        "node_dcid": "Concentration_Nickel_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Nickel_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Nitrate",
+        "node_dcid": "Concentration_Nitrate_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Nitrate_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Phosphate in Ground Water",
+        "node_dcid": "Concentration_Phosphate_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Phosphate_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Potassium",
+        "node_dcid": "Concentration_Potassium_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Potassium_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 SiliconDioxide in Ground Water",
+        "node_dcid": "Concentration_SiliconDioxide_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_SiliconDioxide_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Sodium",
+        "node_dcid": "Concentration_Sodium_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Sodium_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Sulfate",
+        "node_dcid": "Concentration_Sulfate_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Sulfate_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Uranium",
+        "node_dcid": "Concentration_Uranium_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Uranium_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Zinc",
+        "node_dcid": "Concentration_Zinc_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Zinc_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "Concentration of Cadmium",
+        "node_dcid": "Concentration_Cadmium_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Cadmium_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "Concentration of Iron",
+        "node_dcid": "Concentration_Iron_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Iron_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "Concentration of Lead",
+        "node_dcid": "Concentration_Lead_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Lead_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "\u2026 Aluminum in Surface Water",
+        "node_dcid": "Concentration_Aluminum_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Aluminum_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Ammonia in Surface Water",
+        "node_dcid": "Concentration_Ammonia_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Ammonia_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Arsenic in Surface Water",
+        "node_dcid": "Concentration_Arsenic_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Arsenic_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Calcium in Surface Water",
+        "node_dcid": "Concentration_Calcium_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Calcium_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Carbonate in Surface Water",
+        "node_dcid": "Concentration_Carbonate_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Carbonate_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Chloride in Surface Water",
+        "node_dcid": "Concentration_Chloride_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Chloride_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Cyanide in Surface Water",
+        "node_dcid": "Concentration_Cyanide_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Cyanide_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Fluorine in Surface Water",
+        "node_dcid": "Concentration_Fluorine_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Fluorine_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 HydrogenCarbonate in Surface Water",
+        "node_dcid": "Concentration_HydrogenCarbonate_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/Concentration_HydrogenCarbonate_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Iron in Surface Water",
+        "node_dcid": "Concentration_Iron_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Iron_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Lead in Surface Water",
+        "node_dcid": "Concentration_Lead_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Lead_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Magnesium in Surface Water",
+        "node_dcid": "Concentration_Magnesium_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Magnesium_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Mercury in Surface Water",
+        "node_dcid": "Concentration_Mercury_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Mercury_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Nitrate in Surface Water",
+        "node_dcid": "Concentration_Nitrate_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Nitrate_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Potassium in Surface Water",
+        "node_dcid": "Concentration_Potassium_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Potassium_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 SiliconDioxide in Surface Water",
+        "node_dcid": "Concentration_SiliconDioxide_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/Concentration_SiliconDioxide_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Silver in Surface Water",
+        "node_dcid": "Concentration_Silver_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Silver_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Sulfate in Surface Water",
+        "node_dcid": "Concentration_Sulfate_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Sulfate_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "\u2026 Zinc in Surface Water",
+        "node_dcid": "Concentration_Zinc_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/Concentration_Zinc_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "DissolvedOxygen",
+        "node_dcid": "DissolvedOxygen_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/DissolvedOxygen_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "DissolvedOxygen in Surface Water",
+        "node_dcid": "DissolvedOxygen_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/DissolvedOxygen_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "DissolvedOxygen",
+        "node_dcid": "DissolvedOxygen_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/DissolvedOxygen_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "DissolvedOxygen in Surface Water",
+        "node_dcid": "DissolvedOxygen_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/DissolvedOxygen_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "DissolvedOxygen",
+        "node_dcid": "DissolvedOxygen_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/DissolvedOxygen_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "DissolvedOxygen in Surface Water",
+        "node_dcid": "DissolvedOxygen_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/DissolvedOxygen_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "DissolvedOxygen",
+        "node_dcid": "DissolvedOxygen_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/DissolvedOxygen_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "DissolvedOxygen in Surface Water",
+        "node_dcid": "DissolvedOxygen_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/DissolvedOxygen_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "DissolvedOxygen",
+        "node_dcid": "DissolvedOxygen_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/DissolvedOxygen_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "ElectricalConductivity",
+        "node_dcid": "ElectricalConductivity_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/ElectricalConductivity_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "Ground Water",
+        "node_dcid": "ResidualSodiumCarbonate_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/ResidualSodiumCarbonate_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "Ground Water",
+        "node_dcid": "SodiumAdsorptionRatio_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/SodiumAdsorptionRatio_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "Ground Water",
+        "node_dcid": "TotalDissolvedSolids_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/TotalDissolvedSolids_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "Ground Water",
+        "node_dcid": "WaterAlkalinity_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WaterAlkalinity_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "Ground Water",
+        "node_dcid": "WaterHardness_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/WaterHardness_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "PotentialOfHydrogen in Ground Water",
+        "node_dcid": "PotentialOfHydrogen_BodyOfWater_GroundWater",
+        "node_link": "https://datacommons.org/browser/PotentialOfHydrogen_BodyOfWater_GroundWater"
+    },
+    {
+        "node_name": "DissolvedOxygen in Surface Water",
+        "node_dcid": "DissolvedOxygen_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/DissolvedOxygen_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "ElectricalConductivity in Surface Water",
+        "node_dcid": "ElectricalConductivity_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/ElectricalConductivity_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "PotentialOfHydrogen in Surface Water",
+        "node_dcid": "PotentialOfHydrogen_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/PotentialOfHydrogen_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "ResidualSodiumCarbonate in Surface Water",
+        "node_dcid": "ResidualSodiumCarbonate_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/ResidualSodiumCarbonate_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "SodiumAdsorptionRatio in Surface Water",
+        "node_dcid": "SodiumAdsorptionRatio_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/SodiumAdsorptionRatio_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "TotalDissolvedSolids in Surface Water",
+        "node_dcid": "TotalDissolvedSolids_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/TotalDissolvedSolids_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "WaterAlkalinity in Surface Water",
+        "node_dcid": "WaterAlkalinity_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WaterAlkalinity_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "WaterHardness in Surface Water",
+        "node_dcid": "WaterHardness_BodyOfWater_SurfaceWater",
+        "node_link": "https://datacommons.org/browser/WaterHardness_BodyOfWater_SurfaceWater"
+    },
+    {
+        "node_name": "Monthly Rainfall",
+        "node_dcid": "Monthly_Rainfall_Place",
+        "node_link": "https://datacommons.org/browser/Monthly_Rainfall_Place"
+    },
+    {
+        "node_name": "Percent Deviation Monthly Rainfall",
+        "node_dcid": "Monthly_PercentDeviation_Rainfall_Place",
+        "node_link": "https://datacommons.org/browser/Monthly_PercentDeviation_Rainfall_Place"
+    }
+]
