@@ -14,10 +14,11 @@ def place_dcid(place_name:str):
         driver.get(place_url)
         driver.maximize_window()
         place_autocomplete = driver.find_element(value='place-autocomplete')
+        time.sleep(0.5)
         place_autocomplete.send_keys(place_name)
         place_autocomplete.send_keys(Keys.ARROW_DOWN)
         place_autocomplete.send_keys(Keys.ENTER)
-        time.sleep(0.2)
+        time.sleep(0.5)
         url = driver.current_url
         extracted_dcid = '/'.join(url.split('/')[-2:])
         return extracted_dcid
