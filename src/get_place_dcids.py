@@ -8,15 +8,19 @@ import time
 
 def place_dcid(place_name:str):
     place_url = "https://datacommons.org/place"
-    driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
+    try:
+        driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
 
-    driver.get(place_url)
-    driver.maximize_window()
-    place_autocomplete = driver.find_element(value='place-autocomplete')
-    place_autocomplete.send_keys(place_name)
-    place_autocomplete.send_keys(Keys.ARROW_DOWN)
-    place_autocomplete.send_keys(Keys.ENTER)
-    time.sleep(0.2)
-    url = driver.current_url
-    extracted_dcid = '/'.join(url.split('/')[-2:])
-    return extracted_dcid
+        driver.get(place_url)
+        driver.maximize_window()
+        place_autocomplete = driver.find_element(value='place-autocomplete')
+        place_autocomplete.send_keys(place_name)
+        place_autocomplete.send_keys(Keys.ARROW_DOWN)
+        place_autocomplete.send_keys(Keys.ENTER)
+        time.sleep(0.2)
+        url = driver.current_url
+        extracted_dcid = '/'.join(url.split('/')[-2:])
+        return extracted_dcid
+    except Exception as e:
+        print(e)
+        return ""
