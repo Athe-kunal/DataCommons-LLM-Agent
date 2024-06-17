@@ -1,0 +1,8 @@
+DCID_SAVE_PATH:
+  JSON_FILE_PATH: "data/dcids.json"
+
+VECTORDB:
+  BASE_DATABASE_PATH: "data/DataCommonsDB"
+  COLLECTION_NAME: "datacommons_stats"
+  EMBEDDING_MODEL_NAME: "text-embedding-3-small"
+  BATCH_SIZE: 200

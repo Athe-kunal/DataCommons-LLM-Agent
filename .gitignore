@@ -2,3 +2,4 @@ chromedriver_linux64
 __pycache__
 *.log
 .env
+DataCommonsDB*
