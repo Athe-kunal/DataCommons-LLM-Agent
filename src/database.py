@@ -5,6 +5,7 @@ import chromadb.utils.embedding_functions as embedding_functions
 from dotenv import load_dotenv,find_dotenv
 from chromadb.utils.batch_utils import create_batches
 import os
+import ast
 
 with open("config.yaml") as stream:
     try:
@@ -24,7 +25,15 @@ def build_dcids_database():
     for dcid_data in all_dcids:
         docs.append(dcid_data['stats_desc'])
         metadata.append({"link":dcid_data['stats_link'],"dcid":dcid_data['stats_dcid']})
-    
+    for stat_files in os.listdir("data/STATS"):
+        stat_file_name = ".".join(stat_files.split("_"))
+        with open(os.path.join("src/STATS",stat_files), "r") as f:
+            content = f.read()
+        content = ast.literal_eval(content)
+        for stat in content:
+            # docs.append(Document(page_content=stat['node_name'],metadata={'dcid': stat['node_dcid'],'link': stat['node_link'],'data_source':stat_file_name}))
+            docs.append(stat['node_name'])
+            metadata.append({"link":dcid_data['node_link'],"dcid":dcid_data['node_dcid']})
     database_path = config_params["VECTORDB"]["BASE_DATABASE_PATH"]
     collection_name = config_params["VECTORDB"]["COLLECTION_NAME"]
     load_dotenv(find_dotenv(), override=True)
