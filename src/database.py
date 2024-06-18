@@ -27,13 +27,23 @@ def build_dcids_database():
         metadata.append({"link":dcid_data['stats_link'],"dcid":dcid_data['stats_dcid']})
     for stat_files in os.listdir("data/STATS"):
         stat_file_name = ".".join(stat_files.split("_"))
-        with open(os.path.join("src/STATS",stat_files), "r") as f:
-            content = f.read()
-        content = ast.literal_eval(content)
+        with open(os.path.join("data/STATS",stat_files), "r") as f:
+            content = json.load(f)
         for stat in content:
             # docs.append(Document(page_content=stat['node_name'],metadata={'dcid': stat['node_dcid'],'link': stat['node_link'],'data_source':stat_file_name}))
-            docs.append(stat['node_name'])
-            metadata.append({"link":dcid_data['node_link'],"dcid":dcid_data['node_dcid']})
+            stat_desc = stat['node_name']
+            stat_desc = stat_desc.replace("\u2026 ","")
+            stat_desc = stat_desc.replace("…","")
+            if stat['node_name'] == "":
+                docs.append(stat['node_dcid'])
+            else:
+                docs.append(stat['node_name'].strip())
+            metadata.append({"link":stat['node_link'],"dcid":stat['node_dcid']})
+    with open('doc.txt', "w") as file:
+        # Iterate over the list of strings
+        for string in docs:
+            # Write each string followed by a newline character
+            file.write(string + "\n")
     database_path = config_params["VECTORDB"]["BASE_DATABASE_PATH"]
     collection_name = config_params["VECTORDB"]["COLLECTION_NAME"]
     load_dotenv(find_dotenv(), override=True)
@@ -42,7 +52,7 @@ def build_dcids_database():
     )
 
     client = chromadb.PersistentClient(path=database_path)
-    sklearn_collection = client.get_or_create_collection(
+    dcid_collection = client.get_or_create_collection(
         name=collection_name, embedding_function=emb_fn
     )
 
@@ -51,8 +61,8 @@ def build_dcids_database():
         api=client, ids=ids, documents=docs, metadatas=metadata
     )
     for batch in batches:
-        sklearn_collection.add(ids=batch[0], documents=batch[3], metadatas=batch[2])
-    return sklearn_collection
+        dcid_collection.add(ids=batch[0], documents=batch[3], metadatas=batch[2])
+    return dcid_collection
 
 def load_database():
     load_dotenv(find_dotenv(), override=True)
