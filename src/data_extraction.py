@@ -91,7 +91,7 @@ def get_vertical_stats_var(category_files_dict,vertical):
           date_csv = pd.read_csv(os.path.join(vertical,data_type_vals['date']))
           provenance_csv = pd.read_csv(os.path.join(vertical,data_type_vals['provenance']))
           value_csv = pd.read_csv(os.path.join(vertical,data_type_vals['value']))
-          all_stats_var.extend(get_stats_var_list(value_csv,date_csv,provenance_csv))
+          all_stats_var.extend(get_stats_var_list(value_csv,date_csv,provenance_csv,vertical))
   return all_stats_var
 
 def save_stats_var(vertical:str):
