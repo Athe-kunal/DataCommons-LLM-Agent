@@ -43,7 +43,7 @@ def get_categories_files_dict(vertical):
 
 
 
-def get_stats_var(row):
+def get_stats_var(row,vertical):
     stats_var_list = []
     place_name = row["place_name"]
     place_dcid = row["place_dcid"]
@@ -62,10 +62,10 @@ def get_stats_var(row):
             stats_date = int(float(stats_date))
         if stats_provenance=="nan":
             stats_provenance = ""
-        stats_var_list.append({"stats_var_dcid":col,"place_dcid":place_dcid,"place_name":place_name,"place_type":place_type,"place_category":"all","stats_var_latest_date":int(float(stats_date)),"stats_var_value":float(stats_val),"stats_provenance":stats_provenance,"vertical":"agriculture"})    
+        stats_var_list.append({"stats_var_dcid":col,"place_dcid":place_dcid,"place_name":place_name,"place_type":place_type,"place_category":"all","stats_var_latest_date":int(float(stats_date)),"stats_var_value":float(stats_val),"stats_provenance":stats_provenance,"vertical":vertical})    
     return stats_var_list
 
-def get_stats_var_list(value_csv,date_csv,provenance_csv):
+def get_stats_var_list(value_csv,date_csv,provenance_csv,vertical):
     merged_df = value_csv.merge(date_csv, on=['place_name', 'place_dcid', 'place_type'], suffixes=('_value', '_date'))
     merged_df = merged_df.merge(provenance_csv, on=['place_name', 'place_dcid', 'place_type'], suffixes=('', '_provenance'))
 
@@ -80,17 +80,17 @@ def get_stats_var_list(value_csv,date_csv,provenance_csv):
         merged_df = merged_df.drop(columns=[f"{col}_value", f"{col}_date",col])
     stats_var_list = []
     for index, row in merged_df.iterrows():
-        curr_row_stats_var_list = get_stats_var(row)
+        curr_row_stats_var_list = get_stats_var(row,vertical)
         stats_var_list.extend(curr_row_stats_var_list)
     return stats_var_list
 
-def get_vertical_stats_var(category_files_dict):
+def get_vertical_stats_var(category_files_dict,vertical):
   all_stats_var = []
   for category, partition_vals in category_files_dict.items():
       for partition, data_type_vals in partition_vals.items():
-          date_csv = pd.read_csv(os.path.join("agriculture",data_type_vals['date']))
-          provenance_csv = pd.read_csv(os.path.join("agriculture",data_type_vals['provenance']))
-          value_csv = pd.read_csv(os.path.join("agriculture",data_type_vals['value']))
+          date_csv = pd.read_csv(os.path.join(vertical,data_type_vals['date']))
+          provenance_csv = pd.read_csv(os.path.join(vertical,data_type_vals['provenance']))
+          value_csv = pd.read_csv(os.path.join(vertical,data_type_vals['value']))
           all_stats_var.extend(get_stats_var_list(value_csv,date_csv,provenance_csv))
   return all_stats_var
 
@@ -106,7 +106,7 @@ def save_stats_var(vertical:str):
   print("Extracted")
   category_files_dict = get_categories_files_dict(vertical)
   print("Getting stats var")
-  all_stats_var = get_vertical_stats_var(category_files_dict)
+  all_stats_var = get_vertical_stats_var(category_files_dict,vertical)
   print(len(all_stats_var))
   with open(f"/content/drive/MyDrive/DataCommons/{vertical}.json", "w") as final:
     json.dump(all_stats_var, final)
